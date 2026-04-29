@@ -23,7 +23,7 @@ export default defineConfig({
       }
     ],
     footer: {
-      message: '總訪問量 <span id="busuanzi_value_site_pv"></span> 次 | 訪客數 <span id="busuanzi_value_site_uv"></span> 人',
+      message: '<span id="busuanzi_container_site_pv" style="display:none">總訪問量 <span id="busuanzi_value_site_pv"></span> 次</span> | <span id="busuanzi_container_site_uv" style="display:none">訪客數 <span id="busuanzi_value_site_uv"></span> 人</span>',
       copyright: 'Copyright © 2026-present AI School Exam Team'
     }
   }
