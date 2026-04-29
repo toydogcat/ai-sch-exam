@@ -7,6 +7,9 @@ export default defineConfig({
   head: [
     ['script', { async: true, src: 'https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js' }]
   ],
+  markdown: {
+    math: true
+  },
   themeConfig: {
     nav: [
       { text: '首頁', link: '/' },
