@@ -1,12 +1,12 @@
 <script setup>
-import { ref, computed, onMounted, watch, nextTick } from 'vue'
-import { withBase, useRoute } from 'vitepress'
+import { ref, computed, onMounted, onUnmounted, watch, nextTick } from 'vue'
+import { withBase } from 'vitepress'
 
-const route = useRoute()
 const questions = ref([])
 const userAnswers = ref({})
 const isSubmitted = ref(false)
 const isLoading = ref(false)
+const loadError = ref('')
 const examineeName = ref('')
 const ticketNumber = ref('')
 const timeLeft = ref(90 * 60)
@@ -20,28 +20,31 @@ const formatTime = computed(() => {
   return `${mins}:${secs.toString().padStart(2, '0')}`
 })
 
+const getPathFromUrl = () => {
+  if (typeof window === 'undefined') return null
+  const params = new URLSearchParams(window.location.search)
+  return params.get('path')
+}
+
 const fetchQuestions = async () => {
-  const path = route.query.path
+  const path = getPathFromUrl()
   if (!path) {
-    console.warn('No exam path provided in URL query.')
+    loadError.value = '請從科目清單點選要測驗的考卷。'
     return
   }
 
   isLoading.value = true
   isSubmitted.value = false
+  loadError.value = ''
   userAnswers.value = {}
   
   try {
-    const jsonPath = withBase(`/json/${path}.json`)
-    console.log('Fetching exam data from:', jsonPath)
-    
-    const res = await fetch(jsonPath)
-    if (!res.ok) throw new Error(`Failed to load exam data: ${res.status} ${res.statusText}`)
+    const jsonUrl = withBase(`/json/${path}.json`)
+    const res = await fetch(jsonUrl)
+    if (!res.ok) throw new Error(`無法載入試卷 (${res.status})`)
     
     const data = await res.json()
-    console.log('Exam data loaded successfully:', data.title)
-    
-    examTitle.value = data.title || path.split('/').pop()
+    examTitle.value = data.title || decodeURIComponent(path.split('/').pop())
     
     if (Array.isArray(data)) {
       questions.value = data
@@ -53,7 +56,7 @@ const fetchQuestions = async () => {
       }
     }
     
-    // Initialize userAnswers
+    // Initialize userAnswers for multi-select questions
     questions.value.forEach((q, idx) => {
       if (q.type === 'multi') {
         userAnswers.value[idx] = []
@@ -63,15 +66,17 @@ const fetchQuestions = async () => {
     startTimer()
   } catch (err) {
     console.error('Exam load error:', err)
+    loadError.value = `載入失敗：${err.message}`
   } finally {
     isLoading.value = false
   }
 }
 
+// Re-typeset MathJax whenever questions change
 watch(questions, () => {
-  if (typeof window !== 'undefined' && window.MathJax) {
+  if (typeof window !== 'undefined' && window.MathJax && window.MathJax.typesetPromise) {
     nextTick(() => {
-      window.MathJax.typesetPromise().catch(err => console.log('MathJax typeset failed: ', err))
+      window.MathJax.typesetPromise().catch(() => {})
     })
   }
 })
@@ -111,12 +116,10 @@ const score = computed(() => {
     const userAns = userAnswers.value[idx]
 
     if (q.type === 'multi') {
-      // Simple multi-select check: must match exactly
       const u = (userAns || []).sort().join(',')
       const c = (correctAns || []).sort().join(',')
       if (u === c) earnedScore += questionScore
     } else if (q.options && q.options.length) {
-      // Single Choice
       if (userAns == correctAns) {
         earnedScore += questionScore
       }
@@ -130,14 +133,20 @@ const score = computed(() => {
   return totalScore === 0 ? 0 : Math.round((earnedScore / totalScore) * 100)
 })
 
+// Handle browser back/forward navigation
+const onPopState = () => fetchQuestions()
+
 onMounted(() => {
   fetchQuestions()
   ticketNumber.value = 'SCH-' + Math.random().toString(36).substr(2, 9).toUpperCase()
+  window.addEventListener('popstate', onPopState)
 })
 
-// Watch for route query changes to re-fetch
-watch(() => route.query.path, (newPath) => {
-  if (newPath) fetchQuestions()
+onUnmounted(() => {
+  if (timer) clearInterval(timer)
+  if (typeof window !== 'undefined') {
+    window.removeEventListener('popstate', onPopState)
+  }
 })
 
 const submitExam = () => {
@@ -190,7 +199,13 @@ const isCorrect = (q, idx) => {
         注意：請仔細閱讀題幹，並選擇正確答案。多選題需全部選對才給分。
     </div>
 
-    <div v-if="isLoading" class="loading-state">
+    <div v-if="loadError && !isLoading" class="empty-state">
+      <div class="empty-icon">📋</div>
+      <p>{{ loadError }}</p>
+      <a :href="withBase('/gsat')" class="back-link">← 回到科目清單</a>
+    </div>
+
+    <div v-else-if="isLoading" class="loading-state">
       <div class="spinner"></div>
       <p>正在載入試卷...</p>
     </div>
@@ -416,6 +431,28 @@ input { display: none; }
 @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
 
 .instruction { background: #ebf5fb; border-left: 5px solid #3498db; padding: 1rem; margin-bottom: 2rem; font-size: 0.95rem; border-radius: 0 4px 4px 0; }
+
+.empty-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 4rem 2rem;
+  text-align: center;
+  color: #7f8c8d;
+}
+.empty-icon { font-size: 4rem; margin-bottom: 1rem; }
+.back-link {
+  margin-top: 1rem;
+  padding: 0.8rem 2rem;
+  background: #3498db;
+  color: #fff !important;
+  border-radius: 50px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.3s;
+}
+.back-link:hover { background: #2980b9; transform: translateY(-2px); }
 
 @media (max-width: 768px) {
   .exam-paper { padding: 1.5rem; margin: 0; }
