@@ -1,5 +1,5 @@
 <script setup>
-import { ref, computed, onMounted, watch } from 'vue'
+import { ref, computed, onMounted, watch, nextTick } from 'vue'
 import { withBase, useRoute } from 'vitepress'
 
 const route = useRoute()
@@ -60,6 +60,14 @@ const fetchQuestions = async () => {
     isLoading.value = false
   }
 }
+
+watch(questions, () => {
+  if (typeof window !== 'undefined' && window.MathJax) {
+    nextTick(() => {
+      window.MathJax.typesetPromise().catch(err => console.log('MathJax typeset failed: ', err))
+    })
+  }
+})
 
 const startTimer = () => {
   if (timer) clearInterval(timer)

@@ -5,7 +5,18 @@ export default defineConfig({
   title: "大學入學考試測驗系統",
   description: "學測 / 分科測驗 線上模擬測驗系統",
   head: [
-    ['script', { async: true, src: 'https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js' }]
+    ['script', { async: true, src: 'https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js' }],
+    ['script', {}, `
+      window.MathJax = {
+        tex: {
+          inlineMath: [['$', '$'], ['\\\\(', '\\\\)']]
+        },
+        options: {
+          skipHtmlTags: ['script', 'style', 'textarea', 'pre', 'code']
+        }
+      };
+    `],
+    ['script', { id: 'MathJax-script', async: true, src: 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js' }]
   ],
   markdown: {
     math: true
