@@ -3,105 +3,168 @@
   "duration": 100,
   "questions": [
     {
-      "number": 1,
-      "text": "財神廟舉辦抽發財金活動：參加者抽兩次籤，每次抽籤出現「吉」、「祥」的機率皆為 $\\frac{1}{3}$。如果兩次都抽得「吉」，獲得獎金 180 元；如果兩次都抽得「祥」，獲得獎金 90 元；其餘情況則無獎金。試問參加者可獲獎金的期望值為何？",
-      "options": ["20 元", "30 元", "45 元", "60 元", "90 元"],
-      "answer": "B",
-      "score": 5
-    },
-    {
       "number": 2,
-      "text": "對任一實數 $a$，令 $[a]$ 代表滿足 $[a] \\le a < [a] + 1$ 的整數，例如：$[3] = 3$，$[3.1] = 3$，$[ -3.1] = -4$。關於函數 $f(x) = [x-99] + [x+99]$，其中 $-99 \\le x \\le 99$；試選出正確的選項。",
-      "options": ["$f(-20) \\le f(0) < f(1)$", "$f(-20) < f(1) \\le f(0)$", "$f(1) < f(-20) \\le f(0)$", "$f(0) < f(-20) \\le f(1)$", "$f(0) \\le f(1) < f(-20)$"],
-      "answer": "A",
-      "score": 5
-    },
-    {
-      "number": 3,
-      "text": "設 $f(x) = a^x$，其中 $a$ 為正實數。已知 $c_1, c_2, c_3$ 是公差為 $\\frac{10}{3}$ 的等差數列，且 $f(c_1), f(c_2), f(c_3)$ 是公比為 4 的等比數列。則等比數列 $f(10), f(8), f(6)$ 的公比為何？",
-      "options": ["$2^{-\\frac{6}{5}}$", "$2^{-\\frac{3}{5}}$", "$2^{\\frac{3}{5}}$", "$2^{\\frac{6}{5}}$", "$2^{\\frac{5}{3}}$"],
-      "answer": "A",
-      "score": 5
+      "text": "\n\n2. 對任一實數 _a_ ，令 [ _a_ ] 代表滿足 [ _a_ ]  _a_  [ _a_ ]  1 的整數，例如：[3]  3，[3.1]  3，[  3.1]  4。 關於函數 _f_ ( _x_ )  [ 99  _x_ ]  [ 99  _x_ ] ，其中  99  _x_  99 ；試選出正確的選項。 (1) _f_ (  20)  _f_ (0)  _f_ (1) \n\n   - (2) _f_ (  20)  _f_ (1)  _f_ (0) (3) _f_ (1)  _f_ (  20)  _f_ (0) (4) _f_ (0)  _f_ (  20)  _f_ (1) (5) _f_ (0)  _f_ (1)  _f_ (  20)<br><img src=\"images/ceec/115/數A/數A.pdf-0001-10.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/115/數A/數A.pdf-0001-11.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)",
+        "(5)"
+      ],
+      "answer": "2",
+      "type": "single",
+      "score": 2
     },
     {
       "number": 4,
-      "text": "某網遊有 16 種材料，其中 6 種為基本材料，10 種為進階材料。任選 3 種不同材料可以合成出草藥、食物、藥水中的 1 類道具，其合成規則如下：<br>1. 若 3 種材料均為基本材料，則合成結果必為同一種草藥；<br>2. 若 3 種材料中 2 種為基本材料、1 種為進階材料，則合成結果會根據不同的進階材料得到不同種的食物，但不會受到基本材料不同而改變；<br>3. 其他的組合都會合成出不同種的藥水。<br>試問此網遊總共可合成出多少種道具？",
-      "options": ["256", "370", "401", "455", "560"],
-      "answer": "C",
-      "score": 5
-    },
-    {
-      "number": 5,
-      "text": "已知實數三階方陣 $A$ 滿足 $A\\begin{bmatrix} 1 \\\\ 1 \\\\ 0 \\end{bmatrix} = \\begin{bmatrix} 0 \\\\ 1 \\\\ 1 \\end{bmatrix}$，$A\\begin{bmatrix} 0 \\\\ -1 \\\\ 1 \\end{bmatrix} = \\begin{bmatrix} 1 \\\\ 1 \\\\ 1 \\end{bmatrix}$，$A\\begin{bmatrix} 1 \\\\ 0 \\\\ 0 \\end{bmatrix} = \\begin{bmatrix} 1 \\\\ 0 \\\\ -1 \\end{bmatrix}$。試問有多少個行向量 $\\vec{v} = \\begin{bmatrix} v_1 \\\\ v_2 \\\\ v_3 \\end{bmatrix}$ 滿足 $A\\vec{v} = \\begin{bmatrix} 1 \\\\ 0 \\\\ 1 \\end{bmatrix}$ 且 $\\vec{v}$ 垂直於行向量 $\\begin{bmatrix} 0 \\\\ 1 \\\\ 0 \\end{bmatrix}$？",
-      "options": ["1 個", "2 個", "3 個", "0 個", "無窮多個"],
-      "answer": "A",
-      "score": 5
+      "text": "4. \n\n\n 某網遊有 16 種材料，其中 6 種為基本材料，10 種為進階材料。任選 3 種不同材料可以 合成出草藥、食物、藥水中的 1 類道具，其合成規則如下：若 3 種材料均為基本材料， 則合成結果必為同一種草藥；若 3 種材料中 2 種為基本材料、1 種為進階材料，則合成 結果會根據不同的進階材料得到不同種的食物，但不會受到基本材料不同而改變；其他 的組合都會合成出不同種的藥水。試問此網遊總共可合成出多少種道具？ \n\n(1) 256 (2) 370 (3) 401 (4) 455 (5) 560 \n\n- 1 - \n\n115年學測 請記得在答題卷簽名欄位以正楷簽全名 第 2 頁 數學A考科 共 7 頁<br><img src=\"images/ceec/115/數A/數A.pdf-0002-10.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)",
+        "(5)"
+      ],
+      "answer": "3",
+      "type": "single",
+      "score": 2
     },
     {
       "number": 6,
-      "text": "坐標平面上有 $A(2, 2), B(-1, 2)$ 兩點，試問直線 $y = -6$ 上有多少個點 $C$ 使得 $\\Delta ABC$ 為等腰三角形？",
-      "options": ["1", "2", "3", "4", "5"],
-      "answer": "E",
-      "score": 5
+      "text": "\n6. \n\n\n 坐標平面上有 _A_ (2,  2), _B_ (  1,2) 兩點，試問直線 _y_  6 上有多少個點 _C_ 使得  _ABC_ 為等腰 三角形？ (1) 1 (2) 2 (3) 3 (4) 4 (5) 5 \n\n\n\n\n\n\n\n\n\n\n\n\n\n- 2 - \n\n115年學測 數學A考科 \n\n第 3 頁 共 7 頁 \n\n請記得在答題卷簽名欄位以正楷簽全名<br><img src=\"images/ceec/115/數A/數A.pdf-0002-10.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/115/數A/數A.pdf-0003-01.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/115/數A/數A.pdf-0003-03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/115/數A/數A.pdf-0003-04.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/115/數A/數A.pdf-0003-05.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)",
+        "(5)"
+      ],
+      "answer": "2",
+      "type": "single",
+      "score": 2
     },
     {
       "number": 7,
-      "text": "坐標平面上同時滿足 $\\begin{cases} 2x - 3y - 1 > 0 \\\\ 2x + y + 1 < 0 \\end{cases}$ 的點 $P(x, y)$ 可能位在下列哪些選項？",
-      "options": ["第一象限", "第二象限", "第三象限", "第四象限", "x 軸"],
-      "answer": ["C", "D"],
+      "text": "\n7. 對數值： log2  0.3010, log3  0.4771, log5  0.6990, log7  0.8451 \n\n- 7 -<br><img src=\"images/ceec/115/數A/數A.pdf-0008-11.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)",
+        "(5)"
+      ],
+      "answer": [
+        "3",
+        "4"
+      ],
       "type": "multi",
-      "score": 5
-    },
-    {
-      "number": 8,
-      "text": "已知 $A = \\begin{bmatrix} 2 & 1 \\\\ 1 & 0 \\end{bmatrix}$，且對所有正整數 $n \\ge 2$，令 $A^n = \\begin{bmatrix} a_n & b_n \\\\ c_n & d_n \\end{bmatrix}$。試選出正確的選項。",
-      "options": ["$b_2 < c_2$", "$A^2 = 2A + \\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}$", "$c_{n+2} = 2c_{n+1} + c_n$", "$\\begin{bmatrix} a_{n+1} & b_{n+1} \\\\ c_{n+1} & d_{n+1} \\end{bmatrix} = \\begin{bmatrix} a_n & b_n \\\\ c_n & d_n \\end{bmatrix} \\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}$", "$d_n a_n - b_n c_n = (d_1 a_1 - b_1 c_1)^n$"],
-      "answer": ["C", "E"],
-      "type": "multi",
-      "score": 5
+      "score": 2
     },
     {
       "number": 9,
-      "text": "$T$ 分數為評量成績的一種方式：$T = 50 + 10\\left(\\frac{S - \\mu}{\\sigma}\\right)$。已知某班數學和英文兩科的平均成績皆為 60，數學標準差為 12，英文標準差為 8。試選出正確的選項。",
+      "text": "\n\n\n\n9. _T_ 分數為評量成績的一種方式，其計算方式如下：設全班平均成績為  且標準差為  。  \n\n  \n\n若某生原始成績為 _S_ ，則他該科之 _T_ 分數為 _T_  50  10  _[S]_  。已知某班期末數學和    \n\n英文兩科的平均成績皆為 60，數學成績的標準差為 12，英文成績的標準差為 8。試選出 正確的選項。 \n\n   - (1) 若甲生英文的原始成績為 52，則其 _T_ 分數為 40 \n\n   - (2) 各生數學的 _T_ 分數不會超過其原始成績 \n\n   - (3) 若乙生兩科的原始成績平均比丙生兩科的原始成績平均高，則乙生兩科的 _T_ 分數 平均比丙生兩科的 _T_ 分數平均高 \n\n   - (4) 若該班級兩科的及格標準均為 _T_ 分數大於或等於 40，則數學及格的原始成績比 英文及格的原始成績低 \n\n   - (5) 該班原始成績數學對英文的迴歸直線（即最適直線）之斜率與該班 _T_ 分數數學對 英文的迴歸直線之斜率相同 \n\n-  \n\n- 10. 已知四邊形 _ABCD_ 中， _AB_ 平行 _DC_ ， _AC_ 與 _BD_ 交於 _E_ 。若 _AB_  (2,  6), _AD_  (1,5) 且  _ABE_ 面積為 3。試選出正確的選項。 \n\n   - 7 65 \n\n   - (1) cos  _BAD_  65 \n\n   - (2)  _ABD_ 面積為 9 \n\n\n\n\n\n\n\n\n\n- 3 - \n\n請記得在答題卷簽名欄位以正楷簽全名 第 4 頁 共 7 頁 \n\n115年學測 數學A考科 \n\n 11. 令  為坐標平面上 _y_  cos( 2 _x_ ) 的圖形。對任一實數 _m_  0 ，以 _Lm_ 表示直線 _y_  _mx_  1 。 試選出正確的選項。 \n\n\n\n\n\n\n<br><img src=\"images/ceec/115/數A/數A.pdf-0003-01.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/115/數A/數A.pdf-0003-03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/115/數A/數A.pdf-0003-04.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/115/數A/數A.pdf-0003-05.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/115/數A/數A.pdf-0004-12.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/115/數A/數A.pdf-0004-13.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/115/數A/數A.pdf-0005-03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/115/數A/數A.pdf-0005-04.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
       "options": [
-        "若甲生英文原始成績為 52，則其 T 分數為 40",
-        "各生數學的 T 分數不會超過其原始成績",
-        "若乙生兩科原始成績平均比丙生高，則其 T 分數平均也較高",
-        "若及格標準均為 T 分數 $\\ge 40$，則數學及格原始成績比英文低",
-        "兩科原始成績的迴歸直線斜率與 T 分數的迴歸直線斜率相同"
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)",
+        "(5)"
       ],
-      "answer": ["A", "C", "D"],
+      "answer": [
+        "1",
+        "2",
+        "4"
+      ],
       "type": "multi",
-      "score": 5
+      "score": 2
     },
     {
-      "number": 10,
-      "text": "已知四邊形 $ABCD$ 中，$AB \\parallel DC$，$AC$ 與 $BD$ 交於 $E$。若 $\\vec{AB} = (2, -6)$，$\\vec{AD} = (1, 5)$ 且 $\\Delta ABE$ 面積為 3。試選出正確的選項。",
-      "options": ["$\\cos \\angle BAD = -\\frac{7\\sqrt{65}}{65}$", "$\\Delta ABD$ 面積為 9", "$\\vec{AE} = (\\frac{3}{2}, -\\frac{1}{2})$", "四邊形 $ABCD$ 面積為 $\\frac{65}{3}$", "$BC < \\frac{8}{3}$"],
-      "answer": ["A", "C", "D"],
+      "number": 12,
+      "text": "\n\n\n\n12. \n\n\n 令 _f_ ( _x_ ) 、 _g_ ( _x_ ) 為實係數三次多項式且 _f_ ( _x_ ) 的首項係數為 1，已知 _f_ ( _x_ )  _g_ ( _x_ )  2 _x_ 3  2 _x_ 。 令  1 和  2 分別為 _f_ ( _x_ ) 和 _g_ ( _x_ ) 在坐標平面上的函數圖形，其對稱中心分別為 ( _a_ 1, _b_ 1),( _a_ 2 , _b_ 2 )。 試選出正確的選項。 (1)  1 和  2 恰交於三點 \n\n   - (2) _a_ 1  _a_ 2 可唯一確定 \n\n   - (3) _b_ 1  _b_ 2 可唯一確定 \n\n   - (4) 若 _a_ 1  _a_ 2 ，則 _b_ 1  _b_ 2 (5) 若 _b_ 1  _b_ 2 ，則 _a_ 1  _a_ 2 \n\n- 4 - \n\n115年學測 數學A考科 \n\n第 5 頁 共 7 頁 \n\n請記得在答題卷簽名欄位以正楷簽全名 \n\n\n\n\n\n1 3 1 13. 某高中聘用的全體教師 4[只有學士學位，] 4[有碩士學位。只有學士學位的教師中有] 5 3 通過英聽檢定，有碩士學位的教師中有 5[通過英聽檢定。已知每位教師被抽到的機會] \n\n相等，若隨機抽選一位通過英聽檢定的教師，則該教師有碩士學位的條件機率為 \n\n\n\n\n\n\n\n\n\n（化為最簡分數）<br><img src=\"images/ceec/115/數A/數A.pdf-0004-12.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/115/數A/數A.pdf-0004-13.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/115/數A/數A.pdf-0005-03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/115/數A/數A.pdf-0005-04.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/115/數A/數A.pdf-0005-05.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/115/數A/數A.pdf-0006-03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/115/數A/數A.pdf-0006-06.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/115/數A/數A.pdf-0006-07.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)",
+        "(5)"
+      ],
+      "answer": [
+        "2",
+        "4"
+      ],
       "type": "multi",
-      "score": 5
-    },
-    {
-      "number": 13,
-      "text": "某高中教師中 $\\frac{1}{4}$ 有學士學位，$\\frac{3}{4}$ 有碩士學位。學士中有 $\\frac{1}{5}$ 通過英聽，碩士中有 $\\frac{3}{5}$ 通過。若隨機抽選一位通過英聽的教師，其為碩士的條件機率為何？",
-      "answer": "9/10",
-      "type": "fill",
-      "score": 5
-    },
-    {
-      "number": 14,
-      "text": "坐標平面上，向量 $(a, b)$ 與直線 $y = bx - 1$ 垂直，則 $a + b$ 的最大可能值為何？",
-      "answer": "1/2",
-      "type": "fill",
-      "score": 5
+      "score": 2
     },
     {
       "number": 15,
-      "text": "已知三正數 $a, b, c$ 成等差且 $a < b < c$。若 $(a, \\log 3), (b, \\log 4), (c, \\log 6)$ 三點共線，則 $\\frac{b}{a}$ 之值為何？",
-      "answer": "3/2",
-      "type": "fill_in",
-      "score": 5
+      "text": "\n\n\n\n15. 已知三正數 _a_ , _b_ , _c_ 成一等差數列，其中 _a_  _b_  _c_ ，且坐標平面上三點 ( _a_ ,log3 _a_ )、( _b_ ,log4 _b_ )、 \n\n\n\n\n\n> 16. 坐標平面上，已知二次函數圖形  : _y_  _f_ ( _x_ ) 的頂點 _P_ 在直線 _y_  1 2 _x_ 上，且交 _x_ 軸於 1 1 點 _A_ (  ,0), _B_ ( ,0) 。將  平移使得平移後圖形的頂點 _Q_ 仍在直線 _y_  1 2 _x_ 上，且亦通過 2 2 16-1 16-2 ○ 1 \n\n> 點 _B_ ( ,0) ，此時 _P_ 、 _Q_ 為兩相異點，則 _PQ_ [○] 。（化為最簡根式） 2 16-3 ○ \n\n- 5 - \n\n請記得在答題卷簽名欄位以正楷簽全名 第 6 頁 共 7 頁 \n\n115年學測 數學A考科<br><img src=\"images/ceec/115/數A/數A.pdf-0005-05.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/115/數A/數A.pdf-0006-03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/115/數A/數A.pdf-0006-06.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/115/數A/數A.pdf-0006-07.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/115/數A/數A.pdf-0006-10.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)",
+        "(5)"
+      ],
+      "answer": "32",
+      "type": "fill",
+      "score": 2
+    },
+    {
+      "number": 17,
+      "text": "\n17. 直角  _ABC_ 中，  _CAB_ 為直角， _AB_ 邊上一點 _D_ ，滿足  _BCD_  2 _ACD_ ，且 _BC_  2 _BD_ 。 \n\n\n\n\n\n## 、 第貳部分 混合 題 或非選擇 題 （占 **15** 分） \n\n- 說明︰本部分共有 1 題組，單選題每題 3 分，非選擇題配分標於題末。限在答題卷標示 題號的作答區內作答。 \n\n   - 選擇（填）題與「非選擇題作圖部分」使用 2B 鉛筆作答，更正時以橡皮擦擦拭， 切勿使用修正帶（液）。非選擇題請由左而右橫式書寫，作答時必須寫出計算過程 或理由，否則將酌予扣分。 \n\n18-20 題為題組 \n\n\n\n\n\n坐標空間中有一平行六面體 _PQRS_ \n\n坐標空間中有一平行六面體 _PQRS_  _ABCD_ ，如圖所示。   已知 _AB_  _AD_  ( 5,5,5) 、 _AD_  _AP_  ( 2,0,  4) 、  _AP_  _AB_  (6,  10,  8) ， _AP_  6 。試回答下列問題。<br><img src=\"images/ceec/115/數A/數A.pdf-0006-10.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/115/數A/數A.pdf-0007-03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/115/數A/數A.pdf-0007-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)",
+        "(5)"
+      ],
+      "answer": "311",
+      "type": "fill",
+      "score": 2
+    },
+    {
+      "number": 18,
+      "text": "\n\n18. 試問平行四邊形 _ABCD_ 的面積為何？（單選題，3 分）<br><img src=\"images/ceec/115/數A/數A.pdf-0007-03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/115/數A/數A.pdf-0007-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)",
+        "(5)"
+      ],
+      "answer": "3",
+      "type": "fill",
+      "score": 2
+    },
+    {
+      "number": 19,
+      "text": "19. 設 _B_ 點坐標為 (1,2,0) ，試求平面 _ABCD_ 的平面方程式。（非選擇題，4 分）",
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)",
+        "(5)"
+      ],
+      "answer": "",
+      "type": "essay",
+      "score": 2
+    },
+    {
+      "number": 20,
+      "text": "20. 試求平行六面體的體積，並求平行六面體上（含邊界）距點 _A_ 的最長距離。（非選擇題， 8 分） \n\n- 6 - \n\n115年學測 數學A考科 \n\n第 7 頁 共 7 頁 \n\n請記得在答題卷簽名欄位以正楷簽全名 \n\n## 參考公式及可能用到的數值 \n\n\n<br><img src=\"images/ceec/115/數A/數A.pdf-0008-04.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)",
+        "(5)"
+      ],
+      "answer": "",
+      "type": "essay",
+      "score": 2
     }
   ]
 }

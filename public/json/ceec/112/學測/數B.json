@@ -1,0 +1,178 @@
+{
+  "title": "112 學年度學科能力測驗 - 數學 B 考科",
+  "duration": 100,
+  "questions": [
+    {
+      "number": 1,
+      "text": "某抽水站發現其用電量（單位：度）與抽水馬達轉速（單位：rpm）的三次方成正比。 根據上述，試問下列這五個圖中，哪一個最可以描述此抽水站的用電量 _y_ （度）與抽水 馬達轉速 _x_ （rpm）的對應關係？<br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0001-09.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0001-10.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [
+        "(1) 某抽水站發現其用電量（單位：度）與抽水馬達轉速（單位：rpm）的三次方成正比。 根據上述，試問下列這五個圖中，哪一個最可以描述此抽水站的用電量 _y_ （度）與抽水 馬達轉速 _x_ （rpm）的對應關係？"
+      ],
+      "answer": "3",
+      "type": "fill",
+      "score": 2
+    },
+    {
+      "number": 3,
+      "text": "地面上有甲、乙兩大樓，已知甲的高度大於乙，且甲、乙兩大樓的水平距離為 150 公 尺。某人從甲樓頂拉一條繩索到乙樓頂，並從甲樓頂測得乙樓頂的俯角為 22  。假設該 繩索被拉成直線，試問繩索的長度（單位：公尺）最接近下列哪個選項？（註：眼睛往 下看目標物時，視線與水平線間的夾角稱為俯角）<br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0002-07.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [],
+      "answer": "4",
+      "type": "fill",
+      "score": 2
+    },
+    {
+      "number": 4,
+      "text": "某校期中考試有 29 名考生，且成績均相異，統計後得到位於第 25、第 50、第 75 與 第 95 百分位數的考生成績分別為 41、 60、74 與 92 分。後來發現成績有誤需要調整 分數，成績較高的前 15 名學生的分數應該要各加 5 分，其餘學生成績不變。假設調 整後第 25、第 50、第 75 與第 95 百分位數的考生成績分別為 _a_ 、 _b_ 、 _c_ 與 _d_ 分，則數 組 ( _a_ , _b_ , _c_ , _d_ ) 為下列哪個選項？ (1) (41, 60, 74, 92) (2) (41, 60, 74, 97) (3) (41, 65, 79, 97) \n\n   - (4) (46, 65, 79, 92) (5) (46, 65, 79, 97) \n\n- 1 - \n\n112 `年學測 數學` B `考科` \n\n`第` 2 `頁 共` 7 `頁` \n\n```\n請記得在答題卷簽名欄位以正楷簽全名\n```<br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0002-07.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0002-09.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [
+        "(1) (41, 60, 74, 92)",
+        "(2) (41, 60, 74, 97)",
+        "(3) (41, 65, 79, 97)",
+        "(4) (46, 65, 79, 92)",
+        "(5) (46, 65, 79, 97)"
+      ],
+      "answer": "2",
+      "type": "fill",
+      "score": 2
+    },
+    {
+      "number": 5,
+      "text": "參考數值： 2  1.414 , 3  1.732 , 5  2.236 , 6  2.449 ,   3.142<br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0008-04.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0008-05.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0008-06.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0008-07.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0008-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0008-09.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0008-10.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0008-11.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [
+        "(5) ![](/home/toymsi/documents/examination/Github/ai-sch-exam/public/images/ceec/112/數B/04-112學測數學b試卷.pdf-0008-11.webp)"
+      ],
+      "answer": "3",
+      "type": "fill",
+      "score": 2
+    },
+    {
+      "number": 6,
+      "text": "對數值： log2  0.3010, log3  0.4771, log5  0.6990, log7  0.8451 \n\n- 7 -<br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0008-11.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [],
+      "answer": "2",
+      "type": "fill",
+      "score": 2
+    },
+    {
+      "number": 7,
+      "text": "已知某手電筒照射的光線為直圓錐狀，且光發散的夾角為 60  ，如圖所示。設牆壁與地 板垂直且交界處為直線 _L_ ，將此手電筒以垂直於 _L_ 的方向照射，即此直圓錐的軸與 _L_ 垂 直。若手電筒照射在牆壁上的光線邊緣為拋物線的一部份，則在地板上的光線邊緣為下 列哪種圖形的一部份？ \n\n\n\n\n\n**----- Start of picture text -----**<br>\n手電筒<br>牆壁<br>60°<br>拋物線<br>地板<br>L<br>**----- End of picture text -----**<br>\n\n\n- (1) 兩相交直線 \n\n- (2) 圓形 \n\n- (3) 拋物線 \n\n- (4) 長短軸不相等的橢圓 \n\n- (5) 雙曲線 \n\n- 2 - \n\n```\n請記得在答題卷簽名欄位以正楷簽全名\n```\n\n112 `年學測 數學` B `考科` \n\n`第` 3 `頁` \n\n`共` 7 `頁` \n\n## 二、多選題（占 **25** 分） \n\n## `說明：第` 8 `題至第` 12 `題，每題` 5 `分。`<br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0003-15.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [
+        "(1) 兩相交直線",
+        "(2) 圓形",
+        "(3) 拋物線",
+        "(4) 長短軸不相等的橢圓",
+        "(5) 雙曲線"
+      ],
+      "answer": "3",
+      "type": "fill",
+      "score": 2
+    },
+    {
+      "number": 8,
+      "text": "某電子看板持續不斷的輪流播放 _A_ 、 _B_ 兩段廣告（ _A_ 、 _B_ 、 _A_ 、 _B_ …），每個廣告播放 時間皆為 _T_ 分鐘（其中 _T_ 為整數）。某甲經過時剛好開始播放 _A_ 廣告，30 分鐘後，某甲 回到該處，看到恰好開始播放 _B_ 廣告。試選出可能是 _T_ 值的選項。 \n\n   - (1) 15 (2) 10 (3) 8 (4) 6 (5) 5 \n\n- 20 \n\n- 9. 已知 _a_ = 6 、 _b_ = 、 _c_ = 2 10 和 _d_ ，且 _d_ 為有理數，將這四個數標註在數線上， 3 \n\n- 即 _A_ ( _a_ ) 、 _B_ ( _b_ ) 、 _C_ ( _c_ ) 和 _D_ ( _d_ ) 。試選出正確的選項。 \n\n   - (1) _a_ + _b_ + _c_ + _d_ 必為一個有理數 \n\n   - (2) _abcd_ 必為一個無理數 \n\n   - (3) 點 _D_ 有可能與點 _C_ 的距離等於 2 10 + 6 \n\n   - (4) 點 _A_ 和點 _B_ 的中點位在點 _C_ 的右邊 \n\n   - (5) 數線上和點 _B_ 距離小於 8 的所有點中，正整數有 14 個，負整數有 1 個<br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0003-15.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [
+        "(1) 15",
+        "(2) 10",
+        "(3) 8",
+        "(4) 6",
+        "(5) 5",
+        "(1) _a_ + _b_ + _c_ + _d_ 必為一個有理數",
+        "(2) _abcd_ 必為一個無理數",
+        "(3) 點 _D_ 有可能與點 _C_ 的距離等於 2 10 + 6",
+        "(4) 點 _A_ 和點 _B_ 的中點位在點 _C_ 的右邊",
+        "(5) 數線上和點 _B_ 距離小於 8 的所有點中，正整數有 14 個，負整數有 1 個"
+      ],
+      "answer": "1",
+      "type": "fill",
+      "score": 2
+    },
+    {
+      "number": 10,
+      "text": "某機構在 12 點時將兩種不同的營養劑分別投入培養皿甲與培養皿乙中，此時甲、乙的 細菌數量分別為 _X_ 、 _Y_ 。已知甲的數量每 3 小時成長為原來的 2 倍，例如 15 點時甲的 數量為 2 _X_ 。乙的數量每 2 小時成長為原來的 2 倍，例如 14 點時乙的數量為 2 _Y_ 、16 點 時乙的數量為 4 _Y_ ，測量所得結果部分記錄於下表。該機構在 18 點時測量發現甲、乙的 數量相同，欲以細菌數量隨時間呈指數成長的模型來預估甲、乙 12 點至 24 點的細菌 數量。根據上述，試選出正確的選項。 \n\n|時刻（點）|12|13|14|15|16|17|18|19|20|21|22|23|24|\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n|甲數量|_X _|||2_X_||||||||||\n|乙數量|_Y _||2_Y_||4_Y_|||||||||\n\n\n\n- (1) _X_  _Y_ \n\n- 4 \n\n- (2) 在 13 點時，甲的數量為 _X_ 3 \n\n- (3) 在 15 點時，乙的數量為 3 _Y_ \n\n- (4) 在 19 點時，乙的數量為甲的 1.5 倍 \n\n- (5) 在 24 點時，乙的數量為甲的 2 倍 \n\n- 3 - \n\n112 `年學測 數學` B `考科` \n\n`第` 4 `頁 共` 7 `頁` \n\n```\n請記得在答題卷簽名欄位以正楷簽全名\n```",
+      "options": [
+        "(1) _X_  _Y_",
+        "(2) 在 13 點時，甲的數量為 _X_ 3",
+        "(3) 在 15 點時，乙的數量為 3 _Y_",
+        "(4) 在 19 點時，乙的數量為甲的 1.5 倍",
+        "(5) 在 24 點時，乙的數量為甲的 2 倍"
+      ],
+      "answer": "24",
+      "type": "fill",
+      "score": 2
+    },
+    {
+      "number": 11,
+      "text": "坐標平面上有一圓，其圓心為 _A a_ ( , _b_ ) ，且此圓與兩坐標軸皆相切，另有一點 _P_ ( _c_ , _c_ ) ， 其中 _a_  _c_  0 ，且已知 _PA_ = _a_ + _c_ ，試選出正確的選項。 \n\n\n\n\n\n\n\n\n\n- (3) 點 _P_ 在此圓內<br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0005-04.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0005-05.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [
+        "(3) 點 _P_ 在此圓內"
+      ],
+      "answer": "45",
+      "type": "fill",
+      "score": 2
+    },
+    {
+      "number": 12,
+      "text": "在球心為 _O_ 的球形地球儀上，有 _A_ 、 _B_ 、 _C_ 、 _D_ 、 _E_ 五個點，其中 _A_ 、 _B_ 、 _C_ 三點都在 赤道上，且經度分別為東經 0  、 60  和 90  ； _D_ 、 _E_ 兩點都在北緯 30  線上，且經度分別 為東經 0  、 180  。試選出正確的選項。 \n\n   - (1) 赤道的長度等於東經 0  和 180  這兩條經線長度的總和 (2) 北緯 45  線的長度等於赤道長度的[1] \n\n\n\n\n\n- (3) 「由 _A_ 沿赤道移動到 _B_ 的最短路徑長」等於「由 _D_ 沿東經 0  經線移動到北極點的路 徑長」 \n\n- (4) 「由 _D_ 沿北緯 30  線移動到 _E_ 的路徑長」等於「由 _D_ 沿東經 0  經線移動到北極點， 再由北極點沿東經 180  經線移動到 _E_ 的路徑長的總和」 \n\n- (5) 通過北極點與 _A_ 點的直線與通過北極點與 _C_ 點的直線互相垂直 \n\n三、選填題（占 **25** 分） `說明：第` 13 `題至第` 17 `題，每題` 5 `分。` \n\n\n\n\n\n- 4 - \n\n```\n請記得在答題卷簽名欄位以正楷簽全名\n```\n\n112 `年學測 數學` B `考科` \n\n- `第` 5 `頁 共` 7 `頁`<br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0005-04.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0005-05.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0005-07.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0005-10.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0005-15.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [
+        "(1) 赤道的長度等於東經 0  和 180  這兩條經線長度的總和",
+        "(2) 北緯 45  線的長度等於赤道長度的[1]",
+        "(3) 「由 _A_ 沿赤道移動到 _B_ 的最短路徑長」等於「由 _D_ 沿東經 0  經線移動到北極點的路 徑長」",
+        "(4) 「由 _D_ 沿北緯 30  線移動到 _E_ 的路徑長」等於「由 _D_ 沿東經 0  經線移動到北極點， 再由北極點沿東經 180  經線移動到 _E_ 的路徑長的總和」",
+        "(5) 通過北極點與 _A_ 點的直線與通過北極點與 _C_ 點的直線互相垂直"
+      ],
+      "answer": "134",
+      "type": "fill",
+      "score": 2
+    },
+    {
+      "number": 14,
+      "text": "從 1 到 20 的 20 個整數中，取出相異的 3 個數 _a_ 、 _b_ 、 _c_ ，使其成為等差數列，且 _a_  _b_  _c_ ， 則 ( _a_ , _b_ , _c_ ) 的取法有 14-1 14-2 種。 ○○<br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0005-07.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0005-10.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0005-15.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [],
+      "answer": "15",
+      "type": "fill",
+      "score": 2
+    },
+    {
+      "number": 15,
+      "text": "如圖所示，平面上有一點 _P_ 0 先朝某方向前進 2 個單位長到達點 _P_ 1 後，依前進方向左轉 15 度；朝新方向前進 2 個單位長到達點 _P_ 2 後，然後再依前進方向左轉 15 度；再朝新方 向前進 2 個單位長到達點 _P_ 3 後，…依此類推。 \n\n\n\n\n\n**----- Start of picture text -----**<br>\n則向量 P [] 2 P 3與 P [] 5 P 6的內積為 15-1  15-2  。（化為最簡根式） P 3<br>○ ○<br>15°<br>P 2<br>15°<br>P 1<br>P 0<br>**----- End of picture text -----**<br>\n\n\n\n\n\n\n**----- Start of picture text -----**<br><br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0006-05.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0006-06.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [],
+      "answer": "27",
+      "type": "fill",
+      "score": 2
+    },
+    {
+      "number": 16,
+      "text": "正方形紙張上有一點 P  ， P  點距離紙張左邊界 6 公分，距離下邊界 8 公分。今將紙張的<br>16-1  16-2  16-3<br>○○<br>左下角 O  點往內摺至 P  點，如圖所示。則摺進去的三角形面積是 [○] 平方<br>24<br>**----- End of picture text -----**<br>\n\n\n公分。 \n\n\n\n\n\n**----- Start of picture text -----**<br>\nP<br>P<br>8  8<br>O  6  6<br>**----- End of picture text -----**<br><br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0006-05.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0006-06.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0006-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [],
+      "answer": "100",
+      "type": "fill",
+      "score": 2
+    },
+    {
+      "number": 17,
+      "text": "考慮所有只用 0, 1, 2 三種數字組成的序列，序列長度 _n_ 是指該序列由 _n_ 個數字組成（可 重複出現）。令 _a_ ( _n_ ) 為在所有長度 _n_ 的序列中連續兩個零（即 00）出現的次數總和。 例如長度 3 的序列中含有連續兩個零的有 000， 001， 002， 100， 200，其中 000 貢獻 2 次 00，其餘各貢獻 1 次 00，故 _a_ (3) = 6 。則 _a_ (5) 的值為 17-1 17-2 17-3 。 ○○○ \n\n- 5 - \n\n112 `年學測 數學` B `考科` \n\n`第` 6 `頁 共` 7 `頁` \n\n```\n請記得在答題卷簽名欄位以正楷簽全名\n```\n\n## 第貳部分、混合題或非選擇題（占 **15** 分） \n\n`說明︰本部分共有` 1 `題組，選填題每題` 3 `分，非選擇題配分標於題末。限在答題卷標示題 號的作答區內作答。選擇題與「非選擇題作圖部分」使用` 2B `鉛筆作答，更正時， 應以橡皮擦擦拭，切勿使用修正帶（液）。非選擇題請由左而右橫式書寫，作答時 必須寫出計算過程或理由，否則將酌予扣分。` \n\n## 18-20 `題為題組` \n\n空地上有三根與地面垂直且等高的電線桿，其底座在一直線上且間距相等。某甲以單 點透視法在畫布上畫這三根電線桿。在畫布上設坐標系，使得電線桿皆與 _y_ 軸平行，三根 底座的點分別為 _A_ 1(0,0)、 _A_ 2 、 _A_ 3 ，都在直線 _L_ : _x_ + 3 _y_ = 0 上；三根頂端的點分別為 _B_ 1(0,3) 、 _B_ 2 、 _B_ 3 ，都在直線 _M_ :2 _x_ − 3 _y_ + 9 = 0 上，如圖所示。已知 _A B_ 3 3 = 2 _A B_ 1 1 ，且由單點透視法可知 直線 _A B_ 1 3 與直線 _A B_ 3 1 的交點在直線 _A B_ 2 2 上。設 _L_ 和 _M_ 相交於 _P_ 點（此點又稱為「消失點」）。 根據上述，試回答下列問題。<br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0006-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0007-07.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0007-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [
+        "(3) = 6 。則 _a_",
+        "(5) 的值為 17-1 17-2 17-3 。 ○○○"
+      ],
+      "answer": "16",
+      "type": "fill",
+      "score": 2
+    },
+    {
+      "number": 19,
+      "text": "試求 _P_ 與 _B_ 3 這兩點的坐標。（非選擇題，6 分）<br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0007-07.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0007-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0007-09.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [],
+      "answer": "",
+      "type": "essay",
+      "score": 0
+    },
+    {
+      "number": 20,
+      "text": "若有隻蜜蜂恰好停在中間那根電線桿上距離底座與頂端的長度比為 1：2 的位置上。某 甲想在這個畫布的線段 _A B_ 2 2 上畫出這隻蜜蜂，假設畫布上蜜蜂位置為 _Q_ 點，即點 _Q_ 到線 段 _A B_ 2 2 的底座 _[A]_ 2[與到線段] _A B_ 2 2 頂端 _B_ 2 的長度比為 1：2，試求 _Q_ 點坐標。（非選擇題， 6 分） \n\n- 6 - \n\n```\n請記得在答題卷簽名欄位以正楷簽全名\n```\n\n112 `年學測 數學` B `考科` \n\n`第` 7 `頁 共` 7 `頁` \n\n## 參考公式及可能用到的數值<br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0007-09.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0008-04.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0008-05.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0008-06.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0008-07.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0008-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0008-09.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/112/數B/04-112學測數學b試卷.pdf-0008-10.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [],
+      "answer": "",
+      "type": "essay",
+      "score": 0
+    }
+  ]
+}

@@ -20,5 +20,21 @@
 - [社會](./exams?path=ceec/114/學測/社會) ([分析](https://toydogcat.github.io/ai-exp-sch-exam/學測/社會/114-gsat-social-analysis/))
 - [自然](./exams?path=ceec/114/學測/自然) ([分析](https://toydogcat.github.io/ai-exp-sch-exam/學測/自然/114-gsat-science-analysis/))
 
+## 113 學年度
+- [國語文綜合能力測驗](./exams?path=ceec/113/學測/國綜) ([分析](https://toydogcat.github.io/ai-exp-sch-exam/學測/國文/113-gsat-chinese-analysis/))
+- [英文](./exams?path=ceec/113/學測/英文) ([分析](https://toydogcat.github.io/ai-exp-sch-exam/學測/英文/113-gsat-english-analysis/))
+- [數學 A](./exams?path=ceec/113/學測/數A) ([分析](https://toydogcat.github.io/ai-exp-sch-exam/學測/數學/113-gsat-math-a-analysis/))
+- [數學 B](./exams?path=ceec/113/學測/數B) ([分析](https://toydogcat.github.io/ai-exp-sch-exam/學測/數學/113-gsat-math-b-analysis/))
+- [社會](./exams?path=ceec/113/學測/社會) ([分析](https://toydogcat.github.io/ai-exp-sch-exam/學測/社會/113-gsat-social-analysis/))
+- [自然](./exams?path=ceec/113/學測/自然) ([分析](https://toydogcat.github.io/ai-exp-sch-exam/學測/自然/113-gsat-science-analysis/))
+
+## 112 學年度
+- [國語文綜合能力測驗](./exams?path=ceec/112/學測/國綜) ([分析](https://toydogcat.github.io/ai-exp-sch-exam/學測/國文/112-gsat-chinese-analysis/))
+- [英文](./exams?path=ceec/112/學測/英文) ([分析](https://toydogcat.github.io/ai-exp-sch-exam/學測/英文/112-gsat-english-analysis/))
+- [數學 A](./exams?path=ceec/112/學測/數A) ([分析](https://toydogcat.github.io/ai-exp-sch-exam/學測/數學/112-gsat-math-a-analysis/))
+- [數學 B](./exams?path=ceec/112/學測/數B) ([分析](https://toydogcat.github.io/ai-exp-sch-exam/學測/數學/112-gsat-math-b-analysis/))
+- [社會](./exams?path=ceec/112/學測/社會) ([分析](https://toydogcat.github.io/ai-exp-sch-exam/學測/社會/112-gsat-social-analysis/))
+- [自然](./exams?path=ceec/112/學測/自然) ([分析](https://toydogcat.github.io/ai-exp-sch-exam/學測/自然/112-gsat-science-analysis/))
+
 ---
 [更多心得與深度解析請前往部落格...](https://toydogcat.github.io/ai-exp-sch-exam/)

@@ -1,0 +1,168 @@
+{
+  "title": "113 學年度學科能力測驗 - 數學 B 考科",
+  "duration": 100,
+  "questions": [
+    {
+      "number": 1,
+      "text": "某遊戲共有 210 位玩家，每位玩家均持有寶石，其中持有 1 顆的有 1 位，持有 2 顆的 有 2 位，依此類推，持有 20 顆寶石的有 20 位。試問這些玩家每人持有寶石數量的第 90 百分位數為下列哪一個選項？<br><img src=\"images/ceec/113/數B/04-113學測數學b試題定稿.pdf-0001-10.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/113/數B/04-113學測數學b試題定稿.pdf-0001-11.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/113/數B/04-113學測數學b試題定稿.pdf-0002-07.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [
+        "(1) 某遊戲共有 210 位玩家，每位玩家均持有寶石，其中持有 1 顆的有 1 位，持有 2 顆的 有 2 位，依此類推，持有 20 顆寶石的有 20 位。試問這些玩家每人持有寶石數量的第 90 百分位數為下列哪一個選項？"
+      ],
+      "answer": "4",
+      "type": "fill",
+      "score": 2
+    },
+    {
+      "number": 3,
+      "text": "某射擊遊戲的玩家要避開障礙物射擊目標。今在遊戲畫面 中設立一直角坐標系，以長方形螢幕左下角點 _O_ 為原點， _P_ 螢幕下方的邊緣為 _x_ 軸、螢幕左方的邊緣為 _y_ 軸，目標物 放在點 _P_ (12,10) 。畫面中有兩面牆（牆厚度可忽略不計）， _C D_ 一面牆由點 _A_ (10,5) 水平延伸到點 _B_ (15,5) ，另一面牆由點 _A B C_ (0,6) 水平延伸到點 _D_ (9,6)，如右圖之示意圖。若玩家在點 _Q Q_ 可直線射擊點 _P_ 的目標物，不會被兩面牆阻擋。下列哪一 個選項有可能是點 _Q_ 的坐標？ _O_ (1) (6,3) (2) (7,3) (3) (8,5) (4) (9,1) (5) (9,2) \n\n- \n\n- 4. 已知坐標平面上有一向量 _v_ = ( − 2,3) 及兩點 _A_ 、 _B_ ，且點 _A_ 的 _x_ 坐標和 _y_ 坐標、點 _B_ 的 _x_ 坐標和 _y_ 坐標都落在區間 [ 0,1 ] 內 ，試問[] _v_ + _AB_ 的最大值為下列哪一個選項？ \n\n- (1) 13 (2) 17 (3) 3 2 (4) 5 (5) 2 + 13 \n\n- 1 - \n\n請記得在答題卷簽名欄位以正楷簽全名 \n\n113年學測 數學B考科 \n\n第 2 頁 共 7 頁<br><img src=\"images/ceec/113/數B/04-113學測數學b試題定稿.pdf-0002-07.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/113/數B/04-113學測數學b試題定稿.pdf-0002-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [
+        "(1) (6,3)",
+        "(2) (7,3)",
+        "(3) (8,5)",
+        "(4) (9,1)",
+        "(5) (9,2)",
+        "(1) 13",
+        "(2) 17",
+        "(3) 3 2",
+        "(4) 5",
+        "(5) 2 + 13"
+      ],
+      "answer": "2",
+      "type": "fill",
+      "score": 2
+    },
+    {
+      "number": 5,
+      "text": "設二次函數 _f_ ( _x_ ) = _x_ 2 + _bx_ + _c_ ，其中 _b_ , _c_ 為實數。已知 _f_ ( _x_ − 2) = _f_ ( −− _x_ 2) 對任意實數 _x_ 均 成立，且當 −≤ 3 _x_ ≤ 1時， _f_ ( _x_ ) 的最大值會是最小值的 4 倍，則 _f_ ( _x_ ) 的最小值是下列哪 一個選項？ \n\n\n\n\n\n\n\n\n\n**----- Start of picture text -----**<br>\n某大樓居民在大樓外牆展示聖誕樹造型燈飾，如圖所示，從五 P<br>五樓<br>樓外牆某處 P 向四樓地板的兩端 A , B 拉小燈泡形成等腰三角<br>形 PAB ，其中 PA = PB ；向三樓地板的兩端 C , D 拉小燈泡形成 四樓<br>A  B<br>等腰三角形 PCD ；向二樓地板的兩端 E , F 拉小燈泡形成等腰 三樓<br>三角形 PEF 。假設每層樓等高且樓地板等長。若五樓地板在 C D<br>二樓<br>1<br>三角形 PAB 內部所截出的線段長度為樓地板長度的 E  F<br>3 [[，則五]]<br>一樓<br>樓地板在三角形 PEF 內部所截出的線段長度是樓地板長度的<br>幾分之幾？（燈飾粗細可忽略不計）<br>1 1 1 2 1<br>(1)  (2)  (3)  (4)  (5)<br>7 6 5 9 4<br>**----- End of picture text -----**<br><br><img src=\"images/ceec/113/數B/04-113學測數學b試題定稿.pdf-0002-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/113/數B/04-113學測數學b試題定稿.pdf-0003-04.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/113/數B/04-113學測數學b試題定稿.pdf-0003-05.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [
+        "(1) ",
+        "(2) ",
+        "(3) ",
+        "(4) ",
+        "(5) <br>7 6 5 9 4<br>**----- End of picture text -----**<br>"
+      ],
+      "answer": "3",
+      "type": "fill",
+      "score": 2
+    },
+    {
+      "number": 6,
+      "text": "某大樓居民在大樓外牆展示聖誕樹造型燈飾，如圖所示，從五 樓外牆某處 _P_ 向四樓地板的兩端 _A_ , _B_ 拉小燈泡形成等腰三角 形 _PAB_ ，其中 _PA_ = _PB_ ；向三樓地板的兩端 _C_ , _D_ 拉小燈泡形成 等腰三角形 _PCD_ ；向二樓地板的兩端 _E_ , _F_ 拉小燈泡形成等腰 三角形 _PEF_ 。假設每層樓等高且樓地板等長。若五樓地板在 1 \n\n三角形 _PAB_ 內部所截出的線段長度為樓地板長度的 3[[，則五]] 樓地板在三角形 _PEF_ 內部所截出的線段長度是樓地板長度的 幾分之幾？（燈飾粗細可忽略不計）<br><img src=\"images/ceec/113/數B/04-113學測數學b試題定稿.pdf-0003-04.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/113/數B/04-113學測數學b試題定稿.pdf-0003-05.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [],
+      "answer": "1",
+      "type": "fill",
+      "score": 2
+    },
+    {
+      "number": 7,
+      "text": "有一城市分為東、西兩區。兩區各有一個氣溫偵測站，該城市當天的最高溫（單位： 攝氏度）是取這兩區當天氣溫的最大值來記錄。下表顯示東、西兩區某月（共 30 天） 每日最高溫分布的情形。 \n\n|每日最高溫分布的情形。||||||||||||||\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n|溫度_t_<br>18|24<br>_t_<br>≤<<br>24<br>30<br>_t_<br>≤<|||30|_t_<br>≤<|36|||36||_t_<br>≤|||\n|東區（天數）|0<br>11||||14|||||5||||\n|西區（天數）|3<br>12||||15|||||0||||\n|根據上表，該城市當月每日最高溫分布的情形如下表。||||||||||||||\n|溫度_t_<br>18<br>_t_<br>≤<|24<br>24<br>30<br>_t_<br>≤<|30||36<br>_t_<br>≤<||||36|≤|_t_||||\n|天數<br>_A_|_B_|||_C_||||_D_||||||\n|( , , ,<br>)<br>_A B C D_<br>試選出有可能為數組|的選項。|||||||||||||\n|(1)(0,15,15,0) <br>(2)(3,12,15,5)|<br>(3)(0,9,16,5)|||(4)|(3,7,15,5)||||||(5)|(0,12,13,5)||\n\n\n\n- 2 - \n\n請記得在答題卷簽名欄位以正楷簽全名 \n\n113年學測 數學B考科 \n\n第 3 頁 共 7 頁 \n\n二、多選題（占 **25** 分） \n\n說明：第 8 題至第 12 題，每題 5 分。",
+      "options": [
+        "(1) (0,15,15,0) <br>",
+        "(2) (3,12,15,5)|<br>",
+        "(3) (0,9,16,5)|||",
+        "(4) |(3,7,15,5)||||||",
+        "(5) |(0,12,13,5)||"
+      ],
+      "answer": "3",
+      "type": "fill",
+      "score": 2
+    },
+    {
+      "number": 8,
+      "text": "已知正實數數列 _a_ , _b_ , _c_ , _d_ , _e_ 為等比數列，且 _a_ < _b_ < _c_ < _d_ < _e_ ，試選出下列為等比數列的選項。 (1) _a_ , − _b_ , _c_ , − _d_ , _e_ \n\n   - (2) _e_ , _d_ , _c_ , _b_ , _a_ \n\n   - (3) log _a_ ,log _b_ ,log _c_ ,log _d_ ,log _e_ \n\n   - (4) 3 _a_ ,3 _b_ ,3 _c_ ,3 _d_ ,3 _e_ \n\n   - (5) _abc_ , _bcd_ , _cde_",
+      "options": [
+        "(1) _a_ , − _b_ , _c_ , − _d_ , _e_",
+        "(2) _e_ , _d_ , _c_ , _b_ , _a_",
+        "(3) log _a_ ,log _b_ ,log _c_ ,log _d_ ,log _e_",
+        "(4) 3 _a_ ,3 _b_ ,3 _c_ ,3 _d_ ,3 _e_",
+        "(5) _abc_ , _bcd_ , _cde_"
+      ],
+      "answer": "125",
+      "type": "fill",
+      "score": 2
+    },
+    {
+      "number": 9,
+      "text": "已知多項式 _f_ ( _x_ ) 除以 _x_ 2 + 5 _x_ + 1後，所得出的商式為 _x_ 3 + 7 _x_ 2 + _x_ + 3 ，試選出下列可能為 _f_ ( _x_ ) 的選項。 \n\n3 2 2 (1) 2( _x_ + 7 _x_ + _x_ + 3)( _x_ + 5 _x_ + 1) (2) ( _x_ 3 + 7 _x_ 2 + _x_ + 3)( _x_ 2 + 5 _x_ + 1) − _x_ 3 2 2 2 (3) ( _x_ + 7 _x_ + _x_ + 3)( _x_ + 5 _x_ + 1) + _x_ (4) ( _x_ 3 + 7 _x_ 2 + _x_ + 4)( _x_ 2 + 5 _x_ + 1) − _x_ (5) ( _x_ 3 + 7 _x_ 2 + _x_ + 4)( _x_ 2 + 5 _x_ + 1) − _x_ 2",
+      "options": [
+        "(1) 2( _x_ + 7 _x_ + _x_ + 3)( _x_ + 5 _x_ + 1)",
+        "(2) ( _x_ 3 + 7 _x_ 2 + _x_ + 3)( _x_ 2 + 5 _x_ + 1) − _x_ 3 2 2 2",
+        "(3) ( _x_ + 7 _x_ + _x_ + 3)( _x_ + 5 _x_ + 1) + _x_",
+        "(4) ( _x_ 3 + 7 _x_ 2 + _x_ + 4)( _x_ 2 + 5 _x_ + 1) − _x_",
+        "(5) ( _x_ 3 + 7 _x_ 2 + _x_ + 4)( _x_ 2 + 5 _x_ + 1) − _x_ 2"
+      ],
+      "answer": "25",
+      "type": "fill",
+      "score": 2
+    },
+    {
+      "number": 10,
+      "text": "有兩個光點在一條長度為 120 公分的直線形軌道上移動，碰到端點就反向繼續移動。 一開始兩點分別在軌道的兩端相向而動，光點 A、光點 B 的移動速率分別為每秒 5 公分 及每秒 10 公分。試選出正確的選項。 \n\n   - (1) 兩個光點第一次相遇的位置，與其中一個端點的距離為 40 公分 \n\n   - (2) 光點 A 的位置呈週期現象，週期為 24 秒 \n\n   - (3) 當光點 A 回到 A 的出發點時，光點 B 也在 B 的出發點 \n\n   - (4) 兩個光點第二次相遇在其中一個端點上 \n\n   - (5) 兩個光點在軌道上共有 3 個不同的相遇位置 \n\n- 3 - \n\n請記得在答題卷簽名欄位以正楷簽全名 \n\n113年學測 數學B考科 \n\n第 4 頁 共 7 頁 \n\n|11.某國家過去五年的碳排放總量，由第1 年的_X_ 億公噸二氧化碳當量（CO2e）下降至|11.某國家過去五年的碳排放總量，由第1 年的_X_ 億公噸二氧化碳當量（CO2e）下降至|11.某國家過去五年的碳排放總量，由第1 年的_X_ 億公噸二氧化碳當量（CO2e）下降至|11.某國家過去五年的碳排放總量，由第1 年的_X_ 億公噸二氧化碳當量（CO2e）下降至|11.某國家過去五年的碳排放總量，由第1 年的_X_ 億公噸二氧化碳當量（CO2e）下降至|\n|---|---|---|---|---|\n|第5 年的_Y_ 億公噸二氧化碳當量（CO2e），達到每年平均減碳5%的效益，亦即|||||\n|4<br>(1<br>0.05)<br>_Y_<br>_X_<br>=<br>−<br>。將五年的碳排放總量與年成長率記錄如下表，其中|||||\n|第_n_年碳排放成長率<br>1<br>1<br>_n_<br>_n_<br>_n_<br>−<br>−<br>=<br>−<br>（第<br>年碳排放總量）（第<br>年碳排放總量）<br>第<br>年碳排放總量<br>，||2,3,4,5<br>_n_=|。||\n|第1 年<br>第2 年<br>第3 年<br>第4 年||第5 年|||\n|碳排放總量<br>（億公噸CO2e）<br>_X_<br>_A_<br>_B_<br>_C_||_Y_|||\n|碳排放年成長率<br>0.07<br>−<br>_p_<br>_q_||_r_|||\n\n\n\n試選出正確的選項。 \n\n\n\n\n\n\n\n\n\n\n\n\n\n4 (5) 0.93(1 + _p_ )(1 + _q_ )(1 + _r_ ) = (0.95) \n\n\n\n\n\n- 4 - \n\n請記得在答題卷簽名欄位以正楷簽全名 \n\n113年學測 數學B考科 \n\n第 5 頁 共 7 頁 \n\n三、選填題（占 **25** 分） \n\n說明：第 13 題至第 17 題，每題 5 分。<br><img src=\"images/ceec/113/數B/04-113學測數學b試題定稿.pdf-0005-05.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/113/數B/04-113學測數學b試題定稿.pdf-0005-06.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/113/數B/04-113學測數學b試題定稿.pdf-0005-07.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/113/數B/04-113學測數學b試題定稿.pdf-0005-09.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/113/數B/04-113學測數學b試題定稿.pdf-0006-05.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [
+        "(1) 兩個光點第一次相遇的位置，與其中一個端點的距離為 40 公分",
+        "(2) 光點 A 的位置呈週期現象，週期為 24 秒",
+        "(3) 當光點 A 回到 A 的出發點時，光點 B 也在 B 的出發點",
+        "(4) 兩個光點第二次相遇在其中一個端點上",
+        "(5) 兩個光點在軌道上共有 3 個不同的相遇位置",
+        "(5) 0.93(1 + _p_ )(1 + _q_ )(1 + _r_ ) = (0.95)"
+      ],
+      "answer": "134",
+      "type": "fill",
+      "score": 2
+    },
+    {
+      "number": 14,
+      "text": "某校全體高三學生都有報考學測數學 _A_ 或數學 _B_ ，在這些學生中只報考數學 _A_ 的學生 3 5 \n\n占全體高三學生的 10[。報考數學] _[A]_[的學生中有] 8[的學生同時也報考數學] _[B]_[ 。則只報考]<br><img src=\"images/ceec/113/數B/04-113學測數學b試題定稿.pdf-0005-05.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/113/數B/04-113學測數學b試題定稿.pdf-0005-06.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/113/數B/04-113學測數學b試題定稿.pdf-0005-07.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/113/數B/04-113學測數學b試題定稿.pdf-0005-09.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/113/數B/04-113學測數學b試題定稿.pdf-0006-05.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/113/數B/04-113學測數學b試題定稿.pdf-0006-06.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/113/數B/04-113學測數學b試題定稿.pdf-0006-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [],
+      "answer": "27",
+      "type": "fill",
+      "score": 2
+    },
+    {
+      "number": 16,
+      "text": "在空間坐標系中，有一球心坐標在 _O_ (0,0,0) 且北極點在 _N_ (0,0,2) 的地球儀。已知球面上  3 1  \n\n點 _A_ 坐標為  , , 3  ，赤道上距離點 _A_ 最遠的點為點 _P_ ，則在通過點 _A_ 、點 _P_ 的大圓上  2 2  \n\n\n\n\n\n- 5 - \n\n請記得在答題卷簽名欄位以正楷簽全名 \n\n113年學測 數學B考科 \n\n第 6 頁 共 7 頁<br><img src=\"images/ceec/113/數B/04-113學測數學b試題定稿.pdf-0006-06.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/113/數B/04-113學測數學b試題定稿.pdf-0006-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/113/數B/04-113學測數學b試題定稿.pdf-0006-09.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/113/數B/04-113學測數學b試題定稿.pdf-0006-11.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [],
+      "answer": "43",
+      "type": "fill",
+      "score": 2
+    },
+    {
+      "number": 17,
+      "text": "在一圓的圓周上取 12 個等分點並以順時針方向依序編 1 號至 12 號。由這 12 個點任取 3 點為頂點所形成的三角形中，三個內角的角度由小到大會成等差數列的三角形有 \n\n   - 17-1 17-2 個。 \n\n   - ○○ \n\n## 第貳部分、混合題或非選擇題（占 **15** 分） \n\n- 說明︰本部分共有 1 題組，單選題每題 3 分，非選擇題配分標於題末。限在答題卷標示 題號的作答區內作答。 \n\n選擇（填）題與「非選擇題作圖部分」使用 2B 鉛筆作答，更正時以橡皮擦擦拭， 切勿使用修正帶（液）。非選擇題請由左而右橫式書寫，作答時必須寫出計算過程 或理由，否則將酌予扣分。 \n\n## 18-20 題為題組 \n\n如圖所示，考慮長方體的石塊上某一頂點 _A_ 及包含點 _A_ 的一個面，令這個面的各邊中點 分別為 _B_ , _E_ , _F_ , _D_ 。此長方體上包含點 _B_ 的另一個面，令其各邊中點分別為 _B_ , _C_ , _H_ , _G_ 。已知 _BC_ = 8, _BD_ = _DC_ = 9 。現將此石塊截去八個角，使得每個截角的截面恰通過該截角之三鄰邊 的中點。根據上述，試回答下列問題。<br><img src=\"images/ceec/113/數B/04-113學測數學b試題定稿.pdf-0006-09.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/113/數B/04-113學測數學b試題定稿.pdf-0006-11.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [],
+      "answer": "76",
+      "type": "fill",
+      "score": 2
+    },
+    {
+      "number": 18,
+      "text": "截角後的石塊為幾面體？（單選題，3 分） (1)八面體 (2)十面體 (3)十二面體 (4)十四面體 (5)十六面體<br><img src=\"images/ceec/113/數B/04-113學測數學b試題定稿.pdf-0007-10.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [
+        "(1) 八面體",
+        "(2) 十面體",
+        "(3) 十二面體",
+        "(4) 十四面體",
+        "(5) 十六面體"
+      ],
+      "answer": "4",
+      "type": "fill",
+      "score": 2
+    },
+    {
+      "number": 19,
+      "text": "試求 ∆ _BCD_ 的面積。（非選擇題，4 分）<br><img src=\"images/ceec/113/數B/04-113學測數學b試題定稿.pdf-0007-10.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [],
+      "answer": "",
+      "type": "essay",
+      "score": 0
+    },
+    {
+      "number": 20,
+      "text": "試求 _AD_ 的長度與四面體 _ABCD_ 的體積，並求此四面體以 ∆ _BCD_ 為底面時，頂點 _A_ 到底 × 高 \n\n面的高度。（角錐體積 =[底][面][積] ）（非選擇題，8 分） 3 \n\n- 6 - \n\n請記得在答題卷簽名欄位以正楷簽全名 \n\n113年學測 數學B考科 \n\n第 7 頁 共 7 頁 \n\n## 參考公式及可能用到的數值<br><img src=\"images/ceec/113/數B/04-113學測數學b試題定稿.pdf-0008-04.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/113/數B/04-113學測數學b試題定稿.pdf-0008-05.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/113/數B/04-113學測數學b試題定稿.pdf-0008-06.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/113/數B/04-113學測數學b試題定稿.pdf-0008-07.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/113/數B/04-113學測數學b試題定稿.pdf-0008-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/113/數B/04-113學測數學b試題定稿.pdf-0008-09.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [],
+      "answer": "",
+      "type": "essay",
+      "score": 0
+    }
+  ]
+}
