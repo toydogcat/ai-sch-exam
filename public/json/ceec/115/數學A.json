@@ -49,7 +49,7 @@
       "text": "坐標平面上同時滿足 $\\begin{cases} 2x - 3y - 1 > 0 \\\\ 2x + y + 1 < 0 \\end{cases}$ 的點 $P(x, y)$ 可能位在下列哪些選項？",
       "options": ["第一象限", "第二象限", "第三象限", "第四象限", "x 軸"],
       "answer": ["C", "D"],
-      "multiple": true,
+      "type": "multi",
       "score": 5
     },
     {
@@ -57,7 +57,7 @@
       "text": "已知 $A = \\begin{bmatrix} 2 & 1 \\\\ 1 & 0 \\end{bmatrix}$，且對所有正整數 $n \\ge 2$，令 $A^n = \\begin{bmatrix} a_n & b_n \\\\ c_n & d_n \\end{bmatrix}$。試選出正確的選項。",
       "options": ["$b_2 < c_2$", "$A^2 = 2A + \\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}$", "$c_{n+2} = 2c_{n+1} + c_n$", "$\\begin{bmatrix} a_{n+1} & b_{n+1} \\\\ c_{n+1} & d_{n+1} \\end{bmatrix} = \\begin{bmatrix} a_n & b_n \\\\ c_n & d_n \\end{bmatrix} \\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}$", "$d_n a_n - b_n c_n = (d_1 a_1 - b_1 c_1)^n$"],
       "answer": ["C", "E"],
-      "multiple": true,
+      "type": "multi",
       "score": 5
     },
     {
@@ -71,7 +71,7 @@
         "兩科原始成績的迴歸直線斜率與 T 分數的迴歸直線斜率相同"
       ],
       "answer": ["A", "C", "D"],
-      "multiple": true,
+      "type": "multi",
       "score": 5
     },
     {
@@ -79,7 +79,7 @@
       "text": "已知四邊形 $ABCD$ 中，$AB \\parallel DC$，$AC$ 與 $BD$ 交於 $E$。若 $\\vec{AB} = (2, -6)$，$\\vec{AD} = (1, 5)$ 且 $\\Delta ABE$ 面積為 3。試選出正確的選項。",
       "options": ["$\\cos \\angle BAD = -\\frac{7\\sqrt{65}}{65}$", "$\\Delta ABD$ 面積為 9", "$\\vec{AE} = (\\frac{3}{2}, -\\frac{1}{2})$", "四邊形 $ABCD$ 面積為 $\\frac{65}{3}$", "$BC < \\frac{8}{3}$"],
       "answer": ["A", "C", "D"],
-      "multiple": true,
+      "type": "multi",
       "score": 5
     },
     {
@@ -100,7 +100,7 @@
       "number": 15,
       "text": "已知三正數 $a, b, c$ 成等差且 $a < b < c$。若 $(a, \\log 3), (b, \\log 4), (c, \\log 6)$ 三點共線，則 $\\frac{b}{a}$ 之值為何？",
       "answer": "3/2",
-      "type": "fill",
+      "type": "fill_in",
       "score": 5
     }
   ]
