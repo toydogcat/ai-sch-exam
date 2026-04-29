@@ -4,7 +4,7 @@
   "questions": [
     {
       "number": 1,
-      "text": "不透明袋中有藍、綠色球各若干顆，且球上皆有 1 或 2 的編號，其顆數如下表，例如 標有 1 號的藍色球有 2 顆。 \n\n\n\n\n\n從此袋中隨機抽取一球（每顆球被抽到的機率相等），若已知抽到藍色球的事件與抽到 1 號球的事件互相獨立，試問 _k_ 值為何？ \n\n\n\n\n\n- 4 3 \n\n-<br><img src=\"/images/ceec/114/數A/數A.pdf-0002-06.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/ceec/114/數A/數A.pdf-0002-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "text": "不透明袋中有藍、綠色球各若干顆，且球上皆有 1 或 2 的編號，其顆數如下表，例如 標有 1 號的藍色球有 2 顆。 \n\n\n\n\n\n從此袋中隨機抽取一球（每顆球被抽到的機率相等），若已知抽到藍色球的事件與抽到 1 號球的事件互相獨立，試問 _k_ 值為何？ \n\n\n\n\n\n- 4 3 \n\n-<br><img src=\"images/ceec/114/數A/數A.pdf-0002-06.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/數A.pdf-0002-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
       "options": [
         "(1)",
         "(2)",
@@ -32,7 +32,7 @@
     },
     {
       "number": 3,
-      "text": "某校舉辦音樂會，包含鋼琴表演 5 個、小提琴表演 4 個、歌唱表演 3 個等三類表演 共 12 個不同曲目。該校想將同類表演排在一起，且歌唱必須排在鋼琴之後或是小提琴 之後。試問這場音樂會可能的曲目排列方式共有幾種？ (1) 5!  4!  3! \n\n   - (2) 2  5!  4!  3! \n\n   - (3) 3  5!  4!  3! (4) 4  5!  4!  3! (5) 6  5!  4!  3! \n\n- 1 - \n\n```\n請記得在答題卷簽名欄位以正楷簽全名\n```\n\n114 `年學測 數學` A `考科` \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n二、多選題（占 **30** 分） `說明：第` 7 `題至第` 12 `題，每題` 5 `分。`<br><img src=\"/images/ceec/114/數A/數A.pdf-0003-02.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/ceec/114/數A/數A.pdf-0003-03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/ceec/114/數A/數A.pdf-0003-04.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/ceec/114/數A/數A.pdf-0003-05.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "text": "某校舉辦音樂會，包含鋼琴表演 5 個、小提琴表演 4 個、歌唱表演 3 個等三類表演 共 12 個不同曲目。該校想將同類表演排在一起，且歌唱必須排在鋼琴之後或是小提琴 之後。試問這場音樂會可能的曲目排列方式共有幾種？ (1) 5!  4!  3! \n\n   - (2) 2  5!  4!  3! \n\n   - (3) 3  5!  4!  3! (4) 4  5!  4!  3! (5) 6  5!  4!  3! \n\n- 1 - \n\n```\n請記得在答題卷簽名欄位以正楷簽全名\n```\n\n114 `年學測 數學` A `考科` \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n二、多選題（占 **30** 分） `說明：第` 7 `題至第` 12 `題，每題` 5 `分。`<br><img src=\"images/ceec/114/數A/數A.pdf-0003-02.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/數A.pdf-0003-03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/數A.pdf-0003-04.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/數A.pdf-0003-05.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
       "options": [
         "(1)",
         "(2)",
@@ -120,7 +120,7 @@
     },
     {
       "number": 9,
-      "text": "設 _b_ 、 _c_ 為實數。已知二次方程式 _x_ + _bx_ + _c_ = 0有實根，但二次方程式 _x_ + ( _b_ + 2) _x_ + _c_ = 0 沒有實根。試選出正確的選項。 \n\n   - (1) _c_  0 \n\n   - (2) _b_  0 \n\n\n\n\n\n   - (4) _x_ 2 + ( _b_ + 2) _x_ − _c_ = 0 有實根 (5) _x_ 2 + ( _b_ − 2) _x_ + _c_ = 0 有實根<br><img src=\"/images/ceec/114/數A/數A.pdf-0004-13.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "text": "設 _b_ 、 _c_ 為實數。已知二次方程式 _x_ + _bx_ + _c_ = 0有實根，但二次方程式 _x_ + ( _b_ + 2) _x_ + _c_ = 0 沒有實根。試選出正確的選項。 \n\n   - (1) _c_  0 \n\n   - (2) _b_  0 \n\n\n\n\n\n   - (4) _x_ 2 + ( _b_ + 2) _x_ − _c_ = 0 有實根 (5) _x_ 2 + ( _b_ − 2) _x_ + _c_ = 0 有實根<br><img src=\"images/ceec/114/數A/數A.pdf-0004-13.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
       "options": [
         "(A)",
         "(B)",
@@ -138,7 +138,7 @@
     },
     {
       "number": 10,
-      "text": "令  為坐標平面上 _y_ = sin  _x_ 在 0  _x_  3 內之函數圖形。一水平直線 _L_ : _y_ = _k_ 與  相交， 其中三交點 _P_ ( _x_ 1, _k_ ), _Q_ ( _x_ 2, _k_ ), _R_ ( _x_ 3, _k_ ) 滿足 _x_ 1  _x_ 2  1 _x_ 3 。試選出正確的選項。 (1) _k_  0 \n\n   - (2) _L_ 與  恰有 3 個交點 \n\n\n\n\n\n- (5) _L_ 與  所有交點的 _x_ 坐標之和大於 5 \n\n- 3 - \n\n```\n請記得在答題卷簽名欄位以正楷簽全名\n```\n\n114 `年學測 數學` A `考科` \n\n`第` 4 `頁 共` 7 `頁` \n\n\n<br><img src=\"/images/ceec/114/數A/數A.pdf-0004-17.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/ceec/114/數A/數A.pdf-0005-03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "text": "令  為坐標平面上 _y_ = sin  _x_ 在 0  _x_  3 內之函數圖形。一水平直線 _L_ : _y_ = _k_ 與  相交， 其中三交點 _P_ ( _x_ 1, _k_ ), _Q_ ( _x_ 2, _k_ ), _R_ ( _x_ 3, _k_ ) 滿足 _x_ 1  _x_ 2  1 _x_ 3 。試選出正確的選項。 (1) _k_  0 \n\n   - (2) _L_ 與  恰有 3 個交點 \n\n\n\n\n\n- (5) _L_ 與  所有交點的 _x_ 坐標之和大於 5 \n\n- 3 - \n\n```\n請記得在答題卷簽名欄位以正楷簽全名\n```\n\n114 `年學測 數學` A `考科` \n\n`第` 4 `頁 共` 7 `頁` \n\n\n<br><img src=\"images/ceec/114/數A/數A.pdf-0004-17.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/數A.pdf-0005-03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
       "options": [
         "(A)",
         "(B)",
@@ -234,7 +234,7 @@
     },
     {
       "number": 16,
-      "text": "坐標平面上，設 _L_ 1 、 _L_ 2 為通過點 (3,1) 且斜率分別為 _m_ 、 − _m_ 的兩條直線，其中 _m_ 為 一實數。另設  為圓心在原點的一個圓。已知  與 _L_ 1 交於相異兩點 _A_ 、 _B_ ，且知 \n\n16-1 16-2 ○○ 圓心到 _L_ 1 的距離為 1，又  與 _L_ 2 相切，則弦 _AB_ 的長度為 。（化為最簡分數） 16-3 ○ \n\n- 5 - \n\n`請記得在答題卷簽名欄位以正楷簽全名 第` 6 `頁 共` 7 `頁` \n\n114 `年學測 數學` A `考科` \n\n\n\n\n\n\n\n\n\n## 第貳部分、混合題或非選擇題（占 **15** 分） \n\n- `說明︰本部分共有` 1 `題組，單選題每題` 3 `分，非選擇題配分標於題末。限在答題卷標示 題號的作答區內作答。` \n\n   - `選擇（填）題與「非選擇題作圖部分」使用` 2B `鉛筆作答，更正時以橡皮擦擦拭， 切勿使用修正帶（液）。非選擇題請由左而右橫式書寫，作答時必須寫出計算過程 或理由，否則將酌予扣分。` \n\n## 18-20 `題為題組` \n\n\n\n\n\n\n\n\n\n\n<br><img src=\"/images/ceec/114/數A/數A.pdf-0007-02.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/ceec/114/數A/數A.pdf-0007-03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/ceec/114/數A/數A.pdf-0007-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/ceec/114/數A/數A.pdf-0007-09.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/ceec/114/數A/數A.pdf-0007-10.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "text": "坐標平面上，設 _L_ 1 、 _L_ 2 為通過點 (3,1) 且斜率分別為 _m_ 、 − _m_ 的兩條直線，其中 _m_ 為 一實數。另設  為圓心在原點的一個圓。已知  與 _L_ 1 交於相異兩點 _A_ 、 _B_ ，且知 \n\n16-1 16-2 ○○ 圓心到 _L_ 1 的距離為 1，又  與 _L_ 2 相切，則弦 _AB_ 的長度為 。（化為最簡分數） 16-3 ○ \n\n- 5 - \n\n`請記得在答題卷簽名欄位以正楷簽全名 第` 6 `頁 共` 7 `頁` \n\n114 `年學測 數學` A `考科` \n\n\n\n\n\n\n\n\n\n## 第貳部分、混合題或非選擇題（占 **15** 分） \n\n- `說明︰本部分共有` 1 `題組，單選題每題` 3 `分，非選擇題配分標於題末。限在答題卷標示 題號的作答區內作答。` \n\n   - `選擇（填）題與「非選擇題作圖部分」使用` 2B `鉛筆作答，更正時以橡皮擦擦拭， 切勿使用修正帶（液）。非選擇題請由左而右橫式書寫，作答時必須寫出計算過程 或理由，否則將酌予扣分。` \n\n## 18-20 `題為題組` \n\n\n\n\n\n\n\n\n\n\n<br><img src=\"images/ceec/114/數A/數A.pdf-0007-02.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/數A.pdf-0007-03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/數A.pdf-0007-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/數A.pdf-0007-09.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/數A.pdf-0007-10.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
       "options": [
         "(1)",
         "(2)",
@@ -288,7 +288,7 @@
     },
     {
       "number": 20,
-      "text": "設 _L_ 為過點 _P_ 且 與直線 _OQ_ 平行的直線，點 _S_ 為 _L_ 和直線 _OR_ 的交點，試求  _OSP_ ， 並求點 _S_ 的坐標。（非選擇題，6 分） \n\n- 6 - \n\n114 `年學測 數學` A `考科` \n\n`第` 7 `頁 共` 7 `頁` \n\n```\n請記得在答題卷簽名欄位以正楷簽全名\n```\n\n## 參考公式及可能用到的數值 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<br><img src=\"/images/ceec/114/數A/數A.pdf-0008-04.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/ceec/114/數A/數A.pdf-0008-05.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/ceec/114/數A/數A.pdf-0008-06.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/ceec/114/數A/數A.pdf-0008-07.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/ceec/114/數A/數A.pdf-0008-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/ceec/114/數A/數A.pdf-0008-09.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/ceec/114/數A/數A.pdf-0008-10.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "text": "設 _L_ 為過點 _P_ 且 與直線 _OQ_ 平行的直線，點 _S_ 為 _L_ 和直線 _OR_ 的交點，試求  _OSP_ ， 並求點 _S_ 的坐標。（非選擇題，6 分） \n\n- 6 - \n\n114 `年學測 數學` A `考科` \n\n`第` 7 `頁 共` 7 `頁` \n\n```\n請記得在答題卷簽名欄位以正楷簽全名\n```\n\n## 參考公式及可能用到的數值 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<br><img src=\"images/ceec/114/數A/數A.pdf-0008-04.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/數A.pdf-0008-05.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/數A.pdf-0008-06.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/數A.pdf-0008-07.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/數A.pdf-0008-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/數A.pdf-0008-09.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/數A.pdf-0008-10.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
       "options": [
         "(1)",
         "(2)",

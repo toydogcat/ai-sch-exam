@@ -26,6 +26,15 @@ const getPathFromUrl = () => {
   return params.get('path')
 }
 
+const fixHtml = (html) => {
+  if (!html) return ''
+  // Handle both leading slash and non-leading slash cases
+  // If it starts with images/, prepend base. If it starts with /images/, replace with base.
+  let fixed = html.replace(/src=["']\/images\//g, `src="${withBase('/images/')}`)
+  fixed = fixed.replace(/src=["']images\//g, `src="${withBase('/images/')}`)
+  return fixed
+}
+
 const fetchQuestions = async () => {
   const path = getPathFromUrl()
   if (!path) {
@@ -213,12 +222,12 @@ const isCorrect = (q, idx) => {
     <div v-else class="exam-content">
       <div v-for="(q, index) in questions" :key="index" class="question-container">
         <!-- Passage Box -->
-        <div v-if="q.passage" class="passage-box" v-html="q.passage"></div>
+        <div v-if="q.passage" class="passage-box" v-html="fixHtml(q.passage)"></div>
 
         <div class="question-item" :class="{ 'submitted': isSubmitted, 'correct': isCorrect(q, index) === true, 'wrong': isCorrect(q, index) === false }">
           <div class="question-text">
             <span class="q-num">{{ q.number || (index + 1) }}.</span>
-            <span v-html="q.text"></span>
+            <span v-html="fixHtml(q.text)"></span>
             <span class="q-score" v-if="q.score">({{ q.score }}分)</span>
           </div>
 
