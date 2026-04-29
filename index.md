@@ -9,11 +9,11 @@
 :::
 
 <div class="category-grid">
-  <a href="/gsat" class="card">
+  <a href="./gsat" class="card">
     <h3>學科能力測驗 (GSAT)</h3>
     <p>包含國、英、數A、數B、社、自等科目歷年試題。</p>
   </a>
-  <a href="/ast" class="card">
+  <a href="./ast" class="card">
     <h3>分科測驗 (AST)</h3>
     <p>包含數甲、數乙、物理、化學、生物、歷史、地理、公民等科目。</p>
   </a>
