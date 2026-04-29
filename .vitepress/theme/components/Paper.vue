@@ -21,18 +21,25 @@ const formatTime = computed(() => {
 })
 
 const fetchQuestions = async () => {
-  const urlParams = new URLSearchParams(window.location.search)
-  const path = urlParams.get('path')
-  if (!path) return
+  const path = route.query.path
+  if (!path) {
+    console.warn('No exam path provided in URL query.')
+    return
+  }
 
   isLoading.value = true
   isSubmitted.value = false
   userAnswers.value = {}
   
   try {
-    const res = await fetch(withBase(`/json/${path}.json`))
-    if (!res.ok) throw new Error('Network response was not ok')
+    const jsonPath = withBase(`/json/${path}.json`)
+    console.log('Fetching exam data from:', jsonPath)
+    
+    const res = await fetch(jsonPath)
+    if (!res.ok) throw new Error(`Failed to load exam data: ${res.status} ${res.statusText}`)
+    
     const data = await res.json()
+    console.log('Exam data loaded successfully:', data.title)
     
     examTitle.value = data.title || path.split('/').pop()
     
@@ -46,7 +53,7 @@ const fetchQuestions = async () => {
       }
     }
     
-    // Initialize userAnswers for multi-select (arrays)
+    // Initialize userAnswers
     questions.value.forEach((q, idx) => {
       if (q.type === 'multi') {
         userAnswers.value[idx] = []
@@ -55,7 +62,7 @@ const fetchQuestions = async () => {
     
     startTimer()
   } catch (err) {
-    console.error('Failed to fetch questions:', err)
+    console.error('Exam load error:', err)
   } finally {
     isLoading.value = false
   }
