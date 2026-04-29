@@ -1,0 +1,107 @@
+{
+  "title": "115 學年度學科能力測驗 - 數學 A 考科 (參考試卷)",
+  "duration": 100,
+  "questions": [
+    {
+      "number": 1,
+      "text": "財神廟舉辦抽發財金活動：參加者抽兩次籤，每次抽籤出現「吉」、「祥」的機率皆為 $\\frac{1}{3}$。如果兩次都抽得「吉」，獲得獎金 180 元；如果兩次都抽得「祥」，獲得獎金 90 元；其餘情況則無獎金。試問參加者可獲獎金的期望值為何？",
+      "options": ["20 元", "30 元", "45 元", "60 元", "90 元"],
+      "answer": "B",
+      "score": 5
+    },
+    {
+      "number": 2,
+      "text": "對任一實數 $a$，令 $[a]$ 代表滿足 $[a] \\le a < [a] + 1$ 的整數，例如：$[3] = 3$，$[3.1] = 3$，$[ -3.1] = -4$。關於函數 $f(x) = [x-99] + [x+99]$，其中 $-99 \\le x \\le 99$；試選出正確的選項。",
+      "options": ["$f(-20) \\le f(0) < f(1)$", "$f(-20) < f(1) \\le f(0)$", "$f(1) < f(-20) \\le f(0)$", "$f(0) < f(-20) \\le f(1)$", "$f(0) \\le f(1) < f(-20)$"],
+      "answer": "A",
+      "score": 5
+    },
+    {
+      "number": 3,
+      "text": "設 $f(x) = a^x$，其中 $a$ 為正實數。已知 $c_1, c_2, c_3$ 是公差為 $\\frac{10}{3}$ 的等差數列，且 $f(c_1), f(c_2), f(c_3)$ 是公比為 4 的等比數列。則等比數列 $f(10), f(8), f(6)$ 的公比為何？",
+      "options": ["$2^{-\\frac{6}{5}}$", "$2^{-\\frac{3}{5}}$", "$2^{\\frac{3}{5}}$", "$2^{\\frac{6}{5}}$", "$2^{\\frac{5}{3}}$"],
+      "answer": "A",
+      "score": 5
+    },
+    {
+      "number": 4,
+      "text": "某網遊有 16 種材料，其中 6 種為基本材料，10 種為進階材料。任選 3 種不同材料可以合成出草藥、食物、藥水中的 1 類道具，其合成規則如下：<br>1. 若 3 種材料均為基本材料，則合成結果必為同一種草藥；<br>2. 若 3 種材料中 2 種為基本材料、1 種為進階材料，則合成結果會根據不同的進階材料得到不同種的食物，但不會受到基本材料不同而改變；<br>3. 其他的組合都會合成出不同種的藥水。<br>試問此網遊總共可合成出多少種道具？",
+      "options": ["256", "370", "401", "455", "560"],
+      "answer": "C",
+      "score": 5
+    },
+    {
+      "number": 5,
+      "text": "已知實數三階方陣 $A$ 滿足 $A\\begin{bmatrix} 1 \\\\ 1 \\\\ 0 \\end{bmatrix} = \\begin{bmatrix} 0 \\\\ 1 \\\\ 1 \\end{bmatrix}$，$A\\begin{bmatrix} 0 \\\\ -1 \\\\ 1 \\end{bmatrix} = \\begin{bmatrix} 1 \\\\ 1 \\\\ 1 \\end{bmatrix}$，$A\\begin{bmatrix} 1 \\\\ 0 \\\\ 0 \\end{bmatrix} = \\begin{bmatrix} 1 \\\\ 0 \\\\ -1 \\end{bmatrix}$。試問有多少個行向量 $\\vec{v} = \\begin{bmatrix} v_1 \\\\ v_2 \\\\ v_3 \\end{bmatrix}$ 滿足 $A\\vec{v} = \\begin{bmatrix} 1 \\\\ 0 \\\\ 1 \\end{bmatrix}$ 且 $\\vec{v}$ 垂直於行向量 $\\begin{bmatrix} 0 \\\\ 1 \\\\ 0 \\end{bmatrix}$？",
+      "options": ["1 個", "2 個", "3 個", "0 個", "無窮多個"],
+      "answer": "A",
+      "score": 5
+    },
+    {
+      "number": 6,
+      "text": "坐標平面上有 $A(2, 2), B(-1, 2)$ 兩點，試問直線 $y = -6$ 上有多少個點 $C$ 使得 $\\Delta ABC$ 為等腰三角形？",
+      "options": ["1", "2", "3", "4", "5"],
+      "answer": "E",
+      "score": 5
+    },
+    {
+      "number": 7,
+      "text": "坐標平面上同時滿足 $\\begin{cases} 2x - 3y - 1 > 0 \\\\ 2x + y + 1 < 0 \\end{cases}$ 的點 $P(x, y)$ 可能位在下列哪些選項？",
+      "options": ["第一象限", "第二象限", "第三象限", "第四象限", "x 軸"],
+      "answer": ["C", "D"],
+      "multiple": true,
+      "score": 5
+    },
+    {
+      "number": 8,
+      "text": "已知 $A = \\begin{bmatrix} 2 & 1 \\\\ 1 & 0 \\end{bmatrix}$，且對所有正整數 $n \\ge 2$，令 $A^n = \\begin{bmatrix} a_n & b_n \\\\ c_n & d_n \\end{bmatrix}$。試選出正確的選項。",
+      "options": ["$b_2 < c_2$", "$A^2 = 2A + \\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}$", "$c_{n+2} = 2c_{n+1} + c_n$", "$\\begin{bmatrix} a_{n+1} & b_{n+1} \\\\ c_{n+1} & d_{n+1} \\end{bmatrix} = \\begin{bmatrix} a_n & b_n \\\\ c_n & d_n \\end{bmatrix} \\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}$", "$d_n a_n - b_n c_n = (d_1 a_1 - b_1 c_1)^n$"],
+      "answer": ["C", "E"],
+      "multiple": true,
+      "score": 5
+    },
+    {
+      "number": 9,
+      "text": "$T$ 分數為評量成績的一種方式：$T = 50 + 10\\left(\\frac{S - \\mu}{\\sigma}\\right)$。已知某班數學和英文兩科的平均成績皆為 60，數學標準差為 12，英文標準差為 8。試選出正確的選項。",
+      "options": [
+        "若甲生英文原始成績為 52，則其 T 分數為 40",
+        "各生數學的 T 分數不會超過其原始成績",
+        "若乙生兩科原始成績平均比丙生高，則其 T 分數平均也較高",
+        "若及格標準均為 T 分數 $\\ge 40$，則數學及格原始成績比英文低",
+        "兩科原始成績的迴歸直線斜率與 T 分數的迴歸直線斜率相同"
+      ],
+      "answer": ["A", "C", "D"],
+      "multiple": true,
+      "score": 5
+    },
+    {
+      "number": 10,
+      "text": "已知四邊形 $ABCD$ 中，$AB \\parallel DC$，$AC$ 與 $BD$ 交於 $E$。若 $\\vec{AB} = (2, -6)$，$\\vec{AD} = (1, 5)$ 且 $\\Delta ABE$ 面積為 3。試選出正確的選項。",
+      "options": ["$\\cos \\angle BAD = -\\frac{7\\sqrt{65}}{65}$", "$\\Delta ABD$ 面積為 9", "$\\vec{AE} = (\\frac{3}{2}, -\\frac{1}{2})$", "四邊形 $ABCD$ 面積為 $\\frac{65}{3}$", "$BC < \\frac{8}{3}$"],
+      "answer": ["A", "C", "D"],
+      "multiple": true,
+      "score": 5
+    },
+    {
+      "number": 13,
+      "text": "某高中教師中 $\\frac{1}{4}$ 有學士學位，$\\frac{3}{4}$ 有碩士學位。學士中有 $\\frac{1}{5}$ 通過英聽，碩士中有 $\\frac{3}{5}$ 通過。若隨機抽選一位通過英聽的教師，其為碩士的條件機率為何？",
+      "answer": "9/10",
+      "type": "fill",
+      "score": 5
+    },
+    {
+      "number": 14,
+      "text": "坐標平面上，向量 $(a, b)$ 與直線 $y = bx - 1$ 垂直，則 $a + b$ 的最大可能值為何？",
+      "answer": "1/2",
+      "type": "fill",
+      "score": 5
+    },
+    {
+      "number": 15,
+      "text": "已知三正數 $a, b, c$ 成等差且 $a < b < c$。若 $(a, \\log 3), (b, \\log 4), (c, \\log 6)$ 三點共線，則 $\\frac{b}{a}$ 之值為何？",
+      "answer": "3/2",
+      "type": "fill",
+      "score": 5
+    }
+  ]
+}
