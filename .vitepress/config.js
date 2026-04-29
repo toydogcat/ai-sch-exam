@@ -1,0 +1,30 @@
+import { defineConfig } from 'vitepress'
+
+export default defineConfig({
+  base: '/ai-sch-exam/',
+  title: "大學入學考試測驗系統",
+  description: "學測 / 分科測驗 線上模擬測驗系統",
+  head: [
+    ['script', { async: true, src: 'https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js' }]
+  ],
+  themeConfig: {
+    nav: [
+      { text: '首頁', link: '/' },
+      { text: '開始測驗', link: '/exams' },
+      { text: '心得與解析', link: 'https://toydogcat.github.io/ai-exp-sch-exam/' }
+    ],
+    sidebar: [
+      {
+        text: '考試類別',
+        items: [
+          { text: '學測 (GSAT)', link: '/gsat' },
+          { text: '分科測驗 (AST)', link: '/ast' }
+        ]
+      }
+    ],
+    footer: {
+      message: '總訪問量 <span id="busuanzi_value_site_pv"></span> 次 | 訪客數 <span id="busuanzi_value_site_uv"></span> 人',
+      copyright: 'Copyright © 2026-present AI School Exam Team'
+    }
+  }
+})
