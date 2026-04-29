@@ -2,6 +2,7 @@
   "name": "ai-sch-exam",
   "version": "1.0.0",
   "description": "大學入學考試線上模擬測驗系統",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "dev": "vitepress dev",

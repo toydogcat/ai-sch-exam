@@ -1,10 +1,12 @@
 <script setup>
 import { ref, computed, onMounted, watch } from 'vue'
-import { withBase } from 'vitepress'
+import { withBase, useRoute } from 'vitepress'
 
+const route = useRoute()
 const questions = ref([])
 const userAnswers = ref({})
 const isSubmitted = ref(false)
+const isLoading = ref(false)
 const examineeName = ref('')
 const ticketNumber = ref('')
 const timeLeft = ref(90 * 60)
@@ -23,8 +25,13 @@ const fetchQuestions = async () => {
   const path = urlParams.get('path')
   if (!path) return
 
+  isLoading.value = true
+  isSubmitted.value = false
+  userAnswers.value = {}
+  
   try {
     const res = await fetch(withBase(`/json/${path}.json`))
+    if (!res.ok) throw new Error('Network response was not ok')
     const data = await res.json()
     
     examTitle.value = data.title || path.split('/').pop()
@@ -49,6 +56,8 @@ const fetchQuestions = async () => {
     startTimer()
   } catch (err) {
     console.error('Failed to fetch questions:', err)
+  } finally {
+    isLoading.value = false
   }
 }
 
@@ -111,6 +120,18 @@ onMounted(() => {
   ticketNumber.value = 'SCH-' + Math.random().toString(36).substr(2, 9).toUpperCase()
 })
 
+// Watch for route path/search changes to re-fetch
+watch(() => route.path + route.data?.path, () => {
+  fetchQuestions()
+}, { immediate: false })
+
+// Better watch for URL search params
+if (typeof window !== 'undefined') {
+  watch(() => window.location.search, () => {
+    fetchQuestions()
+  })
+}
+
 const submitExam = () => {
   isSubmitted.value = true
   window.scrollTo({ top: 0, behavior: 'smooth' })
@@ -161,7 +182,12 @@ const isCorrect = (q, idx) => {
         注意：請仔細閱讀題幹，並選擇正確答案。多選題需全部選對才給分。
     </div>
 
-    <div class="exam-content">
+    <div v-if="isLoading" class="loading-state">
+      <div class="spinner"></div>
+      <p>正在載入試卷...</p>
+    </div>
+
+    <div v-else class="exam-content">
       <div v-for="(q, index) in questions" :key="index" class="question-container">
         <!-- Passage Box -->
         <div v-if="q.passage" class="passage-box" v-html="q.passage"></div>
@@ -360,6 +386,28 @@ input { display: none; }
 
 .retry-btn { background: #ecf0f1; color: #7f8c8d; }
 .retry-btn:hover { background: #bdc3c7; }
+
+.loading-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 4rem;
+  gap: 1rem;
+}
+
+.spinner {
+  width: 40px;
+  height: 40px;
+  border: 4px solid #f3f3f3;
+  border-top: 4px solid #3498db;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+
+.instruction { background: #ebf5fb; border-left: 5px solid #3498db; padding: 1rem; margin-bottom: 2rem; font-size: 0.95rem; border-radius: 0 4px 4px 0; }
 
 @media (max-width: 768px) {
   .exam-paper { padding: 1.5rem; margin: 0; }
