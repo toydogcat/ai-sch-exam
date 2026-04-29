@@ -12,7 +12,8 @@
 - [自然](/exams?path=ceec/115/自然)
 
 ## 心得與解析 (Experience & Analysis)
-- [115 學年度學測參考試卷分析：國語文綜合能力測驗](https://toydogcat.github.io/ai-exp-sch-exam/學測/國文/115-gsat-chinese-analysis/)
+- [國語文綜合能力測驗](https://toydogcat.github.io/ai-sch-exam/exams?path=ceec/115/國綜) ([心得解析](https://toydogcat.github.io/ai-exp-sch-exam/學測/國文/115-gsat-chinese-analysis/))
+- [數學 A 考科](https://toydogcat.github.io/ai-sch-exam/exams?path=ceec/115/數學A) ([心得解析](https://toydogcat.github.io/ai-exp-sch-exam/學測/數學/115-gsat-math-a-analysis/))
 - [更多心得請前往部落格...](https://toydogcat.github.io/ai-exp-sch-exam/)
 
 ## 114 學年度
