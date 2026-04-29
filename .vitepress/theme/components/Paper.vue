@@ -128,17 +128,10 @@ onMounted(() => {
   ticketNumber.value = 'SCH-' + Math.random().toString(36).substr(2, 9).toUpperCase()
 })
 
-// Watch for route path/search changes to re-fetch
-watch(() => route.path + route.data?.path, () => {
-  fetchQuestions()
-}, { immediate: false })
-
-// Better watch for URL search params
-if (typeof window !== 'undefined') {
-  watch(() => window.location.search, () => {
-    fetchQuestions()
-  })
-}
+// Watch for route query changes to re-fetch
+watch(() => route.query.path, (newPath) => {
+  if (newPath) fetchQuestions()
+})
 
 const submitExam = () => {
   isSubmitted.value = true
