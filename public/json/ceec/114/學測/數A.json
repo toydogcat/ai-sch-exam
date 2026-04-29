@@ -1,0 +1,304 @@
+{
+  "title": "114 學年度學科能力測驗 - 數學 A 考科",
+  "duration": 100,
+  "questions": [
+    {
+      "number": 1,
+      "text": "不透明袋中有藍、綠色球各若干顆，且球上皆有 1 或 2 的編號，其顆數如下表，例如 標有 1 號的藍色球有 2 顆。 \n\n\n\n\n\n從此袋中隨機抽取一球（每顆球被抽到的機率相等），若已知抽到藍色球的事件與抽到 1 號球的事件互相獨立，試問 _k_ 值為何？ \n\n\n\n\n\n- 4 3 \n\n-<br><img src=\"/images/ceec/114/數A/數A.pdf-0002-06.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/ceec/114/數A/數A.pdf-0002-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)",
+        "(5)"
+      ],
+      "answer": "5",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 2,
+      "text": "坐標平面上， _P_ ( _a_ ,0) 為 _x_ 軸上一點，其中 _a_  0。令 _L_ 1 、 _L_ 2 為通過 _P_ 點，斜率分別為 − 3 、 − 2 的直線。已知 _L_ 1 、 _L_ 2 分別與兩坐標軸圍成的兩個直角三角形的面積差為 3 ，試問 _a_ 值 為何？ (1) 3 2 (2) 6 (3) 6 2 (4) 9 (5) 8 2",
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)",
+        "(5)"
+      ],
+      "answer": "2",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 3,
+      "text": "某校舉辦音樂會，包含鋼琴表演 5 個、小提琴表演 4 個、歌唱表演 3 個等三類表演 共 12 個不同曲目。該校想將同類表演排在一起，且歌唱必須排在鋼琴之後或是小提琴 之後。試問這場音樂會可能的曲目排列方式共有幾種？ (1) 5!  4!  3! \n\n   - (2) 2  5!  4!  3! \n\n   - (3) 3  5!  4!  3! (4) 4  5!  4!  3! (5) 6  5!  4!  3! \n\n- 1 - \n\n```\n請記得在答題卷簽名欄位以正楷簽全名\n```\n\n114 `年學測 數學` A `考科` \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n二、多選題（占 **30** 分） `說明：第` 7 `題至第` 12 `題，每題` 5 `分。`<br><img src=\"/images/ceec/114/數A/數A.pdf-0003-02.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/ceec/114/數A/數A.pdf-0003-03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/ceec/114/數A/數A.pdf-0003-04.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/ceec/114/數A/數A.pdf-0003-05.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)",
+        "(5)"
+      ],
+      "answer": "4",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 4,
+      "text": "ublic/images/ceec/114/數A/數A.pdf-0002-08.webp)\n\n\n- 4 3 \n\n- 2. 坐標平面上， _P_ ( _a_ ,0) 為 _x_ 軸上一點，其中 _a_  0。令 _L_ 1 、 _L_ 2 為通過 _P_ 點，斜率分別為 − 3 、 − 2 的直線。已知 _L_ 1 、 _L_ 2 分別與兩坐標軸圍成的兩個直角三角形的面積差為 3 ，試問 _a_ 值 為何？ (1) 3 2 (2) 6 (3) 6 2 (4) 9 (5) 8 2 \n\n3. 某校舉辦",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": "3",
+      "type": "single",
+      "score": 1
+    },
+    {
+      "number": 5,
+      "text": "** 分） \n\n一、單選題（占 **30** 分） `說明：第` 1 `題至第` 6 `題，每題` 5 `分。` \n\n1. 不透明袋中有藍、綠色球各若干顆，且球上皆有 1 或 2 的編號，其顆數如下表，例如 標有 1 號的藍色球有 2 顆。 \n\n\n\n\n\n從此袋中隨機抽取一球（每顆球被抽到的機率",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": "1",
+      "type": "single",
+      "score": 1
+    },
+    {
+      "number": 6,
+      "text": "參考數值： 2  1.414 , 3  1.732 , 5  2.236 , 6  2.449 ,   3.142",
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)",
+        "(5)"
+      ],
+      "answer": "3",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 7,
+      "text": "已知數列  _an_  滿足 3 _an_ + 1 = _an_ + _n_ （對任意正整數 _n_ 都成立）且 _a_ 1 = 2 。令數列  _bn_  滿足 _n_ 3 \n\n_bn_ = _an_ − 2 + 4 。試選出正確的選項。 (1) _a_ 2 = 2 3 \n\n(2) _b_ 2 = 4 2 \n\n(3) 數列  _[b] n_  是公比為 的等比數列 3 \n\n(4) 對於任意正整數 _n_ ， 3 _[n] an_ 皆為正整數 − 4 \n\n(5) _b_ 10  10 \n\n- 2 - \n\n114 `年學測 數學` A `考科` \n\n`第` 3 `頁 共` 7 `頁` \n\n```\n請記得在答題卷簽名欄位以正楷簽全名\n```",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)",
+        "(E)"
+      ],
+      "answer": [
+        "2",
+        "4"
+      ],
+      "type": "multi",
+      "score": 2
+    },
+    {
+      "number": 8,
+      "text": "考慮坐標平面上滿足方程式 \n\n      - 2 \n\n      - 2 _x_ 4 _x_ = 2 的點 _P_ ( _x_ , _y_ ) ，試選出正確的選項。 \n\n      - 8 2 _y_ \n\n   - (1) 當 _x_ = 3 時，滿足此方程式的解有相異 2 個 \n\n   - (2) 若點 ( _a_ , _b_ ) 滿足此方程式，則點 ( − _a_ , − _b_ ) 也滿足此方程式 \n\n   - (3) 所有可能的點 _P_ ( _x_ , _y_ ) 構成的圖形為一個圓 \n\n   - (4) 點 _P_ ( _x_ , _y_ ) 可能在直線 _x_ + _y_ = 4 上 \n\n   - (5) 對於所有可能的點 _P_ ( _x_ , _y_ ) ，其 _x_ − _y_ 的最大值為 1 + 2 2 \n\n- 2 2 \n\n-",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)",
+        "(E)"
+      ],
+      "answer": [
+        "3",
+        "5"
+      ],
+      "type": "multi",
+      "score": 2
+    },
+    {
+      "number": 9,
+      "text": "設 _b_ 、 _c_ 為實數。已知二次方程式 _x_ + _bx_ + _c_ = 0有實根，但二次方程式 _x_ + ( _b_ + 2) _x_ + _c_ = 0 沒有實根。試選出正確的選項。 \n\n   - (1) _c_  0 \n\n   - (2) _b_  0 \n\n\n\n\n\n   - (4) _x_ 2 + ( _b_ + 2) _x_ − _c_ = 0 有實根 (5) _x_ 2 + ( _b_ − 2) _x_ + _c_ = 0 有實根<br><img src=\"/images/ceec/114/數A/數A.pdf-0004-13.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)",
+        "(E)"
+      ],
+      "answer": [
+        "2",
+        "4",
+        "5"
+      ],
+      "type": "multi",
+      "score": 2
+    },
+    {
+      "number": 10,
+      "text": "令  為坐標平面上 _y_ = sin  _x_ 在 0  _x_  3 內之函數圖形。一水平直線 _L_ : _y_ = _k_ 與  相交， 其中三交點 _P_ ( _x_ 1, _k_ ), _Q_ ( _x_ 2, _k_ ), _R_ ( _x_ 3, _k_ ) 滿足 _x_ 1  _x_ 2  1 _x_ 3 。試選出正確的選項。 (1) _k_  0 \n\n   - (2) _L_ 與  恰有 3 個交點 \n\n\n\n\n\n- (5) _L_ 與  所有交點的 _x_ 坐標之和大於 5 \n\n- 3 - \n\n```\n請記得在答題卷簽名欄位以正楷簽全名\n```\n\n114 `年學測 數學` A `考科` \n\n`第` 4 `頁 共` 7 `頁` \n\n\n<br><img src=\"/images/ceec/114/數A/數A.pdf-0004-17.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/ceec/114/數A/數A.pdf-0005-03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)",
+        "(E)"
+      ],
+      "answer": [
+        "1",
+        "4",
+        "5"
+      ],
+      "type": "multi",
+      "score": 2
+    },
+    {
+      "number": 11,
+      "text": "ai-sch-exam/public/images/ceec/114/數A/數A.pdf-0001-11.webp)\n\n\n```\n選擇（填）題計分方式：\n```\n\n- `˙單選題：每題有` _[n]_ `個選項，其中只有一個是正確或最適當的選項。各題答對者，得該題 的分數；答錯、未作答或劃記多於一個選項者，該題以零分計算。` \n\n- `˙多選題：每題有` _[n]_ `個選項，其中至少有一個是正確的選項。各題之選項獨立判定，所有` _n_ − 2 _k_ \n\n- `選項均答對者，得該題全部的分數；答",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": [
+        "3",
+        "4",
+        "5"
+      ],
+      "type": "multi",
+      "score": 1
+    },
+    {
+      "number": 12,
+      "text": "某種合金由甲和乙兩種金屬組成，某生想知道其中金屬比例與合金的波長關係。 他做實驗測量「甲占比為 _x_ % 的合金所對應的波長 _y_ （單位：奈米）」，並將得到的 20 筆數據 ( _xk_ , _yk_ )， _k_ = 1, ,20 ，在 _xy_ 平面上標出對應的點，其迴歸直線（最適直線）為 _y_ = 21.3 _x_ − 40 。 \n\n> 為符合投稿規範，須將報告描述為「乙占比為 _u_ % 的合金所對應的波長 _v_ （單位：微米）」， \n\n> 他將數據 ( _xk_ , _yk_ ) 轉換為 ( _uk_ , _vk_ ) ， _k_ = 1, ,20 ，得到在 _uv_ 平面的迴歸直線為 _v_ = _au_ + _b_ 。 − 9 − 6 已知 1 奈米 = 10 公尺， 1 微米 = 10 公尺。試選出正確的選項。 \n\n> (1) _uk_ = 100 − _xk_ ， _k_ = 1, ,20 \n\n> (2) _vk_ = 1000 _yk_ ， _k_ = 1, ,20 \n\n> (3) _u_ 1, _u_ 2, _u_ 3, , _u_ 20 的標準差等於 _x_ 1, _x_ 2, _x_ 3, , _x_ 20 的標準差 \n\n- (4) _b_ = 2.09 \n\n(5) 某生發現有另一筆數據 ( _u_ 21, _v_ 21) ，且滿足 _v_ 21 = _au_ 21 + _b_ ；若將這 21 筆數據 ( _uk_ , _vk_ ) ， _k_ = 1, ,21，在 _uv_ 平面上標出對應的點，則其迴歸直線仍為 _v_ = _au_ + _b_ \n\n三、選填題（占 **25** 分） `說明：第` 13 `題至第` 17 `題，每題` 5 `分。`",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)",
+        "(E)"
+      ],
+      "answer": [
+        "1",
+        "3",
+        "4",
+        "5"
+      ],
+      "type": "multi",
+      "score": 2
+    },
+    {
+      "number": 13,
+      "text": "已知實係數三次多項式 _f_ ( _x_ ) 除以 _x_ + 6 得商式 _q_ ( _x_ ) 和餘式 3。若 _q_ ( _x_ ) 在 _x_ = − 6 有最大值 8， 則 _y_ = _f_ ( _x_ ) 圖形的對稱中心坐標為( 13-1 13-2 ， 13-3 )。 ○○ ○ \n\n- 4 - \n\n114 `年學測 數學` A `考科` \n\n`第` 5 `頁 共` 7 `頁` \n\n```\n請記得在答題卷簽名欄位以正楷簽全名\n```",
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)",
+        "(5)"
+      ],
+      "answer": "-6, 3",
+      "type": "fill",
+      "score": 2
+    },
+    {
+      "number": 14,
+      "text": "坐標空間中，已知點 _A_ 的坐標為 ( _a_ , _b_ , _c_ ) ，其中 _a_ , _b_ , _c_ 皆為小於 0 的實數 ， 且知點 _A_ 與三平面 _E_ 1 :4 _y_ + 3 _z_ = 2、 _E_ 2 :3 _y_ + 4 _z_ = − 5 、 _E_ 3 : _x_ + 2 _y_ + 2 _z_ = − 2 的距離都是 6 ， \n\n> 則 _a_ + _b_ + _c_ = 14-1 14-2 14-3 。 ○○○",
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)",
+        "(5)"
+      ],
+      "answer": "-111",
+      "type": "fill",
+      "score": 2
+    },
+    {
+      "number": 15,
+      "text": "假日市集有個攤位推出「試試手氣，定價 480 元的可愛玩偶最低只要 240 元」。規則為： 顧客投擲一枚均勻硬幣至多 5 次，前 3 次連續擲得 3 個正面者則只能以 240 元購得一個 玩偶，擲到第 4 次才累積得 3 個正面者則只能以 320 元購得一個，擲到第 5 次才累積得 3 個正面者則只能以 400 元購得一個； 5 次投完仍未累積 3 個正面者則只能以 480 元 購得一個。參與此遊戲的顧客購得一個玩偶所花金額的期望值為 15-1 15-2 15-3 元。 ○○○ \n\n>",
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)",
+        "(5)"
+      ],
+      "answer": "405",
+      "type": "fill",
+      "score": 2
+    },
+    {
+      "number": 16,
+      "text": "坐標平面上，設 _L_ 1 、 _L_ 2 為通過點 (3,1) 且斜率分別為 _m_ 、 − _m_ 的兩條直線，其中 _m_ 為 一實數。另設  為圓心在原點的一個圓。已知  與 _L_ 1 交於相異兩點 _A_ 、 _B_ ，且知 \n\n16-1 16-2 ○○ 圓心到 _L_ 1 的距離為 1，又  與 _L_ 2 相切，則弦 _AB_ 的長度為 。（化為最簡分數） 16-3 ○ \n\n- 5 - \n\n`請記得在答題卷簽名欄位以正楷簽全名 第` 6 `頁 共` 7 `頁` \n\n114 `年學測 數學` A `考科` \n\n\n\n\n\n\n\n\n\n## 第貳部分、混合題或非選擇題（占 **15** 分） \n\n- `說明︰本部分共有` 1 `題組，單選題每題` 3 `分，非選擇題配分標於題末。限在答題卷標示 題號的作答區內作答。` \n\n   - `選擇（填）題與「非選擇題作圖部分」使用` 2B `鉛筆作答，更正時以橡皮擦擦拭， 切勿使用修正帶（液）。非選擇題請由左而右橫式書寫，作答時必須寫出計算過程 或理由，否則將酌予扣分。` \n\n## 18-20 `題為題組` \n\n\n\n\n\n\n\n\n\n\n<br><img src=\"/images/ceec/114/數A/數A.pdf-0007-02.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/ceec/114/數A/數A.pdf-0007-03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/ceec/114/數A/數A.pdf-0007-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/ceec/114/數A/數A.pdf-0007-09.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/ceec/114/數A/數A.pdf-0007-10.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)",
+        "(5)"
+      ],
+      "answer": "24/5",
+      "type": "fill",
+      "score": 2
+    },
+    {
+      "number": 17,
+      "text": "ai-sch-exam/public/images/ceec/114/數A/數A.pdf-0004-17.webp)\n\n\n- (5) _L_ 與  所有交點的 _x_ 坐標之和大於 5 \n\n- 3 - \n\n```\n請記得在答題卷簽名欄位以正楷簽全名\n```\n\n114 `年學測 數學` A `考科` \n\n`第` 4 `頁 共` 7 `頁` \n\n\n![](/home/toymsi/documents/examination/Github/ai-sch-exam/public/images/ceec/1",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": "32",
+      "type": "single",
+      "score": 1
+    },
+    {
+      "number": 18,
+      "text": "帶（液）。非選擇題請由左而右橫式書寫，作答時必須寫出計算過程 或理由，否則將酌予扣分。` \n\n## 18-20 `題為題組` \n\n\n\n\n\n\n![](/home/toymsi/documents/examination/Github/ai-sch-exam/public/images/ceec/1",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": "2",
+      "type": "single",
+      "score": 1
+    },
+    {
+      "number": 19,
+      "text": "試求點 _Q_ 的坐標，以及 _OR_ 與向量 (1,0) 的夾角。（非選擇題，6 分）",
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)",
+        "(5)"
+      ],
+      "answer": "",
+      "type": "essay",
+      "score": 2
+    },
+    {
+      "number": 20,
+      "text": "設 _L_ 為過點 _P_ 且 與直線 _OQ_ 平行的直線，點 _S_ 為 _L_ 和直線 _OR_ 的交點，試求  _OSP_ ， 並求點 _S_ 的坐標。（非選擇題，6 分） \n\n- 6 - \n\n114 `年學測 數學` A `考科` \n\n`第` 7 `頁 共` 7 `頁` \n\n```\n請記得在答題卷簽名欄位以正楷簽全名\n```\n\n## 參考公式及可能用到的數值 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<br><img src=\"/images/ceec/114/數A/數A.pdf-0008-04.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/ceec/114/數A/數A.pdf-0008-05.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/ceec/114/數A/數A.pdf-0008-06.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/ceec/114/數A/數A.pdf-0008-07.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/ceec/114/數A/數A.pdf-0008-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/ceec/114/數A/數A.pdf-0008-09.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/ceec/114/數A/數A.pdf-0008-10.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)",
+        "(5)"
+      ],
+      "answer": "",
+      "type": "essay",
+      "score": 2
+    }
+  ]
+}

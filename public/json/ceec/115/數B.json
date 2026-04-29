@@ -1,0 +1,245 @@
+{
+  "title": "115 學年度學科能力測驗 - 數學 B 考科 (參考試卷)",
+  "duration": 100,
+  "questions": [
+    {
+      "number": 1,
+      "text": "<img src=\"/images/ceec/115/數B/數B.pdf-0002-05.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)",
+        "(5)"
+      ],
+      "answer": "D",
+      "score": 5
+    },
+    {
+      "number": 2,
+      "text": "以計算機的自然對數按鍵 ln（即 ln <i>x</i> = log<sub>e</sub> <i>x</i>）估算連續複利本利和 100 e<sup>0.03n</sup> = 135 所需期數 <i>n</i>，試選出等於 <i>n</i> 的選項。<br><img src=\"/images/ceec/115/數B/數B.pdf-0002-07.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)",
+        "(5)"
+      ],
+      "answer": "E",
+      "score": 5
+    },
+    {
+      "number": 3,
+      "text": "<img src=\"/images/ceec/115/數B/數B.pdf-0002-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)",
+        "(5)"
+      ],
+      "answer": "B",
+      "score": 5
+    },
+    {
+      "number": 4,
+      "text": "電腦程式模擬在太平洋等速航行的甲、乙兩艘船。甲船沿著北緯 60 度向西航行，乙船沿著赤道向東航行。在某一時間點甲船在西經 169 度、乙船在東經 140 度，試選出當甲船到達東經 171 度時，乙船在東經幾度。<br><img src=\"/images/ceec/115/數B/數B.pdf-0002-10.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)",
+        "(5)"
+      ],
+      "answer": "C",
+      "score": 5
+    },
+    {
+      "number": 5,
+      "text": "某人購買公益彩券，第一次以 <i>N</i> 元為投注金額。之後每次要投注時，先將前次投注金額增加一半設為預定金額。如果預定金額大於 2<i>N</i> 元，則將預定金額減少一半投注；否則就以預定金額投注。前四次投注紀錄如下表：<br><table><tr><td>第一次</td><td>第二次</td><td>第三次</td><td>第四次</td></tr><tr><td>預定金額</td><td>-</td><td>3/2 N</td><td>9/4 N</td><td>27/16 N</td></tr><tr><td>投注金額</td><td>N</td><td>3/2 N</td><td>9/8 N</td><td>27/16 N</td></tr></table><br>試選出此人第七次的投注金額為多少元。<br><img src=\"/images/ceec/115/數B/數B.pdf-0003-06.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)",
+        "(5)"
+      ],
+      "answer": "C",
+      "score": 5
+    },
+    {
+      "number": 6,
+      "text": "各國沿岸的「領海基線」其外側距離基線十二浬間之海域，為該國之「領海」。在以浬為單位的坐標平面上，某國有一部分的領海基線為直線 <i>L</i> : 4<i>x</i> + 3<i>y</i> - 12 = 0 上的某一線段，且 (5,5) 位於該領海基線的內側，如圖所示。試選出該段領海在 <i>L</i> 與下列哪一條直線之間。<br><img src=\"/images/ceec/115/數B/數B.pdf-0003-08.webp\" style=\"max-width:300px; display:block; margin:10px 0;\">",
+      "options": [
+        "(1) 4x + 3y + 48 = 0",
+        "(2) 4x + 3y + 18 = 0",
+        "(3) 4x + 3y = 0",
+        "(4) 4x + 3y - 24 = 0",
+        "(5) 4x + 3y - 72 = 0"
+      ],
+      "answer": "A",
+      "score": 5
+    },
+    {
+      "number": 7,
+      "text": "有 A、 B、 C 三種福袋各一個，其中 A、 B、 C 中獎的機率分別為 3/4, 2/3, 1/2，且不同福袋中獎與否互不影響。設在福袋 A 中獎的條件下，至少有兩個福袋中獎的機率為 <i>p</i>，且設在至少有兩個福袋中獎的條件下，福袋 A 中獎的機率為 <i>q</i>。試選出 <i>p/q</i> 之值。<br><img src=\"/images/ceec/115/數B/數B.pdf-0003-09.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)",
+        "(5)"
+      ],
+      "answer": "B",
+      "score": 5
+    },
+    {
+      "number": 8,
+      "text": "<img src=\"/images/ceec/115/數B/數B.pdf-0004-04.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)",
+        "(5)"
+      ],
+      "type": "multi",
+      "answer": [
+        "C",
+        "E"
+      ],
+      "score": 5
+    },
+    {
+      "number": 9,
+      "text": "設 <i>f</i>(<i>x</i>) = (1 - <i>x</i>)(2 - <i>x</i>)<sup>2</sup>(4 + <i>x</i>)。試選出正確的選項。<br>(1) <i>f</i>(<i>x</i>) 除以 (1 - <i>x</i>)(2 - <i>x</i>)(4 + <i>x</i>) 的餘式為 -x+2<br>(2) 若將 <i>f</i>(<i>x</i>) 表為 <i>a</i>(<i>x</i> - 2)<sup>4</sup> + <i>b</i>(<i>x</i> - 2)<sup>3</sup> + <i>c</i>(<i>x</i> - 2)<sup>2</sup>，則 <i>c</i> = -6<br>(3) <i>f</i>(<i>x</i>) > 0 的解區間為 (-4, 2)<br>(4) f(2026)/f(-2022) > 1<br>(5) f(2026) > f(-2022)",
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)",
+        "(5)"
+      ],
+      "type": "multi",
+      "answer": [
+        "B",
+        "D"
+      ],
+      "score": 5
+    },
+    {
+      "number": 10,
+      "text": "某研究探討昆蟲的身長與其體內兩種養分 A、 B 濃度的關係。研究中蒐集某種昆蟲，測得牠們身長與體內 A 濃度的數據如下表。<br><table><tr><td></td><td>平均數</td><td>變異數</td><td>相關係數</td></tr><tr><td>身長</td><td>65單位</td><td>100平方單位</td><td>0.75</td></tr><tr><td>A濃度</td><td>50單位</td><td>225平方單位</td><td></td></tr></table><br>已知每隻昆蟲體內的 B 濃度均為 A 濃度的 0.5 倍。試選出正確的選項。<br>(1) B 濃度的標準差為 7.5 單位<br>(2) 若身長的中位數為 65 單位，則 B 濃度的中位數為 25 單位<br>(3) B 濃度與 A 濃度的相關係數為 0.5<br>(4) 若找到一身長為 65 單位的昆蟲，利用 A 濃度對身長的迴歸直線（最適直線）預測，其體內 A 濃度為 50 單位<br>(5) B 濃度(Y)對身長(X)的迴歸直線斜率為 1/2",
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)",
+        "(5)"
+      ],
+      "type": "multi",
+      "answer": [
+        "A",
+        "D"
+      ],
+      "score": 5
+    },
+    {
+      "number": 11,
+      "text": "有一立燈為了採光，採用兩個可以替換的大、小燈罩。兩燈罩皆為直圓錐面的一部分，裝在燈上其軸線位置相同、燈源皆在頂點，且大燈罩照射在地面上的光線範圍大於小燈罩的光線範圍，如圖所示。令大、小燈罩在地面上所成的光線邊緣分別為圓錐曲線 Γ、 γ 的一部分。試選出正確的選項。<br><img src=\"/images/ceec/115/數B/數B.pdf-0005-09.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)",
+        "(5)"
+      ],
+      "type": "multi",
+      "answer": [
+        "B",
+        "E"
+      ],
+      "score": 5
+    },
+    {
+      "number": 12,
+      "text": "有兩容器，A 瓶內有含糖 100 公克的紅茶 1000 毫升，B 瓶內有不含糖的紅茶 500 毫升。用以下方式稀釋 A 瓶的甜度：將 A 瓶混合均勻後，倒出 500 毫升至 B 瓶，再將 B 瓶混合均勻後，倒 500 毫升回 A 瓶，稱此為一次稀釋。重複此稀釋動作，令第 <i>n</i> 次稀釋完，A 瓶的含糖量為 <i>a<sub>n</sub></i> 公克。試選出正確的選項。<br><img src=\"/images/ceec/115/數B/數B.pdf-0005-12.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)",
+        "(5)"
+      ],
+      "type": "multi",
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "score": 5
+    },
+    {
+      "number": 13,
+      "text": "坐標平面上， <i>L</i><sub>1</sub> 為通過原點 <i>O</i> 且斜角為 75° 的直線； <i>L</i><sub>2</sub> 為通過點 (-20, 0) 且斜角為 30° 的直線，如圖所示。則 <i>L</i><sub>1</sub>, <i>L</i><sub>2</sub> 的交點到原點的距離為多少？（四捨五入至整數）<br><img src=\"/images/ceec/115/數B/數B.pdf-0005-17.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "type": "fill",
+      "answer": "14",
+      "score": 5
+    },
+    {
+      "number": 14,
+      "text": "將 1, 2, 3, 4, 5, 6, 7 七個數字排成一個七位數。若要求排出的數字 3, 4 相鄰、5, 6 相鄰以及 6, 7 相鄰，則共可排出多少個七位數？",
+      "type": "fill",
+      "answer": "96",
+      "score": 5
+    },
+    {
+      "number": 15,
+      "text": "某校健康檢查：全體學生中有近視的占 1/2、有蛀牙的占 1/3。設 <i>p</i> 為全體學生中無近視且無蛀牙的學生所占比例。將部分資料依所占比例以列聯表呈現如下：<br><table><tr><td></td><td>有近視</td><td>無近視</td><td>總和</td></tr><tr><td>有蛀牙</td><td></td><td></td><td>1/3</td></tr><tr><td>無蛀牙</td><td></td><td>p</td><td>2/3</td></tr><tr><td>總和</td><td>1/2</td><td>1/2</td><td>1</td></tr></table><br>已知有近視的學生中，有蛀牙的占少數；有蛀牙的學生中，有近視的占多數。則 <i>p</i> 的範圍為何？<br><img src=\"/images/ceec/115/數B/數B.pdf-0006-07.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "type": "fill",
+      "answer": "13512",
+      "score": 5
+    },
+    {
+      "number": 16,
+      "text": "坐標平面上， <i>L</i> 為一次函數 <i>y</i> = <i>f</i>(<i>x</i>) 的圖形， Γ 為二次函數 <i>y</i> = <i>g</i>(<i>x</i>) 的圖形。已知 <i>L</i> 與 Γ 交於...<br><img src=\"/images/ceec/115/數B/數B.pdf-0006-09.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "type": "fill",
+      "answer": "43",
+      "score": 5
+    },
+    {
+      "number": 17,
+      "text": "利用單點透視法將坐標空間的點繪製在畫布的坐標平面上。已知：<br>（一）空間中與 y 軸平行的直線，在畫布上的消失點為 (0,15)<br>（二）空間中與 z 軸平行的直線，在畫布上都與 y 軸平行<br>...<br><img src=\"/images/ceec/115/數B/數B.pdf-0007-05.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "type": "fill",
+      "answer": "235",
+      "score": 5
+    },
+    {
+      "number": 18,
+      "text": "甲星軌跡的起點與終點連線線段的中垂線方程式。<br><img src=\"/images/ceec/115/數B/數B.pdf-0007-14.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [
+        "(1)",
+        "(2)",
+        "(3)",
+        "(4)",
+        "(5)"
+      ],
+      "answer": "A",
+      "score": 3
+    },
+    {
+      "number": 19,
+      "text": "令 <i>L</i> 為通過點 (8,0) 且斜率為 1 的直線。試說明點 <i>P</i> 在 <i>L</i> 上，並求甲星軌跡所在的圓方程式。",
+      "type": "fill",
+      "answer": "(x-4)^2 + (y-4)^2 = 32",
+      "score": 6
+    },
+    {
+      "number": 20,
+      "text": "已知照片中乙星軌跡的起點 <i>Q</i> 坐標為 (2,8)。令 <i>R</i> 為其軌跡終點，試求向量 PR 以及點 <i>R</i> 的坐標。",
+      "type": "fill",
+      "answer": "R(-4,2)",
+      "score": 6
+    }
+  ]
+}
