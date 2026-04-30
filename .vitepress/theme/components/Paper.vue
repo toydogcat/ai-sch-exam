@@ -35,6 +35,13 @@ const fixHtml = (html) => {
   return fixed
 }
 
+const fixAudioPath = (path) => {
+  if (!path) return ''
+  // If it's an absolute path from the public dir, clean it
+  let fixed = path.replace("/home/toymsi/documents/examination/Github/ai-sch-exam/public/", "")
+  return withBase(`/${fixed}`)
+}
+
 const fetchQuestions = async () => {
   const path = getPathFromUrl()
   if (!path) {
@@ -229,6 +236,12 @@ const isCorrect = (q, idx) => {
             <span class="q-num">{{ q.number || (index + 1) }}.</span>
             <span v-html="fixHtml(q.text)"></span>
             <span class="q-score" v-if="q.score">({{ q.score }}分)</span>
+          </div>
+
+          <!-- Audio Player Section -->
+          <div v-if="q.audio" class="audio-box">
+            <span class="audio-label">🎧 聽力播音：</span>
+            <audio controls :src="fixAudioPath(q.audio)" class="custom-audio"></audio>
           </div>
 
           <!-- Options Section -->
@@ -467,5 +480,26 @@ input { display: none; }
   .exam-paper { padding: 1.5rem; margin: 0; }
   .exam-header { flex-direction: column; align-items: flex-start; gap: 1rem; }
   .header-right { width: 100%; justify-content: space-between; }
+}
+
+.audio-box {
+  margin-bottom: 1.5rem;
+  background: #f1f3f5;
+  padding: 1rem;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.audio-label {
+  font-weight: 700;
+  color: #34495e;
+  white-space: nowrap;
+}
+
+.custom-audio {
+  width: 100%;
+  height: 40px;
 }
 </style>

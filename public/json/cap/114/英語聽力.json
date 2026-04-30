@@ -1,0 +1,302 @@
+{
+  "title": "114 年國中教育會考 - 英語聽力",
+  "year": "114",
+  "subject": "英語聽力",
+  "duration": 25,
+  "questions": [
+    {
+      "number": 1,
+      "text": "<br><img src=\"/images/cap/114/英語聽力/114_英語聽力_試題.pdf-0002-10.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "passage": "",
+      "options": [
+        "",
+        "",
+        ""
+      ],
+      "answer": "A",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/114/英語聽力/04 第1題.mp3",
+      "score": 2
+    },
+    {
+      "number": 2,
+      "text": "<br><img src=\"/images/cap/114/英語聽力/114_英語聽力_試題.pdf-0002-13.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/cap/114/英語聽力/114_英語聽力_試題.pdf-0002-16.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "passage": "",
+      "options": [
+        "",
+        "",
+        ""
+      ],
+      "answer": "C",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/114/英語聽力/05 第2題.mp3",
+      "score": 2
+    },
+    {
+      "number": 3,
+      "text": "<br><img src=\"/images/cap/114/英語聽力/114_英語聽力_試題.pdf-0003-01.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/cap/114/英語聽力/114_英語聽力_試題.pdf-0003-02.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "passage": "",
+      "options": [
+        "",
+        "",
+        ""
+      ],
+      "answer": "C",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/114/英語聽力/06 第3題.mp3",
+      "score": 2
+    },
+    {
+      "number": 4,
+      "text": "",
+      "passage": "",
+      "options": [
+        "I love my job.",
+        "Usually by metro.",
+        "Usually at six thirty."
+      ],
+      "answer": "B",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/114/英語聽力/08 第4題.mp3",
+      "score": 2
+    },
+    {
+      "number": 5,
+      "text": "",
+      "passage": "",
+      "options": [
+        "Just leave them on the table.",
+        "They’re in the wrong drawer.",
+        "I need them for tomorrow’s test."
+      ],
+      "answer": "A",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/114/英語聽力/09 第5題.mp3",
+      "score": 2
+    },
+    {
+      "number": 6,
+      "text": "",
+      "passage": "",
+      "options": [
+        "Yes, a dress.",
+        "Your favorite apple pie.",
+        "I bought some new plates."
+      ],
+      "answer": "B",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/114/英語聽力/10 第6題.mp3",
+      "score": 2
+    },
+    {
+      "number": 7,
+      "text": "",
+      "passage": "",
+      "options": [
+        "Sure, what is it?",
+        "Really? That’s crazy.",
+        "I haven’t heard of it before."
+      ],
+      "answer": "A",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/114/英語聽力/11 第7題.mp3",
+      "score": 2
+    },
+    {
+      "number": 8,
+      "text": "",
+      "passage": "",
+      "options": [
+        "Hurry up! Let’s run for it.",
+        "Don’t worry. I can give you a ride.",
+        "Sorry. Please come again some other time."
+      ],
+      "answer": "B",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/114/英語聽力/12 第8題.mp3",
+      "score": 2
+    },
+    {
+      "number": 9,
+      "text": "",
+      "passage": "",
+      "options": [
+        "Yes, it tastes delicious.",
+        "OK. See you at seven.",
+        "No, I’m not really hungry."
+      ],
+      "answer": "C",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/114/英語聽力/13 第9題.mp3",
+      "score": 2
+    },
+    {
+      "number": 10,
+      "text": "",
+      "passage": "",
+      "options": [
+        "I taught myself.",
+        "I won a prize once.",
+        "I take lessons twice a week."
+      ],
+      "answer": "A",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/114/英語聽力/14 第10題.mp3",
+      "score": 2
+    },
+    {
+      "number": 11,
+      "text": "",
+      "passage": "",
+      "options": [
+        "I’m not sure if he’s with me.",
+        "No, have you tried calling him?",
+        "Yes, you can ask him by yourself."
+      ],
+      "answer": "B",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/114/英語聽力/15 第11題.mp3",
+      "score": 2
+    },
+    {
+      "number": 12,
+      "text": "",
+      "passage": "",
+      "options": [
+        "Make him a card.",
+        "Cook him a nice dinner.",
+        "Take him to a restaurant."
+      ],
+      "answer": "B",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/114/英語聽力/17 第12題.mp3",
+      "score": 2
+    },
+    {
+      "number": 13,
+      "text": "",
+      "passage": "",
+      "options": [
+        "Cookies, milk, and tomatoes.",
+        "Cookies, milk, ice cream, and tomatoes.",
+        "Cookies, milk, tomatoes, and sandwiches."
+      ],
+      "answer": "A",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/114/英語聽力/18 第13題.mp3",
+      "score": 2
+    },
+    {
+      "number": 14,
+      "text": "",
+      "passage": "",
+      "options": [
+        "In a gift shop.",
+        "In a bookstore.",
+        "In a clothes shop."
+      ],
+      "answer": "C",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/114/英語聽力/19 第14題.mp3",
+      "score": 2
+    },
+    {
+      "number": 15,
+      "text": "",
+      "passage": "",
+      "options": [
+        "He almost hit someone.",
+        "He drove around a corner.",
+        "He was trying to answer a call."
+      ],
+      "answer": "A",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/114/英語聽力/20 第15題.mp3",
+      "score": 2
+    },
+    {
+      "number": 16,
+      "text": "",
+      "passage": "",
+      "options": [
+        "The man’s class.",
+        "The woman’s class.",
+        "Lily’s class."
+      ],
+      "answer": "A",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/114/英語聽力/21 第16題.mp3",
+      "score": 2
+    },
+    {
+      "number": 17,
+      "text": "",
+      "passage": "",
+      "options": [
+        "She tries to make him feel bad.",
+        "She wants him to enjoy his birthday.",
+        "She can deal with dirty plates herself."
+      ],
+      "answer": "B",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/114/英語聽力/22 第17題.mp3",
+      "score": 2
+    },
+    {
+      "number": 18,
+      "text": "",
+      "passage": "",
+      "options": [
+        "Because she wants a better job.",
+        "Because she already found a job.",
+        "Because she lied in the job interview."
+      ],
+      "answer": "C",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/114/英語聽力/23 第18題.mp3",
+      "score": 2
+    },
+    {
+      "number": 19,
+      "text": "",
+      "passage": "",
+      "options": [
+        "What days the garbage truck comes.",
+        "How garbage is collected in Taiwan.",
+        "Which music garbage trucks in Taiwan play."
+      ],
+      "answer": "B",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/114/英語聽力/24 第19題.mp3",
+      "score": 2
+    },
+    {
+      "number": 20,
+      "text": "",
+      "passage": "",
+      "options": [
+        "She thinks the man knows Alan well.",
+        "She does not think Alan will move to America.",
+        "She thinks Alan will move to America next year."
+      ],
+      "answer": "B",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/114/英語聽力/25 第20題.mp3",
+      "score": 2
+    },
+    {
+      "number": 21,
+      "text": "",
+      "passage": "",
+      "options": [
+        "The game will begin soon.",
+        "The snacks at the food stands are free.",
+        "People have to wait until the rain stops."
+      ],
+      "answer": "C",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/114/英語聽力/26 第21題.mp3",
+      "score": 2
+    }
+  ]
+}

@@ -1,0 +1,403 @@
+{
+  "title": "114 年國中教育會考 - 數學",
+  "year": "114",
+  "subject": "數學",
+  "duration": 80,
+  "questions": [
+    {
+      "number": 1,
+      "text": "算式 $7^{10}\\times7^{2}\\div7^{4}$ 之值可用下列何者表示？",
+      "passage": "",
+      "options": [
+        "$7^3$",
+        "$7^5$",
+        "$7^8$",
+        "$7^{16}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "audio": "",
+      "score": 4
+    },
+    {
+      "number": 2,
+      "text": "計算 $(5x^{2}-2x)-(4-3x)$ 的結果，與下列何者相同？",
+      "passage": "",
+      "options": [
+        "$5x^{2}-3x$",
+        "$5x^{2}+x-4$",
+        "$5x^{2}-5x+4$",
+        "$5x^{2}-5x-4$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "audio": "",
+      "score": 4
+    },
+    {
+      "number": 3,
+      "text": "方格紙格線上的八條等長線段形成一個線對稱圖形。圖中有四條線段標示上號碼，判斷擦去下列哪個選項中的兩條線段後，剩下的圖形不是線對稱圖形？<br><img src=\"/images/cap/114/數學/114_數學_試題.pdf-0002-10.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "passage": "",
+      "options": [
+        "①和②",
+        "①和③",
+        "②和③",
+        "②和④\n\n---"
+      ],
+      "answer": "C",
+      "type": "single",
+      "audio": "",
+      "score": 4
+    },
+    {
+      "number": 4,
+      "text": "若二元一次聯立方程式 $\\begin{cases}37x+2y=81\\\\ 23x-2y=39\\end{cases}$ 的解為 $x=a$，$y=b$，則 $a+2b$ 之值為何？",
+      "passage": "",
+      "options": [
+        "33",
+        "9",
+        "-3",
+        "-27"
+      ],
+      "answer": "B",
+      "type": "single",
+      "audio": "",
+      "score": 4
+    },
+    {
+      "number": 5,
+      "text": "$\\triangle ABC$ 中有 $AD$，$D$ 點在 $BC$ 上。根據圖中標示的度數，求 $p+q+r$ 之值是多少？<br><img src=\"/images/cap/114/數學/114_數學_試題.pdf-0003-09.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/cap/114/數學/114_數學_試題.pdf-0003-10.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "passage": "",
+      "options": [
+        "140",
+        "150",
+        "160",
+        "180"
+      ],
+      "answer": "C",
+      "type": "single",
+      "audio": "",
+      "score": 4
+    },
+    {
+      "number": 6,
+      "text": "一坐標平面，若從平面上的點 $(-1,2)$ 出發，向下移動再向右移動，則可能移動到下列哪一點？<br><img src=\"/images/cap/114/數學/114_數學_試題.pdf-0003-16.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "passage": "",
+      "options": [
+        "$(4,1)$",
+        "$(4,3)$",
+        "$(-4,1)$",
+        "$(-4,3)$\n\n---"
+      ],
+      "answer": "A",
+      "type": "single",
+      "audio": "",
+      "score": 4
+    },
+    {
+      "number": 7,
+      "text": "某國預估50年後的人口變動數直方圖，各組的數值若為正數表示該組人口50年後會增加，若為負數表示該組人口50年後會減少。根據此圖預估該國60歲以上的人口，50年後會增加或減少多少人？（註：直方圖顯示60-69歲為-109萬人，70-79歲為112萬人，80-90+歲為204萬人）<br><img src=\"/images/cap/114/數學/114_數學_試題.pdf-0004-01.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/cap/114/數學/114_數學_試題.pdf-0004-02.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "passage": "",
+      "options": [
+        "增加207萬人",
+        "增加425萬人",
+        "減少109萬人",
+        "減少271萬人"
+      ],
+      "answer": "A",
+      "type": "single",
+      "audio": "",
+      "score": 4
+    },
+    {
+      "number": 8,
+      "text": "計算 $(2\\sqrt{3}+\\sqrt{6})\\times\\sqrt{2}$ 的結果，與下列何者相同？",
+      "passage": "",
+      "options": [
+        "$4\\sqrt{3}$",
+        "$\\sqrt{3}$",
+        "$2\\sqrt{6}+2\\sqrt{3}$",
+        "$4\\sqrt{3}+2\\sqrt{6}$\n\n---"
+      ],
+      "answer": "C",
+      "type": "single",
+      "audio": "",
+      "score": 4
+    },
+    {
+      "number": 9,
+      "text": "某園區想將20個無障礙停車位設置在出入口附近，為了符合規定，規劃每個停車位的長度為600公分，寬度為200公分，並且停車位旁需設置寬度為150公分的下車區，相鄰的停車位可以共用下車區。若讓這些停車位相鄰，且兩個相鄰的停車位之間皆有下車區，則總共的停車位及下車區的總寬度是多少公分？<br><img src=\"/images/cap/114/數學/114_數學_試題.pdf-0005-01.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "passage": "",
+      "options": [
+        "6850",
+        "7000",
+        "7150",
+        "7200"
+      ],
+      "answer": "A",
+      "type": "single",
+      "audio": "",
+      "score": 4
+    },
+    {
+      "number": 10,
+      "text": "利用乘法公式判斷，下列算式之值，何者與其他不相同？",
+      "passage": "",
+      "options": [
+        "$(106^{2}-4^{2})\\times(108^{2}-2^{2})$",
+        "$(107^{2}-3^{2})\\times(107^{2}-1^{2})$",
+        "$(108^{2}-2^{2})\\times(106^{2}-2^{2})$",
+        "$(109^{2}-1^{2})\\times(105^{2}-1^{2})$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "audio": "",
+      "score": 4
+    },
+    {
+      "number": 11,
+      "text": "阿嘉和小楊都有5張分別標示數字1、2、3、4、5的紙牌，兩人各自有三張牌被自己蓋住。今兩人打算從自己蓋住的紙牌中翻開一張牌，若阿嘉蓋住的牌中每張牌被翻開的機會相等，小楊蓋住的牌中每張牌被翻開的機會相等，已知阿嘉亮出的牌為1、3，小楊亮出的牌為5、2，則比較兩人翻開的那張牌上的數字，阿嘉比小楊大的機率為何？<br><img src=\"/images/cap/114/數學/114_數學_試題.pdf-0005-12.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/cap/114/數學/114_數學_試題.pdf-0005-13.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "passage": "",
+      "options": [
+        "$\\frac{1}{3}$",
+        "$\\frac{2}{3}$",
+        "$\\frac{5}{9}$",
+        "$\\frac{1}{9}$\n\n---"
+      ],
+      "answer": "A",
+      "type": "single",
+      "audio": "",
+      "score": 4
+    },
+    {
+      "number": 12,
+      "text": "有甲、乙、丙三種三角形木片，阿林、小博打算利用這三種木片各自組合成一個正三角錐。首先兩人皆選一片甲（邊長3,3,3）當作底面，接著阿林選三片乙（邊長3,3,2）當作側面，小博選三片丙（邊長4,4,3）當作側面，關於兩人選的木片能不能組合成一個正三角錐，下列判斷何者正確？<br><img src=\"/images/cap/114/數學/114_數學_試題.pdf-0006-05.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/cap/114/數學/114_數學_試題.pdf-0006-06.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/cap/114/數學/114_數學_試題.pdf-0006-07.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "passage": "",
+      "options": [
+        "兩人皆能",
+        "兩人皆不能",
+        "阿林能，小博不能",
+        "阿林不能，小博能"
+      ],
+      "answer": "D",
+      "type": "single",
+      "audio": "",
+      "score": 4
+    },
+    {
+      "number": 13,
+      "text": "已知甲方程式為 $(x-4)^{2}=9$，乙方程式為 $(x+9)^{2}=-4$。關於甲、乙兩方程式的解的情形，下列敘述何者正確？",
+      "passage": "",
+      "options": [
+        "甲有兩個相異的解，乙無解",
+        "甲有兩個相異的解，乙有兩個相異的解",
+        "甲有兩個相同的解，乙無解",
+        "甲有兩個相同的解，乙有兩個相異的解"
+      ],
+      "answer": "A",
+      "type": "single",
+      "audio": "",
+      "score": 4
+    },
+    {
+      "number": 14,
+      "text": "貝可咖啡店的菜單上咖啡每杯50元，三明治每個40元，早餐組合（一杯咖啡加一個三明治）每組70元。店家今日準備了120杯咖啡 and 100個三明治販售。若今日準備的餐點全部售出且收入共為8700元，則售出早餐組合的收入在下列哪一個範圍？<br><img src=\"/images/cap/114/數學/114_數學_試題.pdf-0006-18.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/cap/114/數學/114_數學_試題.pdf-0006-19.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "passage": "",
+      "options": [
+        "4300~4399元",
+        "4400~4499元",
+        "4500~4599元",
+        "4600~4699元\n\n---"
+      ],
+      "answer": "C",
+      "type": "single",
+      "audio": "",
+      "score": 4
+    },
+    {
+      "number": 15,
+      "text": "數線上由左至右有 $A(a)$、$B(b)$、$C(c)$、$D(d)$、$E(e)$ 五點，且 $\\overline{AB}=\\overline{BC}=\\overline{CD}=\\overline{DE}$。若原點在 $\\overline{AE}$ 上，且 $|a|+|b|=|e|$，則下列關於原點位置的敘述，何者正確？<br><img src=\"/images/cap/114/數學/114_數學_試題.pdf-0007-04.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "passage": "",
+      "options": [
+        "在 $\\overline{BC}$ 上且較接近B點",
+        "在 $\\overline{BC}$ 上且較接近C點",
+        "在 $\\overline{CD}$ 上且較接近C點",
+        "在 $\\overline{CD}$ 上且較接近D點"
+      ],
+      "answer": "B",
+      "type": "single",
+      "audio": "",
+      "score": 4
+    },
+    {
+      "number": 16,
+      "text": "$\\triangle ABC$ 中，$D$ 點為 $\\overline{AB}$ 的中點，$E$ 點在 $\\overline{AB}$ 上，$F$ 點在 $\\overline{AC}$ 上，且 $\\overline{EF} \\parallel \\overline{BC}$。若 $\\overline{AF}=7$，$\\overline{FC}=3$，則下列敘述何者正確？<br><img src=\"/images/cap/114/數學/114_數學_試題.pdf-0007-11.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/cap/114/數學/114_數學_試題.pdf-0007-12.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "passage": "",
+      "options": [
+        "$\\overline{DE}>\\overline{EB}$，$\\overline{DF}$ 與 $\\overline{EC}$ 平行",
+        "$\\overline{DE}>\\overline{EB}$，$\\overline{DF}$ 與 $\\overline{EC}$ 不平行",
+        "$\\overline{DE}<\\overline{EB}$，$\\overline{DF}$ 與 $\\overline{EC}$ 平行",
+        "$\\overline{DE}<\\overline{EB}$，$\\overline{DF}$ 與 $\\overline{EC}$ 不平行"
+      ],
+      "answer": "D",
+      "type": "single",
+      "audio": "",
+      "score": 4
+    },
+    {
+      "number": 17,
+      "text": "某種螺絲釘上螺紋的示意圖，圖中的虛線皆為水平線或鉛垂線，螺紋深度的三角形頂角為 $60^{\\circ}$，底角向外延伸部分與鉛垂線夾角皆為 $30^{\\circ}$。整個螺紋的總高度為 $H$，頂部被截去 $H/8$，底部截去 $H/4$ 形成螺紋間距。根據標示，判斷此種螺絲釘的螺紋深度是螺紋間距的多少倍？<br><img src=\"/images/cap/114/數學/114_數學_試題.pdf-0007-16.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/cap/114/數學/114_數學_試題.pdf-0007-17.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "passage": "",
+      "options": [
+        "$\\frac{5}{8}$",
+        "$\\frac{5}{16}$",
+        "$\\frac{5\\sqrt{3}}{8}$",
+        "$\\frac{5\\sqrt{3}}{16}$\n\n---"
+      ],
+      "answer": "D",
+      "type": "single",
+      "audio": "",
+      "score": 4
+    },
+    {
+      "number": 18,
+      "text": "已知 $a$、$b$、$c$ 皆為正整數，且 $a$、$b$ 兩數的最大公因數與最小公倍數分別為11與88。關於 $a$、$b$、$c$ 三數的最大公因數與最小公倍數，甲、乙兩人分別提出看法如下：\n甲：$a$、$b$、$c$ 三數的最大公因數可能比11大\n乙：$a$、$b$、$c$ 三數的最小公倍數可能比88小\n對於甲、乙兩人的看法，下列判斷何者正確？",
+      "passage": "",
+      "options": [
+        "甲、乙皆正確",
+        "甲、乙皆錯誤",
+        "甲正確，乙錯誤",
+        "甲錯誤，乙正確"
+      ],
+      "answer": "B",
+      "type": "single",
+      "audio": "",
+      "score": 4
+    },
+    {
+      "number": 19,
+      "text": "金銀河影城的價目表中電影票 320元/張，爆米花 80元/盒，飲料 50元/杯。每張電影票能使用下列其中一種優惠：優惠一為「飲料一杯35元」；優惠二為「爆米花一盒＋飲料一杯 90元」。某社團16人去此影城看電影，打算以比賽獎金6000元購買電影票、爆米花與飲料。若要讓每人拿到一張電影票 and 一杯飲料，則最多可買多少盒爆米花？<br><img src=\"/images/cap/114/數學/114_數學_試題.pdf-0008-11.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/cap/114/數學/114_數學_試題.pdf-0008-12.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "passage": "",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "C",
+      "type": "single",
+      "audio": "",
+      "score": 4
+    },
+    {
+      "number": 20,
+      "text": "一張五邊形紙片 $ABCDE$，$F$ 點在 $CD$ 上，且以 $\\overline{BE}$、$\\overline{BF}$、$\\overline{FE}$ 為摺線將紙片向內摺至同一平面後，$A$、$C$、$D$ 恰重疊在同一點 $P$。若 $\\overline{BE}>\\overline{FE}>\\overline{BF}$，則根據圖中標示的角，判斷下列敘述何者正確？<br><img src=\"/images/cap/114/數學/114_數學_試題.pdf-0008-14.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "passage": "",
+      "options": [
+        "$\\angle3+\\angle4=90^{\\circ}$，$\\angle1+\\angle2>\\angle5+\\angle6$",
+        "$\\angle3+\\angle4=90^{\\circ}$，$\\angle1+\\angle2<\\angle5+\\angle6$",
+        "$\\angle3+\\angle4\\ne90^{\\circ}$，$\\angle1+\\angle2>\\angle5+\\angle6$",
+        "$\\angle3+\\angle4\\ne90^{\\circ}$，$\\angle1+\\angle2<\\angle5+\\angle6$\n\n---"
+      ],
+      "answer": "A",
+      "type": "single",
+      "audio": "",
+      "score": 4
+    },
+    {
+      "number": 21,
+      "text": "坐標平面上有二次函數 $y=-(x+7)^{2}+12$ 的圖形，今將此圖形向右平移10單位，平移過程中此圖形與y軸的交點也會跟著變化。假設此圖形與y軸的交點為P，判斷在平移過程中，P點位置的變化情形為下列何者？",
+      "passage": "",
+      "options": [
+        "持續向下",
+        "持續向上",
+        "先向下再向上",
+        "先向上再向下"
+      ],
+      "answer": "D",
+      "type": "single",
+      "audio": "",
+      "score": 4
+    },
+    {
+      "number": 22,
+      "text": "$\\triangle ADG$ 的頂點 $G$ 為 $\\triangle ABC$ 的重心，$\\overline{DG}$ 與 $\\overline{AB}$ 相交於 $E$ 點。若 $\\overline{DE}:\\overline{EG}=3:2$，$\\overline{AE}:\\overline{EB}=3:4$，則 $\\triangle ADG$ 面積為 $\\triangle ABC$ 面積的多少倍？<br><img src=\"/images/cap/114/數學/114_數學_試題.pdf-0009-07.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/cap/114/數學/114_數學_試題.pdf-0009-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "passage": "",
+      "options": [
+        "$\\frac{5}{12}$",
+        "$\\frac{5}{14}$",
+        "$\\frac{5}{15}$",
+        "$\\frac{5}{21}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "audio": "",
+      "score": 4
+    },
+    {
+      "number": 23,
+      "text": "$\\triangle ABC$ 的三個頂點都在一圓上，固定A點將 $\\triangle ABC$ 依順時針方向旋轉，旋轉後的三角形為 $\\triangle AB^{\\prime}C^{\\prime}$，且 $B^{\\prime}$ 會落在同一圓上，其中 $\\overline{AB}$ 與 $\\overline{AC^{\\prime}}$ 的夾角為 $x^{\\circ}$。若 $\\overset{\\frown}{BC}=54^{\\circ}$，$\\overset{\\frown}{CA}=62^{\\circ}$，則X值為何？<br><img src=\"/images/cap/114/數學/114_數學_試題.pdf-0009-10.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/cap/114/數學/114_數學_試題.pdf-0009-14.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/cap/114/數學/114_數學_試題.pdf-0010-02.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/cap/114/數學/114_數學_試題.pdf-0010-03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "passage": "",
+      "options": [
+        "27",
+        "31",
+        "32",
+        "37"
+      ],
+      "answer": "D",
+      "type": "single",
+      "audio": "",
+      "score": 4
+    },
+    {
+      "number": 24,
+      "text": "小桃騎乘該自行車時，原本使用的前齒輪為33齒，後齒輪為21齒。根據上文，他從原本的前後齒輪組合切換成下列四種組合中的哪一種後，踩起來最費力？",
+      "passage": "**題組：24-25 題**\n\n\n小桃買了一輛變速自行車，在騎乘時可以切換不同的前齒輪齒數與後齒輪齒數的組合來適應各種坡度。已知這輛自行車的前齒輪有3種齒數，後齒輪有6種齒數，如表(一)所示，前齒輪齒數與後齒輪齒數的組合有 $3\\times6=18$ 種，因此這輛自行車稱為18段變速自行車。\n前齒輪：22齒、33齒、44齒\n後齒輪：14齒、16齒、18齒、21齒、24齒、28齒\n已知，齒輪比 = 前齒輪齒數 / 後齒輪齒數，它代表前齒輪轉動一圈會帶動後齒輪轉動多少圈，齒輪比越大，自行車踩起來越費力。<br><img src=\"/images/cap/114/數學/114_數學_試題.pdf-0010-02.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/cap/114/數學/114_數學_試題.pdf-0010-03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "options": [
+        "前齒輪不變，後齒輪切換為18齒",
+        "前齒輪不變，後齒輪切換為24齒",
+        "前齒輪切換為22齒，後齒輪不變",
+        "前齒輪切換為44齒，後齒輪不變"
+      ],
+      "answer": "D",
+      "type": "single",
+      "audio": "",
+      "score": 4
+    },
+    {
+      "number": 25,
+      "text": "即使是不同的前齒輪齒數與後齒輪齒數的組合，仍可能產生相同的齒輪比，因此小桃這輛 18段變速自行車實際上只能夠產生14種不同的齒輪比。根據上文，判斷這輛自行車切換前齒輪齒數與後齒輪齒數的組合時，下列哪一個齒輪比有最多種組合？",
+      "passage": "**題組：24-25 題**\n\n\n小桃買了一輛變速自行車，在騎乘時可以切換不同的前齒輪齒數與後齒輪齒數的組合來適應各種坡度。已知這輛自行車的前齒輪有3種齒數，後齒輪有6種齒數，如表(一)所示，前齒輪齒數與後齒輪齒數的組合有 $3\\times6=18$ 種，因此這輛自行車稱為18段變速自行車。\n前齒輪：22齒、33齒、44齒\n後齒輪：14齒、16齒、18齒、21齒、24齒、28齒\n已知，齒輪比 = 前齒輪齒數 / 後齒輪齒數，它代表前齒輪轉動一圈會帶動後齒輪轉動多少圈，齒輪比越大，自行車踩起來越費力。",
+      "options": [
+        "$\\frac{11}{6}$",
+        "$\\frac{11}{7}$",
+        "$\\frac{11}{8}$",
+        "$\\frac{11}{9}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "audio": "",
+      "score": 4
+    },
+    {
+      "number": 1,
+      "text": "某民調公司訪問A市的成年民眾對於某項政策的態度，並依年齡分成3組。因受訪者的年齡分布與全體成年人口的年齡分布有落差，於是利用「調整倍率」讓調整後的結果更接近全體的民意，如表(二)所示。\n\n| 組別 | 人口佔比 | 調查比率 | 調整倍率 | 調整前贊成 | 調整前反對 | 調整後贊成 | 調整後反對 |\n|---|---|---|---|---|---|---|---|\n| 18~39歲組 | 40% | 20% | 2 | 8% | 12% | 16% | 24% |\n| 40~59歲組 | 40% | 40% | ... | | | | |\n| 60歲以上組 | 20% | 40% | | | | | |\n| 總計 | 100% | 100% | | 56% | 44% | 49% | 51% |\n\n其中，\n調查比率 = (該組受訪者數 / 所有受訪者數) × 100%\n調整倍率 = 該組人口佔比 / 該組調查比率\n調整前贊成(反對)的比率 = (該組受訪者中贊成(反對)人數 / 所有受訪者數) × 100%\n調整後贊成(反對)的比率 = 該組調整前贊成(反對)的比率 × 調整倍率\n\n表(二)中，全體成年人口有40%為18~39歲組，但受訪者中只有20%為 18~39歲組，算出調整倍率為2。因此，分別將贊成與反對的比率8%、12%乘以2，變成16%、24%。整體結果調整前為贊成大於反對，調整後卻變成反對大於贊成。\n請根據上述資訊回答下列問題，完整寫出你的解題過程並詳細解釋：\n(1) 計算60歲以上組的調整倍率為何？\n(2) 求40~59歲組與60歲以上組的調整前贊成比率分別為何？<br><img src=\"/images/cap/114/數學/114_數學_試題.pdf-0011-03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "passage": "",
+      "options": [],
+      "answer": "",
+      "type": "calc",
+      "audio": "",
+      "score": 4
+    },
+    {
+      "number": 2,
+      "text": "商店中販賣一款包含A、B兩種圖案的藝術紙片組合包，形狀分別為16公分×5公分、18公分×5公分的長方形。\n小燦打算在不裁切紙片的情況下，將這兩種藝術紙片以緊密相鄰的方式貼成一個大長方形，其中奇數層為A圖案，偶數層為B圖案，且最後一層為A圖案，而相同圖案的藝術紙片皆為相同的方向。\n請根據上述資訊回答下列問題，完整寫出你的解題過程並詳細解釋：\n(1) 以上述方式貼成的長方形，第一層最少有幾個A圖案？\n(2) 已知每個組合包中A、B兩種圖案的藝術紙片數量比為4:3，若小燦想購買一些組合包，貼成指定的大長方形，其中第一層的A圖案數量與(1)求出之值相同，判斷他是否可能恰好把購買的藝術紙片用完？請說明理由。\n\n---\n\n參考公式：\n\n和的平方公式：$(a+b)^{2}=a^{2}+2ab+b^{2}$\n\n差的平方公式：$(a-b)^{2}=a^{2}-2ab+b^{2}$\n\n平方差公式：$a^{2}-b^{2}=(a+b)(a-b)$\n\n若直角三角形兩股長為 $a$、$b$，斜邊長為 $c$，則 $c^{2}=a^{2}+b^{2}$\n\n若圓的半徑為 $r$，圓周率為 $\\pi$，則圓面積 $=\\pi r^{2}$，圓周長 $=2\\pi r$\n\n凸 $n$ 邊形的內角和為 $(n-2)\\times180^{\\circ}$，$n\\ge3$\n\n若一個等差數列的首項為 $a_{1}$，公差為 $d$，第 $n$ 項為 $a_{n}$，前 $n$ 項和為 $S_{n}$，則 $a_{n}=a_{1}+(n-1)d$，$S_{n}=\\frac{n(a_{1}+a_{n})}{2}$\n\n若一個等比數列的首項為 $a_{1}$，公比為 $r$，第 $n$ 項為 $a_{n}$，則 $a_{n}=a_{1}r^{n-1}$\n\n一元二次方程式 $ax^{2}+bx+c=0$ 的解為 $x=\\frac{-b\\pm\\sqrt{b^{2}-4ac}}{2a}$<br><img src=\"/images/cap/114/數學/114_數學_試題.pdf-0012-01.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/cap/114/數學/114_數學_試題.pdf-0012-02.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/cap/114/數學/114_數學_試題.pdf-0012-03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/cap/114/數學/114_數學_試題.pdf-0012-05.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/cap/114/數學/114_數學_試題.pdf-0012-06.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/cap/114/數學/114_數學_試題.pdf-0012-07.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"/images/cap/114/數學/114_數學_試題.pdf-0012-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "passage": "",
+      "options": [],
+      "answer": "",
+      "type": "calc",
+      "audio": "",
+      "score": 4
+    }
+  ]
+}
