@@ -5,7 +5,7 @@ hero:
   text: "會考 / 學測 / 分科測驗"
   tagline: "全台最完整的歷年試題數位化平台，提供擬真線上測驗與深度解析。"
   image:
-    src: /logo.png
+    src: /logo.webp
     alt: AI Exam Logo
   actions:
     - theme: romance
@@ -81,48 +81,72 @@ features:
 .glass-card {
   position: relative;
   padding: 2.5rem;
-  border-radius: 24px;
-  background: rgba(255, 255, 255, 0.7);
-  backdrop-filter: blur(10px);
-  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 32px;
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
   text-decoration: none !important;
   color: var(--vp-c-text-1) !important;
-  transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-  box-shadow: 0 10px 30px rgba(0,0,0,0.05);
-  overflow: hidden;
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
 }
-.dark .glass-card {
-  background: rgba(30, 30, 30, 0.7);
-  border: 1px solid rgba(255, 255, 255, 0.1);
-  box-shadow: 0 10px 30px rgba(0,0,0,0.2);
-}
+
 .glass-card:hover {
-  transform: translateY(-10px);
-  box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+  transform: translateY(-12px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
 }
+
+.glass-card.cap:hover { 
+  background: rgba(62, 175, 124, 0.1);
+  border-color: #3eaf7c; 
+}
+.glass-card.gsat:hover { 
+  background: rgba(59, 130, 246, 0.1);
+  border-color: #3b82f6; 
+}
+.glass-card.ast:hover { 
+  background: rgba(245, 158, 11, 0.1);
+  border-color: #f59e0b; 
+}
+
 .card-icon {
-  font-size: 3rem;
+  font-size: 3.5rem;
   margin-bottom: 1.5rem;
+  transition: transform 0.3s ease;
 }
+.glass-card:hover .card-icon {
+  transform: scale(1.1) rotate(5deg);
+}
+
 .glass-card h3 {
-  font-size: 1.5rem;
-  font-weight: 700;
-  margin: 0 0 0.5rem 0;
+  font-size: 1.6rem;
+  font-weight: 800;
+  margin: 0 0 0.75rem 0;
+  letter-spacing: -0.02em;
 }
+
 .glass-card p {
   color: var(--vp-c-text-2);
   margin-bottom: 1.5rem;
+  font-size: 1rem;
 }
+
 .badge {
   display: inline-block;
-  padding: 4px 12px;
-  border-radius: 20px;
+  padding: 6px 16px;
+  border-radius: 100px;
   font-size: 0.85rem;
-  font-weight: 600;
-  background: var(--vp-c-brand-soft);
-  color: var(--vp-c-brand-1);
+  font-weight: 700;
+  background: var(--vp-c-bg-soft);
+  color: var(--vp-c-text-2);
+  transition: all 0.3s ease;
 }
-.glass-card.cap:hover { border-color: #3eaf7c; }
-.glass-card.gsat:hover { border-color: #3b82f6; }
-.glass-card.ast:hover { border-color: #f59e0b; }
+
+.glass-card.cap:hover .badge { background: #3eaf7c; color: #fff; }
+.glass-card.gsat:hover .badge { background: #3b82f6; color: #fff; }
+.glass-card.ast:hover .badge { background: #f59e0b; color: #fff; }
 </style>

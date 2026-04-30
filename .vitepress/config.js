@@ -31,8 +31,7 @@ export default defineConfig({
       {
         text: '國中教育會考 (CAP)',
         items: [
-          { text: '會考概覽', link: '/cap' },
-          { text: '114 年會考', link: '/exams?path=cap/114/國文' }
+          { text: '會考概覽', link: '/cap' }
         ]
       },
       {
