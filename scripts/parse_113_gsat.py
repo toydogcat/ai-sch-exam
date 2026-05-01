@@ -25,8 +25,9 @@ def process_images(text, subject_key):
         dest_abs = repo_pub / dest_rel
 
         if src_path.exists():
-            dest_abs.parent.mkdir(parents=True, exist_ok=True)
-            shutil.copy2(src_path, dest_abs)
+            if src_path.resolve() != dest_abs.resolve():
+                dest_abs.parent.mkdir(parents=True, exist_ok=True)
+                shutil.copy2(src_path, dest_abs)
             return f'<br><img src="/{dest_rel.as_posix()}" style="max-width:100%; display:block; margin:10px 0;">'
         else:
             return f'<br><img src="/images/ceec/113/學測/{subject_key}/{src_path.name}" style="max-width:100%; display:block; margin:10px 0;">'
