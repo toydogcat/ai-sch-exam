@@ -1,0 +1,573 @@
+{
+  "title": "114 學年度分科測驗 - 地理考科",
+  "duration": 80,
+  "questions": [
+    {
+      "number": 1,
+      "text": "1. 世界棒球經典賽將於2026年3月舉行分組預賽，某參賽國球迷貼文表示:「希望我國與日本、韓國分在同組，因為這些國家球員也有漢字的名字，比較容易記住，可以吸引平常較沒參與棒球活動的朋友一同觀賽；若是與古巴、荷蘭等國同組，因球員名字只有音譯而較難記住，很多人就沒興趣了。」上述球迷的觀點，最適合以下列哪個概念來解釋?\n(A) 文化圈\n(B) 資訊革新\n(C) 區位移轉\n(D) 世界體系",
+      "passage": "",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": "A",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 2,
+      "text": "2. <br><img src=\"/images/ceec/114/分科/地理/tu_1_photo1.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n照片是2023年臺灣某河口的空拍照片。照片中可看到河流右岸有許多正在興建的建築物，周圍部分地區為山林河海的自然環境。此地區位於大都市邊緣，土地開發潛力高，但對居民來說，聯外交通是其最關心的議題。根據照片中的資訊，下列何者是此地在該都市發展過程中最主要扮演的角色?\n(A) 提供都市休閒的農林專區\n(B) 增加都市之肺的公園專區\n(C) 作為河港都市的倉儲用地\n(D) 疏解都市人口的新興市鎮",
+      "passage": "",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": "D",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 3,
+      "text": "3. <br><img src=\"/images/ceec/114/分科/地理/tu_1_photo2.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n河狸是一種半水生的囓齒動物，會利用樹枝、泥土和石頭等材料，在河流中建造水壩，為自己創造理想的棲息地，有「自然界水壩工程師」之稱，這些水壩有些可能長達數百公尺。河狸在某河流所興建的水壩，未被洪水沖毀的期間，其對於該河流最可能產生下列哪些影響?\n甲、減少水壩上游入滲量\n乙、降低水壩下游洪峰流量\n丙、減少水壩上游地表逕流量\n丁、減少水壩下游河流輸沙量\n(A) 甲乙\n(B) 甲丙\n(C) 乙丁\n(D) 丙丁",
+      "passage": "",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": "C",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 4,
+      "text": "4. <br><img src=\"/images/ceec/114/分科/地理/tu_1_map.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n某生出國旅遊，發現當地物價跟臺灣大異其趣，例如1公升的礦泉水要價約合臺幣15元，而1公升的汽油只要臺幣4元。另外逛當地市集時，發現當地無論男女都穿戴長袍頭巾，市集販賣的地毯、壁毯，或是繪畫等藝術品都是色彩繽紛、圖案對稱的幾何圖形。某生最可能是去到圖中的哪個國家?\n(A) 甲\n(B) 乙\n(C) 丙\n(D) 丁",
+      "passage": "",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": "B",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 5,
+      "text": "5. 某研究指出:「阿美族主要分布在臺灣東部，因居住環境不同而發展出相異的飲食特色(甲)。東海岸的阿美族有著高超的潛水射魚技術，因而有海鮮水產飲食文化；縱谷區的阿美族多上山狩獵，出發前並有特定的儀式(乙)，因而有食肉的飲食文化。上述兩種主要都是男性的工作，而阿美族女性則是以採摘野菜為主(丙)，發展出野菜的飲食文化，她們會隨著季節時令及地域不同，有什麼便採集什麼，採摘剛好的量，避免整株拔起，只取嫩葉食用(丁)。」題文中畫線代號部分，何者最能直接說明阿美族的傳統生態知識?\n(A) 甲\n(B) 乙\n(C) 丙\n(D) 丁",
+      "passage": "",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": "D",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 6,
+      "text": "6. <br><img src=\"/images/ceec/114/分科/地理/tu_2.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n某生為學習理財規劃，欲由各國人口特質尋找較佳的投資標的。該生蒐集2020年全球一些國家的人口資料並繪製成圖，其中橫軸是人口成長率(‰)，縱軸為14歲以下人口比例減去65歲以上人口比例(%)，圓圈大小代表國家的人口總數。圖中甲國的人口成長率約為1.6‰，縱軸數值約為26%。該生選擇甲國作為投資標的，但指導老師根據圖中資訊，認為現階段這不是一個好的選擇。下列何者最可能是指導老師的見解?\n(A) 幼年人口眾多，青壯年負擔大\n(B) 老年人口多，高齡化問題嚴重\n(C) 人口成長率低，內需市場不足\n(D) 青壯人口比例低，勞動力不足",
+      "passage": "",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": "A",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 7,
+      "text": "7. 1944年的美軍地形圖中雲林縣外海有多處濱外沙洲，但近年來呈現縮小或消失的趨勢，例如外傘頂洲逐年縮小，並持續往嘉義縣的海岸線靠近，故被稱為「移動的國土」。若以方位角表示此移動方向，最可能為下列何者?\n(A) 45度\n(B) 135度\n(C) 270度\n(D) 315度",
+      "passage": "",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": "B",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 8,
+      "text": "8. 全球各大洲發展程度不一，社會經濟狀況有別，因此呈現 out 不同型態的人口金字塔。下列是2024年歐洲、亞洲、非洲與北美洲的人口金字塔圖，哪張圖最可能是亞洲?\n(A) 底部略縮，但中壯年人口比例較高，形狀呈現彈頭型。\n(B) 底部寬廣，隨年齡增加人口比例迅速減少，形狀呈現金字塔型。\n(C) 底部明顯緊縮，高齡人口比例較高，形狀呈現燈泡型。\n(D) 底部平穩，各年齡層比例較平均，形狀呈現鐘型。\n\n**題組：9-10為題組**\n<br><img src=\"/images/ceec/114/分科/地理/tu_3.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n某人預計到臺東看2026年元旦的第一道曙光，他想從二萬五千分之一經建版地形圖中找尋合適的地點。請問:",
+      "passage": "",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": "A",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 9,
+      "text": "9. 圖中相鄰兩條等高線間的高度差為何?\n(A) 10 m\n(B) 20 m\n(C) 50 m\n(D) 100 m",
+      "passage": "**題組：9-10為題組**\n<br><img src=\"/images/ceec/114/分科/地理/tu_3.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n某人預計到臺東看2026年元旦的第一道曙光，他想從二萬五千分之一經建版地形圖中找尋合適的地點。請問:",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": "A",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 10,
+      "text": "10. 該生在圖中的哪個地點可能最先見到元旦的第一道曙光?\n(A) 甲\n(B) 乙\n(C) 丙\n(D) 丁\n\n**題組：11-12為題組**\n<br><img src=\"/images/ceec/114/分科/地理/tu_4.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n2023年4月，位於堪察加半島的舍維留奇火山爆發。當地緊急應變小組立即發布航空紅色警報，指出有「大片火山灰雲」可能噴至十幾公里高，並且隨風飄移，可能影響鄰近空域的飛航安全，火山噴發後的衛星影像顯示大片火山灰雲往西方及西南方飄移。請問:",
+      "passage": "**題組：9-10為題組**\n<br><img src=\"/images/ceec/114/分科/地理/tu_3.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n某人預計到臺東看2026年元旦的第一道曙光，他想從二萬五千分之一經建版地形圖中找尋合適的地點。請問:",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": "B",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 11,
+      "text": "11. 根據題文描述大片火山灰雲的位置，火山噴發時最主要吹下列何種風向的風?\n(A) 東風\n(B) 西風\n(C) 南風\n(D) 北風",
+      "passage": "**題組：11-12為題組**\n<br><img src=\"/images/ceec/114/分科/地理/tu_4.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n2023年4月，位於堪察加半島的舍維留奇火山爆發。當地緊急應變小組立即發布航空紅色警報，指出有「大片火山灰雲」可能噴至十幾公里高，並且隨風飄移，可能影響鄰近空域的飛航安全，火山噴發後的衛星影像顯示大片火山灰雲往西方及西南方飄移。請問:",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": "B",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 12,
+      "text": "12. 下列哪兩地之間的大圓航線，最可能受到這次航空紅色警報的影響?\n(A) 中國北京到新加坡\n(B) 臺灣桃園到英國倫敦\n(C) 澳洲雪梨到日本東京\n(D) 韓國首爾到美國阿拉斯加\n\n**題組：13-15為題組**\n<br><img src=\"/images/ceec/114/分科/地理/tu_5.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n紫斑蝶是全球唯二的越冬型蝴蝶，約在3月至4月回溫時，會隨著南風北上繁殖覓食，稱為「初春北返」；秋季時，會遷徙至南臺灣山谷避冬，稱為「南遷渡冬」。高公局為保護飛越國道的紫斑蝶安全，每年會在國道三號特定路段，架設長約1,100公尺、高4公尺的防護網，如圖中甲點所示。\n某生為提升大眾對紫斑蝶的認識，開發一款手機應用程式，使用者安裝後，只要接近紫斑蝶發現地，就會自動顯示該處紫斑蝶的相關資訊。請問:",
+      "passage": "**題組：11-12為題組**\n<br><img src=\"/images/ceec/114/分科/地理/tu_4.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n2023年4月，位於堪察加半島的舍維留奇火山爆發。當地緊急應變小組立即發布航空紅色警報，指出有「大片火山灰雲」可能噴至十幾公里高，並且隨風飄移，可能影響鄰近空域的飛航安全，火山噴發後的衛星影像顯示大片火山灰雲往西方及西南方飄移。請問:",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": "D",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 13,
+      "text": "13. 在全球暖化情境下，紫斑蝶北返和南遷的日期，長期來看，最可能發生何種變化?\n(A) 兩者都提前\n(B) 兩者都延後\n(C) 北返提前，南遷延後\n(D) 北返延後，南遷提前",
+      "passage": "**題組：13-15為題組**\n<br><img src=\"/images/ceec/114/分科/地理/tu_5.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n紫斑蝶是全球唯二的越冬型蝴蝶，約在3月至4月回溫時，會隨著南風北上繁殖覓食，稱為「初春北返」；秋季時，會遷徙至南臺灣山谷避冬，稱為「南遷渡冬」。高公局為保護飛越國道的紫斑蝶安全，每年會在國道三號特定路段，架設長約1,100公尺、高4公尺的防護網，如圖中甲點所示。\n某生為提升大眾對紫斑蝶的認識，開發一款手機應用程式，使用者安裝後，只要接近紫斑蝶發現地，就會自動顯示該處紫斑蝶的相關資訊。請問:",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": "C",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 14,
+      "text": "14. 圖中的甲點位於苗栗縣與臺中市交界附近，最接近下列哪個地形區?\n(A) 林口台地\n(B) 竹東丘陵\n(C) 八卦台地\n(D) 埔里盆地",
+      "passage": "**題組：13-15為題組**\n<br><img src=\"/images/ceec/114/分科/地理/tu_5.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n紫斑蝶是全球唯二的越冬型蝴蝶，約在3月至4月回溫時，會隨著南風北上繁殖覓食，稱為「初春北返」；秋季時，會遷徙至南臺灣山谷避冬，稱為「南遷渡冬」。高公局為保護飛越國道的紫斑蝶安全，每年會在國道三號特定路段，架設長約1,100公尺、高4公尺的防護網，如圖中甲點所示。\n某生為提升大眾對紫斑蝶的認識，開發一款手機應用程式，使用者安裝後，只要接近紫斑蝶發現地，就會自動顯示該處紫斑蝶的相關資訊。請問:",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": "C",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 15,
+      "text": "15. 根據題文，該手機應用程式的設計原理，最符合下列何種空間資訊科技的應用?\n(A) 對抗性地圖\n(B) 空間隱私權\n(C) 適地性服務\n(D) 公眾參與式地理資訊系統\n\n**題組：16-17為題組**\n澎湖赤崁聚落的居民，每年冬天都會至聚落外海的姑婆嶼採集紫菜。由於姑婆嶼被列為我國目前唯一的紫菜保護區，為確保紫菜不致被過度採集，赤崁聚落居民的信仰中心——龍德宮，依聚落住戶人口發放限額採集證，並挑選良辰吉日，統一載運民眾登島，依慣例燃放鞭炮後民眾才能採集，且採集紫菜時僅能以徒手方式進行。由於紫菜品質良好市場反應非常熱絡，價格居高不下，被赤崁居民視為年終獎金來源。請問:",
+      "passage": "**題組：13-15為題組**\n<br><img src=\"/images/ceec/114/分科/地理/tu_5.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n紫斑蝶是全球唯二的越冬型蝴蝶，約在3月至4月回溫時，會隨著南風北上繁殖覓食，稱為「初春北返」；秋季時，會遷徙至南臺灣山谷避冬，稱為「南遷渡冬」。高公局為保護飛越國道的紫斑蝶安全，每年會在國道三號特定路段，架設長約1,100公尺、高4公尺的防護網，如圖中甲點所示。\n某生為提升大眾對紫斑蝶的認識，開發一款手機應用程式，使用者安裝後，只要接近紫斑蝶發現地，就會自動顯示該處紫斑蝶的相關資訊。請問:",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": "C",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 16,
+      "text": "16. 根據題文，澎湖赤崁聚落的哪些做法，符合海洋資源永續發展的概念?\n甲、依聚落住戶人口發放限額採集證\n乙、依慣例燃放鞭炮後民眾才能採集\n丙、採集紫菜時僅能以徒手方式進行\n丁、紫菜品質良好市場反應非常熱絡\n(A) 甲丙\n(B) 甲丁\n(C) 乙丙\n(D) 乙丁",
+      "passage": "**題組：16-17為題組**\n澎湖赤崁聚落的居民，每年冬天都會至聚落外海的姑婆嶼採集紫菜。由於姑婆嶼被列為我國目前唯一的紫菜保護區，為確保紫菜不致被過度採集，赤崁聚落居民的信仰中心——龍德宮，依聚落住戶人口發放限額採集證，並挑選良辰吉日，統一載運民眾登島，依慣例燃放鞭炮後民眾才能採集，且採集紫菜時僅能以徒手方式進行。由於紫菜品質良好市場反應非常熱絡，價格居高不下，被赤崁居民視為年終獎金來源。請問:",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": "A",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 17,
+      "text": "17. 根據題文，下列何者最可能是當地紫菜採集季節的風花圖?\n(A) 主要吹東北風\n(B) 主要吹南風\n(C) 主要吹西北風\n(D) 主要吹西南風\n\n**題組：18-19為題組**\n<br><img src=\"/images/ceec/114/分科/地理/tu_6.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n2025年法國某企業為了環境永續發展，成立無動力的遠洋貨運帆船船隊，僅依靠風力與洋流航行，船上所有電子系統、空調與冷藏設備，均依靠太陽能或風電運作，進行橫跨大西洋兩岸的有機食品貿易。地圖顯示此船隊的航行路線，主要從法國出發，往西南航行前往加勒比海地區載運可可和咖啡，接著向北抵達美國東岸販售法國紅酒後，再向東一路返回法國。請問:",
+      "passage": "**題組：16-17為題組**\n澎湖赤崁聚落的居民，每年冬天都會至聚落外海的姑婆嶼採集紫菜。由於姑婆嶼被列為我國目前唯一的紫菜保護區，為確保紫菜不致被過度採集，赤崁聚落居民的信仰中心——龍德宮，依聚落住戶人口發放限額採集證，並挑選良辰吉日，統一載運民眾登島，依慣例燃放鞭炮後民眾才能採集，且採集紫菜時僅能以徒手方式進行。由於紫菜品質良好市場反應非常熱絡，價格居高不下，被赤崁居民視為年終獎金來源。請問:",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": "A",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 18,
+      "text": "18. 根據題文，該帆船船隊從法國出發，在順風順水的前提下，最可能依序航經哪些洋流後返回法國?\n甲、墨西哥灣流\n乙、北赤道洋流\n丙、北大西洋暖流\n(A) 甲乙丙\n(B) 乙甲丙\n(C) 丙甲乙\n(D) 丙乙甲",
+      "passage": "**題組：18-19為題組**\n<br><img src=\"/images/ceec/114/分科/地理/tu_6.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n2025年法國某企業為了環境永續發展，成立無動力的遠洋貨運帆船船隊，僅依靠風力與洋流航行，船上所有電子系統、空調與冷藏設備，均依靠太陽能或風電運作，進行橫跨大西洋兩岸的有機食品貿易。地圖顯示此船隊的航行路線，主要從法國出發，往西南航行前往加勒比海地區載運可可和咖啡，接著向北抵達美國東岸販售法國紅酒後，再向東一路返回法國。請問:",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": "B",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 19,
+      "text": "19. 該企業的作法，最可能達成下列何種效益?\n(A) 減少產品的碳足跡\n(B) 減少產品的食物里程\n(C) 增加法國糧食自給率\n(D) 增加法國環境負載力\n\n**題組：20-21為題組**\n人工智慧(AI)產業供應鏈，包括上游產業的晶片設計公司與代工廠、中游產業的伺服器品牌廠與代工廠，以及下游產業的軟體服務之雲端業者、AI公司等，透過上、中、下游產業的網絡連結，促成使用者得以享受AI的便利。表1為2024年AI供應鏈上、中、下游產業部分代表性公司，這些公司分布於世界各地，其企業總部多位於臺灣、美國和韓國等先進國家。請問:\n\n<div class=\"custom-table-container\" style=\"overflow-x:auto; margin: 1.5rem 0; white-space: normal;\"><table class=\"custom-exam-table\" style=\"width:100%; border-collapse: collapse; border: 1px solid #dee2e6; font-size: 1rem; background: #fff; border-radius: 6px; white-space: normal;\"><thead style=\"background: #f8f9fa; white-space: normal;\"><tr><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">AI供應鏈</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">上游產業</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">中游產業</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">下游產業</th></tr></thead><tbody style=\"white-space: normal;\"><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">公司名稱</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">輝達、超微、英特爾、台積電、三星</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">HP、戴爾、廣達、鴻海、緯穎</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">亞馬遜、微軟、Meta、OpenAI</td></tr></tbody></table></div>\n*表1*",
+      "passage": "**題組：18-19為題組**\n<br><img src=\"/images/ceec/114/分科/地理/tu_6.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n2025年法國某企業為了環境永續發展，成立無動力的遠洋貨運帆船船隊，僅依靠風力與洋流航行，船上所有電子系統、空調與冷藏設備，均依靠太陽能或風電運作，進行橫跨大西洋兩岸的有機食品貿易。地圖顯示此船隊的航行路線，主要從法國出發，往西南航行前往加勒比海地區載運可可和咖啡，接著向北抵達美國東岸販售法國紅酒後，再向東一路返回法國。請問:",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": "A",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 20,
+      "text": "20. AI產業的蓬勃發展，依賴某些發展歷程所產生的結果，其最可能是下列何者?\n(A) 區域互賴與不平等交換的結果\n(B) 核心區與邊陲區連動發展的結果\n(C) 交通革新與全球高度都市化的結果\n(D) 資訊革命與知識經濟持續精進的結果",
+      "passage": "**題組：20-21為題組**\n人工智慧(AI)產業供應鏈，包括上游產業的晶片設計公司與代工廠、中游產業的伺服器品牌廠與代工廠，以及下游產業的軟體服務之雲端業者、AI公司等，透過上、中、下游產業的網絡連結，促成使用者得以享受AI的便利。表1為2024年AI供應鏈上、中、下游產業部分代表性公司，這些公司分布於世界各地，其企業總部多位於臺灣、美國和韓國等先進國家。請問:\n\n<div class=\"custom-table-container\" style=\"overflow-x:auto; margin: 1.5rem 0; white-space: normal;\"><table class=\"custom-exam-table\" style=\"width:100%; border-collapse: collapse; border: 1px solid #dee2e6; font-size: 1rem; background: #fff; border-radius: 6px; white-space: normal;\"><thead style=\"background: #f8f9fa; white-space: normal;\"><tr><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">AI供應鏈</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">上游產業</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">中游產業</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">下游產業</th></tr></thead><tbody style=\"white-space: normal;\"><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">公司名稱</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">輝達、超微、英特爾、台積電、三星</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">HP、戴爾、廣達、鴻海、緯穎</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">亞馬遜、微軟、Meta、OpenAI</td></tr></tbody></table></div>\n*表1*",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": "D",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 21,
+      "text": "21. 若僅從表1判斷，AI產業供應鏈中各家公司的合作關係，最可能反映出下列哪項產業經營特徵?\n甲、輝達公司已達到垂直整合的成果\n乙、廣達和鴻海公司可產生水平分工的合作\n丙、緯穎和OpenAI公司可產生垂直分工的合作\n丁、台積電和亞馬遜公司可達到水平整合的成果\n(A) 甲乙\n(B) 甲丁\n(C) 乙丙\n(D) 丙丁\n\n**題組：22-23為題組**\n<br><img src=\"/images/ceec/114/分科/地理/tu_7.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n一地的產業發展深受地理環境影響，圖是全球五個地點的位置。請問:",
+      "passage": "**題組：20-21為題組**\n人工智慧(AI)產業供應鏈，包括上游產業的晶片設計公司與代工廠、中游產業的伺服器品牌廠與代工廠，以及下游產業的軟體服務之雲端業者、AI公司等，透過上、中、下游產業的網絡連結，促成使用者得以享受AI的便利。表1為2024年AI供應鏈上、中、下游產業部分代表性公司，這些公司分布於世界各地，其企業總部多位於臺灣、美國和韓國等先進國家。請問:\n\n<div class=\"custom-table-container\" style=\"overflow-x:auto; margin: 1.5rem 0; white-space: normal;\"><table class=\"custom-exam-table\" style=\"width:100%; border-collapse: collapse; border: 1px solid #dee2e6; font-size: 1rem; background: #fff; border-radius: 6px; white-space: normal;\"><thead style=\"background: #f8f9fa; white-space: normal;\"><tr><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">AI供應鏈</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">上游產業</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">中游產業</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">下游產業</th></tr></thead><tbody style=\"white-space: normal;\"><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">公司名稱</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">輝達、超微、英特爾、台積電、三星</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">HP、戴爾、廣達、鴻海、緯穎</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">亞馬遜、微軟、Meta、OpenAI</td></tr></tbody></table></div>\n*表1*",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": "C",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 22,
+      "text": "22. 某地是世界重要的肉品出口區，2019-2020年間因極端高溫與乾旱，造成該地牛羊飼養成本上升，對國際肉品市場產生重大影響。該地最可能是圖中的何處?\n(A) 甲 (南美洲西部)\n(B) 乙 (阿拉伯半島)\n(C) 丙 (中國東部)\n(D) 丁 (澳洲東南部)",
+      "passage": "**題組：22-23為題組**\n<br><img src=\"/images/ceec/114/分科/地理/tu_7.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n一地的產業發展深受地理環境影響，圖是全球五個地點的位置。請問:",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": "D",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 23,
+      "text": "23. 圖中戊地(歐洲西北部)相對於其他四地適合發展綠能發電，最可能是因為該地具有下列哪項地理環境特色?\n(A) 太陽照射時數較長\n(B) 風向風力常年穩定\n(C) 地熱資源蘊藏豐沛\n(D) 地勢落差起伏較大\n\n**題組：24-26為題組**\n太平洋珊瑚礁島國吐瓦魯(7°S, 177°E)，居民主要屬於南島語族，近年來面臨國土消失的嚴重威脅。2022年其外交部長宣布，將在元宇宙的虛擬空間中，建立一個數位版的吐瓦魯，藉以保存共同語言、規範和習俗，未來即便國土消失，吐瓦魯人仍可在此空間互動交流，凝聚對祖國的向心力。請問:",
+      "passage": "**題組：22-23為題組**\n<br><img src=\"/images/ceec/114/分科/地理/tu_7.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n一地的產業發展深受地理環境影響，圖是全球五個地點的位置。請問:",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": "B",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 24,
+      "text": "24. 造成文中該國國土消失的主要原因，最可能是下列何者?\n(A) 山洪爆發\n(B) 颱風侵襲\n(C) 海平面上升\n(D) 土壤鹽鹼化",
+      "passage": "**題組：24-26為題組**\n太平洋珊瑚礁島國吐瓦魯(7°S, 177°E)，居民主要屬於南島語族，近年來面臨國土消失的嚴重威脅。2022年其外交部長宣布，將在元宇宙的虛擬空間中，建立一個數位版的吐瓦魯，藉以保存共同語言、規範和習俗，未來即便國土消失，吐瓦魯人仍可在此空間互動交流，凝聚對祖國的向心力。請問:",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": "C",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 25,
+      "text": "25. 吐瓦魯所欲建立的元宇宙虛擬空間，與下列哪種空間的特性最相似?\n(A) 幾何空間\n(B) 自然空間\n(C) 社會空間\n(D) 三維空間",
+      "passage": "**題組：24-26為題組**\n太平洋珊瑚礁島國吐瓦魯(7°S, 177°E)，居民主要屬於南島語族，近年來面臨國土消失的嚴重威脅。2022年其外交部長宣布，將在元宇宙的虛擬空間中，建立一個數位版的吐瓦魯，藉以保存共同語言、規範和習俗，未來即便國土消失，吐瓦魯人仍可在此空間互動交流，凝聚對祖國的向心力。請問:",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": "C",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 26,
+      "text": "26. 若部分吐瓦魯人想搬遷至距離最近，且仍是南島語族分布範圍內的國家，其最可能到下列哪個國家?\n(A) 澳洲\n(B) 紐西蘭\n(C) 馬來西亞\n(D) 馬達加斯加\n\n**題組：27-29為題組**\n2025年美國總統川普就任後發布行政命令，將「墨西哥灣」(Gulf of Mexico)更名為「美國灣」(Gulf of America)，之後Google 地圖作出相應的調整，美國境內的使用者會看到新的名稱，墨西哥境內維持不變，而其他地區則同時顯示兩個名稱。有則新聞提到:「除了墨西哥政府對此向 Google 提出抗議外，許多民眾也紛紛湧入 Google 地圖表達不滿，在此標籤上給予一顆星的評價並留下負面評論，由於數量過多，迫使 Google 地圖關閉此標籤的評論功能，並刪除更名後的負評。」\n其實，過去美墨之間的地名常常也沒有統一，例如美墨邊境的界河，墨西哥稱之為「布拉沃河」，就與美國的命名不同。\n而Google 地圖上一個標籤顯示兩個地名的做法也非第一次，例如某個位於伊斯蘭世界的重要海灣，為了顧及與此海灣比鄰主要國家的文化和政治意義，即被標示為「波斯灣(阿拉伯灣)」。請問:",
+      "passage": "**題組：24-26為題組**\n太平洋珊瑚礁島國吐瓦魯(7°S, 177°E)，居民主要屬於南島語族，近年來面臨國土消失的嚴重威脅。2022年其外交部長宣布，將在元宇宙的虛擬空間中，建立一個數位版的吐瓦魯，藉以保存共同語言、規範和習俗，未來即便國土消失，吐瓦魯人仍可在此空間互動交流，凝聚對祖國的向心力。請問:",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": "B",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 27,
+      "text": "27. 題文中的新聞內容，最可能反映出下列哪個現象?\n(A) 民眾可在Google地圖留下評價是智慧城市的特徵\n(B) Google 地圖是公眾參與地理資訊系統的討論平臺\n(C) Google 地圖關閉評論功能可降低地理媒體的傳播力量\n(D) 民眾透過公民科學的方式迫使Google 地圖關閉評論功能",
+      "passage": "**題組：27-29為題組**\n2025年美國總統川普就任後發布行政命令，將「墨西哥灣」(Gulf of Mexico)更名為「美國灣」(Gulf of America)，之後Google 地圖作出相應的調整，美國境內的使用者會看到新的名稱，墨西哥境內維持不變，而其他地區則同時顯示兩個名稱。有則新聞提到:「除了墨西哥政府對此向 Google 提出抗議外，許多民眾也紛紛湧入 Google 地圖表達不滿，在此標籤上給予一顆星的評價並留下負面評論，由於數量過多，迫使 Google 地圖關閉此標籤的評論功能，並刪除更名後的負評。」\n其實，過去美墨之間的地名常常也沒有統一，例如美墨邊境的界河，墨西哥稱之為「布拉沃河」，就與美國的命名不同。\n而Google 地圖上一個標籤顯示兩個地名的做法也非第一次，例如某個位於伊斯蘭世界的重要海灣，為了顧及與此海灣比鄰主要國家的文化和政治意義，即被標示為「波斯灣(阿拉伯灣)」。請問:",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": "C",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 28,
+      "text": "28. 墨西哥的布拉沃河是指美國的哪條河流?\n(A) 格蘭河\n(B) 亞馬孫河\n(C) 科羅拉多河\n(D) 密西西比河",
+      "passage": "**題組：27-29為題組**\n2025年美國總統川普就任後發布行政命令，將「墨西哥灣」(Gulf of Mexico)更名為「美國灣」(Gulf of America)，之後Google 地圖作出相應的調整，美國境內的使用者會看到新的名稱，墨西哥境內維持不變，而其他地區則同時顯示兩個名稱。有則新聞提到:「除了墨西哥政府對此向 Google 提出抗議外，許多民眾也紛紛湧入 Google 地圖表達不滿，在此標籤上給予一顆星的評價並留下負面評論，由於數量過多，迫使 Google 地圖關閉此標籤的評論功能，並刪除更名後的負評。」\n其實，過去美墨之間的地名常常也沒有統一，例如美墨邊境的界河，墨西哥稱之為「布拉沃河」，就與美國的命名不同。\n而Google 地圖上一個標籤顯示兩個地名的做法也非第一次，例如某個位於伊斯蘭世界的重要海灣，為了顧及與此海灣比鄰主要國家的文化和政治意義，即被標示為「波斯灣(阿拉伯灣)」。請問:",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": "A",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 29,
+      "text": "29. Google 地圖上波斯灣(阿拉伯灣)的標記方式，最可能是顧及下列哪兩個國家?\n(A) 伊朗、葉門\n(B) 伊拉克、阿曼\n(C) 伊朗、沙烏地阿拉伯\n(D) 伊拉克、阿拉伯聯合大公國\n\n第貳部分、混合題或非選擇題(占42分)\n說明:本部分共有6大題，單選題每題2分，非選擇題配分標於題末。限在答題卷標示題號的作答區內作答。\n\n**題組：30-31為題組**\n南亞和東南亞為東西文化接觸帶，區域特色深受自然與人文因素的影響，其中板塊運動是形塑此區地形的主要自然因素；而宗教信仰是影響文化景觀的重要人文因素。請問:",
+      "passage": "**題組：27-29為題組**\n2025年美國總統川普就任後發布行政命令，將「墨西哥灣」(Gulf of Mexico)更名為「美國灣」(Gulf of America)，之後Google 地圖作出相應的調整，美國境內的使用者會看到新的名稱，墨西哥境內維持不變，而其他地區則同時顯示兩個名稱。有則新聞提到:「除了墨西哥政府對此向 Google 提出抗議外，許多民眾也紛紛湧入 Google 地圖表達不滿，在此標籤上給予一顆星的評價並留下負面評論，由於數量過多，迫使 Google 地圖關閉此標籤的評論功能，並刪除更名後的負評。」\n其實，過去美墨之間的地名常常也沒有統一，例如美墨邊境的界河，墨西哥稱之為「布拉沃河」，就與美國的命名不同。\n而Google 地圖上一個標籤顯示兩個地名的做法也非第一次，例如某個位於伊斯蘭世界的重要海灣，為了顧及與此海灣比鄰主要國家的文化和政治意義，即被標示為「波斯灣(阿拉伯灣)」。請問:",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": "C",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 30,
+      "text": "30. 南亞與東南亞的地形主要受到板塊擠壓的影響，其中下列哪些板塊的碰撞，同時影響這兩個地區的地形演育?\n甲、歐亞板塊\n乙、印澳板塊\n丙、太平洋板塊\n丁、菲律賓海板塊\n(A) 甲乙\n(B) 甲丁\n(C) 乙丙\n(D) 丙丁",
+      "passage": "**題組：30-31為題組**\n南亞和東南亞為東西文化接觸帶，區域特色深受自然與人文因素的影響，其中板塊運動是形塑此區地形的主要自然因素；而宗教信仰是影響文化景觀的重要人文因素。請問:",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": "A",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 31,
+      "text": "31. 南亞與東南亞兩區域各有其主要宗教，請於答題卷上擇一區域勾選，並針對勾選區域寫出該區的兩大主要宗教(4分)。\n\n**題組：32-34為題組**\n「空間人口集中指數」是指特定範圍中，平均每個人周圍一定半徑內的共居人口數。若兩國面積、人數相同，但因氣候、地形或歷史發展等因素，造成其中某國人口集中居住在特定地區，該國的人口集中指數將相對較高。表2顯示2015年最近一期巴西、葡萄牙，與韓國、波蘭、澳洲五國的空間人口集中指數資料，以及該年度相對應的人口總數與人口年齡結構百分比。請問:\n\n<div class=\"custom-table-container\" style=\"overflow-x:auto; margin: 1.5rem 0; white-space: normal;\"><table class=\"custom-exam-table\" style=\"width:100%; border-collapse: collapse; border: 1px solid #dee2e6; font-size: 1rem; background: #fff; border-radius: 6px; white-space: normal;\"><thead style=\"background: #f8f9fa; white-space: normal;\"><tr><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\"></th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">半徑50公里空間人口集中指數(人)</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">人口總數(百萬人)</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">人口百分比(%) 幼年</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">人口百分比(%) 壯年</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">人口百分比(%) 老年</th></tr></thead><tbody style=\"white-space: normal;\"><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">甲</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">13,200</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">51</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">14</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">73</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">13</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">乙</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">2,149</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">24</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">19</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">66</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">15</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">丙</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">1,816</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">38</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">15</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">69</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">16</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">巴西</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">4,484</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">202</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">20</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">70</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">10</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">葡萄牙</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">2,006</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">10</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">14</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">65</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">21</td></tr></tbody></table></div>\n*表2*",
+      "passage": "**題組：30-31為題組**\n南亞和東南亞為東西文化接觸帶，區域特色深受自然與人文因素的影響，其中板塊運動是形塑此區地形的主要自然因素；而宗教信仰是影響文化景觀的重要人文因素。請問:",
+      "options": [],
+      "answer": "南亞：印度(教)、伊斯蘭(教) 或 東南亞：佛(教)、伊斯蘭(教)",
+      "type": "essay",
+      "score": 2
+    },
+    {
+      "number": 32,
+      "text": "32. 根據題文，表2中甲、乙、丙三國依序為何?\n(A) 波蘭、澳洲、韓國\n(B) 韓國、波蘭、澳洲\n(C) 澳洲、波蘭、韓國\n(D) 韓國、澳洲、波蘭",
+      "passage": "**題組：32-34為題組**\n「空間人口集中指數」是指特定範圍中，平均每個人周圍一定半徑內的共居人口數。若兩國面積、人數相同，但因氣候、地形或歷史發展等因素，造成其中某國人口集中居住在特定地區，該國的人口集中指數將相對較高。表2顯示2015年最近一期巴西、葡萄牙，與韓國、波蘭、澳洲五國的空間人口集中指數資料，以及該年度相對應的人口總數與人口年齡結構百分比。請問:\n\n<div class=\"custom-table-container\" style=\"overflow-x:auto; margin: 1.5rem 0; white-space: normal;\"><table class=\"custom-exam-table\" style=\"width:100%; border-collapse: collapse; border: 1px solid #dee2e6; font-size: 1rem; background: #fff; border-radius: 6px; white-space: normal;\"><thead style=\"background: #f8f9fa; white-space: normal;\"><tr><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\"></th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">半徑50公里空間人口集中指數(人)</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">人口總數(百萬人)</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">人口百分比(%) 幼年</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">人口百分比(%) 壯年</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">人口百分比(%) 老年</th></tr></thead><tbody style=\"white-space: normal;\"><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">甲</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">13,200</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">51</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">14</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">73</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">13</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">乙</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">2,149</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">24</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">19</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">66</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">15</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">丙</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">1,816</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">38</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">15</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">69</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">16</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">巴西</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">4,484</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">202</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">20</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">70</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">10</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">葡萄牙</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">2,006</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">10</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">14</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">65</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">21</td></tr></tbody></table></div>\n*表2*",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": "D",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 33,
+      "text": "33. 巴西曾為葡萄牙最大的海外殖民地，2015年時巴西的人口密度約為葡萄牙的五分之一，但表2的資料顯示其空間人口集中指數卻是葡萄牙的兩倍多，此與其殖民地都市發展歷程有關。哪個地理概念最適合用來解釋此現象?請以10字內說明(2分)。",
+      "passage": "**題組：32-34為題組**\n「空間人口集中指數」是指特定範圍中，平均每個人周圍一定半徑內的共居人口數。若兩國面積、人數相同，但因氣候、地形或歷史發展等因素，造成其中某國人口集中居住在特定地區，該國的人口集中指數將相對較高。表2顯示2015年最近一期巴西、葡萄牙，與韓國、波蘭、澳洲五國的空間人口集中指數資料，以及該年度相對應的人口總數與人口年齡結構百分比。請問:\n\n<div class=\"custom-table-container\" style=\"overflow-x:auto; margin: 1.5rem 0; white-space: normal;\"><table class=\"custom-exam-table\" style=\"width:100%; border-collapse: collapse; border: 1px solid #dee2e6; font-size: 1rem; background: #fff; border-radius: 6px; white-space: normal;\"><thead style=\"background: #f8f9fa; white-space: normal;\"><tr><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\"></th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">半徑50公里空間人口集中指數(人)</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">人口總數(百萬人)</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">人口百分比(%) 幼年</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">人口百分比(%) 壯年</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">人口百分比(%) 老年</th></tr></thead><tbody style=\"white-space: normal;\"><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">甲</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">13,200</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">51</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">14</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">73</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">13</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">乙</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">2,149</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">24</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">19</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">66</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">15</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">丙</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">1,816</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">38</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">15</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">69</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">16</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">巴西</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">4,484</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">202</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">20</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">70</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">10</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">葡萄牙</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">2,006</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">10</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">14</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">65</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">21</td></tr></tbody></table></div>\n*表2*",
+      "options": [],
+      "answer": "假性都市化 或 首要型都市",
+      "type": "essay",
+      "score": 2
+    },
+    {
+      "number": 34,
+      "text": "34. 請將表2中「巴西」的人口年齡結構，以答題卷上之圓點作答示例(●)繪製於作答區的三角圖上(3分)。\n\n**題組：35-36為題組**\n<br><img src=\"/images/ceec/114/分科/地理/tu_8.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n「15分鐘生活圈」是一個都市規劃與發展的理想概念，希望讓社區居民在步行15分鐘可及的範圍內，滿足大部分日常生活所需的服務。圖為甲、乙、丙三個都市街區的生活資源分布圖，其比例尺大小一致。請問:",
+      "passage": "**題組：32-34為題組**\n「空間人口集中指數」是指特定範圍中，平均每個人周圍一定半徑內的共居人口數。若兩國面積、人數相同，但因氣候、地形或歷史發展等因素，造成其中某國人口集中居住在特定地區，該國的人口集中指數將相對較高。表2顯示2015年最近一期巴西、葡萄牙，與韓國、波蘭、澳洲五國的空間人口集中指數資料，以及該年度相對應的人口總數與人口年齡結構百分比。請問:\n\n<div class=\"custom-table-container\" style=\"overflow-x:auto; margin: 1.5rem 0; white-space: normal;\"><table class=\"custom-exam-table\" style=\"width:100%; border-collapse: collapse; border: 1px solid #dee2e6; font-size: 1rem; background: #fff; border-radius: 6px; white-space: normal;\"><thead style=\"background: #f8f9fa; white-space: normal;\"><tr><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\"></th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">半徑50公里空間人口集中指數(人)</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">人口總數(百萬人)</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">人口百分比(%) 幼年</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">人口百分比(%) 壯年</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">人口百分比(%) 老年</th></tr></thead><tbody style=\"white-space: normal;\"><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">甲</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">13,200</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">51</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">14</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">73</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">13</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">乙</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">2,149</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">24</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">19</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">66</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">15</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">丙</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">1,816</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">38</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">15</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">69</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">16</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">巴西</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">4,484</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">202</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">20</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">70</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">10</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">葡萄牙</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">2,006</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">10</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">14</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">65</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">21</td></tr></tbody></table></div>\n*表2*",
+      "options": [],
+      "answer": "繪製實心圓點在幼年人口20%、壯年人口70%、老年人口10%的格線交叉點上",
+      "type": "essay",
+      "score": 2
+    },
+    {
+      "number": 35,
+      "text": "35. 某生欲利用服務區分析(或稱節點服務範圍)功能，找出都市內某地步行15分鐘的可及範圍，其在操作步驟中輸入下列哪個道路屬性，可直接產出分析結果?\n(A) 道路寬度\n(B) 道路長度\n(C) 平均高度\n(D) 通過時間",
+      "passage": "**題組：35-36為題組**\n<br><img src=\"/images/ceec/114/分科/地理/tu_8.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n「15分鐘生活圈」是一個都市規劃與發展的理想概念，希望讓社區居民在步行15分鐘可及的範圍內，滿足大部分日常生活所需的服務。圖為甲、乙、丙三個都市街區的生活資源分布圖，其比例尺大小一致。請問:",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": "D",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 36,
+      "text": "36. 根據題文和圖，哪個都市最符合「15分鐘生活圈」的規劃與發展概念?請在答題卷作答區中勾選最符合的都市，並以20字內從服務設施空間分布特色的角度說明判斷依據(4分)。\n\n**題組：37-38為題組**\n<br><img src=\"/images/ceec/114/分科/地理/tu_9.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n義大利某都市海岸侵蝕嚴重，當地政府為此委託專家進行海岸管理計畫。專家們首先判斷沿岸流的方向以瞭解該市海岸侵蝕的機制，接著訪問漁業、旅遊業、環保組織、公民等權益關係人，將他們的訴求與建議帶回，之後建立各項海岸管理指標，再以網路地圖的方式呈現指標資訊，作為規劃海岸管理計畫使用，並提供民眾查詢，圖是該市海岸的局部衛星影像圖(圖中可見一港口，其東南方有沙灘堆積，西北方海岸則受到侵蝕)。某生以此案例進行公眾參與式地理資訊系統(PPGIS)的專題報告。請問:",
+      "passage": "**題組：35-36為題組**\n<br><img src=\"/images/ceec/114/分科/地理/tu_8.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n「15分鐘生活圈」是一個都市規劃與發展的理想概念，希望讓社區居民在步行15分鐘可及的範圍內，滿足大部分日常生活所需的服務。圖為甲、乙、丙三個都市街區的生活資源分布圖，其比例尺大小一致。請問:",
+      "options": [],
+      "answer": "甲；此都市的三類服務設施在空間分布上較平均",
+      "type": "essay",
+      "score": 2
+    },
+    {
+      "number": 37,
+      "text": "37. 老師認為該生所引用的案例並未完全符合PPGIS的理念，其理由最可能是因為該計畫進行的過程，缺乏下列何種行動?\n(A) 研究人員使用GIS整合海岸土地利用資料\n(B) 宣導民眾透過GIS網站查詢海岸地區風險\n(C) 以GIS為平臺與權益關係人討論管理計畫\n(D) 政府以GIS網站公開海岸地區景觀分區圖",
+      "passage": "**題組：37-38為題組**\n<br><img src=\"/images/ceec/114/分科/地理/tu_9.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n義大利某都市海岸侵蝕嚴重，當地政府為此委託專家進行海岸管理計畫。專家們首先判斷沿岸流的方向以瞭解該市海岸侵蝕的機制，接著訪問漁業、旅遊業、環保組織、公民等權益關係人，將他們的訴求與建議帶回，之後建立各項海岸管理指標，再以網路地圖的方式呈現指標資訊，作為規劃海岸管理計畫使用，並提供民眾查詢，圖是該市海岸的局部衛星影像圖(圖中可見一港口，其東南方有沙灘堆積，西北方海岸則受到侵蝕)。某生以此案例進行公眾參與式地理資訊系統(PPGIS)的專題報告。請問:",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": "C",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 38,
+      "text": "38. 在答題卷作答區中勾選此區沿岸流的主要方向，並根據圖中港口附近的地貌景觀，以30字內說明文中專家判斷此區沿岸流方向的依據與海岸侵蝕的機制(5分)。\n\n**題組：39-41為題組**\n<br><img src=\"/images/ceec/114/分科/地理/tu_10.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n某生欲以人口活動強度來進行地理課題的探究，他從文獻分析中發現第三級產業活動興盛區，主要為零售百貨業或服務業等產業所聚集，具有地價高和易達性高的特色，由於這些區域提供許多就業機會，吸引鄰近人口跨區通勤來此工作。該生因此想探討北臺灣(北北基桃)每日淨通勤人數較多的區域，是否即為第三級產業活動興盛區。\n為了探究這個課題，他從國土資訊系統社會經濟資料服務平台中，下載以鄉鎮區為統計單元的「電信信令人口統計」GIS資料，該資料是以手機使用人口的位置，推估各個鄉鎮區的人口活動數量，表3為該資料的部分屬性資料表。該生利用GIS的屬性分析功能計算出各鄉鎮區的每日淨通勤人數估計值後，將研究成果繪製成圖。\n該生從圖的資訊發現，臺北市淨通勤人數較多的區域，的確與第三級產業活動興盛區高度重疊(圖中顯示桃園市淨通勤人數大於1萬人的區域，多分布於工業區)。請問:\n\n<div class=\"custom-table-container\" style=\"overflow-x:auto; margin: 1.5rem 0; white-space: normal;\"><table class=\"custom-exam-table\" style=\"width:100%; border-collapse: collapse; border: 1px solid #dee2e6; font-size: 1rem; background: #fff; border-radius: 6px; white-space: normal;\"><thead style=\"background: #f8f9fa; white-space: normal;\"><tr><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">行政區</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">平日夜間停留人數</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">平日日間活動人數</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">假日夜間停留人數</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">假日日間活動人數</th></tr></thead><tbody style=\"white-space: normal;\"><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">甲區</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">577,007</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">426,580</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">574,620</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">424,259</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">乙區</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">461,811</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">343,466</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">552,865</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">395,318</td></tr></tbody></table></div>\n*表3*",
+      "passage": "**題組：37-38為題組**\n<br><img src=\"/images/ceec/114/分科/地理/tu_9.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n義大利某都市海岸侵蝕嚴重，當地政府為此委託專家進行海岸管理計畫。專家們首先判斷沿岸流的方向以瞭解該市海岸侵蝕的機制，接著訪問漁業、旅遊業、環保組織、公民等權益關係人，將他們的訴求與建議帶回，之後建立各項海岸管理指標，再以網路地圖的方式呈現指標資訊，作為規劃海岸管理計畫使用，並提供民眾查詢，圖是該市海岸的局部衛星影像圖(圖中可見一港口，其東南方有沙灘堆積，西北方海岸則受到侵蝕)。某生以此案例進行公眾參與式地理資訊系統(PPGIS)的專題報告。請問:",
+      "options": [],
+      "answer": "由東南到西北；港口造成突堤效應，使得港口的(東)南側堆積，(西)北側侵蝕。",
+      "type": "essay",
+      "score": 2
+    },
+    {
+      "number": 39,
+      "text": "39. 根據題文，該生最可能從下列哪個地理概念進行研究發問?\n(A) 交通革新\n(B) 競租理論\n(C) 時空收斂\n(D) 城鄉關係",
+      "passage": "**題組：39-41為題組**\n<br><img src=\"/images/ceec/114/分科/地理/tu_10.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n某生欲以人口活動強度來進行地理課題的探究，他從文獻分析中發現第三級產業活動興盛區，主要為零售百貨業或服務業等產業所聚集，具有地價高和易達性高的特色，由於這些區域提供許多就業機會，吸引鄰近人口跨區通勤來此工作。該生因此想探討北臺灣(北北基桃)每日淨通勤人數較多的區域，是否即為第三級產業活動興盛區。\n為了探究這個課題，他從國土資訊系統社會經濟資料服務平台中，下載以鄉鎮區為統計單元的「電信信令人口統計」GIS資料，該資料是以手機使用人口的位置，推估各個鄉鎮區的人口活動數量，表3為該資料的部分屬性資料表。該生利用GIS的屬性分析功能計算出各鄉鎮區的每日淨通勤人數估計值後，將研究成果繪製成圖。\n該生從圖的資訊發現，臺北市淨通勤人數較多的區域，的確與第三級產業活動興盛區高度重疊(圖中顯示桃園市淨通勤人數大於1萬人的區域，多分布於工業區)。請問:\n\n<div class=\"custom-table-container\" style=\"overflow-x:auto; margin: 1.5rem 0; white-space: normal;\"><table class=\"custom-exam-table\" style=\"width:100%; border-collapse: collapse; border: 1px solid #dee2e6; font-size: 1rem; background: #fff; border-radius: 6px; white-space: normal;\"><thead style=\"background: #f8f9fa; white-space: normal;\"><tr><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">行政區</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">平日夜間停留人數</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">平日日間活動人數</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">假日夜間停留人數</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">假日日間活動人數</th></tr></thead><tbody style=\"white-space: normal;\"><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">甲區</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">577,007</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">426,580</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">574,620</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">424,259</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">乙區</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">461,811</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">343,466</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">552,865</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">395,318</td></tr></tbody></table></div>\n*表3*",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": "D",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 40,
+      "text": "40. 根據題文，該生以GIS的屬性資料分析方法，從表3計算各區每日淨通勤人數的估計值，下列何者最可能是其使用的操作步驟?\n(A) 平日夜間停留人數的欄位數值加上平日日間活動人數的欄位數值\n(B) 平日日間活動人數的欄位數值減去平日夜間停留人數的欄位數值\n(C) 假日日間活動人數的欄位數值加上假日夜間停留人數的欄位數值\n(D) 假日日間活動人數的欄位數值減去平日日間活動人數的欄位數值",
+      "passage": "**題組：39-41為題組**\n<br><img src=\"/images/ceec/114/分科/地理/tu_10.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n某生欲以人口活動強度來進行地理課題的探究，他從文獻分析中發現第三級產業活動興盛區，主要為零售百貨業或服務業等產業所聚集，具有地價高和易達性高的特色，由於這些區域提供許多就業機會，吸引鄰近人口跨區通勤來此工作。該生因此想探討北臺灣(北北基桃)每日淨通勤人數較多的區域，是否即為第三級產業活動興盛區。\n為了探究這個課題，他從國土資訊系統社會經濟資料服務平台中，下載以鄉鎮區為統計單元的「電信信令人口統計」GIS資料，該資料是以手機使用人口的位置，推估各個鄉鎮區的人口活動數量，表3為該資料的部分屬性資料表。該生利用GIS的屬性分析功能計算出各鄉鎮區的每日淨通勤人數估計值後，將研究成果繪製成圖。\n該生從圖的資訊發現，臺北市淨通勤人數較多的區域，的確與第三級產業活動興盛區高度重疊(圖中顯示桃園市淨通勤人數大於1萬人的區域，多分布於工業區)。請問:\n\n<div class=\"custom-table-container\" style=\"overflow-x:auto; margin: 1.5rem 0; white-space: normal;\"><table class=\"custom-exam-table\" style=\"width:100%; border-collapse: collapse; border: 1px solid #dee2e6; font-size: 1rem; background: #fff; border-radius: 6px; white-space: normal;\"><thead style=\"background: #f8f9fa; white-space: normal;\"><tr><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">行政區</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">平日夜間停留人數</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">平日日間活動人數</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">假日夜間停留人數</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">假日日間活動人數</th></tr></thead><tbody style=\"white-space: normal;\"><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">甲區</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">577,007</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">426,580</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">574,620</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">424,259</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">乙區</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">461,811</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">343,466</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">552,865</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">395,318</td></tr></tbody></table></div>\n*表3*",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": "B",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 41,
+      "text": "41. 老師審視該生的研究結果，發現缺乏桃園市的分析與推論，要求他補齊。如果你是該生，根據題文與圖的資訊，從桃園市淨通勤人數大於1萬人區域內的產業類別，推論臺北市的研究結果在桃園市是否成立?請在答題卷作答區中勾選，並以40字內陳述判斷的理由(4分)。\n\n**題組：42-43為題組**\n<br><img src=\"/images/ceec/114/分科/地理/tu_11.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n閱讀以下資料:\n資料一:2024年全球前兩大太陽能發電國家的優勢條件\n一、中國\n中國憑藉政策補貼與完整供應鏈，處於全球太陽能板製造的主導地位，主要將產品出口到歐洲與北美等地區。\n二、美國\n美國在太陽能發電容量上處於領先地位，大片土地日照時間充足，陽光帶等州見證了太陽能的大規模擴張。\n資料二:2025年美國總統川普上任後不久即揮舞關稅大刀，擬對許多國家收取高額關稅，尤其對中國的關稅稅率特別高，可能引發全球貿易減速。氣候與產業專家認為，全球貿易減速可能讓碳排放短暫下降，但長期恐不利於美國能源轉型與綠色科技。請問:",
+      "passage": "**題組：39-41為題組**\n<br><img src=\"/images/ceec/114/分科/地理/tu_10.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n某生欲以人口活動強度來進行地理課題的探究，他從文獻分析中發現第三級產業活動興盛區，主要為零售百貨業或服務業等產業所聚集，具有地價高和易達性高的特色，由於這些區域提供許多就業機會，吸引鄰近人口跨區通勤來此工作。該生因此想探討北臺灣(北北基桃)每日淨通勤人數較多的區域，是否即為第三級產業活動興盛區。\n為了探究這個課題，他從國土資訊系統社會經濟資料服務平台中，下載以鄉鎮區為統計單元的「電信信令人口統計」GIS資料，該資料是以手機使用人口的位置，推估各個鄉鎮區的人口活動數量，表3為該資料的部分屬性資料表。該生利用GIS的屬性分析功能計算出各鄉鎮區的每日淨通勤人數估計值後，將研究成果繪製成圖。\n該生從圖的資訊發現，臺北市淨通勤人數較多的區域，的確與第三級產業活動興盛區高度重疊(圖中顯示桃園市淨通勤人數大於1萬人的區域，多分布於工業區)。請問:\n\n<div class=\"custom-table-container\" style=\"overflow-x:auto; margin: 1.5rem 0; white-space: normal;\"><table class=\"custom-exam-table\" style=\"width:100%; border-collapse: collapse; border: 1px solid #dee2e6; font-size: 1rem; background: #fff; border-radius: 6px; white-space: normal;\"><thead style=\"background: #f8f9fa; white-space: normal;\"><tr><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">行政區</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">平日夜間停留人數</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">平日日間活動人數</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">假日夜間停留人數</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">假日日間活動人數</th></tr></thead><tbody style=\"white-space: normal;\"><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">甲區</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">577,007</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">426,580</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">574,620</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">424,259</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">乙區</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">461,811</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">343,466</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">552,865</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">395,318</td></tr></tbody></table></div>\n*表3*",
+      "options": [],
+      "answer": "否；桃園市每日淨通勤人數大於1萬人的區域內，多為工業區(或二級產業活動興盛區)。",
+      "type": "essay",
+      "score": 2
+    },
+    {
+      "number": 42,
+      "text": "42. 根據題文，圖中何處最可能是美國發展太陽能光電的州別?\n(A) 甲 (美國東北部)\n(B) 乙 (美國中西部五大湖區)\n(C) 丙 (美國西北部)\n(D) 丁 (美國西南部陽光帶)",
+      "passage": "**題組：42-43為題組**\n<br><img src=\"/images/ceec/114/分科/地理/tu_11.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n閱讀以下資料:\n資料一:2024年全球前兩大太陽能發電國家的優勢條件\n一、中國\n中國憑藉政策補貼與完整供應鏈，處於全球太陽能板製造的主導地位，主要將產品出口到歐洲與北美等地區。\n二、美國\n美國在太陽能發電容量上處於領先地位，大片土地日照時間充足，陽光帶等州見證了太陽能的大規模擴張。\n資料二:2025年美國總統川普上任後不久即揮舞關稅大刀，擬對許多國家收取高額關稅，尤其對中國的關稅稅率特別高，可能引發全球貿易減速。氣候與產業專家認為，全球貿易減速可能讓碳排放短暫下降，但長期恐不利於美國能源轉型與綠色科技。請問:",
+      "options": [
+        "(A)",
+        "(B)",
+        "(C)",
+        "(D)"
+      ],
+      "answer": "D",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 43,
+      "text": "43. 資料二中氣候與產業專家就美國對中國提高關稅政策後，對全球貿易減速之影響提出的兩個觀點，僅根據資料一作為其觀點的佐證，在答題卷作答區中，各以30字內寫出其可能所持的佐證說明(6分)。",
+      "passage": "**題組：42-43為題組**\n<br><img src=\"/images/ceec/114/分科/地理/tu_11.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n閱讀以下資料:\n資料一:2024年全球前兩大太陽能發電國家的優勢條件\n一、中國\n中國憑藉政策補貼與完整供應鏈，處於全球太陽能板製造的主導地位，主要將產品出口到歐洲與北美等地區。\n二、美國\n美國在太陽能發電容量上處於領先地位，大片土地日照時間充足，陽光帶等州見證了太陽能的大規模擴張。\n資料二:2025年美國總統川普上任後不久即揮舞關稅大刀，擬對許多國家收取高額關稅，尤其對中國的關稅稅率特別高，可能引發全球貿易減速。氣候與產業專家認為，全球貿易減速可能讓碳排放短暫下降，但長期恐不利於美國能源轉型與綠色科技。請問:",
+      "options": [],
+      "answer": "觀點一：全球貿易減速可能讓碳排放短暫下降，主要是因為中國到美國的出口貿易量下降，運輸量降低。觀點二：長期恐不利於美國能源轉型與綠色科技，主要是因為美國(未來發展光電所需的)太陽能板成本增加。",
+      "type": "essay",
+      "score": 2
+    }
+  ]
+}
