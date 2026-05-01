@@ -4,8 +4,7 @@
   "questions": [
     {
       "number": 1,
-      "text": "若在計算器中鍵入某正整數 $N$，接著連按「$\\sqrt{\\quad}$」鍵（取正平方根）3次，視窗顯示得到答案為 2，則 $N$ 等於下列哪一個選項？",
-      "passage": "",
+      "text": "若在計算器中鍵入某正整數 $N$，接著連按「$\\sqrt{\\quad}$」鍵（取正平方根）3次，視窗顯示得到答案為 2，則 $N$ 等於下列哪一個選項？\n(1) $2^3$\n(2) $2^4$\n(3) $2^6$\n(4) $2^8$\n(5) $2^{12}$",
       "options": [
         "(1) $2^3$",
         "(2) $2^4$",
@@ -19,8 +18,7 @@
     },
     {
       "number": 2,
-      "text": "<br><img src=\"/images/ceec/112/學測/數A/03-112%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e5%8d%b7.pdf-0002-12.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n坐標平面上，以原點 $O$ 為圓心、1為半徑作圓，分別交坐標軸正向於 $A$、$B$ 兩點。在第一象限的圓弧上取一點 $C$ 作圓的切線分別交兩軸於點 $D$、$E$。令 $\\angle OEC = \\theta$，試選出等於 $\\tan \\theta$ 的選項。",
-      "passage": "",
+      "text": "坐標平面上，以原點 $O$ 為圓心、1為半徑作圓，分別交坐標軸正向於 $A$、$B$ 兩點。在第一象限的圓弧上取一點 $C$ 作圓的切線分別交兩軸於點 $D$、$E$。令 $\\angle OEC = \\theta$，試選出等於 $\\tan \\theta$ 的選項。\n(1) $\\overline{OE}$\n(2) $\\overline{OC}$\n(3) $\\overline{OD}$\n(4) $\\overline{CE}$\n(5) $\\overline{CD}$<br><img src=\"images/ceec/112/數A/03-112%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e5%8d%b7.pdf-0002-12.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
       "options": [
         "(1) $\\overline{OE}$",
         "(2) $\\overline{OC}$",
@@ -34,8 +32,7 @@
     },
     {
       "number": 3,
-      "text": "<br><img src=\"/images/ceec/112/學測/數A/03-112%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e5%8d%b7.pdf-0002-13.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n某生推導出兩物理量 $s, t$ 應滿足一等式。為了驗證其理論，他做了實驗得到 15 筆兩物理量的數據 $(s_k, t_k)$，$k=1,\\dots,15$。老師建議他將其中的 $t_k$ 先取對數，在坐標平面上標出對應的點 $(s_k, \\log t_k)$，$k=1,\\dots,15$。其中第一個數據為橫軸坐標，第二個數據為縱軸坐標，其迴歸直線為一條通過原點 $(0,0)$ 與點 $(2,1)$ 的直線。利用迴歸直線分析，某生印證了其理論。試問該生所得 $s, t$ 的關係式最可能為下列哪一選項？",
-      "passage": "",
+      "text": "某生推導出兩物理量 $s, t$ 應滿足一等式。為了驗證其理論，他做了實驗得到 15 筆兩物理量的數據 $(s_k, t_k)$，$k=1,\\dots,15$。老師建議他將其中的 $t_k$ 先取對數，在坐標平面上標出對應的點 $(s_k, \\log t_k)$，$k=1,\\dots,15$。其中第一個數據為橫軸坐標，第二個數據為縱軸坐標，其迴歸直線為一條通過原點 $(0,0)$ 與點 $(2,1)$ 的直線。利用迴歸直線分析，某生印證了其理論。試問該生所得 $s, t$ 的關係式最可能為下列哪一選項？\n(1) $s=2t$\n(2) $s=3t$\n(3) $t=10^s$\n(4) $t^2=10^s$\n(5) $t^3=10^s$<br><img src=\"images/ceec/112/數A/03-112%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e5%8d%b7.pdf-0002-13.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
       "options": [
         "(1) $s=2t$",
         "(2) $s=3t$",
@@ -49,8 +46,7 @@
     },
     {
       "number": 4,
-      "text": "將數字 $1, 2, 3, \\dots, 9$ 等 9 個數字排成九位數（數字不得重複），使得前 5 位從左至右遞增、且後 5 位從左至右遞減。試問共有幾個滿足條件的九位數？",
-      "passage": "",
+      "text": "將數字 $1, 2, 3, \\dots, 9$ 等 9 個數字排成九位數（數字不得重複），使得前 5 位從左至右遞增、且後 5 位從左至右遞減。試問共有幾個滿足條件的九位數？\n(1) $\\frac{8!}{4!4!}$\n(2) $\\frac{8!}{5!3!}$\n(3) $\\frac{9!}{5!4!}$\n(4) $\\frac{8!}{5!}$\n(5) $\\frac{9!}{5!}$",
       "options": [
         "(1) $\\frac{8!}{4!4!}$",
         "(2) $\\frac{8!}{5!3!}$",
@@ -64,8 +60,7 @@
     },
     {
       "number": 5,
-      "text": "已知坐標空間中 $P$、$Q$、$R$ 為平面 $2x-3y+5z=\\sqrt{7}$ 上不共線三點。令 $\\vec{PQ} = (a_1,b_1,c_1)$，$\\vec{PR} = (a_2,b_2,c_2)$。試選出下列行列式中絕對值為最大的選項。",
-      "passage": "",
+      "text": "已知坐標空間中 $P$、$Q$、$R$ 為平面 $2x-3y+5z=\\sqrt{7}$ 上不共線三點。令 $\\vec{PQ} = (a_1,b_1,c_1)$，$\\vec{PR} = (a_2,b_2,c_2)$。試選出下列行列式中絕對值為最大的選項。\n(1) $\\begin{vmatrix} -1 & 1 & 1 \\\\ a_1 & b_1 & c_1 \\\\ a_2 & b_2 & c_2 \\end{vmatrix}$\n(2) $\\begin{vmatrix} 1 & -1 & 1 \\\\ a_1 & b_1 & c_1 \\\\ a_2 & b_2 & c_2 \\end{vmatrix}$\n(3) $\\begin{vmatrix} 1 & 1 & -1 \\\\ a_1 & b_1 & c_1 \\\\ a_2 & b_2 & c_2 \\end{vmatrix}$\n(4) $\\begin{vmatrix} -1 & -1 & 1 \\\\ a_1 & b_1 & c_1 \\\\ a_2 & b_2 & c_2 \\end{vmatrix}$\n(5) $\\begin{vmatrix} -1 & -1 & -1 \\\\ a_1 & b_1 & c_1 \\\\ a_2 & b_2 & c_2 \\end{vmatrix}$",
       "options": [
         "(1) $\\begin{vmatrix} -1 & 1 & 1 \\\\ a_1 & b_1 & c_1 \\\\ a_2 & b_2 & c_2 \\end{vmatrix}$",
         "(2) $\\begin{vmatrix} 1 & -1 & 1 \\\\ a_1 & b_1 & c_1 \\\\ a_2 & b_2 & c_2 \\end{vmatrix}$",
@@ -79,8 +74,7 @@
     },
     {
       "number": 6,
-      "text": "<br><img src=\"/images/ceec/112/學測/數A/03-112%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e5%8d%b7.pdf-0003-03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n坐標空間中，考慮邊長為 1 的正立方體，固定一頂點 $O$。從 $O$ 以外的七個頂點隨機選取相異兩點，設此兩點為 $P$、$Q$，試問所得的內積 $\\vec{OP} \\cdot \\vec{OQ}$ 之期望值為下列哪一個選項？",
-      "passage": "",
+      "text": "坐標空間中，考慮邊長為 1 的正立方體，固定一頂點 $O$。從 $O$ 以外的七個頂點隨機選取相異兩點，設此兩點為 $P$、$Q$，試問所得的內積 $\\vec{OP} \\cdot \\vec{OQ}$ 之期望值為下列哪一個選項？\n(1) $\\frac{4}{7}$\n(2) $\\frac{5}{7}$\n(3) $\\frac{6}{7}$\n(4) $1$\n(5) $\\frac{8}{7}$<br><img src=\"images/ceec/112/數A/03-112%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e5%8d%b7.pdf-0003-03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
       "options": [
         "(1) $\\frac{4}{7}$",
         "(2) $\\frac{5}{7}$",
@@ -94,8 +88,7 @@
     },
     {
       "number": 7,
-      "text": "某公司有甲、乙兩新進員工，兩人同時間入職且起薪相同。公司承諾給甲、乙兩員工調薪的方式如下：\n甲：工作滿 3 個月，下個月開始月薪增加 200 元；以後再每滿 3 個月皆依此方式調薪。\n乙：工作滿 12 個月，下個月開始月薪增加 1000 元；以後再每滿 12 個月皆依此方式調薪。\n根據以上敘述，試選出正確的選項。",
-      "passage": "",
+      "text": "某公司有甲、乙兩新進員工，兩人同時間入職且起薪相同。公司承諾給甲、乙兩員工調薪的方式如下：\n甲：工作滿 3 個月，下個月開始月薪增加 200 元；以後再每滿 3 個月皆依此方式調薪。\n乙：工作滿 12 個月，下個月開始月薪增加 1000 元；以後再每滿 12 個月皆依此方式調薪。\n根據以上敘述，試選出正確的選項。\n(1) 甲工作滿 8 個月後，第 9 個月的月薪比第 1 個月的月薪增加 600 元\n(2) 工作滿一年後，第 13 個月甲的月薪比乙的月薪高\n(3) 工作滿 18 個月後，第 19 個月甲的月薪比乙的月薪高\n(4) 工作滿 18 個月時，甲總共領到的薪水比乙總共領到的薪水少\n(5) 工作滿兩年後，在第 3 年的 12 個月中，恰有 3 個月甲的月薪比乙的月薪高",
       "options": [
         "(1) 甲工作滿 8 個月後，第 9 個月的月薪比第 1 個月的月薪增加 600 元",
         "(2) 工作滿一年後，第 13 個月甲的月薪比乙的月薪高",
@@ -103,35 +96,27 @@
         "(4) 工作滿 18 個月時，甲總共領到的薪水比乙總共領到的薪水少",
         "(5) 工作滿兩年後，在第 3 年的 12 個月中，恰有 3 個月甲的月薪比乙的月薪高"
       ],
-      "answer": [
-        "3",
-        "5"
-      ],
+      "answer": "35",
       "type": "multi",
       "score": 2
     },
     {
       "number": 8,
-      "text": "某抽獎遊戲單次中獎機率為 0.1，每次中獎與否皆為獨立事件。對每一正整數 $n$，令 $p_n$ 為玩此遊戲 $n$ 次至少中獎 1 次的機率。試選出正確的選項。",
-      "passage": "",
+      "text": "某抽獎遊戲單次中獎機率為 0.1，每次中獎與否皆為獨立事件。對每一正整數 $n$，令 $p_n$ 為玩此遊戲 $n$ 次至少中獎 1 次的機率。試選出正確的選項。\n(1) $p_{n+1} > p_n$\n(2) $p_3 = 0.3$\n(3) $\\langle p_n \\rangle$ 為等差數列\n(4) 玩此遊戲兩次以上，第一次未中獎且第二次中獎的機率等於 $p_2 - p_1$\n(5) 玩此遊戲 $n$ 次且 $n \\ge 2$ 時，至少中獎 2 次的機率等於 $2p_n$",
       "options": [
-        "(1) $p_{n+1} &gt; p_n$",
+        "(1) $p_{n+1} > p_n$",
         "(2) $p_3 = 0.3$",
         "(3) $\\langle p_n \\rangle$ 為等差數列",
         "(4) 玩此遊戲兩次以上，第一次未中獎且第二次中獎的機率等於 $p_2 - p_1$",
         "(5) 玩此遊戲 $n$ 次且 $n \\ge 2$ 時，至少中獎 2 次的機率等於 $2p_n$"
       ],
-      "answer": [
-        "1",
-        "4"
-      ],
+      "answer": "14",
       "type": "multi",
       "score": 2
     },
     {
       "number": 9,
-      "text": "設 $a_1, a_2, a_3, \\dots, a_n$ 是首項為 3 且公比為 $3\\sqrt{3}$ 的等比數列。試選出滿足不等式 $\\log_3 a_1 - \\log_3 a_2 + \\log_3 a_3 - \\log_3 a_4 + \\dots + (-1)^{n+1} \\log_3 a_n &gt; 18$ 的項數 $n$ 之可能選項。",
-      "passage": "",
+      "text": "設 $a_1, a_2, a_3, \\dots, a_n$ 是首項為 3 且公比為 $3\\sqrt{3}$ 的等比數列。試選出滿足不等式 $\\log_3 a_1 - \\log_3 a_2 + \\log_3 a_3 - \\log_3 a_4 + \\dots + (-1)^{n+1} \\log_3 a_n > 18$ 的項數 $n$ 之可能選項。\n(1) 23\n(2) 24\n(3) 25\n(4) 26\n(5) 27",
       "options": [
         "(1) 23",
         "(2) 24",
@@ -139,72 +124,55 @@
         "(4) 26",
         "(5) 27"
       ],
-      "answer": [
-        "3",
-        "5"
-      ],
+      "answer": "35",
       "type": "multi",
       "score": 2
     },
     {
       "number": 10,
-      "text": "考慮坐標平面上的直線 $L: 5y + (2k-4)x - 10k = 0$（其中 $k$ 為一實數），以及長方形 $OABC$，其頂點坐標為 $O(0,0), A(10,0), B(10,6), C(0,6)$。設 $L$ 分別交直線 $OC$、直線 $AB$ 於點 $D$、$E$。試選出正確的選項。",
-      "passage": "",
+      "text": "考慮坐標平面上的直線 $L: 5y + (2k-4)x - 10k = 0$（其中 $k$ 為一實數），以及長方形 $OABC$，其頂點坐標為 $O(0,0), A(10,0), B(10,6), C(0,6)$。設 $L$ 分別交直線 $OC$、直線 $AB$ 於點 $D$、$E$。試選出正確的選項。\n(1) 當 $k=4$ 時，直線 $L$ 通過點 $A$\n(2) 若直線 $L$ 通過點 $C$，則 $L$ 的斜率為 $-\\frac{5}{2}$\n(3) 若點 $D$ 在線段 $\\overline{OC}$ 上，則 $0 \\le k \\le 3$\n(4) 若 $k=\\frac{1}{2}$，則線段 $\\overline{DE}$ 在長方形 $OABC$ 內部（含邊界）\n(5) 若線段 $\\overline{DE}$ 在長方形 $OABC$ 內部（含邊界），則 $L$ 的斜率可能為 $\\frac{3}{10}$",
       "options": [
         "(1) 當 $k=4$ 時，直線 $L$ 通過點 $A$",
         "(2) 若直線 $L$ 通過點 $C$，則 $L$ 的斜率為 $-\\frac{5}{2}$",
         "(3) 若點 $D$ 在線段 $\\overline{OC}$ 上，則 $0 \\le k \\le 3$",
-        "(4) 若 $k=\\frac{1}{2}$，則線段 $\\overline{DE}$ 在長方形 $OABC$ 內部（含邊界）",
-        "(5) 若線段 $\\overline{DE}$ 在長方形 $OABC$ 內部（含邊界），則 $L$ 的斜率可能為 $\\frac{3}{10}$"
+        "(4) 若 $k=\\frac{1}{2}$，則線段 $\\overline{DE}$ 在長方形 $OABC$ 內部",
+        "(5) 若線段 $\\overline{DE}$ 在長方形 $OABC$ 內部"
       ],
-      "answer": [
-        "1",
-        "3",
-        "5"
-      ],
+      "answer": "135",
       "type": "multi",
       "score": 2
     },
     {
       "number": 11,
-      "text": "坐標平面上，設 $A$、$B$ 分別表示以原點為中心，順時針、逆時針旋轉 $90^\\circ$ 的旋轉矩陣。設 $C$、$D$ 分別表示以直線 $x=y$、$x=-y$ 為鏡射軸的鏡射矩陣。試選出正確的選項。",
-      "passage": "",
+      "text": "坐標平面上，設 $A$、$B$ 分別表示以原點為中心，順時針、逆時針旋轉 $90^\\circ$ 的旋轉矩陣。設 $C$、$D$ 分別表示以直線 $x=y$、$x=-y$ 為鏡射軸的鏡射矩陣。試選出正確的選項。\n(1) $A$、$C$ 將點 $(1,0)$ 映射到同一點\n(2) $A = -B$\n(3) $C = D^{-1}$\n(4) $AB = CD$\n(5) $AC = BD$",
       "options": [
-        "(1) $A$、$C$ 將點 $(1,0)$ 映射到同一點",
+        "(1) $A$、$C$ 將點 $",
         "(2) $A = -B$",
         "(3) $C = D^{-1}$",
         "(4) $AB = CD$",
         "(5) $AC = BD$"
       ],
-      "answer": [
-        "2",
-        "5"
-      ],
+      "answer": "25",
       "type": "multi",
       "score": 2
     },
     {
       "number": 12,
-      "text": "令 $f(x) = \\sin x + \\sqrt{3} \\cos x$，試選出正確的選項。",
-      "passage": "",
+      "text": "令 $f(x) = \\sin x + \\sqrt{3} \\cos x$，試選出正確的選項。\n(1) 鉛直線 $x = \\frac{\\pi}{6}$ 為 $y=f(x)$ 圖形的對稱軸\n(2) 若鉛直線 $x=a$ 和 $x=b$ 均為 $y=f(x)$ 圖形的對稱軸，則 $f(a)=f(b)$\n(3) 在區間 $[0, 2\\pi)$ 中僅有一個實數 $x$ 滿足 $f(x)=\\sqrt{3}$\n(4) 在區間 $[0, 2\\pi)$ 中滿足 $|f(x)|=\\frac{1}{2}$ 的所有實數 $x$ 之和不超過 $2\\pi$\n(5) $y=f(x)$ 的圖形可由 $y=4 \\sin^2 \\frac{x}{2}$ 的圖形經適當（左右、上下）平移得到",
       "options": [
-        "(1) 鉛直線 $x = \\frac{\\pi}{6}$ 為 $y=f(x)$ 圖形的對稱軸",
-        "(2) 若鉛直線 $x=a$ 和 $x=b$ 均為 $y=f(x)$ 圖形的對稱軸，則 $f(a)=f(b)$",
-        "(3) 在區間 $[0, 2\\pi)$ 中僅有一個實數 $x$ 滿足 $f(x)=\\sqrt{3}$",
-        "(4) 在區間 $[0, 2\\pi)$ 中滿足 $|f(x)|=\\frac{1}{2}$ 的所有實數 $x$ 之和不超過 $2\\pi$",
-        "(5) $y=f(x)$ 的圖形可由 $y=4 \\sin^2 \\frac{x}{2}$ 的圖形經適當（左右、上下）平移得到"
+        "(1) 鉛直線 $x = \\frac{\\pi}{6}$ 為 $y=f",
+        "(2) 若鉛直線 $x=a$ 和 $x=b$ 均為 $y=f",
+        "(3) 在區間 $[0, 2\\pi)$ 中僅有一個實數 $x$ 滿足 $f",
+        "(4) 在區間 $[0, 2\\pi)$ 中滿足 $|f",
+        "(5) $y=f"
       ],
-      "answer": [
-        "1",
-        "5"
-      ],
+      "answer": "15",
       "type": "multi",
       "score": 2
     },
     {
       "number": 13,
-      "text": "某間新開幕飲料專賣店推出果汁、奶茶、咖啡三種飲料，前 3 天各種飲料的銷售數量（單位：杯）與收入總金額（單位：元）如下表，例如第一天果汁、奶茶、咖啡的銷售量分別為 60 杯、80 杯與 50 杯，收入總金額為 12900 元。\n\n<div class=\"custom-table-container\" style=\"overflow-x:auto; margin: 1.5rem 0; white-space: normal;\"><table class=\"custom-exam-table\" style=\"width:100%; border-collapse: collapse; border: 1px solid #dee2e6; font-size: 1rem; background: #fff; border-radius: 6px; white-space: normal;\"><thead style=\"background: #f8f9fa; white-space: normal;\"><tr><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\"></th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">果汁（杯）</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">奶茶（杯）</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">咖啡（杯）</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">收入總金額（元）</th></tr></thead><tbody style=\"white-space: normal;\"><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">第1天</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">60</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">80</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">50</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">12900</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">第2天</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">30</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">40</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">30</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">6850</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">第3天</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">50</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">70</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">40</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">10800</td></tr></tbody></table></div>\n\n已知同一種飲料每天的售價皆相同，則咖啡每杯的售價為 \\_\\_\\_\\_\\_\\_ 元。",
-      "passage": "",
+      "text": "某間新開幕飲料專賣店推出果汁、奶茶、咖啡三種飲料，前 3 天各種飲料的銷售數量（單位：杯）與收入總金額（單位：元）如下表，例如第一天果汁、奶茶、咖啡的銷售量分別為 60 杯、80 杯與 50 杯，收入總金額為 12900 元。\n\n| | 果汁（杯） | 奶茶（杯） | 咖啡（杯） | 收入總金額（元） |\n|---|---|---|---|---|\n| 第1天 | 60 | 80 | 50 | 12900 |\n| 第2天 | 30 | 40 | 30 | 6850 |\n| 第3天 | 50 | 70 | 40 | 10800 |\n\n已知同一種飲料每天的售價皆相同，則咖啡每杯的售價為 \\_\\_\\_\\_\\_\\_ 元。",
       "options": [],
       "answer": "80",
       "type": "fill",
@@ -212,8 +180,7 @@
     },
     {
       "number": 14,
-      "text": "設 $a, b$ 為實數（其中 $a&gt;0$），若多項式 $ax^2 + (2a+b)x - 12$ 除以 $x^2 + (2-a)x - 2a$ 所得餘式為 6，則數對 $(a, b) = (\\text{\\_\\_\\_\\_\\_\\_}, \\text{\\_\\_\\_\\_\\_\\_})$。",
-      "passage": "",
+      "text": "設 $a, b$ 為實數（其中 $a>0$），若多項式 $ax^2 + (2a+b)x - 12$ 除以 $x^2 + (2-a)x - 2a$ 所得餘式為 6，則數對 $(a, b) = (\\text{\\_\\_\\_\\_\\_\\_}, \\text{\\_\\_\\_\\_\\_\\_})$。",
       "options": [],
       "answer": "(3;29)",
       "type": "fill",
@@ -221,8 +188,7 @@
     },
     {
       "number": 15,
-      "text": "<br><img src=\"/images/ceec/112/學測/數A/03-112%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e5%8d%b7.pdf-0006-03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n設 $O, A, B$ 為坐標平面上不共線三點，其中向量 $\\vec{OA}$ 垂直 $\\vec{OB}$。若 $C$、$D$ 兩點在直線 $AB$ 上，滿足 $\\vec{OC} = \\frac{3}{5}\\vec{OA} + \\frac{2}{5}\\vec{OB}$、$3\\vec{AD} = 8\\vec{BD}$，且 $\\vec{OC}$ 垂直 $\\vec{OD}$，則 $\\frac{|\\vec{OB}|}{|\\vec{OA}|} = \\text{\\_\\_\\_\\_\\_\\_}$。（化為最簡分數）",
-      "passage": "",
+      "text": "設 $O, A, B$ 為坐標平面上不共線三點，其中向量 $\\vec{OA}$ 垂直 $\\vec{OB}$。若 $C$、$D$ 兩點在直線 $AB$ 上，滿足 $\\vec{OC} = \\frac{3}{5}\\vec{OA} + \\frac{2}{5}\\vec{OB}$、$3\\vec{AD} = 8\\vec{BD}$，且 $\\vec{OC}$ 垂直 $\\vec{OD}$，則 $\\frac{|\\vec{OB}|}{|\\vec{OA}|} = \\text{\\_\\_\\_\\_\\_\\_}$。（化為最簡分數）<br><img src=\"images/ceec/112/數A/03-112%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e5%8d%b7.pdf-0006-03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
       "options": [],
       "answer": "3/4",
       "type": "fill",
@@ -231,7 +197,6 @@
     {
       "number": 16,
       "text": "令 $E: x+z=2$ 為坐標空間中過三點 $A(2,-1,0), B(0,1,2), C(-2,1,4)$ 的平面。另有一點 $P$ 在平面 $z=1$ 上且其於 $E$ 之投影點與 $A, B, C$ 三點等距離。則點 $P$ 與平面 $E$ 的距離為 \\_\\_\\_\\_\\_\\_。（化為最簡根式）",
-      "passage": "",
       "options": [],
       "answer": "2\\sqrt{2}",
       "type": "fill",
@@ -239,8 +204,7 @@
     },
     {
       "number": 17,
-      "text": "坐標空間中有兩不相交直線 $L_1: \\begin{cases} x = 1+t \\\\ y = 1-t \\\\ z = 2+t \\end{cases}$，$t$ 為實數，$L_2: \\begin{cases} x = 2+2s \\\\ y = 5+s \\\\ z = 6-s \\end{cases}$，$s$ 為實數，另一直線 $L_3$ 與 $L_1, L_2$ 皆相交且垂直。若 $P, Q$ 兩點分別在 $L_1, L_2$ 上且與 $L_3$ 之距離皆為 3，則 $P, Q$ 兩點的距離為 \\_\\_\\_\\_\\_\\_。（化為最簡根式）",
-      "passage": "",
+      "text": "坐標空間中有兩不相交直線 $L_1: \\begin{cases} x = 1+t \\\\ y = 1-t \\\\ z = 2+t \\end{cases}$，$t$ 為實數，$L_2: \\begin{cases} x = 2+2s \\\\ y = 5+s \\\\ z = 6-s \\end{cases}$，$s$ 為實數，另一直線 $L_3$ 與 $L_1, L_2$ 皆相交且垂直。若 $P, Q$ 兩點分別在 $L_1, L_2$ 上且與 $L_3$ 之距離皆為 3，則 $P, Q$ 兩點的距離為 \\_\\_\\_\\_\\_\\_。（化為最簡根式）\n\n**題組：18-20 題**\n\n\n坐標平面上 $O$ 為原點，給定 $A(1,0), B(-2,0)$ 兩點。另有兩點 $P, Q$ 在上半平面，且滿足 $\\overline{AP} = \\overline{OA}$、$\\overline{BQ} = \\overline{OB}$、$\\angle POQ$ 為直角。令 $\\angle AOP = \\theta$。根據上述，試回答下列問題。<br><img src=\"images/ceec/112/數A/03-112%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e5%8d%b7.pdf-0007-07.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
       "options": [],
       "answer": "5\\sqrt{2}",
       "type": "fill",
@@ -248,8 +212,7 @@
     },
     {
       "number": 18,
-      "text": "線段 $OP$ 長為下列哪一選項？",
-      "passage": "**題組：18-20 題**\n\n<br><img src=\"/images/ceec/112/學測/數A/03-112%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e5%8d%b7.pdf-0007-07.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n坐標平面上 $O$ 為原點，給定 $A(1,0), B(-2,0)$ 兩點。另有兩點 $P, Q$ 在上半平面，且滿足 $\\overline{AP} = \\overline{OA}$、$\\overline{BQ} = \\overline{OB}$、$\\angle POQ$ 為直角。令 $\\angle AOP = \\theta$。根據上述，試回答下列問題。",
+      "text": "線段 $OP$ 長為下列哪一選項？\n(1) $\\sin \\theta$\n(2) $\\cos \\theta$\n(3) $2 \\sin \\theta$\n(4) $2 \\cos \\theta$\n(5) $\\cos 2\\theta$",
       "options": [
         "(1) $\\sin \\theta$",
         "(2) $\\cos \\theta$",
@@ -264,20 +227,18 @@
     {
       "number": 19,
       "text": "若 $\\sin \\theta = \\frac{3}{5}$，試求點 $Q$ 的坐標，並說明 $\\vec{BQ} = 2\\vec{AP}$。",
-      "passage": "**題組：18-20 題**\n\n<br><img src=\"/images/ceec/112/學測/數A/03-112%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e5%8d%b7.pdf-0007-07.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n坐標平面上 $O$ 為原點，給定 $A(1,0), B(-2,0)$ 兩點。另有兩點 $P, Q$ 在上半平面，且滿足 $\\overline{AP} = \\overline{OA}$、$\\overline{BQ} = \\overline{OB}$、$\\angle POQ$ 為直角。令 $\\angle AOP = \\theta$。根據上述，試回答下列問題。",
       "options": [],
       "answer": "Q(-36/25;48/25)",
       "type": "essay",
-      "score": 2
+      "score": 0
     },
     {
       "number": 20,
       "text": "（承 19 題）試求點 $A$ 到直線 $BQ$ 的距離，並求四邊形 $PABQ$ 的面積。",
-      "passage": "**題組：18-20 題**\n\n<br><img src=\"/images/ceec/112/學測/數A/03-112%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e5%8d%b7.pdf-0007-07.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n坐標平面上 $O$ 為原點，給定 $A(1,0), B(-2,0)$ 兩點。另有兩點 $P, Q$ 在上半平面，且滿足 $\\overline{AP} = \\overline{OA}$、$\\overline{BQ} = \\overline{OB}$、$\\angle POQ$ 為直角。令 $\\angle AOP = \\theta$。根據上述，試回答下列問題。",
       "options": [],
       "answer": "距離為72/25；面積為108/25",
       "type": "essay",
-      "score": 2
+      "score": 0
     }
   ]
 }

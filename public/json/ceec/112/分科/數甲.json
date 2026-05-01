@@ -4,14 +4,13 @@
   "questions": [
     {
       "number": 1,
-      "text": "坐標平面上，一質點由點 (-3, -2) 出發，沿著向量 (a, 1) 的方向移動 5 單位長之後剛好抵達 x 軸，其中 a 為正實數。試問 a 值等於下列哪一個選項？",
-      "passage": "",
+      "text": "坐標平面上，一質點由點 (-3, -2) 出發，沿著向量 (a, 1) 的方向移動 5 單位長之後剛好抵達 x 軸，其中 a 為正實數。試問 a 值等於下列哪一個選項？\n(A) $\\frac{\\sqrt{13}}{2}$ (B) 2 (C) $\\sqrt{5}$ (D) $\\frac{\\sqrt{21}}{2}$ (E) $2\\sqrt{6}$",
       "options": [
-        "$\\frac{\\sqrt{13}}{2}$",
-        "2",
-        "$\\sqrt{5}$",
-        "$\\frac{\\sqrt{21}}{2}$",
-        "$2\\sqrt{6}$"
+        "(A) $\\frac{\\sqrt{13}}{2}$",
+        "(B) 2",
+        "(C) $\\sqrt{5}$",
+        "(D) $\\frac{\\sqrt{21}}{2}$",
+        "(E) $2\\sqrt{6}$"
       ],
       "answer": "D",
       "type": "single",
@@ -19,14 +18,13 @@
     },
     {
       "number": 2,
-      "text": "放射性物質的半衰期 T 定義為「每經過時間 T，該物質的質量會衰退成原來的一半」。鉛製容器中有 A、B 兩種放射性物質，其半衰期分別為 $T_{A}$、$T_{B}$。開始記錄時這兩種物質的質量相等，112 天後測量發現物質 B 的質量為物質 A 的質量的四分之一。根據上述，試問 $T_{A}$、$T_{B}$ 滿足下列哪一個關係式？",
-      "passage": "",
+      "text": "放射性物質的半衰期 T 定義為「每經過時間 T，該物質的質量會衰退成原來的一半」。鉛製容器中有 A、B 兩種放射性物質，其半衰期分別為 $T_{A}$、$T_{B}$。開始記錄時這兩種物質的質量相等，112 天後測量發現物質 B 的質量為物質 A 的質量的四分之一。根據上述，試問 $T_{A}$、$T_{B}$ 滿足下列哪一個關係式？\n(A) $-2 + \\frac{112}{T_{A}} = \\frac{112}{T_{B}}$ (B) $2 + \\frac{112}{T_{A}} = \\frac{112}{T_{B}}$ (C) $-2 + \\log_{2}\\frac{112}{T_{A}} = \\log_{2}\\frac{112}{T_{B}}$ (D) $2 + \\log_{2}\\frac{112}{T_{A}} = \\log_{2}\\frac{112}{T_{B}}$ (E) $2 \\log_{2}\\frac{112}{T_{A}} = \\log_{2}\\frac{112}{T_{B}}$",
       "options": [
-        "$-2 + \\frac{112}{T_{A}} = \\frac{112}{T_{B}}$",
-        "$2 + \\frac{112}{T_{A}} = \\frac{112}{T_{B}}$",
-        "$-2 + \\log_{2}\\frac{112}{T_{A}} = \\log_{2}\\frac{112}{T_{B}}$",
-        "$2 + \\log_{2}\\frac{112}{T_{A}} = \\log_{2}\\frac{112}{T_{B}}$",
-        "$2 \\log_{2}\\frac{112}{T_{A}} = \\log_{2}\\frac{112}{T_{B}}$"
+        "(A) $-2 + \\frac{112}{T_{A}} = \\frac{112}{T_{B}}$",
+        "(B) $2 + \\frac{112}{T_{A}} = \\frac{112}{T_{B}}$",
+        "(C) $-2 + \\log_{2}\\frac{112}{T_{A}} = \\log_{2}\\frac{112}{T_{B}}$",
+        "(D) $2 + \\log_{2}\\frac{112}{T_{A}} = \\log_{2}\\frac{112}{T_{B}}$",
+        "(E) $2 \\log_{2}\\frac{112}{T_{A}} = \\log_{2}\\frac{112}{T_{B}}$"
       ],
       "answer": "B",
       "type": "single",
@@ -34,14 +32,13 @@
     },
     {
       "number": 3,
-      "text": "試問極限 $\\lim_{n\\to\\infty} \\frac{3}{n^{2}} (\\sqrt{4n^{2} + 9 \\times 1^{2}} + \\sqrt{4n^{2} + 9 \\times 2^{2}} + \\dots + \\sqrt{4n^{2} + 9 \\times (n-1)^{2}})$ 的值可用下列哪一個定積分表示？",
-      "passage": "",
+      "text": "試問極限 $\\lim_{n\\to\\infty} \\frac{3}{n^{2}} (\\sqrt{4n^{2} + 9 \\times 1^{2}} + \\sqrt{4n^{2} + 9 \\times 2^{2}} + \\dots + \\sqrt{4n^{2} + 9 \\times (n-1)^{2}})$ 的值可用下列哪一個定積分表示？\n(A) $\\int_{0}^{3} \\sqrt{1 + x^{2}} dx$ (B) $\\int_{0}^{3} \\sqrt{1 + 9x^{2}} dx$ (C) $\\int_{0}^{3} \\sqrt{4 + x^{2}} dx$ (D) $\\int_{0}^{3} \\sqrt{4 + 9x^{2}} dx$ (E) $\\int_{0}^{3} \\sqrt{4x^{2} + 9} dx$",
       "options": [
-        "$\\int_{0}^{3} \\sqrt{1 + x^{2}} dx$",
-        "$\\int_{0}^{3} \\sqrt{1 + 9x^{2}} dx$",
-        "$\\int_{0}^{3} \\sqrt{4 + x^{2}} dx$",
-        "$\\int_{0}^{3} \\sqrt{4 + 9x^{2}} dx$",
-        "$\\int_{0}^{3} \\sqrt{4x^{2} + 9} dx$"
+        "(A) $\\int_{0}^{3} \\sqrt{1 + x^{2}} dx$",
+        "(B) $\\int_{0}^{3} \\sqrt{1 + 9x^{2}} dx$",
+        "(C) $\\int_{0}^{3} \\sqrt{4 + x^{2}} dx$",
+        "(D) $\\int_{0}^{3} \\sqrt{4 + 9x^{2}} dx$",
+        "(E) $\\int_{0}^{3} \\sqrt{4x^{2} + 9} dx$"
       ],
       "answer": "C",
       "type": "single",
@@ -49,99 +46,77 @@
     },
     {
       "number": 4,
-      "text": "設 a, b 為實數。已知四個數 -3, -1, 4, 7 皆滿足 x 的不等式 $|x - a| \\le b$，試選出正確的選項。",
-      "passage": "",
+      "text": "設 a, b 為實數。已知四個數 -3, -1, 4, 7 皆滿足 x 的不等式 $|x - a| \\le b$，試選出正確的選項。\n(A) $\\sqrt{10}$ 也滿足 x 的不等式 $|x - a| \\le b$\n(B) 3, 1, -4, -7 滿足 x 的不等式 $|x + a| \\le b$\n(C) $-\\frac{3}{2}, -\\frac{1}{2}, 2, \\frac{7}{2}$ 滿足 x 的不等式 $|x - a| \\le \\frac{b}{2}$\n(D) b 可能等於 4\n(E) a, b 可能相等",
       "options": [
-        "$\\sqrt{10}$ 也滿足 x 的不等式 $|x - a| \\le b$",
-        "3, 1, -4, -7 滿足 x 的不等式 $|x + a| \\le b$",
-        "$-\\frac{3}{2}, -\\frac{1}{2}, 2, \\frac{7}{2}$ 滿足 x 的不等式 $|x - a| \\le \\frac{b}{2}$",
-        "b 可能等於 4",
-        "a, b 可能相等"
+        "(A) $\\sqrt{10}$ 也滿足 x 的不等式 $|x - a| \\le b$",
+        "(B) 3, 1, -4, -7 滿足 x 的不等式 $|x + a| \\le b$",
+        "(C) $-\\frac{3}{2}, -\\frac{1}{2}, 2, \\frac{7}{2}$ 滿足 x 的不等式 $|x - a| \\le \\frac{b}{2}$",
+        "(D) b 可能等於 4",
+        "(E) a, b 可能相等"
       ],
-      "answer": [
-        "A",
-        "B"
-      ],
+      "answer": "A",
       "type": "multi",
       "score": 2
     },
     {
       "number": 5,
-      "text": "考慮實係數多項式 $f(x) = x^{4} - 4x^{3} - 2x^{2} + ax + b$。已知方程式 $f(x) = 0$ 有虛根 1 + 2i (其中 $i = \\sqrt{-1}$)，試選出正確的選項。",
-      "passage": "",
+      "text": "考慮實係數多項式 $f(x) = x^{4} - 4x^{3} - 2x^{2} + ax + b$。已知方程式 $f(x) = 0$ 有虛根 1 + 2i (其中 $i = \\sqrt{-1}$)，試選出正確的選項。\n(A) 1 - 2i 也是 $f(x) = 0$ 的根\n(B) a, b 皆為正數\n(C) $f'(2.1) < 0$\n(D) 函數 $y = f(x)$ 在 x = 1 有局部極小值\n(E) $y = f(x)$ 圖形反曲點的 x 坐標皆大於 0",
       "options": [
-        "1 - 2i 也是 $f(x) = 0$ 的根",
-        "a, b 皆為正數",
-        "$f'(2.1) &lt; 0$",
-        "函數 $y = f(x)$ 在 x = 1 有局部極小值",
-        "$y = f(x)$ 圖形反曲點的 x 坐標皆大於 0"
+        "(A) 1 - 2i 也是 $f",
+        "(B) a, b 皆為正數",
+        "(C) $f'",
+        "(D) 函數 $y = f",
+        "(E) $y = f"
       ],
-      "answer": [
-        "A",
-        "C"
-      ],
+      "answer": "A",
       "type": "multi",
       "score": 2
     },
     {
       "number": 6,
-      "text": "設 a, b, c, d, r, s, t 皆為實數，已知坐標空間中三個非零向量 $\\vec{u} = (a, b, 0)$、$\\vec{v} = (c, d, 0)$ 及 $\\vec{w} = (r, s, t)$ 滿足內積 $\\vec{w} \\cdot \\vec{u} = \\vec{w} \\cdot \\vec{v} = 0$。考慮三階方陣 $A = \\begin{bmatrix} a & b & 0 \\\\ c & d & 0 \\\\ r & s & t \\end{bmatrix}$，試選出正確的選項。",
-      "passage": "",
+      "text": "設 a, b, c, d, r, s, t 皆為實數，已知坐標空間中三個非零向量 $\\vec{u} = (a, b, 0)$、$\\vec{v} = (c, d, 0)$ 及 $\\vec{w} = (r, s, t)$ 滿足內積 $\\vec{w} \\cdot \\vec{u} = \\vec{w} \\cdot \\vec{v} = 0$。考慮三階方陣 $A = \\begin{bmatrix} a & b & 0 \\\\ c & d & 0 \\\\ r & s & t \\end{bmatrix}$，試選出正確的選項。\n(A) 若 $\\vec{u} \\cdot \\vec{v} = 0$，則行列式 $\\begin{vmatrix} a & b \\\\ c & d \\end{vmatrix} \\ne 0$\n(B) 若 $t \\ne 0$，則行列式 $\\begin{vmatrix} a & b \\\\ c & d \\end{vmatrix} \\ne 0$\n(C) 若存在一個向量 $\\vec{w'}$ 滿足 $\\vec{w'} \\cdot \\vec{u} = \\vec{w'} \\cdot \\vec{v} = 0$ 且外積 $\\vec{w'} \\times \\vec{w} \\ne \\vec{0}$，則行列式 $\\begin{vmatrix} a & b \\\\ c & d \\end{vmatrix} \\ne 0$\n(D) 若對任意三個實數 e, f, g，向量 (e, f, g) 都可以表示成 $\\vec{u}, \\vec{v}, \\vec{w}$ 的線性組合，則行列式 $\\begin{vmatrix} a & b \\\\ c & d \\end{vmatrix} \\ne 0$\n(E) 若行列式 $\\begin{vmatrix} a & b \\\\ c & d \\end{vmatrix} \\ne 0$，則 A 的行列式不等於 0",
       "options": [
-        "若 $\\vec{u} \\cdot \\vec{v} = 0$，則行列式 $\\begin{vmatrix} a & b \\\\ c & d \\end{vmatrix} \\ne 0$",
-        "若 $t \\ne 0$，則行列式 $\\begin{vmatrix} a & b \\\\ c & d \\end{vmatrix} \\ne 0$",
-        "若存在一個向量 $\\vec{w'}$ 滿足 $\\vec{w'} \\cdot \\vec{u} = \\vec{w'} \\cdot \\vec{v} = 0$ 且外積 $\\vec{w'} \\times \\vec{w} \\ne \\vec{0}$，則行列式 $\\begin{vmatrix} a & b \\\\ c & d \\end{vmatrix} \\ne 0$",
-        "若對任意三個實數 e, f, g，向量 (e, f, g) 都可以表示成 $\\vec{u}, \\vec{v}, \\vec{w}$ 的線性組合，則行列式 $\\begin{vmatrix} a & b \\\\ c & d \\end{vmatrix} \\ne 0$",
-        "若行列式 $\\begin{vmatrix} a & b \\\\ c & d \\end{vmatrix} \\ne 0$，則 A 的行列式不等於 0"
+        "(A) 若 $\\vec{u} \\cdot \\vec{v} = 0$，則行列式 $\\begin{vmatrix} a & b \\\\ c & d \\end{vmatrix} \\ne 0$",
+        "(B) 若 $t \\ne 0$，則行列式 $\\begin{vmatrix} a & b \\\\ c & d \\end{vmatrix} \\ne 0$",
+        "(C) 若存在一個向量 $\\vec{w'}$ 滿足 $\\vec{w'} \\cdot \\vec{u} = \\vec{w'} \\cdot \\vec{v} = 0$ 且外積 $\\vec{w'} \\times \\vec{w} \\ne \\vec{0}$，則行列式 $\\begin{vmatrix} a & b \\\\ c & d \\end{vmatrix} \\ne 0$",
+        "(D) 若對任意三個實數 e, f, g，向量",
+        "(E) 若行列式 $\\begin{vmatrix} a & b \\\\ c & d \\end{vmatrix} \\ne 0$，則 A 的行列式不等於 0"
       ],
-      "answer": [
-        "A",
-        "D",
-        "E"
-      ],
+      "answer": "A",
       "type": "multi",
       "score": 2
     },
     {
       "number": 7,
-      "text": "<br><img src=\"/images/ceec/112/分科/數甲/q7.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n有一個依順時針方向依序標示 1, 2, ..., 12 數字的圓形時鐘。一開始在此時鐘「12」點鐘位置擺設一枚棋子，然後每次投擲一枚均勻銅板，依投擲結果，照以下規則移動這枚棋子的位置：若出現正面，將棋子從當時位置依順時針方向移動 5 個鐘點。若出現反面，將棋子從當時位置依逆時針方向移動 5 個鐘點。\n對任一正整數 n，令隨機變數 $X_{n}$ 代表依上述規則經過 n 次移動後棋子所在的點鐘位置，$P(X_{n} = k)$ 代表 $X_{n} = k$ 的機率 (其中 k = 1, 2, ..., 12)，且令 $E(X_{n})$ 代表 $X_{n}$ 的期望值。試選出正確的選項。",
-      "passage": "",
+      "text": "有一個依順時針方向依序標示 1, 2, ..., 12 數字的圓形時鐘。一開始在此時鐘「12」點鐘位置擺設一枚棋子，然後每次投擲一枚均勻銅板，依投擲結果，照以下規則移動這枚棋子的位置：若出現正面，將棋子從當時位置依順時針方向移動 5 個鐘點。若出現反面，將棋子從當時位置依逆時針方向移動 5 個鐘點。\n對任一正整數 n，令隨機變數 $X_{n}$ 代表依上述規則經過 n 次移動後棋子所在的點鐘位置，$P(X_{n} = k)$ 代表 $X_{n} = k$ 的機率 (其中 k = 1, 2, ..., 12)，且令 $E(X_{n})$ 代表 $X_{n}$ 的期望值。試選出正確的選項。\n(A) $E(X_{1}) = 6$\n(B) $P(X_{2} = 12) = \\frac{1}{4}$\n(C) $P(X_{8} = 5) \\ge \\frac{1}{2^{8}}$\n(D) $P(X_{8} = 4) = P(X_{8} = 8)$\n(E) $E(X_{8}) \\le 7$<br><img src=\"images/ceec/112/分科/數甲/q7.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
       "options": [
-        "$E(X_{1}) = 6$",
-        "$P(X_{2} = 12) = \\frac{1}{4}$",
-        "$P(X_{8} = 5) \\ge \\frac{1}{2^{8}}$",
-        "$P(X_{8} = 4) = P(X_{8} = 8)$",
-        "$E(X_{8}) \\le 7$"
+        "(A) $E",
+        "(B) $P",
+        "(C) $P",
+        "(D) $P",
+        "(E) $E"
       ],
-      "answer": [
-        "A",
-        "D"
-      ],
+      "answer": "A",
       "type": "multi",
       "score": 2
     },
     {
       "number": 8,
-      "text": "複數平面上，設 $\\overline{z}$ 代表複數 z 的共軛複數，且 $i = \\sqrt{-1}$。試選出正確的選項。",
-      "passage": "",
+      "text": "複數平面上，設 $\\overline{z}$ 代表複數 z 的共軛複數，且 $i = \\sqrt{-1}$。試選出正確的選項。\n(A) 若 $z = 2i$，則 $z^{3} = 4i\\overline{z}$\n(B) 若非零複數 $\\alpha$ 滿足 $\\alpha^{3} = 4i\\overline{\\alpha}$，則 $|\\alpha| = 2$\n(C) 若非零複數 $\\alpha$ 滿足 $\\alpha^{3} = 4i\\overline{\\alpha}$ 且令 $\\beta = i\\alpha$，則 $\\beta^{3} = 4i\\overline{\\beta}$\n(D) 滿足 $z^{3} = 4i\\overline{z}$ 的所有非零複數中，其主輻角的最小可能值為 $\\frac{\\pi}{6}$\n(E) 恰有 3 個相異非零複數滿足 $z^{3} = 4i\\overline{z}$",
       "options": [
-        "若 $z = 2i$，則 $z^{3} = 4i\\overline{z}$",
-        "若非零複數 $\\alpha$ 滿足 $\\alpha^{3} = 4i\\overline{\\alpha}$，則 $|\\alpha| = 2$",
-        "若非零複數 $\\alpha$ 滿足 $\\alpha^{3} = 4i\\overline{\\alpha}$ 且令 $\\beta = i\\alpha$，則 $\\beta^{3} = 4i\\overline{\\beta}$",
-        "滿足 $z^{3} = 4i\\overline{z}$ 的所有非零複數中，其主輻角的最小可能值為 $\\frac{\\pi}{6}$",
-        "恰有 3 個相異非零複數滿足 $z^{3} = 4i\\overline{z}$"
+        "(A) 若 $z = 2i$，則 $z^{3} = 4i\\overline{z}$",
+        "(B) 若非零複數 $\\alpha$ 滿足 $\\alpha^{3} = 4i\\overline{\\alpha}$，則 $|\\alpha| = 2$",
+        "(C) 若非零複數 $\\alpha$ 滿足 $\\alpha^{3} = 4i\\overline{\\alpha}$ 且令 $\\beta = i\\alpha$，則 $\\beta^{3} = 4i\\overline{\\beta}$",
+        "(D) 滿足 $z^{3} = 4i\\overline{z}$ 的所有非零複數中，其主輻角的最小可能值為 $\\frac{\\pi}{6}$",
+        "(E) 恰有 3 個相異非零複數滿足 $z^{3} = 4i\\overline{z}$"
       ],
-      "answer": [
-        "B",
-        "C"
-      ],
+      "answer": "B",
       "type": "multi",
       "score": 2
     },
     {
       "number": 9,
       "text": "已知平面上直角 $\\Delta ABC$ 的三邊長 $\\overline{AB} = \\sqrt{7}$、$\\overline{AC} = \\sqrt{3}$、$\\overline{BC} = 2$。若分別以 $\\overline{AB}$ 與 $\\overline{AC}$ 為底邊在 $\\Delta ABC$ 的外部作頂角等於 $120^{\\circ}$ 的等腰三角形 $\\Delta MAB$ 與 $\\Delta NAC$，則 $\\overline{MN} = \\frac{\\sqrt{13}}{3}$。 (化為最簡分數)",
-      "passage": "",
       "options": [],
       "answer": "13/3",
       "type": "fill",
@@ -150,7 +125,6 @@
     {
       "number": 10,
       "text": "坐標空間中有方向向量為 (1, -2, 2) 的直線 L、平面 $E_{1}: 2x + 3y + 6z = 10$ 與平面 $E_{2}: 2x + 3y + 6z = -4$。則 L 被 $E_{1}$、$E_{2}$ 所截線段的長度為 $\\frac{21}{4}$。 (化為最簡分數)",
-      "passage": "",
       "options": [],
       "answer": "21/4",
       "type": "fill",
@@ -158,9 +132,11 @@
     },
     {
       "number": 11,
-      "text": "百貨公司舉辦父親節抽牌送獎品活動，規則如下：主辦單位準備編號 1、2、...、9 的牌卡十張，其中編號 8 的牌卡有兩張，其他編號的牌卡均只有一張。從這十張牌隨機抽出四張，且抽出不放回，依抽出順序由左至右排列成一個四位數。若排成的四位數滿足下列任一個條件，就可獲得獎品：(1)此四位數大於 6400 (2)此四位數含有兩個數字 8。依上述規則，共有 1554 個抽出排成的四位數可獲得獎品。",
-      "passage": "",
-      "options": [],
+      "text": "百貨公司舉辦父親節抽牌送獎品活動，規則如下：主辦單位準備編號 1、2、...、9 的牌卡十張，其中編號 8 的牌卡有兩張，其他編號的牌卡均只有一張。從這十張牌隨機抽出四張，且抽出不放回，依抽出順序由左至右排列成一個四位數。若排成的四位數滿足下列任一個條件，就可獲得獎品：(1)此四位數大於 6400 (2)此四位數含有兩個數字 8。依上述規則，共有 1554 個抽出排成的四位數可獲得獎品。\n\n**題組：12-14 題**\n設 a, b 為實數，並設 O 為坐標平面的原點。已知二次函數 $f(x) = ax^{2}$ 的圖形與圓 $\\Omega: x^{2} + y^{2} - 3y + b = 0$ 皆通過點 $P(1, \\frac{1}{2})$，並令點 C 為 $\\Omega$ 的圓心。根據上述，試回答下列問題。",
+      "options": [
+        "(1) 此四位數大於 6400",
+        "(2) 此四位數含有兩個數字 8。依上述規則，共有 1554 個抽出排成的四位數可獲得獎品。"
+      ],
       "answer": "1554",
       "type": "fill",
       "score": 2
@@ -168,34 +144,30 @@
     {
       "number": 12,
       "text": "試求向量 $\\vec{CO}$ 與 $\\vec{CP}$ 夾角的餘弦值。",
-      "passage": "**題組：12-14 題**\n設 a, b 為實數，並設 O 為坐標平面的原點。已知二次函數 $f(x) = ax^{2}$ 的圖形與圓 $\\Omega: x^{2} + y^{2} - 3y + b = 0$ 皆通過點 $P(1, \\frac{1}{2})$，並令點 C 為 $\\Omega$ 的圓心。根據上述，試回答下列問題。",
       "options": [],
       "answer": "\\frac{\\sqrt{2}}{2}",
       "type": "essay",
-      "score": 2
+      "score": 0
     },
     {
       "number": 13,
       "text": "試證明 $y = f(x)$ 圖形與 $\\Omega$ 在 P 點有共同的切線。",
-      "passage": "**題組：12-14 題**\n設 a, b 為實數，並設 O 為坐標平面的原點。已知二次函數 $f(x) = ax^{2}$ 的圖形與圓 $\\Omega: x^{2} + y^{2} - 3y + b = 0$ 皆通過點 $P(1, \\frac{1}{2})$，並令點 C 為 $\\Omega$ 的圓心。根據上述，試回答下列問題。",
       "options": [],
       "answer": "證明y=f(x)與圓在P點的切線斜率皆為1，或寫出正確的切線方程式並求得圓心到該直線距離等於半徑。",
       "type": "essay",
-      "score": 2
+      "score": 0
     },
     {
       "number": 14,
-      "text": "試求 $y = f(x)$ 圖形上方與 $\\Omega$ 下半圓弧所圍區域的面積。",
-      "passage": "**題組：12-14 題**\n設 a, b 為實數，並設 O 為坐標平面的原點。已知二次函數 $f(x) = ax^{2}$ 的圖形與圓 $\\Omega: x^{2} + y^{2} - 3y + b = 0$ 皆通過點 $P(1, \\frac{1}{2})$，並令點 C 為 $\\Omega$ 的圓心。根據上述，試回答下列問題。",
+      "text": "試求 $y = f(x)$ 圖形上方與 $\\Omega$ 下半圓弧所圍區域的面積。\n\n**題組：15-17 題**\n坐標平面上，設 $\\Gamma$ 為中心在原點且長軸落在 y 軸上的橢圓。已知對原點逆時針旋轉 $\\theta$ 角 (其中 $0 < \\theta < \\pi$) 的線性變換將 $\\Gamma$ 變換到新橢圓 $\\Gamma': 40x^{2} + 4\\sqrt{5}xy + 41y^{2} = 180$，點 $(-\\frac{5}{3}, \\frac{2\\sqrt{5}}{3})$ 是 $\\Gamma'$ 上離原點最遠的兩點之一。根據上述，試回答下列問題。",
       "options": [],
       "answer": "\\frac{5}{3} - \\frac{\\pi}{2}",
       "type": "essay",
-      "score": 2
+      "score": 0
     },
     {
       "number": 15,
       "text": "橢圓 $\\Gamma$ 的長軸長為 $2\\sqrt{5}$。 (化為最簡根式)",
-      "passage": "**題組：15-17 題**\n坐標平面上，設 $\\Gamma$ 為中心在原點且長軸落在 y 軸上的橢圓。已知對原點逆時針旋轉 $\\theta$ 角 (其中 $0 &lt; \\theta &lt; \\pi$) 的線性變換將 $\\Gamma$ 變換到新橢圓 $\\Gamma': 40x^{2} + 4\\sqrt{5}xy + 41y^{2} = 180$，點 $(-\\frac{5}{3}, \\frac{2\\sqrt{5}}{3})$ 是 $\\Gamma'$ 上離原點最遠的兩點之一。根據上述，試回答下列問題。",
       "options": [],
       "answer": "2\\sqrt{5}",
       "type": "fill",
@@ -204,20 +176,18 @@
     {
       "number": 16,
       "text": "試求 $\\Gamma'$ 短軸所在的直線方程式與短軸長。",
-      "passage": "**題組：15-17 題**\n坐標平面上，設 $\\Gamma$ 為中心在原點且長軸落在 y 軸上的橢圓。已知對原點逆時針旋轉 $\\theta$ 角 (其中 $0 &lt; \\theta &lt; \\pi$) 的線性變換將 $\\Gamma$ 變換到新橢圓 $\\Gamma': 40x^{2} + 4\\sqrt{5}xy + 41y^{2} = 180$，點 $(-\\frac{5}{3}, \\frac{2\\sqrt{5}}{3})$ 是 $\\Gamma'$ 上離原點最遠的兩點之一。根據上述，試回答下列問題。",
       "options": [],
       "answer": "短軸所在的直線方程式為2y=\\sqrt{5}x，短軸長為4。",
       "type": "essay",
-      "score": 2
+      "score": 0
     },
     {
       "number": 17,
       "text": "已知在 $\\Gamma$ 上的一點 P 經由此旋轉後得到的點 P' 落在 x 軸上，且 P' 點的 x 坐標大於 0。試求 P 點的坐標。",
-      "passage": "**題組：15-17 題**\n坐標平面上，設 $\\Gamma$ 為中心在原點且長軸落在 y 軸上的橢圓。已知對原點逆時針旋轉 $\\theta$ 角 (其中 $0 &lt; \\theta &lt; \\pi$) 的線性變換將 $\\Gamma$ 變換到新橢圓 $\\Gamma': 40x^{2} + 4\\sqrt{5}xy + 41y^{2} = 180$，點 $(-\\frac{5}{3}, \\frac{2\\sqrt{5}}{3})$ 是 $\\Gamma'$ 上離原點最遠的兩點之一。根據上述，試回答下列問題。",
       "options": [],
-      "answer": "(\\sqrt{2}, -\\frac{\\sqrt{10}}{2})",
+      "answer": "(\\sqrt{2}",
       "type": "essay",
-      "score": 2
+      "score": 0
     }
   ]
 }
