@@ -4,12 +4,13 @@
   "questions": [
     {
       "number": 1,
-      "text": "People who desire a ______ figure should exercise regularly and maintain healthy eating habits.\n\n(A) spicy\n\n(B) slender\n\n(C) slight\n\n(D) slippery",
+      "text": "People who desire a ________ figure should exercise regularly and maintain healthy eating habits.",
+      "passage": "",
       "options": [
-        "(A) spicy",
-        "(B) slender",
-        "(C) slight",
-        "(D) slippery"
+        "spicy",
+        "slender",
+        "slight",
+        "slippery"
       ],
       "answer": "B",
       "type": "single",
@@ -17,12 +18,13 @@
     },
     {
       "number": 2,
-      "text": "Watching the sun ______ from a sea of clouds is a must-do activity for all visitors to Ali Mountain.\n\n(A) emerging\n\n(B) flashing\n\n(C) rushing\n\n(D) floating",
+      "text": "Watching the sun ________ from a sea of clouds is a must-do activity for all visitors to Ali Mountain.",
+      "passage": "",
       "options": [
-        "(A) emerging",
-        "(B) flashing",
-        "(C) rushing",
-        "(D) floating"
+        "emerging",
+        "flashing",
+        "rushing",
+        "floating"
       ],
       "answer": "A",
       "type": "single",
@@ -30,12 +32,13 @@
     },
     {
       "number": 3,
-      "text": "Do you know what time the next bus is ______? I’ve been waiting here for more than 30 minutes.\n\n(A) apt\n\n(B) due\n\n(C) bound\n\n(D) docked",
+      "text": "Do you know what time the next bus is ________? I've been waiting here for more than 30 minutes.",
+      "passage": "",
       "options": [
-        "(A) apt",
-        "(B) due",
-        "(C) bound",
-        "(D) docked"
+        "apt",
+        "due",
+        "bound",
+        "docked"
       ],
       "answer": "B",
       "type": "single",
@@ -43,12 +46,13 @@
     },
     {
       "number": 4,
-      "text": "The roasting heat and high ______ made me feel hot and sticky, no matter what I did to cool off.\n\n(A) density\n\n(B) humidity\n\n(C) circulation\n\n(D) atmosphere",
+      "text": "The roasting heat and high ________ made me feel hot and sticky, no matter what I did to cool off.",
+      "passage": "",
       "options": [
-        "(A) density",
-        "(B) humidity",
-        "(C) circulation",
-        "(D) atmosphere"
+        "density",
+        "humidity",
+        "circulation",
+        "atmosphere"
       ],
       "answer": "B",
       "type": "single",
@@ -56,12 +60,13 @@
     },
     {
       "number": 5,
-      "text": "Artwork created by truly great artists such as Picasso and Monet will no doubt ______ the test of time.\n\n(A) stay\n\n(B) take\n\n(C) serve\n\n(D) stand",
+      "text": "Artwork created by truly great artists such as Picasso and Monet will no doubt ________ the test of time.",
+      "passage": "",
       "options": [
-        "(A) stay",
-        "(B) take",
-        "(C) serve",
-        "(D) stand"
+        "stay",
+        "take",
+        "serve",
+        "stand"
       ],
       "answer": "D",
       "type": "single",
@@ -69,12 +74,13 @@
     },
     {
       "number": 6,
-      "text": "In some countries, military service is ______ for men only; women do not have to serve in the military.\n\n(A) forceful\n\n(B) realistic\n\n(C) compulsory\n\n(D) distinctive",
+      "text": "In some countries, military service is ________ for men only; women do not have to serve in the military.",
+      "passage": "",
       "options": [
-        "(A) forceful",
-        "(B) realistic",
-        "(C) compulsory",
-        "(D) distinctive"
+        "forceful",
+        "realistic",
+        "compulsory",
+        "distinctive"
       ],
       "answer": "C",
       "type": "single",
@@ -82,12 +88,13 @@
     },
     {
       "number": 7,
-      "text": "The team complained that its leader always took the ______ for all the hard work done by the team\n\nmembers.\n\n(A) advantage\n\n(B) revenge\n\n(C) remedy\n\n(D) credit",
+      "text": "The team complained that its leader always took the ________ for all the hard work done by the team members.",
+      "passage": "",
       "options": [
-        "(A) advantage",
-        "(B) revenge",
-        "(C) remedy",
-        "(D) credit"
+        "advantage",
+        "revenge",
+        "remedy",
+        "credit"
       ],
       "answer": "D",
       "type": "single",
@@ -95,12 +102,13 @@
     },
     {
       "number": 8,
-      "text": "Located at the center of the city, the business hotel ______ not only good service but also convenient\n\npublic transport.\n\n(A) proposes\n\n(B) contains\n\n(C) promises\n\n(D) confirms",
+      "text": "Located at the center of the city, the business hotel ________ not only good service but also convenient public transport.",
+      "passage": "",
       "options": [
-        "(A) proposes",
-        "(B) contains",
-        "(C) promises",
-        "(D) confirms"
+        "proposes",
+        "contains",
+        "promises",
+        "confirms"
       ],
       "answer": "C",
       "type": "single",
@@ -108,12 +116,13 @@
     },
     {
       "number": 9,
-      "text": "As blood supplies have fallen to a critically low level, many hospitals are making an ______ for the\n\npublic to donate blood.\n\n(A) appeal\n\n(B) approach\n\n(C) operation\n\n(D) observation",
+      "text": "As blood supplies have fallen to a critically low level, many hospitals are making an ________ for the public to donate blood.",
+      "passage": "",
       "options": [
-        "(A) appeal",
-        "(B) approach",
-        "(C) operation",
-        "(D) observation"
+        "appeal",
+        "approach",
+        "operation",
+        "observation"
       ],
       "answer": "A",
       "type": "single",
@@ -121,12 +130,13 @@
     },
     {
       "number": 10,
-      "text": "David felt disappointed when he found out that he could not choose his study partners, but would be\n\n______ placed in a study group.\n(A) eligibly\n\n(B) randomly\n\n二 、 綜 合 測 驗 （ 占 1 0 分 ）\n\n說明︰第11題至第20題為單選題，每題1分。\n\n第 11 至 15 題為題組\n\n(C) apparently\n\n(D) consequently\n\nMystery shoppers are paid consumers who are hired to shop in stores and collect data. They are sent to\n\na wide variety of service-based businesses, including stores, restaurants, and banks—potentially anywhere\n\ncustomers are served. Sometimes referred to as secret shoppers, mystery shoppers      11      regular customers\nto purchase items, eat in restaurants, make inquiries, or return items. They grade and report on the quality of\nproducts, customer service, and environment of the stores      12      they are assigned.\n\n-  1  -\n\n\f113年學測\n英 文 考 科\n\n請記得在答題卷簽名欄位以正楷簽全名\n\n第  2  頁\n共  11  頁\n\nWhen evaluating a business, mystery shoppers have to follow certain standard procedures to avoid      13    .\n\nThey are often given a checklist that provides directions on what to observe or look out for to ensure consistency.\n\nSometimes these shoppers collect data about their “normal” observations, such as cleanliness of the store or\ntimeliness of the service. They may also pretend to be      14      customers, arguing with a salesperson without a\n\ngood  reason.  With  the  data  they  collect,  mystery  shoppers  can  identify  areas  for      15      and  thereby  help\n\nenhance the  quality  of products and services. In this way, these secret shoppers  may  help a business gain a\n\ncompetitive edge.",
+      "text": "David felt disappointed when he found out that he could not choose his study partners, but would be ________ placed in a study group.",
+      "passage": "",
       "options": [
-        "(A) eligibly",
-        "(B) randomly\n\n二 、 綜 合 測 驗 （ 占 1 0 分 ）\n\n說明︰第11題至第20題為單選題，每題1分。\n\n第 11 至 15 題為題組",
-        "(C) apparently",
-        "(D) consequently\n\nMystery shoppers are paid consumers who are hired to shop in stores and collect data. They are sent to\n\na wide variety of service-based businesses, including stores, restaurants, and banks—potentially anywhere\n\ncustomers are served. Sometimes referred to as secret shoppers, mystery shoppers      11      regular customers\nto purchase items, eat in restaurants, make inquiries, or return items. They grade and report on the quality of\nproducts, customer service, and environment of the stores      12      they are assigned.\n\n-  1  -\n\n\f113年學測\n英 文 考 科\n\n請記得在答題卷簽名欄位以正楷簽全名\n\n第  2  頁\n共  11  頁\n\nWhen evaluating a business, mystery shoppers have to follow certain standard procedures to avoid      13    .\n\nThey are often given a checklist that provides directions on what to observe or look out for to ensure consistency.\n\nSometimes these shoppers collect data about their “normal” observations, such as cleanliness of the store or\ntimeliness of the service. They may also pretend to be      14      customers, arguing with a salesperson without a\n\ngood  reason.  With  the  data  they  collect,  mystery  shoppers  can  identify  areas  for      15      and  thereby  help\n\nenhance the  quality  of products and services. In this way, these secret shoppers  may  help a business gain a\n\ncompetitive edge."
+        "eligibly",
+        "randomly",
+        "apparently",
+        "consequently\n\n**題組：11-15 題**\nMystery shoppers are paid consumers who are hired to shop in stores and collect data. They are sent to a wide variety of service-based businesses, including stores, restaurants, and banks-potentially anywhere customers are served. Sometimes referred to as secret shoppers, mystery shoppers 11 regular customers to purchase items, eat in restaurants, make inquiries, or return items. They grade and report on the quality of products, customer service, and environment of the stores 12 they are assigned.\nWhen evaluating a business, mystery shoppers have to follow certain standard procedures to avoid 13. They are often given a checklist that provides directions on what to observe or look out for to ensure consistency. Sometimes these shoppers collect data about their \"normal\" observations, such as cleanliness of the store or timeliness of the service. They may also pretend to be 14 customers, arguing with a salesperson without a good reason. With the data they collect, mystery shoppers can identify areas for 15 and thereby help enhance the quality of products and services. In this way, these secret shoppers may help a business gain a competitive edge."
       ],
       "answer": "B",
       "type": "single",
@@ -134,9 +144,13 @@
     },
     {
       "number": 11,
-      "text": "(A) call for",
+      "text": "11.",
+      "passage": "**題組：11-15 題**\nMystery shoppers are paid consumers who are hired to shop in stores and collect data. They are sent to a wide variety of service-based businesses, including stores, restaurants, and banks-potentially anywhere customers are served. Sometimes referred to as secret shoppers, mystery shoppers 11 regular customers to purchase items, eat in restaurants, make inquiries, or return items. They grade and report on the quality of products, customer service, and environment of the stores 12 they are assigned.\nWhen evaluating a business, mystery shoppers have to follow certain standard procedures to avoid 13. They are often given a checklist that provides directions on what to observe or look out for to ensure consistency. Sometimes these shoppers collect data about their \"normal\" observations, such as cleanliness of the store or timeliness of the service. They may also pretend to be 14 customers, arguing with a salesperson without a good reason. With the data they collect, mystery shoppers can identify areas for 15 and thereby help enhance the quality of products and services. In this way, these secret shoppers may help a business gain a competitive edge.",
       "options": [
-        "(A) call for"
+        "call for",
+        "pose as",
+        "attend to",
+        "engage in"
       ],
       "answer": "B",
       "type": "single",
@@ -144,15 +158,13 @@
     },
     {
       "number": 12,
-      "text": "(A) in that\n\n(B) pose as\n\n(B) with which\n\n(C) attend to\n\n(C) for that\n\n(D) engage in\n\n(D) to which",
+      "text": "12.",
+      "passage": "**題組：11-15 題**\nMystery shoppers are paid consumers who are hired to shop in stores and collect data. They are sent to a wide variety of service-based businesses, including stores, restaurants, and banks-potentially anywhere customers are served. Sometimes referred to as secret shoppers, mystery shoppers 11 regular customers to purchase items, eat in restaurants, make inquiries, or return items. They grade and report on the quality of products, customer service, and environment of the stores 12 they are assigned.\nWhen evaluating a business, mystery shoppers have to follow certain standard procedures to avoid 13. They are often given a checklist that provides directions on what to observe or look out for to ensure consistency. Sometimes these shoppers collect data about their \"normal\" observations, such as cleanliness of the store or timeliness of the service. They may also pretend to be 14 customers, arguing with a salesperson without a good reason. With the data they collect, mystery shoppers can identify areas for 15 and thereby help enhance the quality of products and services. In this way, these secret shoppers may help a business gain a competitive edge.",
       "options": [
-        "(A) in that",
-        "(B) pose as",
-        "(B) with which",
-        "(C) attend to",
-        "(C) for that",
-        "(D) engage in",
-        "(D) to which"
+        "in that",
+        "with which",
+        "for that",
+        "to which"
       ],
       "answer": "D",
       "type": "single",
@@ -160,12 +172,13 @@
     },
     {
       "number": 13,
-      "text": "(A) keen competitions\n\n(B) financial hardship\n\n(C) racial conflicts\n\n(D) personal bias",
+      "text": "13.",
+      "passage": "**題組：11-15 題**\nMystery shoppers are paid consumers who are hired to shop in stores and collect data. They are sent to a wide variety of service-based businesses, including stores, restaurants, and banks-potentially anywhere customers are served. Sometimes referred to as secret shoppers, mystery shoppers 11 regular customers to purchase items, eat in restaurants, make inquiries, or return items. They grade and report on the quality of products, customer service, and environment of the stores 12 they are assigned.\nWhen evaluating a business, mystery shoppers have to follow certain standard procedures to avoid 13. They are often given a checklist that provides directions on what to observe or look out for to ensure consistency. Sometimes these shoppers collect data about their \"normal\" observations, such as cleanliness of the store or timeliness of the service. They may also pretend to be 14 customers, arguing with a salesperson without a good reason. With the data they collect, mystery shoppers can identify areas for 15 and thereby help enhance the quality of products and services. In this way, these secret shoppers may help a business gain a competitive edge.",
       "options": [
-        "(A) keen competitions",
-        "(B) financial hardship",
-        "(C) racial conflicts",
-        "(D) personal bias"
+        "keen competitions",
+        "financial hardship",
+        "racial conflicts",
+        "personal bias"
       ],
       "answer": "D",
       "type": "single",
@@ -173,12 +186,13 @@
     },
     {
       "number": 14,
-      "text": "(A) difficult\n\n(B) potential\n\n(C) constant\n\n(D) anonymous",
+      "text": "14.",
+      "passage": "**題組：11-15 題**\nMystery shoppers are paid consumers who are hired to shop in stores and collect data. They are sent to a wide variety of service-based businesses, including stores, restaurants, and banks-potentially anywhere customers are served. Sometimes referred to as secret shoppers, mystery shoppers 11 regular customers to purchase items, eat in restaurants, make inquiries, or return items. They grade and report on the quality of products, customer service, and environment of the stores 12 they are assigned.\nWhen evaluating a business, mystery shoppers have to follow certain standard procedures to avoid 13. They are often given a checklist that provides directions on what to observe or look out for to ensure consistency. Sometimes these shoppers collect data about their \"normal\" observations, such as cleanliness of the store or timeliness of the service. They may also pretend to be 14 customers, arguing with a salesperson without a good reason. With the data they collect, mystery shoppers can identify areas for 15 and thereby help enhance the quality of products and services. In this way, these secret shoppers may help a business gain a competitive edge.",
       "options": [
-        "(A) difficult",
-        "(B) potential",
-        "(C) constant",
-        "(D) anonymous"
+        "difficult",
+        "potential",
+        "constant",
+        "anonymous"
       ],
       "answer": "A",
       "type": "single",
@@ -186,12 +200,13 @@
     },
     {
       "number": 15,
-      "text": "(A) distribution\n\n(B) expectation\n\n(C) improvement\n\n(D) management\n\n第 16 至 20 題為題組\n\nThe modern worker rolls out of bed, groans, and turns off an alarm clock before reluctantly getting up\n\nfor the day’s work. But how did people get to work on time before alarm clocks were widely used?\n\nDuring the second Industrial Age, people toiled at unusual hours in mines or factories and often had to\n\nget up for work early in the morning. They      16      alarm clocks because adjustable alarms had been invented\nby the mid-19th century. But the new device was still relatively expensive and unreliable. British workers thus\nrelied on a human alarm clock known as a “knocker-up.”      17      sticks or pea shooters, the human alarms\n\nwould tour the streets, tap on windows, or blast them with dried peas, trying to wake paying customers in time\n\nfor work.\n\nWhether  they  wielded  rods  or  pea  shooters,  knockers-up  became      18      throughout  the  United\n\nKingdom. Every morning, these people, often older in age, were seen in big streets and small alleys, waking\nup their customers professionally. They usually would not leave people’s houses until they were sure their\n\ncustomers were awake.\n\nWhile the practice continued in some parts of the country until the 1970s, it      19      as alarm clocks\n\nbecame more widespread and affordable. Today, beeping alarm clocks and smartphones that play morning\n\nmusic are surely simpler and more convenient. However, they cannot      20      the personal attention coming\n\nfrom the distinctive tap of a pea shooter.",
+      "text": "15.",
+      "passage": "**題組：11-15 題**\nMystery shoppers are paid consumers who are hired to shop in stores and collect data. They are sent to a wide variety of service-based businesses, including stores, restaurants, and banks-potentially anywhere customers are served. Sometimes referred to as secret shoppers, mystery shoppers 11 regular customers to purchase items, eat in restaurants, make inquiries, or return items. They grade and report on the quality of products, customer service, and environment of the stores 12 they are assigned.\nWhen evaluating a business, mystery shoppers have to follow certain standard procedures to avoid 13. They are often given a checklist that provides directions on what to observe or look out for to ensure consistency. Sometimes these shoppers collect data about their \"normal\" observations, such as cleanliness of the store or timeliness of the service. They may also pretend to be 14 customers, arguing with a salesperson without a good reason. With the data they collect, mystery shoppers can identify areas for 15 and thereby help enhance the quality of products and services. In this way, these secret shoppers may help a business gain a competitive edge.",
       "options": [
-        "(A) distribution",
-        "(B) expectation",
-        "(C) improvement",
-        "(D) management\n\n第 16 至 20 題為題組\n\nThe modern worker rolls out of bed, groans, and turns off an alarm clock before reluctantly getting up\n\nfor the day’s work. But how did people get to work on time before alarm clocks were widely used?\n\nDuring the second Industrial Age, people toiled at unusual hours in mines or factories and often had to\n\nget up for work early in the morning. They      16      alarm clocks because adjustable alarms had been invented\nby the mid-19th century. But the new device was still relatively expensive and unreliable. British workers thus\nrelied on a human alarm clock known as a “knocker-up.”      17      sticks or pea shooters, the human alarms\n\nwould tour the streets, tap on windows, or blast them with dried peas, trying to wake paying customers in time\n\nfor work.\n\nWhether  they  wielded  rods  or  pea  shooters,  knockers-up  became      18      throughout  the  United\n\nKingdom. Every morning, these people, often older in age, were seen in big streets and small alleys, waking\nup their customers professionally. They usually would not leave people’s houses until they were sure their\n\ncustomers were awake.\n\nWhile the practice continued in some parts of the country until the 1970s, it      19      as alarm clocks\n\nbecame more widespread and affordable. Today, beeping alarm clocks and smartphones that play morning\n\nmusic are surely simpler and more convenient. However, they cannot      20      the personal attention coming\n\nfrom the distinctive tap of a pea shooter."
+        "distribution",
+        "expectation",
+        "improvement",
+        "management\n\n**題組：16-20 題**\nThe modern worker rolls out of bed, groans, and turns off an alarm clock before reluctantly getting up for the day's work. But how did people get to work on time before alarm clocks were widely used?\nDuring the second Industrial Age, people toiled at unusual hours in mines or factories and often had to get up for work early in the morning. They 16 alarm clocks because adjustable alarms had been invented by the mid-19th century. But the new device was still relatively expensive and unreliable. British workers thus relied on a human alarm clock known as a \"knocker-up.\" 17 sticks or pea shooters, the human alarms would tour the streets, tap on windows, or blast them with dried peas, trying to wake paying customers in time for work.\nWhether they wielded rods or pea shooters, knockers-up became 18 throughout the United Kingdom. Every morning, these people, often older in age, were seen in big streets and small alleys, waking up their customers professionally. They usually would not leave people's houses until they were sure their customers were awake.\nWhile the practice continued in some parts of the country until the 1970s, it 19 as alarm clocks became more widespread and affordable. Today, beeping alarm clocks and smartphones that play morning music are surely simpler and more convenient. However, they cannot 20 the personal attention coming from the distinctive tap of a pea shooter."
       ],
       "answer": "C",
       "type": "single",
@@ -199,12 +214,13 @@
     },
     {
       "number": 16,
-      "text": "(A) must be using\n\n(B) could have used\n\n(C) had hardly used\n\n(D) were mostly using",
+      "text": "16.",
+      "passage": "**題組：16-20 題**\nThe modern worker rolls out of bed, groans, and turns off an alarm clock before reluctantly getting up for the day's work. But how did people get to work on time before alarm clocks were widely used?\nDuring the second Industrial Age, people toiled at unusual hours in mines or factories and often had to get up for work early in the morning. They 16 alarm clocks because adjustable alarms had been invented by the mid-19th century. But the new device was still relatively expensive and unreliable. British workers thus relied on a human alarm clock known as a \"knocker-up.\" 17 sticks or pea shooters, the human alarms would tour the streets, tap on windows, or blast them with dried peas, trying to wake paying customers in time for work.\nWhether they wielded rods or pea shooters, knockers-up became 18 throughout the United Kingdom. Every morning, these people, often older in age, were seen in big streets and small alleys, waking up their customers professionally. They usually would not leave people's houses until they were sure their customers were awake.\nWhile the practice continued in some parts of the country until the 1970s, it 19 as alarm clocks became more widespread and affordable. Today, beeping alarm clocks and smartphones that play morning music are surely simpler and more convenient. However, they cannot 20 the personal attention coming from the distinctive tap of a pea shooter.",
       "options": [
-        "(A) must be using",
-        "(B) could have used",
-        "(C) had hardly used",
-        "(D) were mostly using"
+        "must be using",
+        "could have used",
+        "had hardly used",
+        "were mostly using"
       ],
       "answer": "B",
       "type": "single",
@@ -212,12 +228,13 @@
     },
     {
       "number": 17,
-      "text": "(A) Aimed at\n\n(B) Trained for\n\n(C) Equipped with\n\n(D) Exhausted by",
+      "text": "17.",
+      "passage": "**題組：16-20 題**\nThe modern worker rolls out of bed, groans, and turns off an alarm clock before reluctantly getting up for the day's work. But how did people get to work on time before alarm clocks were widely used?\nDuring the second Industrial Age, people toiled at unusual hours in mines or factories and often had to get up for work early in the morning. They 16 alarm clocks because adjustable alarms had been invented by the mid-19th century. But the new device was still relatively expensive and unreliable. British workers thus relied on a human alarm clock known as a \"knocker-up.\" 17 sticks or pea shooters, the human alarms would tour the streets, tap on windows, or blast them with dried peas, trying to wake paying customers in time for work.\nWhether they wielded rods or pea shooters, knockers-up became 18 throughout the United Kingdom. Every morning, these people, often older in age, were seen in big streets and small alleys, waking up their customers professionally. They usually would not leave people's houses until they were sure their customers were awake.\nWhile the practice continued in some parts of the country until the 1970s, it 19 as alarm clocks became more widespread and affordable. Today, beeping alarm clocks and smartphones that play morning music are surely simpler and more convenient. However, they cannot 20 the personal attention coming from the distinctive tap of a pea shooter.",
       "options": [
-        "(A) Aimed at",
-        "(B) Trained for",
-        "(C) Equipped with",
-        "(D) Exhausted by"
+        "Aimed at",
+        "Trained for",
+        "Equipped with",
+        "Exhausted by"
       ],
       "answer": "C",
       "type": "single",
@@ -225,12 +242,13 @@
     },
     {
       "number": 18,
-      "text": "(A) familiar presences\n\n(B) distant memories\n\n(C) vague images\n\n(D) public eyesores",
+      "text": "18.",
+      "passage": "**題組：16-20 題**\nThe modern worker rolls out of bed, groans, and turns off an alarm clock before reluctantly getting up for the day's work. But how did people get to work on time before alarm clocks were widely used?\nDuring the second Industrial Age, people toiled at unusual hours in mines or factories and often had to get up for work early in the morning. They 16 alarm clocks because adjustable alarms had been invented by the mid-19th century. But the new device was still relatively expensive and unreliable. British workers thus relied on a human alarm clock known as a \"knocker-up.\" 17 sticks or pea shooters, the human alarms would tour the streets, tap on windows, or blast them with dried peas, trying to wake paying customers in time for work.\nWhether they wielded rods or pea shooters, knockers-up became 18 throughout the United Kingdom. Every morning, these people, often older in age, were seen in big streets and small alleys, waking up their customers professionally. They usually would not leave people's houses until they were sure their customers were awake.\nWhile the practice continued in some parts of the country until the 1970s, it 19 as alarm clocks became more widespread and affordable. Today, beeping alarm clocks and smartphones that play morning music are surely simpler and more convenient. However, they cannot 20 the personal attention coming from the distinctive tap of a pea shooter.",
       "options": [
-        "(A) familiar presences",
-        "(B) distant memories",
-        "(C) vague images",
-        "(D) public eyesores"
+        "familiar presences",
+        "distant memories",
+        "vague images",
+        "public eyesores"
       ],
       "answer": "A",
       "type": "single",
@@ -238,9 +256,13 @@
     },
     {
       "number": 19,
-      "text": "(A) remained",
+      "text": "19.",
+      "passage": "**題組：16-20 題**\nThe modern worker rolls out of bed, groans, and turns off an alarm clock before reluctantly getting up for the day's work. But how did people get to work on time before alarm clocks were widely used?\nDuring the second Industrial Age, people toiled at unusual hours in mines or factories and often had to get up for work early in the morning. They 16 alarm clocks because adjustable alarms had been invented by the mid-19th century. But the new device was still relatively expensive and unreliable. British workers thus relied on a human alarm clock known as a \"knocker-up.\" 17 sticks or pea shooters, the human alarms would tour the streets, tap on windows, or blast them with dried peas, trying to wake paying customers in time for work.\nWhether they wielded rods or pea shooters, knockers-up became 18 throughout the United Kingdom. Every morning, these people, often older in age, were seen in big streets and small alleys, waking up their customers professionally. They usually would not leave people's houses until they were sure their customers were awake.\nWhile the practice continued in some parts of the country until the 1970s, it 19 as alarm clocks became more widespread and affordable. Today, beeping alarm clocks and smartphones that play morning music are surely simpler and more convenient. However, they cannot 20 the personal attention coming from the distinctive tap of a pea shooter.",
       "options": [
-        "(A) remained"
+        "remained",
+        "dismissed",
+        "revised",
+        "declined"
       ],
       "answer": "D",
       "type": "single",
@@ -248,23 +270,20 @@
     },
     {
       "number": 20,
-      "text": "(A) forget\n\n(B) dismissed\n\n(B) change\n\n(C) revised\n\n(C) match\n\n(D) declined\n\n(D) regret\n\n-  2  -\n\n\f第  3  頁\n共 11  頁\n\n請記得在答題卷簽名欄位以正楷簽全名\n\n113年學測\n英文考科\n\n三 、 文 意 選 填 （ 占 1 0 分 ）\n\n說明：第21題至第30題為單選題，每題1分。\n\n第 21 至 30 題為題組\n\nOn a hilltop overlooking the 2011-tsunami hit Otsuchi Town in northeastern Japan, there is a white\nphone booth standing all alone in the wind. The lonely “wind phone” serves to connect family members to\n\ntheir      21      loved ones who died in the tsunami that claimed 18,000 lives. People come to speak to those\n\nthey have lost, to say the words they never got to say on that      22      day.\n\nThe  idea for the  wind phone  was  first      23      by a Japanese  garden  designer named Itaru Sasaki,\n\nwho was grieving over the death of his cousin in 2010, before the tsunami. Feeling that he needed a private\n\nspace to help him navigate through the      24    , Sasaki positioned a booth where he could “speak” to the\ndead relative. The booth he built      25      only an old dial phone with a disconnected phone line. When he\n\nstepped into the booth, he could pick up the phone to call his cousin, telling him how he was, and how he\n\nmissed him. Sasaki stated in an interview: “Because my thoughts couldn’t be      26      through a regular\n\nphone line, I wanted them to be carried on the wind.” Hence, the wind phone allows Sasaki to create a one-\nway conversation with deep, soulful personal meaning, and renders the grieving process more      27      for\n\nhim.\n\nSasaki opened his wind phone to the public in 2011, after the devastating tsunami. News about the\n\nphone  gradually  spread,  and  the  booth  has  become  a      28      between  the  living  and  the  dead.  Phones\n\nresembling the wind phone have since been built around the world. Some were even set up to allow people\n\nto call their loved ones lost in the COVID-19 pandemic.\n\nGrieving is a natural      29      for coping with loss of a loved one, and people grieve in various ways.\n\nFor those who speak into the wind phone,      30      is always there: They believe that their messages will—\nthrough some unknown way—reach the deceased.\n\n(A) passed on\n\n(B) bridge\n\n(C) sorrow\n\n(D) hope\n\n(E) departed\n\n(F) mechanism\n\n(G) housed\n\n(H) manageable\n\n( I )  fateful\n\n( J )  brought forth\n\n-  3  -\n\n\f113年學測\n英 文 考 科\n\n請記得在答題卷簽名欄位以正楷簽全名\n\n第  4  頁\n共  11  頁\n\n四 、 篇 章 結 構 （ 占 8 分 ）\n\n說明︰第31題至第34題為單選題，每題2分。\n\n第 31 至 34 題為題組\n\nWhile Dr. Weinstein, a surgeon at Dartmouth College, was trying to lift a heavy box, he twisted his\nback. The pain was agonizing. The surgeon could not sit, and when he lay down he could barely get up. So\n\nhe decided to go out for a run. He took an aspirin, iced the injured area, and off he went. When he returned,\n\nhe felt “pretty good.”\n\n    31      When people have sprained a muscle or tendon, they are usually advised not to go right back\n\nto  exercising  until  the  pain  goes  away.  But  Dr.  Weinstein  says  that  approach  is  outdated  and\n\ncounterproductive. In fact, when active people consult him, he usually tells them to just keep exercising.\n\nDr. Weinstein is not alone in  his treatment of sports injury, but the specific advice can differ from\n\nspecialist to specialist.      32      They nevertheless caution that a cutback may be necessary, such as running\nshorter distances or going more slowly. Others say the patients may need to  engage in sports outside of\n\ntheir usual, main sport (that is, to cross-train), at least some of the time. Still others say the safest thing to\n\ndo is cross-train all the time until the pain is gone.      33      Their consensus, however, is that unless the\n\ninjury involves something as serious as a broken bone or a ripped muscle, moderate exercise can actually\nspeed healing.\n\n    34      Thus, more and more patients are now advised to keep moving despite the pain. The rule of\n\nthumb, however, is to see a doctor first and get an accurate diagnosis. If a serious injury is ruled out and\n\nthe pain is not getting worse after exercising, then the exercise “makes a lot of sense.”\n\n(A) For example, an injured runner might end up cycling and swimming instead of running.\n\n(B) Over time, researchers have come to realize the importance of exercising when injured.\n\n(C) Many suggest that most patients can continue with the sport they love.\n\n(D) This seems to run counter to the common practice.\n\n-  4  -\n\n\f第  5  頁\n共 11  頁\n\n請記得在答題卷簽名欄位以正楷簽全名\n\n113年學測\n英文考科\n\n五 、 閱 讀 測 驗 （ 占 2 4 分 ）\n\n說明︰第35題至第46題為單選題，每題2分。\n\n第 35 至 38 題為題組\n\nOne fine morning in 1941, Swiss engineer George de Mestral went for a walk in the woods with his\n\ndog. Upon their return home, he found a lot of burrs (from plants) stuck to the dog’s fur and his pants. He\n\nimmediately rushed to his microscope and examined the burrs attached on his pants—feeling a lightbulb\nmoment coming on.\n\nUpon closer examination, de Mestral observed that the burrs, which appeared straight to the naked eye,\n\nactually contained many small hooks that clung firmly to the loops in the fabric of his pants. He determined\n\nthat if he could recreate the same thing, making hooks-and-loops that bind to each other firmly, he could\nproduce a strong fastener with many uses.\n\nDe Mestral’s first challenge was finding a fabric for a strong bonding system. He first tried cotton, but\n\nit  proved  too  soft  and  could  not  withstand  repeated  openings  and  closures.  After  years  of  research  and\n\ntesting, he learned that synthetics worked best and eventually settled on heat-treated nylon, a strong and\ndurable substance. By 1955, he had completed an improved version of the product, with each square inch\n\nof  material  containing  300  hooks,  which  made  it  stay  fastened  and  yet  easy  enough  to  pull  apart  when\n\nneeded.  Named  “Velcro,”  from  the  French  words  velours  (velvet)  and  crochet  (hook),  the  new  product\n\nreceived  a  patent  from  the  Swiss  government  in",
+      "text": "20.",
+      "passage": "**題組：16-20 題**\nThe modern worker rolls out of bed, groans, and turns off an alarm clock before reluctantly getting up for the day's work. But how did people get to work on time before alarm clocks were widely used?\nDuring the second Industrial Age, people toiled at unusual hours in mines or factories and often had to get up for work early in the morning. They 16 alarm clocks because adjustable alarms had been invented by the mid-19th century. But the new device was still relatively expensive and unreliable. British workers thus relied on a human alarm clock known as a \"knocker-up.\" 17 sticks or pea shooters, the human alarms would tour the streets, tap on windows, or blast them with dried peas, trying to wake paying customers in time for work.\nWhether they wielded rods or pea shooters, knockers-up became 18 throughout the United Kingdom. Every morning, these people, often older in age, were seen in big streets and small alleys, waking up their customers professionally. They usually would not leave people's houses until they were sure their customers were awake.\nWhile the practice continued in some parts of the country until the 1970s, it 19 as alarm clocks became more widespread and affordable. Today, beeping alarm clocks and smartphones that play morning music are surely simpler and more convenient. However, they cannot 20 the personal attention coming from the distinctive tap of a pea shooter.",
       "options": [
-        "(A) forget",
-        "(B) dismissed",
-        "(B) change",
-        "(C) revised",
-        "(C) match",
-        "(D) declined",
-        "(D) regret\n\n-  2  -\n\n\f第  3  頁\n共 11  頁\n\n請記得在答題卷簽名欄位以正楷簽全名\n\n113年學測\n英文考科\n\n三 、 文 意 選 填 （ 占 1 0 分 ）\n\n說明：第21題至第30題為單選題，每題1分。\n\n第 21 至 30 題為題組\n\nOn a hilltop overlooking the 2011-tsunami hit Otsuchi Town in northeastern Japan, there is a white\nphone booth standing all alone in the wind. The lonely “wind phone” serves to connect family members to\n\ntheir      21      loved ones who died in the tsunami that claimed 18,000 lives. People come to speak to those\n\nthey have lost, to say the words they never got to say on that      22      day.\n\nThe  idea for the  wind phone  was  first      23      by a Japanese  garden  designer named Itaru Sasaki,\n\nwho was grieving over the death of his cousin in 2010, before the tsunami. Feeling that he needed a private\n\nspace to help him navigate through the      24    , Sasaki positioned a booth where he could “speak” to the\ndead relative. The booth he built      25      only an old dial phone with a disconnected phone line. When he\n\nstepped into the booth, he could pick up the phone to call his cousin, telling him how he was, and how he\n\nmissed him. Sasaki stated in an interview: “Because my thoughts couldn’t be      26      through a regular\n\nphone line, I wanted them to be carried on the wind.” Hence, the wind phone allows Sasaki to create a one-\nway conversation with deep, soulful personal meaning, and renders the grieving process more      27      for\n\nhim.\n\nSasaki opened his wind phone to the public in 2011, after the devastating tsunami. News about the\n\nphone  gradually  spread,  and  the  booth  has  become  a      28      between  the  living  and  the  dead.  Phones\n\nresembling the wind phone have since been built around the world. Some were even set up to allow people\n\nto call their loved ones lost in the COVID-19 pandemic.\n\nGrieving is a natural      29      for coping with loss of a loved one, and people grieve in various ways.\n\nFor those who speak into the wind phone,      30      is always there: They believe that their messages will—\nthrough some unknown way—reach the deceased.",
-        "(A) passed on",
-        "(B) bridge",
-        "(C) sorrow",
-        "(D) hope\n\n(E) departed\n\n(F) mechanism\n\n(G) housed\n\n(H) manageable\n\n( I )  fateful\n\n( J )  brought forth\n\n-  3  -\n\n\f113年學測\n英 文 考 科\n\n請記得在答題卷簽名欄位以正楷簽全名\n\n第  4  頁\n共  11  頁\n\n四 、 篇 章 結 構 （ 占 8 分 ）\n\n說明︰第31題至第34題為單選題，每題2分。\n\n第 31 至 34 題為題組\n\nWhile Dr. Weinstein, a surgeon at Dartmouth College, was trying to lift a heavy box, he twisted his\nback. The pain was agonizing. The surgeon could not sit, and when he lay down he could barely get up. So\n\nhe decided to go out for a run. He took an aspirin, iced the injured area, and off he went. When he returned,\n\nhe felt “pretty good.”\n\n    31      When people have sprained a muscle or tendon, they are usually advised not to go right back\n\nto  exercising  until  the  pain  goes  away.  But  Dr.  Weinstein  says  that  approach  is  outdated  and\n\ncounterproductive. In fact, when active people consult him, he usually tells them to just keep exercising.\n\nDr. Weinstein is not alone in  his treatment of sports injury, but the specific advice can differ from\n\nspecialist to specialist.      32      They nevertheless caution that a cutback may be necessary, such as running\nshorter distances or going more slowly. Others say the patients may need to  engage in sports outside of\n\ntheir usual, main sport (that is, to cross-train), at least some of the time. Still others say the safest thing to\n\ndo is cross-train all the time until the pain is gone.      33      Their consensus, however, is that unless the\n\ninjury involves something as serious as a broken bone or a ripped muscle, moderate exercise can actually\nspeed healing.\n\n    34      Thus, more and more patients are now advised to keep moving despite the pain. The rule of\n\nthumb, however, is to see a doctor first and get an accurate diagnosis. If a serious injury is ruled out and\n\nthe pain is not getting worse after exercising, then the exercise “makes a lot of sense.”",
-        "(A) For example, an injured runner might end up cycling and swimming instead of running.",
-        "(B) Over time, researchers have come to realize the importance of exercising when injured.",
-        "(C) Many suggest that most patients can continue with the sport they love.",
-        "(D) This seems to run counter to the common practice.\n\n-  4  -\n\n\f第  5  頁\n共 11  頁\n\n請記得在答題卷簽名欄位以正楷簽全名\n\n113年學測\n英文考科\n\n五 、 閱 讀 測 驗 （ 占 2 4 分 ）\n\n說明︰第35題至第46題為單選題，每題2分。\n\n第 35 至 38 題為題組\n\nOne fine morning in 1941, Swiss engineer George de Mestral went for a walk in the woods with his\n\ndog. Upon their return home, he found a lot of burrs (from plants) stuck to the dog’s fur and his pants. He\n\nimmediately rushed to his microscope and examined the burrs attached on his pants—feeling a lightbulb\nmoment coming on.\n\nUpon closer examination, de Mestral observed that the burrs, which appeared straight to the naked eye,\n\nactually contained many small hooks that clung firmly to the loops in the fabric of his pants. He determined\n\nthat if he could recreate the same thing, making hooks-and-loops that bind to each other firmly, he could\nproduce a strong fastener with many uses.\n\nDe Mestral’s first challenge was finding a fabric for a strong bonding system. He first tried cotton, but\n\nit  proved  too  soft  and  could  not  withstand  repeated  openings  and  closures.  After  years  of  research  and\n\ntesting, he learned that synthetics worked best and eventually settled on heat-treated nylon, a strong and\ndurable substance. By 1955, he had completed an improved version of the product, with each square inch\n\nof  material  containing  300  hooks,  which  made  it  stay  fastened  and  yet  easy  enough  to  pull  apart  when\n\nneeded.  Named  “Velcro,”  from  the  French  words  velours  (velvet)  and  crochet  (hook),  the  new  product\n\nreceived  a  patent  from  the  Swiss  government  in"
+        "forget",
+        "change",
+        "match",
+        "regret\n\n**題組：21-30 題**\nOn a hilltop overlooking the 2011-tsunami hit Otsuchi Town in northeastern Japan, there is a white phone booth standing all alone in the wind. The lonely \"wind phone\" serves to connect family members to their 21 loved ones who died in the tsunami that claimed 18,000 lives. People come to speak to those they have lost, to say the words they never got to say on that 22 day.\nThe idea for the wind phone was first 23 by a Japanese garden designer named Itaru Sasaki, who was grieving over the death of his cousin in 2010, before the tsunami. Feeling that he needed a private space to help him navigate through the 24, Sasaki positioned a booth where he could \"speak\" to the dead relative. The booth he built 25 only an old dial phone with a disconnected phone line. When he stepped into the booth, he could pick up the phone to call his cousin, telling him how he was, and how he missed him. Sasaki stated in an interview: \"Because my thoughts couldn't be 26 through a regular phone line, I wanted them to be carried on the wind.\" Hence, the wind phone allows Sasaki to create a one-way conversation with deep, soulful personal meaning, and renders the grieving process more 27 for him.\nSasaki opened his wind phone to the public in 2011, after the devastating tsunami. News about the phone gradually spread, and the booth has become a 28 between the living and the dead. Phones resembling the wind phone have since been built around the world. Some were even set up to allow people to call their loved ones lost in the COVID-19 pandemic.\nGrieving is a natural 29 for coping with loss of a loved one, and people grieve in various ways. For those who speak into the wind phone, 30 is always there: They believe that their messages will-through some unknown way-reach the deceased.",
+        "passed on",
+        "bridge",
+        "sorrow",
+        "hope",
+        "departed",
+        "mechanism",
+        "housed (H) manageable (I) fateful (J) brought forth"
       ],
       "answer": "C",
       "type": "single",
@@ -272,241 +291,205 @@
     },
     {
       "number": 21,
-      "text": "... 21 ...\n\n第  3  頁\n共 11  頁\n\n請記得在答題卷簽名欄位以正楷簽全名\n\n113年學測\n英文考科\n\n三 、 文 意 選 填 （ 占 1 0 分 ）\n\n說明：第21題至第30題為單選題，每題1分。\n\n第 21 至 30 題為題組\n\nOn a hilltop overlooking the 2011-tsunami hit Otsuchi Town in northeastern Japan, there is a white\nphone booth standing all alone in the wind. The lonely “wind phone” serves to connect family members to\n\ntheir      21      loved ones who died in the tsunami that claimed 18,000 lives. Peop",
+      "text": "21.",
+      "passage": "**題組：21-30 題**\nOn a hilltop overlooking the 2011-tsunami hit Otsuchi Town in northeastern Japan, there is a white phone booth standing all alone in the wind. The lonely \"wind phone\" serves to connect family members to their 21 loved ones who died in the tsunami that claimed 18,000 lives. People come to speak to those they have lost, to say the words they never got to say on that 22 day.\nThe idea for the wind phone was first 23 by a Japanese garden designer named Itaru Sasaki, who was grieving over the death of his cousin in 2010, before the tsunami. Feeling that he needed a private space to help him navigate through the 24, Sasaki positioned a booth where he could \"speak\" to the dead relative. The booth he built 25 only an old dial phone with a disconnected phone line. When he stepped into the booth, he could pick up the phone to call his cousin, telling him how he was, and how he missed him. Sasaki stated in an interview: \"Because my thoughts couldn't be 26 through a regular phone line, I wanted them to be carried on the wind.\" Hence, the wind phone allows Sasaki to create a one-way conversation with deep, soulful personal meaning, and renders the grieving process more 27 for him.\nSasaki opened his wind phone to the public in 2011, after the devastating tsunami. News about the phone gradually spread, and the booth has become a 28 between the living and the dead. Phones resembling the wind phone have since been built around the world. Some were even set up to allow people to call their loved ones lost in the COVID-19 pandemic.\nGrieving is a natural 29 for coping with loss of a loved one, and people grieve in various ways. For those who speak into the wind phone, 30 is always there: They believe that their messages will-through some unknown way-reach the deceased.\n\n(A) passed on (B) bridge (C) sorrow (D) hope (E) departed\n(F) mechanism (G) housed (H) manageable (I) fateful (J) brought forth",
       "options": [
         "(A)",
         "(B)",
         "(C)",
         "(D)",
-        "(E)",
-        "(F)",
-        "(G)",
-        "(H)",
-        "(I)",
-        "(J)"
+        "(E)"
       ],
       "answer": "E",
       "type": "single",
-      "score": 1
+      "score": 2
     },
     {
       "number": 22,
-      "text": "... 22 ...\n\nlives. People come to speak to those\n\nthey have lost, to say the words they never got to say on that      22      day.\n\nThe  idea for the  wind phone  was  first      23      by a Japanese  garden  designer named Itaru Sasaki,\n\nwho was grieving over the death of his cousin in 2010, before the tsunami. Feeling that he needed a private\n\nspace to help him navigate through the      24    , Sasaki positioned a booth",
+      "text": "22.",
+      "passage": "**題組：21-30 題**\nOn a hilltop overlooking the 2011-tsunami hit Otsuchi Town in northeastern Japan, there is a white phone booth standing all alone in the wind. The lonely \"wind phone\" serves to connect family members to their 21 loved ones who died in the tsunami that claimed 18,000 lives. People come to speak to those they have lost, to say the words they never got to say on that 22 day.\nThe idea for the wind phone was first 23 by a Japanese garden designer named Itaru Sasaki, who was grieving over the death of his cousin in 2010, before the tsunami. Feeling that he needed a private space to help him navigate through the 24, Sasaki positioned a booth where he could \"speak\" to the dead relative. The booth he built 25 only an old dial phone with a disconnected phone line. When he stepped into the booth, he could pick up the phone to call his cousin, telling him how he was, and how he missed him. Sasaki stated in an interview: \"Because my thoughts couldn't be 26 through a regular phone line, I wanted them to be carried on the wind.\" Hence, the wind phone allows Sasaki to create a one-way conversation with deep, soulful personal meaning, and renders the grieving process more 27 for him.\nSasaki opened his wind phone to the public in 2011, after the devastating tsunami. News about the phone gradually spread, and the booth has become a 28 between the living and the dead. Phones resembling the wind phone have since been built around the world. Some were even set up to allow people to call their loved ones lost in the COVID-19 pandemic.\nGrieving is a natural 29 for coping with loss of a loved one, and people grieve in various ways. For those who speak into the wind phone, 30 is always there: They believe that their messages will-through some unknown way-reach the deceased.\n\n(A) passed on (B) bridge (C) sorrow (D) hope (E) departed\n(F) mechanism (G) housed (H) manageable (I) fateful (J) brought forth",
       "options": [
         "(A)",
         "(B)",
         "(C)",
         "(D)",
-        "(E)",
-        "(F)",
-        "(G)",
-        "(H)",
-        "(I)",
-        "(J)"
+        "(E)"
       ],
       "answer": "I",
       "type": "single",
-      "score": 1
+      "score": 2
     },
     {
       "number": 23,
-      "text": "... 23 ...\n\nthe words they never got to say on that      22      day.\n\nThe  idea for the  wind phone  was  first      23      by a Japanese  garden  designer named Itaru Sasaki,\n\nwho was grieving over the death of his cousin in 2010, before the tsunami. Feeling that he needed a private\n\nspace to help him navigate through the      24    , Sasaki positioned a booth where he could “speak” to the\ndead relative. The booth he bu",
+      "text": "23.",
+      "passage": "**題組：21-30 題**\nOn a hilltop overlooking the 2011-tsunami hit Otsuchi Town in northeastern Japan, there is a white phone booth standing all alone in the wind. The lonely \"wind phone\" serves to connect family members to their 21 loved ones who died in the tsunami that claimed 18,000 lives. People come to speak to those they have lost, to say the words they never got to say on that 22 day.\nThe idea for the wind phone was first 23 by a Japanese garden designer named Itaru Sasaki, who was grieving over the death of his cousin in 2010, before the tsunami. Feeling that he needed a private space to help him navigate through the 24, Sasaki positioned a booth where he could \"speak\" to the dead relative. The booth he built 25 only an old dial phone with a disconnected phone line. When he stepped into the booth, he could pick up the phone to call his cousin, telling him how he was, and how he missed him. Sasaki stated in an interview: \"Because my thoughts couldn't be 26 through a regular phone line, I wanted them to be carried on the wind.\" Hence, the wind phone allows Sasaki to create a one-way conversation with deep, soulful personal meaning, and renders the grieving process more 27 for him.\nSasaki opened his wind phone to the public in 2011, after the devastating tsunami. News about the phone gradually spread, and the booth has become a 28 between the living and the dead. Phones resembling the wind phone have since been built around the world. Some were even set up to allow people to call their loved ones lost in the COVID-19 pandemic.\nGrieving is a natural 29 for coping with loss of a loved one, and people grieve in various ways. For those who speak into the wind phone, 30 is always there: They believe that their messages will-through some unknown way-reach the deceased.\n\n(A) passed on (B) bridge (C) sorrow (D) hope (E) departed\n(F) mechanism (G) housed (H) manageable (I) fateful (J) brought forth",
       "options": [
         "(A)",
         "(B)",
         "(C)",
         "(D)",
-        "(E)",
-        "(F)",
-        "(G)",
-        "(H)",
-        "(I)",
-        "(J)"
+        "(E)"
       ],
       "answer": "J",
       "type": "single",
-      "score": 1
+      "score": 2
     },
     {
       "number": 24,
-      "text": "... 24 ...\n\nn 2010, before the tsunami. Feeling that he needed a private\n\nspace to help him navigate through the      24    , Sasaki positioned a booth where he could “speak” to the\ndead relative. The booth he built      25      only an old dial phone with a disconnected phone line. When he\n\nstepped into the booth, he could pick up the phone to call his cousin, telling him how he was, and how he\n\nmissed him. Sasaki state",
+      "text": "24.",
+      "passage": "**題組：21-30 題**\nOn a hilltop overlooking the 2011-tsunami hit Otsuchi Town in northeastern Japan, there is a white phone booth standing all alone in the wind. The lonely \"wind phone\" serves to connect family members to their 21 loved ones who died in the tsunami that claimed 18,000 lives. People come to speak to those they have lost, to say the words they never got to say on that 22 day.\nThe idea for the wind phone was first 23 by a Japanese garden designer named Itaru Sasaki, who was grieving over the death of his cousin in 2010, before the tsunami. Feeling that he needed a private space to help him navigate through the 24, Sasaki positioned a booth where he could \"speak\" to the dead relative. The booth he built 25 only an old dial phone with a disconnected phone line. When he stepped into the booth, he could pick up the phone to call his cousin, telling him how he was, and how he missed him. Sasaki stated in an interview: \"Because my thoughts couldn't be 26 through a regular phone line, I wanted them to be carried on the wind.\" Hence, the wind phone allows Sasaki to create a one-way conversation with deep, soulful personal meaning, and renders the grieving process more 27 for him.\nSasaki opened his wind phone to the public in 2011, after the devastating tsunami. News about the phone gradually spread, and the booth has become a 28 between the living and the dead. Phones resembling the wind phone have since been built around the world. Some were even set up to allow people to call their loved ones lost in the COVID-19 pandemic.\nGrieving is a natural 29 for coping with loss of a loved one, and people grieve in various ways. For those who speak into the wind phone, 30 is always there: They believe that their messages will-through some unknown way-reach the deceased.\n\n(A) passed on (B) bridge (C) sorrow (D) hope (E) departed\n(F) mechanism (G) housed (H) manageable (I) fateful (J) brought forth",
       "options": [
         "(A)",
         "(B)",
         "(C)",
         "(D)",
-        "(E)",
-        "(F)",
-        "(G)",
-        "(H)",
-        "(I)",
-        "(J)"
+        "(E)"
       ],
       "answer": "C",
       "type": "single",
-      "score": 1
+      "score": 2
     },
     {
       "number": 25,
-      "text": "... 25 ...\n\n24    , Sasaki positioned a booth where he could “speak” to the\ndead relative. The booth he built      25      only an old dial phone with a disconnected phone line. When he\n\nstepped into the booth, he could pick up the phone to call his cousin, telling him how he was, and how he\n\nmissed him. Sasaki stated in an interview: “Because my thoughts couldn’t be      26      through a regular\n\nphone line, I wanted",
+      "text": "25.",
+      "passage": "**題組：21-30 題**\nOn a hilltop overlooking the 2011-tsunami hit Otsuchi Town in northeastern Japan, there is a white phone booth standing all alone in the wind. The lonely \"wind phone\" serves to connect family members to their 21 loved ones who died in the tsunami that claimed 18,000 lives. People come to speak to those they have lost, to say the words they never got to say on that 22 day.\nThe idea for the wind phone was first 23 by a Japanese garden designer named Itaru Sasaki, who was grieving over the death of his cousin in 2010, before the tsunami. Feeling that he needed a private space to help him navigate through the 24, Sasaki positioned a booth where he could \"speak\" to the dead relative. The booth he built 25 only an old dial phone with a disconnected phone line. When he stepped into the booth, he could pick up the phone to call his cousin, telling him how he was, and how he missed him. Sasaki stated in an interview: \"Because my thoughts couldn't be 26 through a regular phone line, I wanted them to be carried on the wind.\" Hence, the wind phone allows Sasaki to create a one-way conversation with deep, soulful personal meaning, and renders the grieving process more 27 for him.\nSasaki opened his wind phone to the public in 2011, after the devastating tsunami. News about the phone gradually spread, and the booth has become a 28 between the living and the dead. Phones resembling the wind phone have since been built around the world. Some were even set up to allow people to call their loved ones lost in the COVID-19 pandemic.\nGrieving is a natural 29 for coping with loss of a loved one, and people grieve in various ways. For those who speak into the wind phone, 30 is always there: They believe that their messages will-through some unknown way-reach the deceased.\n\n(A) passed on (B) bridge (C) sorrow (D) hope (E) departed\n(F) mechanism (G) housed (H) manageable (I) fateful (J) brought forth",
       "options": [
         "(A)",
         "(B)",
         "(C)",
         "(D)",
-        "(E)",
-        "(F)",
-        "(G)",
-        "(H)",
-        "(I)",
-        "(J)"
+        "(E)"
       ],
       "answer": "G",
       "type": "single",
-      "score": 1
+      "score": 2
     },
     {
       "number": 26,
-      "text": "... 26 ...\n\nhow he was, and how he\n\nmissed him. Sasaki stated in an interview: “Because my thoughts couldn’t be      26      through a regular\n\nphone line, I wanted them to be carried on the wind.” Hence, the wind phone allows Sasaki to create a one-\nway conversation with deep, soulful personal meaning, and renders the grieving process more      27      for\n\nhim.\n\nSasaki opened his wind phone to the public in 2011, after",
+      "text": "26.",
+      "passage": "**題組：21-30 題**\nOn a hilltop overlooking the 2011-tsunami hit Otsuchi Town in northeastern Japan, there is a white phone booth standing all alone in the wind. The lonely \"wind phone\" serves to connect family members to their 21 loved ones who died in the tsunami that claimed 18,000 lives. People come to speak to those they have lost, to say the words they never got to say on that 22 day.\nThe idea for the wind phone was first 23 by a Japanese garden designer named Itaru Sasaki, who was grieving over the death of his cousin in 2010, before the tsunami. Feeling that he needed a private space to help him navigate through the 24, Sasaki positioned a booth where he could \"speak\" to the dead relative. The booth he built 25 only an old dial phone with a disconnected phone line. When he stepped into the booth, he could pick up the phone to call his cousin, telling him how he was, and how he missed him. Sasaki stated in an interview: \"Because my thoughts couldn't be 26 through a regular phone line, I wanted them to be carried on the wind.\" Hence, the wind phone allows Sasaki to create a one-way conversation with deep, soulful personal meaning, and renders the grieving process more 27 for him.\nSasaki opened his wind phone to the public in 2011, after the devastating tsunami. News about the phone gradually spread, and the booth has become a 28 between the living and the dead. Phones resembling the wind phone have since been built around the world. Some were even set up to allow people to call their loved ones lost in the COVID-19 pandemic.\nGrieving is a natural 29 for coping with loss of a loved one, and people grieve in various ways. For those who speak into the wind phone, 30 is always there: They believe that their messages will-through some unknown way-reach the deceased.\n\n(A) passed on (B) bridge (C) sorrow (D) hope (E) departed\n(F) mechanism (G) housed (H) manageable (I) fateful (J) brought forth",
       "options": [
         "(A)",
         "(B)",
         "(C)",
         "(D)",
-        "(E)",
-        "(F)",
-        "(G)",
-        "(H)",
-        "(I)",
-        "(J)"
+        "(E)"
       ],
       "answer": "A",
       "type": "single",
-      "score": 1
+      "score": 2
     },
     {
       "number": 27,
-      "text": "... 27 ...\n\ne a one-\nway conversation with deep, soulful personal meaning, and renders the grieving process more      27      for\n\nhim.\n\nSasaki opened his wind phone to the public in 2011, after the devastating tsunami. News about the\n\nphone  gradually  spread,  and  the  booth  has  become  a      28      between  the  living  and  the  dead.  Phones\n\nresembling the wind phone have since been built around the world. Some",
+      "text": "27.",
+      "passage": "**題組：21-30 題**\nOn a hilltop overlooking the 2011-tsunami hit Otsuchi Town in northeastern Japan, there is a white phone booth standing all alone in the wind. The lonely \"wind phone\" serves to connect family members to their 21 loved ones who died in the tsunami that claimed 18,000 lives. People come to speak to those they have lost, to say the words they never got to say on that 22 day.\nThe idea for the wind phone was first 23 by a Japanese garden designer named Itaru Sasaki, who was grieving over the death of his cousin in 2010, before the tsunami. Feeling that he needed a private space to help him navigate through the 24, Sasaki positioned a booth where he could \"speak\" to the dead relative. The booth he built 25 only an old dial phone with a disconnected phone line. When he stepped into the booth, he could pick up the phone to call his cousin, telling him how he was, and how he missed him. Sasaki stated in an interview: \"Because my thoughts couldn't be 26 through a regular phone line, I wanted them to be carried on the wind.\" Hence, the wind phone allows Sasaki to create a one-way conversation with deep, soulful personal meaning, and renders the grieving process more 27 for him.\nSasaki opened his wind phone to the public in 2011, after the devastating tsunami. News about the phone gradually spread, and the booth has become a 28 between the living and the dead. Phones resembling the wind phone have since been built around the world. Some were even set up to allow people to call their loved ones lost in the COVID-19 pandemic.\nGrieving is a natural 29 for coping with loss of a loved one, and people grieve in various ways. For those who speak into the wind phone, 30 is always there: They believe that their messages will-through some unknown way-reach the deceased.\n\n(A) passed on (B) bridge (C) sorrow (D) hope (E) departed\n(F) mechanism (G) housed (H) manageable (I) fateful (J) brought forth",
       "options": [
         "(A)",
         "(B)",
         "(C)",
         "(D)",
-        "(E)",
-        "(F)",
-        "(G)",
-        "(H)",
-        "(I)",
-        "(J)"
+        "(E)"
       ],
       "answer": "H",
       "type": "single",
-      "score": 1
+      "score": 2
     },
     {
       "number": 28,
-      "text": "... 28 ...\n\nthe devastating tsunami. News about the\n\nphone  gradually  spread,  and  the  booth  has  become  a      28      between  the  living  and  the  dead.  Phones\n\nresembling the wind phone have since been built around the world. Some were even set up to allow people\n\nto call their loved ones lost in the COVID-19 pandemic.\n\nGrieving is a natural      29      for coping with loss of a loved one, and people grieve i",
+      "text": "28.",
+      "passage": "**題組：21-30 題**\nOn a hilltop overlooking the 2011-tsunami hit Otsuchi Town in northeastern Japan, there is a white phone booth standing all alone in the wind. The lonely \"wind phone\" serves to connect family members to their 21 loved ones who died in the tsunami that claimed 18,000 lives. People come to speak to those they have lost, to say the words they never got to say on that 22 day.\nThe idea for the wind phone was first 23 by a Japanese garden designer named Itaru Sasaki, who was grieving over the death of his cousin in 2010, before the tsunami. Feeling that he needed a private space to help him navigate through the 24, Sasaki positioned a booth where he could \"speak\" to the dead relative. The booth he built 25 only an old dial phone with a disconnected phone line. When he stepped into the booth, he could pick up the phone to call his cousin, telling him how he was, and how he missed him. Sasaki stated in an interview: \"Because my thoughts couldn't be 26 through a regular phone line, I wanted them to be carried on the wind.\" Hence, the wind phone allows Sasaki to create a one-way conversation with deep, soulful personal meaning, and renders the grieving process more 27 for him.\nSasaki opened his wind phone to the public in 2011, after the devastating tsunami. News about the phone gradually spread, and the booth has become a 28 between the living and the dead. Phones resembling the wind phone have since been built around the world. Some were even set up to allow people to call their loved ones lost in the COVID-19 pandemic.\nGrieving is a natural 29 for coping with loss of a loved one, and people grieve in various ways. For those who speak into the wind phone, 30 is always there: They believe that their messages will-through some unknown way-reach the deceased.\n\n(A) passed on (B) bridge (C) sorrow (D) hope (E) departed\n(F) mechanism (G) housed (H) manageable (I) fateful (J) brought forth",
       "options": [
         "(A)",
         "(B)",
         "(C)",
         "(D)",
-        "(E)",
-        "(F)",
-        "(G)",
-        "(H)",
-        "(I)",
-        "(J)"
+        "(E)"
       ],
       "answer": "B",
       "type": "single",
-      "score": 1
+      "score": 2
     },
     {
       "number": 29,
-      "text": "... 29 ...\n\nt up to allow people\n\nto call their loved ones lost in the COVID-19 pandemic.\n\nGrieving is a natural      29      for coping with loss of a loved one, and people grieve in various ways.\n\nFor those who speak into the wind phone,      30      is always there: They believe that their messages will—\nthrough some unknown way—reach the deceased.\n\n(A) passed on\n\n(B) bridge\n\n(C) sorrow\n\n(D) hope\n\n(E) departed\n\n(F) mech",
+      "text": "29.",
+      "passage": "**題組：21-30 題**\nOn a hilltop overlooking the 2011-tsunami hit Otsuchi Town in northeastern Japan, there is a white phone booth standing all alone in the wind. The lonely \"wind phone\" serves to connect family members to their 21 loved ones who died in the tsunami that claimed 18,000 lives. People come to speak to those they have lost, to say the words they never got to say on that 22 day.\nThe idea for the wind phone was first 23 by a Japanese garden designer named Itaru Sasaki, who was grieving over the death of his cousin in 2010, before the tsunami. Feeling that he needed a private space to help him navigate through the 24, Sasaki positioned a booth where he could \"speak\" to the dead relative. The booth he built 25 only an old dial phone with a disconnected phone line. When he stepped into the booth, he could pick up the phone to call his cousin, telling him how he was, and how he missed him. Sasaki stated in an interview: \"Because my thoughts couldn't be 26 through a regular phone line, I wanted them to be carried on the wind.\" Hence, the wind phone allows Sasaki to create a one-way conversation with deep, soulful personal meaning, and renders the grieving process more 27 for him.\nSasaki opened his wind phone to the public in 2011, after the devastating tsunami. News about the phone gradually spread, and the booth has become a 28 between the living and the dead. Phones resembling the wind phone have since been built around the world. Some were even set up to allow people to call their loved ones lost in the COVID-19 pandemic.\nGrieving is a natural 29 for coping with loss of a loved one, and people grieve in various ways. For those who speak into the wind phone, 30 is always there: They believe that their messages will-through some unknown way-reach the deceased.\n\n(A) passed on (B) bridge (C) sorrow (D) hope (E) departed\n(F) mechanism (G) housed (H) manageable (I) fateful (J) brought forth",
       "options": [
         "(A)",
         "(B)",
         "(C)",
         "(D)",
-        "(E)",
-        "(F)",
-        "(G)",
-        "(H)",
-        "(I)",
-        "(J)"
+        "(E)"
       ],
       "answer": "F",
       "type": "single",
-      "score": 1
+      "score": 2
     },
     {
       "number": 30,
-      "text": "... 30 ...\n\n(D) floating\n\n3.  Do you know what time the next bus is ______? I’ve been waiting here for more than 30 minutes.\n\n(A) apt\n\n(B) due\n\n(C) bound\n\n(D) docked\n\n4.  The roasting heat and high ______ made me feel hot and sticky, no matter what I did to cool off.\n\n(A) density\n\n(B) humidity\n\n(C) circulation\n\n(D) atmosphere\n\n5.  Artwork created by truly great artists such as Picasso and Monet will no doubt ____",
+      "text": "30.\n\n**題組：31-34 題**\nWhile Dr. Weinstein, a surgeon at Dartmouth College, was trying to lift a heavy box, he twisted his back. The pain was agonizing. The surgeon could not sit, and when he lay down he could barely get up. So he decided to go out for a run. He took an aspirin, iced the injured area, and off he went. When he returned, he felt \"pretty good.\"\n31 When people have sprained a muscle or tendon, they are usually advised not to go right back to exercising until the pain goes away. But Dr. Weinstein says that approach is outdated and counterproductive. In fact, when active people consult him, he usually tells them to just keep exercising.\nDr. Weinstein is not alone in his treatment of sports injury, but the specific advice can differ from specialist to specialist. 32 They nevertheless caution that a cutback may be necessary, such as running shorter distances or going more slowly. Others say the patients may need to engage in sports outside of their usual, main sport (that is, to cross-train), at least some of the time. Still others say the safest thing to do is cross-train all the time until the pain is gone. 33 Their consensus, however, is that unless the injury involves something as serious as a broken bone or a ripped muscle, moderate exercise can actually speed healing.\n34 Thus, more and more patients are now advised to keep moving despite the pain. The rule of thumb, however, is to see a doctor first and get an accurate diagnosis. If a serious injury is ruled out and the pain is not getting worse after exercising, then the exercise \"makes a lot of sense.\"",
+      "passage": "**題組：21-30 題**\nOn a hilltop overlooking the 2011-tsunami hit Otsuchi Town in northeastern Japan, there is a white phone booth standing all alone in the wind. The lonely \"wind phone\" serves to connect family members to their 21 loved ones who died in the tsunami that claimed 18,000 lives. People come to speak to those they have lost, to say the words they never got to say on that 22 day.\nThe idea for the wind phone was first 23 by a Japanese garden designer named Itaru Sasaki, who was grieving over the death of his cousin in 2010, before the tsunami. Feeling that he needed a private space to help him navigate through the 24, Sasaki positioned a booth where he could \"speak\" to the dead relative. The booth he built 25 only an old dial phone with a disconnected phone line. When he stepped into the booth, he could pick up the phone to call his cousin, telling him how he was, and how he missed him. Sasaki stated in an interview: \"Because my thoughts couldn't be 26 through a regular phone line, I wanted them to be carried on the wind.\" Hence, the wind phone allows Sasaki to create a one-way conversation with deep, soulful personal meaning, and renders the grieving process more 27 for him.\nSasaki opened his wind phone to the public in 2011, after the devastating tsunami. News about the phone gradually spread, and the booth has become a 28 between the living and the dead. Phones resembling the wind phone have since been built around the world. Some were even set up to allow people to call their loved ones lost in the COVID-19 pandemic.\nGrieving is a natural 29 for coping with loss of a loved one, and people grieve in various ways. For those who speak into the wind phone, 30 is always there: They believe that their messages will-through some unknown way-reach the deceased.\n\n(A) passed on (B) bridge (C) sorrow (D) hope (E) departed\n(F) mechanism (G) housed (H) manageable (I) fateful (J) brought forth",
       "options": [
         "(A)",
         "(B)",
         "(C)",
         "(D)",
-        "(E)",
-        "(F)",
-        "(G)",
-        "(H)",
-        "(I)",
-        "(J)"
+        "(E)"
       ],
       "answer": "D",
       "type": "single",
-      "score": 1
+      "score": 2
     },
     {
       "number": 31,
-      "text": "... 31 ...\n\n13年學測\n英 文 考 科\n\n請記得在答題卷簽名欄位以正楷簽全名\n\n第  4  頁\n共  11  頁\n\n四 、 篇 章 結 構 （ 占 8 分 ）\n\n說明︰第31題至第34題為單選題，每題2分。\n\n第 31 至 34 題為題組\n\nWhile Dr. Weinstein, a surgeon at Dartmouth College, was trying to lift a heavy box, he twisted his\nback. The pain was agonizing. The surgeon could not sit, and when he lay down he could barely get up. So\n\nhe decided to go out for a run. He took an aspirin, iced the injured area, and off",
+      "text": "31.",
+      "passage": "**題組：31-34 題**\nWhile Dr. Weinstein, a surgeon at Dartmouth College, was trying to lift a heavy box, he twisted his back. The pain was agonizing. The surgeon could not sit, and when he lay down he could barely get up. So he decided to go out for a run. He took an aspirin, iced the injured area, and off he went. When he returned, he felt \"pretty good.\"\n31 When people have sprained a muscle or tendon, they are usually advised not to go right back to exercising until the pain goes away. But Dr. Weinstein says that approach is outdated and counterproductive. In fact, when active people consult him, he usually tells them to just keep exercising.\nDr. Weinstein is not alone in his treatment of sports injury, but the specific advice can differ from specialist to specialist. 32 They nevertheless caution that a cutback may be necessary, such as running shorter distances or going more slowly. Others say the patients may need to engage in sports outside of their usual, main sport (that is, to cross-train), at least some of the time. Still others say the safest thing to do is cross-train all the time until the pain is gone. 33 Their consensus, however, is that unless the injury involves something as serious as a broken bone or a ripped muscle, moderate exercise can actually speed healing.\n34 Thus, more and more patients are now advised to keep moving despite the pain. The rule of thumb, however, is to see a doctor first and get an accurate diagnosis. If a serious injury is ruled out and the pain is not getting worse after exercising, then the exercise \"makes a lot of sense.\"",
       "options": [
-        "(A)",
-        "(B)",
-        "(C)",
-        "(D)"
+        "For example, an injured runner might end up cycling and swimming instead of running.",
+        "Over time, researchers have come to realize the importance of exercising when injured.",
+        "Many suggest that most patients can continue with the sport they love.",
+        "This seems to run counter to the common practice."
       ],
       "answer": "D",
       "type": "single",
-      "score": 1
+      "score": 2
     },
     {
       "number": 32,
-      "text": "... 32 ...\n\nhis treatment of sports injury, but the specific advice can differ from\n\nspecialist to specialist.      32      They nevertheless caution that a cutback may be necessary, such as running\nshorter distances or going more slowly. Others say the patients may need to  engage in sports outside of\n\ntheir usual, main sport (that is, to cross-train), at least some of the time. Still others say the safest thing to\n\ndo",
+      "text": "32.",
+      "passage": "**題組：31-34 題**\nWhile Dr. Weinstein, a surgeon at Dartmouth College, was trying to lift a heavy box, he twisted his back. The pain was agonizing. The surgeon could not sit, and when he lay down he could barely get up. So he decided to go out for a run. He took an aspirin, iced the injured area, and off he went. When he returned, he felt \"pretty good.\"\n31 When people have sprained a muscle or tendon, they are usually advised not to go right back to exercising until the pain goes away. But Dr. Weinstein says that approach is outdated and counterproductive. In fact, when active people consult him, he usually tells them to just keep exercising.\nDr. Weinstein is not alone in his treatment of sports injury, but the specific advice can differ from specialist to specialist. 32 They nevertheless caution that a cutback may be necessary, such as running shorter distances or going more slowly. Others say the patients may need to engage in sports outside of their usual, main sport (that is, to cross-train), at least some of the time. Still others say the safest thing to do is cross-train all the time until the pain is gone. 33 Their consensus, however, is that unless the injury involves something as serious as a broken bone or a ripped muscle, moderate exercise can actually speed healing.\n34 Thus, more and more patients are now advised to keep moving despite the pain. The rule of thumb, however, is to see a doctor first and get an accurate diagnosis. If a serious injury is ruled out and the pain is not getting worse after exercising, then the exercise \"makes a lot of sense.\"",
       "options": [
-        "(A)",
-        "(B)",
-        "(C)",
-        "(D)"
+        "For example, an injured runner might end up cycling and swimming instead of running.",
+        "Over time, researchers have come to realize the importance of exercising when injured.",
+        "Many suggest that most patients can continue with the sport they love.",
+        "This seems to run counter to the common practice."
       ],
       "answer": "C",
       "type": "single",
-      "score": 1
+      "score": 2
     },
     {
       "number": 33,
-      "text": "... 33 ...\n\ne time. Still others say the safest thing to\n\ndo is cross-train all the time until the pain is gone.      33      Their consensus, however, is that unless the\n\ninjury involves something as serious as a broken bone or a ripped muscle, moderate exercise can actually\nspeed healing.\n\n    34      Thus, more and more patients are now advised to keep moving despite the pain. The rule of\n\nthumb, however, is to see a do",
+      "text": "33.",
+      "passage": "**題組：31-34 題**\nWhile Dr. Weinstein, a surgeon at Dartmouth College, was trying to lift a heavy box, he twisted his back. The pain was agonizing. The surgeon could not sit, and when he lay down he could barely get up. So he decided to go out for a run. He took an aspirin, iced the injured area, and off he went. When he returned, he felt \"pretty good.\"\n31 When people have sprained a muscle or tendon, they are usually advised not to go right back to exercising until the pain goes away. But Dr. Weinstein says that approach is outdated and counterproductive. In fact, when active people consult him, he usually tells them to just keep exercising.\nDr. Weinstein is not alone in his treatment of sports injury, but the specific advice can differ from specialist to specialist. 32 They nevertheless caution that a cutback may be necessary, such as running shorter distances or going more slowly. Others say the patients may need to engage in sports outside of their usual, main sport (that is, to cross-train), at least some of the time. Still others say the safest thing to do is cross-train all the time until the pain is gone. 33 Their consensus, however, is that unless the injury involves something as serious as a broken bone or a ripped muscle, moderate exercise can actually speed healing.\n34 Thus, more and more patients are now advised to keep moving despite the pain. The rule of thumb, however, is to see a doctor first and get an accurate diagnosis. If a serious injury is ruled out and the pain is not getting worse after exercising, then the exercise \"makes a lot of sense.\"",
       "options": [
-        "(A)",
-        "(B)",
-        "(C)",
-        "(D)"
+        "For example, an injured runner might end up cycling and swimming instead of running.",
+        "Over time, researchers have come to realize the importance of exercising when injured.",
+        "Many suggest that most patients can continue with the sport they love.",
+        "This seems to run counter to the common practice."
       ],
       "answer": "A",
       "type": "single",
-      "score": 1
+      "score": 2
     },
     {
       "number": 34,
-      "text": "In 1871, he was appointed to illustrate The Wonders of Yellowstone, a story by Nathaniel\nP. Langford, who had participated in an expedition to Yellowstone. Captivated by the utterly fantastic sights\nLangford described, Moran became eager to see this odd territory for himself.\n\nIn  1871 Moran  joined  the  first  US  government  survey  of  the  Yellowstone  region  with  photographer\nWilliam Henry Jackson. For two weeks he filled his sketchbook with the landscape’s most stunning sights.\nMoran’s  watercolors—the  first  color  renderings  of  the  area—as  well  as  Jackson’s  photos  and  the  survey\nresults were presented to the Congress. His powerful images of Yellowstone fired the imagination of Congress\nmembers. In March 1872, lawmakers officially made Yellowstone a national park, the world’s first.\n\nBefore Moran arrived, Yellowstone in the popular imagination was a harsh, wild place with hot water\nand  steam  coming  out  of  hellish  holes  in  the  ground.  Since  the  painter’s  work  appeared,  Yellowstone\nNational Park has come to be known as a picturesque wonderland. By the time Moran died, he had painted\na dozen other areas that would become national parks or monuments.",
+      "text": "34.",
+      "passage": "**題組：31-34 題**\nWhile Dr. Weinstein, a surgeon at Dartmouth College, was trying to lift a heavy box, he twisted his back. The pain was agonizing. The surgeon could not sit, and when he lay down he could barely get up. So he decided to go out for a run. He took an aspirin, iced the injured area, and off he went. When he returned, he felt \"pretty good.\"\n31 When people have sprained a muscle or tendon, they are usually advised not to go right back to exercising until the pain goes away. But Dr. Weinstein says that approach is outdated and counterproductive. In fact, when active people consult him, he usually tells them to just keep exercising.\nDr. Weinstein is not alone in his treatment of sports injury, but the specific advice can differ from specialist to specialist. 32 They nevertheless caution that a cutback may be necessary, such as running shorter distances or going more slowly. Others say the patients may need to engage in sports outside of their usual, main sport (that is, to cross-train), at least some of the time. Still others say the safest thing to do is cross-train all the time until the pain is gone. 33 Their consensus, however, is that unless the injury involves something as serious as a broken bone or a ripped muscle, moderate exercise can actually speed healing.\n34 Thus, more and more patients are now advised to keep moving despite the pain. The rule of thumb, however, is to see a doctor first and get an accurate diagnosis. If a serious injury is ruled out and the pain is not getting worse after exercising, then the exercise \"makes a lot of sense.\"",
       "options": [
-        "(A)",
-        "(B)",
-        "(C)",
-        "(D)"
+        "For example, an injured runner might end up cycling and swimming instead of running.",
+        "Over time, researchers have come to realize the importance of exercising when injured.",
+        "Many suggest that most patients can continue with the sport they love.",
+        "This seems to run counter to the common practice.\n\n**題組：35-38 題**\nOne fine morning in 1941, Swiss engineer George de Mestral went for a walk in the woods with his dog. Upon their return home, he found a lot of burrs (from plants) stuck to the dog's fur and his pants. He immediately rushed to his microscope and examined the burrs attached on his pants-feeling a lightbulb moment coming on.\nUpon closer examination, de Mestral observed that the burrs, which appeared straight to the naked eye, actually contained many small hooks that clung firmly to the loops in the fabric of his pants. He determined that if he could recreate the same thing, making hooks-and-loops that bind to each other firmly, he could produce a strong fastener with many uses.\nDe Mestral's first challenge was finding a fabric for a strong bonding system. He first tried cotton, but it proved too soft and could not withstand repeated openings and closures. After years of research and testing, he learned that synthetics worked best and eventually settled on heat-treated nylon, a strong and durable substance. By 1955, he had completed an improved version of the product, with each square inch of material containing 300 hooks, which made it stay fastened and yet easy enough to pull apart when needed. Named \"Velcro,\" from the French words velours (velvet) and crochet (hook), the new product received a patent from the Swiss government in 1955. De Mestral thus began mass-producing Velcro, opening plants in Europe and eventually into Canada and the United States.\nInitially Velcro did not fare well. As most fashion critics considered it ugly and cheap-looking, the use of Velcro was limited to athletic equipment. In the early 1960s, the product received a huge boost in popularity when NASA began using it in a lot of equipment that went into space along with astronauts. Today, de Mestral's design is found almost everywhere: clothing and footwear, toys, airline seat cushions, blood pressure cuffs and surgeons gowns. Most impressively, the magical fastener was used in the first human artificial heart transplantation to hold together parts of the device."
       ],
       "answer": "B",
       "type": "single",
@@ -514,25 +497,27 @@
     },
     {
       "number": 35,
-      "text": "Which of the following pictures shows de Mestral’s invention?\n\n(A)\n\n(B)\n\n(C)\n\n(D)",
+      "text": "<br><img src=\"/images/ceec/113/學測/英文/fig35.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\nWhich of the following pictures shows de Mestral's invention?",
+      "passage": "**題組：35-38 題**\nOne fine morning in 1941, Swiss engineer George de Mestral went for a walk in the woods with his dog. Upon their return home, he found a lot of burrs (from plants) stuck to the dog's fur and his pants. He immediately rushed to his microscope and examined the burrs attached on his pants-feeling a lightbulb moment coming on.\nUpon closer examination, de Mestral observed that the burrs, which appeared straight to the naked eye, actually contained many small hooks that clung firmly to the loops in the fabric of his pants. He determined that if he could recreate the same thing, making hooks-and-loops that bind to each other firmly, he could produce a strong fastener with many uses.\nDe Mestral's first challenge was finding a fabric for a strong bonding system. He first tried cotton, but it proved too soft and could not withstand repeated openings and closures. After years of research and testing, he learned that synthetics worked best and eventually settled on heat-treated nylon, a strong and durable substance. By 1955, he had completed an improved version of the product, with each square inch of material containing 300 hooks, which made it stay fastened and yet easy enough to pull apart when needed. Named \"Velcro,\" from the French words velours (velvet) and crochet (hook), the new product received a patent from the Swiss government in 1955. De Mestral thus began mass-producing Velcro, opening plants in Europe and eventually into Canada and the United States.\nInitially Velcro did not fare well. As most fashion critics considered it ugly and cheap-looking, the use of Velcro was limited to athletic equipment. In the early 1960s, the product received a huge boost in popularity when NASA began using it in a lot of equipment that went into space along with astronauts. Today, de Mestral's design is found almost everywhere: clothing and footwear, toys, airline seat cushions, blood pressure cuffs and surgeons gowns. Most impressively, the magical fastener was used in the first human artificial heart transplantation to hold together parts of the device.",
       "options": [
-        "(A) ",
-        "(B) ",
-        "(C) ",
-        "(D) "
+        "Picture A",
+        "Picture B",
+        "Picture C",
+        "Picture D"
       ],
-      "answer": "A",
+      "answer": "B",
       "type": "single",
       "score": 2
     },
     {
       "number": 36,
-      "text": "What does the author mean by “a lightbulb moment” in the first paragraph?\n\n(A) A blessing in disguise.\n\n(C) An unpredictable future.\n\n(B) A happy ending.\n\n(D) A sudden inspiration.",
+      "text": "What does the author mean by \"a lightbulb moment\" in the first paragraph?",
+      "passage": "**題組：35-38 題**\nOne fine morning in 1941, Swiss engineer George de Mestral went for a walk in the woods with his dog. Upon their return home, he found a lot of burrs (from plants) stuck to the dog's fur and his pants. He immediately rushed to his microscope and examined the burrs attached on his pants-feeling a lightbulb moment coming on.\nUpon closer examination, de Mestral observed that the burrs, which appeared straight to the naked eye, actually contained many small hooks that clung firmly to the loops in the fabric of his pants. He determined that if he could recreate the same thing, making hooks-and-loops that bind to each other firmly, he could produce a strong fastener with many uses.\nDe Mestral's first challenge was finding a fabric for a strong bonding system. He first tried cotton, but it proved too soft and could not withstand repeated openings and closures. After years of research and testing, he learned that synthetics worked best and eventually settled on heat-treated nylon, a strong and durable substance. By 1955, he had completed an improved version of the product, with each square inch of material containing 300 hooks, which made it stay fastened and yet easy enough to pull apart when needed. Named \"Velcro,\" from the French words velours (velvet) and crochet (hook), the new product received a patent from the Swiss government in 1955. De Mestral thus began mass-producing Velcro, opening plants in Europe and eventually into Canada and the United States.\nInitially Velcro did not fare well. As most fashion critics considered it ugly and cheap-looking, the use of Velcro was limited to athletic equipment. In the early 1960s, the product received a huge boost in popularity when NASA began using it in a lot of equipment that went into space along with astronauts. Today, de Mestral's design is found almost everywhere: clothing and footwear, toys, airline seat cushions, blood pressure cuffs and surgeons gowns. Most impressively, the magical fastener was used in the first human artificial heart transplantation to hold together parts of the device.",
       "options": [
-        "(A) A blessing in disguise.",
-        "(C) An unpredictable future.",
-        "(B) A happy ending.",
-        "(D) A sudden inspiration."
+        "A blessing in disguise.",
+        "A happy ending.",
+        "An unpredictable future.",
+        "A sudden inspiration."
       ],
       "answer": "D",
       "type": "single",
@@ -540,12 +525,13 @@
     },
     {
       "number": 37,
-      "text": "Which of the following statements about Velcro is true?\n\n(A) It has been a market favorite since its first appearance.\n\n(B) Cotton was not durable enough to be used as its materials.\n\n(C) It was given a French name because it was first produced in France.\n\n(D) The design was intended to look as shiny and smooth as velvet.",
+      "text": "Which of the following statements is true about Velcro?",
+      "passage": "**題組：35-38 題**\nOne fine morning in 1941, Swiss engineer George de Mestral went for a walk in the woods with his dog. Upon their return home, he found a lot of burrs (from plants) stuck to the dog's fur and his pants. He immediately rushed to his microscope and examined the burrs attached on his pants-feeling a lightbulb moment coming on.\nUpon closer examination, de Mestral observed that the burrs, which appeared straight to the naked eye, actually contained many small hooks that clung firmly to the loops in the fabric of his pants. He determined that if he could recreate the same thing, making hooks-and-loops that bind to each other firmly, he could produce a strong fastener with many uses.\nDe Mestral's first challenge was finding a fabric for a strong bonding system. He first tried cotton, but it proved too soft and could not withstand repeated openings and closures. After years of research and testing, he learned that synthetics worked best and eventually settled on heat-treated nylon, a strong and durable substance. By 1955, he had completed an improved version of the product, with each square inch of material containing 300 hooks, which made it stay fastened and yet easy enough to pull apart when needed. Named \"Velcro,\" from the French words velours (velvet) and crochet (hook), the new product received a patent from the Swiss government in 1955. De Mestral thus began mass-producing Velcro, opening plants in Europe and eventually into Canada and the United States.\nInitially Velcro did not fare well. As most fashion critics considered it ugly and cheap-looking, the use of Velcro was limited to athletic equipment. In the early 1960s, the product received a huge boost in popularity when NASA began using it in a lot of equipment that went into space along with astronauts. Today, de Mestral's design is found almost everywhere: clothing and footwear, toys, airline seat cushions, blood pressure cuffs and surgeons gowns. Most impressively, the magical fastener was used in the first human artificial heart transplantation to hold together parts of the device.",
       "options": [
-        "(A) It has been a market favorite since its first appearance.",
-        "(B) Cotton was not durable enough to be used as its materials.",
-        "(C) It was given a French name because it was first produced in France.",
-        "(D) The design was intended to look as shiny and smooth as velvet."
+        "It has been a market favorite since its first appearance.",
+        "Cotton was not durable enough to be used as its materials.",
+        "It was given a French name because it was first produced in France.",
+        "The design was intended to look as shiny and smooth as velvet."
       ],
       "answer": "B",
       "type": "single",
@@ -553,12 +539,13 @@
     },
     {
       "number": 38,
-      "text": "Which of the following fields is NOT mentioned for Velcro uses in the passage?\n\n(A) Civil engineering.\n\n(C) Medical technology.\n\n(B) Aerospace industry.\n\n(D) Sports and recreation.\n\n-  6  -\n\n\f第  7  頁\n共 11  頁\n\n第 39 至 42 題為題組\n\n請記得在答題卷簽名欄位以正楷簽全名\n\n113年學測\n英文考科\n\nThomas Moran, a famous painter in the 19th century, played an important role in the establishment of\nAmerican national parks. His vivid paintings brought the splendor of the extraordinary landscapes before\nthe eyes of American people, thus setting the stage for the regions to be widely recognized and officially\nestablished as national parks.\n\nMoran came to the United States at age 7 with his family and settled in Philadelphia. They came from\nnorthwest England, the blackened heart of the Industrial Revolution: Its main street was “a dark, unattractive\nhole” and the river running through it was a string of dirty water. That was all the nature that Moran knew.\nMoran began painting by age 15, inspired by the landscape paintings of the British master J.M.W. Turner.\nThere was plenty of landscape for him to paint in America, much different from his hometown. Showing great\ntalent in painting, Moran was soon hired as an illustrator at Scribner’s Monthly, and later appointed chief\nillustrator by age",
+      "text": "Which of the following fields is NOT mentioned for Velcro uses in the passage?",
+      "passage": "**題組：35-38 題**\nOne fine morning in 1941, Swiss engineer George de Mestral went for a walk in the woods with his dog. Upon their return home, he found a lot of burrs (from plants) stuck to the dog's fur and his pants. He immediately rushed to his microscope and examined the burrs attached on his pants-feeling a lightbulb moment coming on.\nUpon closer examination, de Mestral observed that the burrs, which appeared straight to the naked eye, actually contained many small hooks that clung firmly to the loops in the fabric of his pants. He determined that if he could recreate the same thing, making hooks-and-loops that bind to each other firmly, he could produce a strong fastener with many uses.\nDe Mestral's first challenge was finding a fabric for a strong bonding system. He first tried cotton, but it proved too soft and could not withstand repeated openings and closures. After years of research and testing, he learned that synthetics worked best and eventually settled on heat-treated nylon, a strong and durable substance. By 1955, he had completed an improved version of the product, with each square inch of material containing 300 hooks, which made it stay fastened and yet easy enough to pull apart when needed. Named \"Velcro,\" from the French words velours (velvet) and crochet (hook), the new product received a patent from the Swiss government in 1955. De Mestral thus began mass-producing Velcro, opening plants in Europe and eventually into Canada and the United States.\nInitially Velcro did not fare well. As most fashion critics considered it ugly and cheap-looking, the use of Velcro was limited to athletic equipment. In the early 1960s, the product received a huge boost in popularity when NASA began using it in a lot of equipment that went into space along with astronauts. Today, de Mestral's design is found almost everywhere: clothing and footwear, toys, airline seat cushions, blood pressure cuffs and surgeons gowns. Most impressively, the magical fastener was used in the first human artificial heart transplantation to hold together parts of the device.",
       "options": [
-        "(A) Civil engineering.",
-        "(C) Medical technology.",
-        "(B) Aerospace industry.",
-        "(D) Sports and recreation.\n\n-  6  -\n\n\f第  7  頁\n共 11  頁\n\n第 39 至 42 題為題組\n\n請記得在答題卷簽名欄位以正楷簽全名\n\n113年學測\n英文考科\n\nThomas Moran, a famous painter in the 19th century, played an important role in the establishment of\nAmerican national parks. His vivid paintings brought the splendor of the extraordinary landscapes before\nthe eyes of American people, thus setting the stage for the regions to be widely recognized and officially\nestablished as national parks.\n\nMoran came to the United States at age 7 with his family and settled in Philadelphia. They came from\nnorthwest England, the blackened heart of the Industrial Revolution: Its main street was “a dark, unattractive\nhole” and the river running through it was a string of dirty water. That was all the nature that Moran knew.\nMoran began painting by age 15, inspired by the landscape paintings of the British master J.M.W. Turner.\nThere was plenty of landscape for him to paint in America, much different from his hometown. Showing great\ntalent in painting, Moran was soon hired as an illustrator at Scribner’s Monthly, and later appointed chief\nillustrator by age"
+        "Civil engineering.",
+        "Aerospace industry.",
+        "Medical technology.",
+        "Sports and recreation.\n\n**題組：39-42 題**\nThomas Moran, a famous painter in the 19th century, played an important role in the establishment of American national parks. His vivid paintings brought the splendor of the extraordinary landscapes before the eyes of American people, thus setting the stage for the regions to be widely recognized and officially established as national parks.\nMoran came to the United States at age 7 with his family and settled in Philadelphia. They came from northwest England, the blackened heart of the Industrial Revolution: Its main street was \"a dark, unattractive hole\" and the river running through it was a string of dirty water. That was all the nature that Moran knew. Moran began painting by age 15, inspired by the landscape paintings of the British master J.M.W. Turner. There was plenty of landscape for him to paint in America, much different from his hometown. Showing great talent in painting, Moran was soon hired as an illustrator at Scribner's Monthly, and later appointed chief illustrator by age 34. In 1871, he was appointed to illustrate The Wonders of Yellowstone, a story by Nathaniel P. Langford, who had participated in an expedition to Yellowstone. Captivated by the utterly fantastic sights Langford described, Moran became eager to see this odd territory for himself.\nIn 1871 Moran joined the first US government survey of the Yellowstone region with photographer William Henry Jackson. For two weeks he filled his sketchbook with the landscape's most stunning sights. Moran's watercolors the first color renderings of the area as well as Jackson's photos and the survey results were presented to the Congress. His powerful images of Yellowstone fired the imagination of Congress members. In March 1872, lawmakers officially made Yellowstone a national park, the world's first.\nBefore Moran arrived, Yellowstone in the popular imagination was a harsh, wild place with hot water and steam coming out of hellish holes in the ground. Since the painter's work appeared, Yellowstone National Park has come to be known as a picturesque wonderland. By the time Moran died, he had painted a dozen other areas that would become national parks or monuments."
       ],
       "answer": "A",
       "type": "single",
@@ -566,12 +553,13 @@
     },
     {
       "number": 39,
-      "text": "What can we learn from the passage?\n\n(A) How national parks around the world were established.\n(B) How Yellowstone’s natural features were formed.\n(C) Why Moran’s family moved to the United States.\n(D) Why Moran started painting Yellowstone.",
+      "text": "What can we learn from the passage?",
+      "passage": "**題組：39-42 題**\nThomas Moran, a famous painter in the 19th century, played an important role in the establishment of American national parks. His vivid paintings brought the splendor of the extraordinary landscapes before the eyes of American people, thus setting the stage for the regions to be widely recognized and officially established as national parks.\nMoran came to the United States at age 7 with his family and settled in Philadelphia. They came from northwest England, the blackened heart of the Industrial Revolution: Its main street was \"a dark, unattractive hole\" and the river running through it was a string of dirty water. That was all the nature that Moran knew. Moran began painting by age 15, inspired by the landscape paintings of the British master J.M.W. Turner. There was plenty of landscape for him to paint in America, much different from his hometown. Showing great talent in painting, Moran was soon hired as an illustrator at Scribner's Monthly, and later appointed chief illustrator by age 34. In 1871, he was appointed to illustrate The Wonders of Yellowstone, a story by Nathaniel P. Langford, who had participated in an expedition to Yellowstone. Captivated by the utterly fantastic sights Langford described, Moran became eager to see this odd territory for himself.\nIn 1871 Moran joined the first US government survey of the Yellowstone region with photographer William Henry Jackson. For two weeks he filled his sketchbook with the landscape's most stunning sights. Moran's watercolors the first color renderings of the area as well as Jackson's photos and the survey results were presented to the Congress. His powerful images of Yellowstone fired the imagination of Congress members. In March 1872, lawmakers officially made Yellowstone a national park, the world's first.\nBefore Moran arrived, Yellowstone in the popular imagination was a harsh, wild place with hot water and steam coming out of hellish holes in the ground. Since the painter's work appeared, Yellowstone National Park has come to be known as a picturesque wonderland. By the time Moran died, he had painted a dozen other areas that would become national parks or monuments.",
       "options": [
-        "(A) How national parks around the world were established.",
-        "(B) How Yellowstone’s natural features were formed.",
-        "(C) Why Moran’s family moved to the United States.",
-        "(D) Why Moran started painting Yellowstone."
+        "How national parks around the world were established.",
+        "How Yellowstone's natural features were formed.",
+        "Why Moran's family moved to the United States.",
+        "Why Moran started painting Yellowstone."
       ],
       "answer": "D",
       "type": "single",
@@ -579,12 +567,13 @@
     },
     {
       "number": 40,
-      "text": "Why does the author use “the blackened heart” in paragraph 2 to describe Moran’s hometown?\n\n(A) The place was severely polluted.\n(B) The town was filled with darkened holes.\n(C) There were many evil-hearted industry owners.\n(D) The laborers mostly wore dark and dirty uniforms.",
+      "text": "Why does the author use \"the blackened heart\" in paragraph 2 to describe Moran's hometown?",
+      "passage": "**題組：39-42 題**\nThomas Moran, a famous painter in the 19th century, played an important role in the establishment of American national parks. His vivid paintings brought the splendor of the extraordinary landscapes before the eyes of American people, thus setting the stage for the regions to be widely recognized and officially established as national parks.\nMoran came to the United States at age 7 with his family and settled in Philadelphia. They came from northwest England, the blackened heart of the Industrial Revolution: Its main street was \"a dark, unattractive hole\" and the river running through it was a string of dirty water. That was all the nature that Moran knew. Moran began painting by age 15, inspired by the landscape paintings of the British master J.M.W. Turner. There was plenty of landscape for him to paint in America, much different from his hometown. Showing great talent in painting, Moran was soon hired as an illustrator at Scribner's Monthly, and later appointed chief illustrator by age 34. In 1871, he was appointed to illustrate The Wonders of Yellowstone, a story by Nathaniel P. Langford, who had participated in an expedition to Yellowstone. Captivated by the utterly fantastic sights Langford described, Moran became eager to see this odd territory for himself.\nIn 1871 Moran joined the first US government survey of the Yellowstone region with photographer William Henry Jackson. For two weeks he filled his sketchbook with the landscape's most stunning sights. Moran's watercolors the first color renderings of the area as well as Jackson's photos and the survey results were presented to the Congress. His powerful images of Yellowstone fired the imagination of Congress members. In March 1872, lawmakers officially made Yellowstone a national park, the world's first.\nBefore Moran arrived, Yellowstone in the popular imagination was a harsh, wild place with hot water and steam coming out of hellish holes in the ground. Since the painter's work appeared, Yellowstone National Park has come to be known as a picturesque wonderland. By the time Moran died, he had painted a dozen other areas that would become national parks or monuments.",
       "options": [
-        "(A) The place was severely polluted.",
-        "(B) The town was filled with darkened holes.",
-        "(C) There were many evil-hearted industry owners.",
-        "(D) The laborers mostly wore dark and dirty uniforms."
+        "The place was severely polluted.",
+        "The town was filled with darkened holes.",
+        "There were many evil-hearted industry owners.",
+        "The laborers mostly wore dark and dirty uniforms."
       ],
       "answer": "A",
       "type": "single",
@@ -592,12 +581,13 @@
     },
     {
       "number": 41,
-      "text": "Which of the following statements is true about the Yellowstone National Park?\n\n(A) Its establishment was proposed by Langford.\n(B) Americans knew little about its beauty before the 1870s.\n(C) The government project was started due to its rich natural resources.\n(D) It was the only national park established because of Moran’s works.",
+      "text": "Which of the following statements is true about the Yellowstone National Park?",
+      "passage": "**題組：39-42 題**\nThomas Moran, a famous painter in the 19th century, played an important role in the establishment of American national parks. His vivid paintings brought the splendor of the extraordinary landscapes before the eyes of American people, thus setting the stage for the regions to be widely recognized and officially established as national parks.\nMoran came to the United States at age 7 with his family and settled in Philadelphia. They came from northwest England, the blackened heart of the Industrial Revolution: Its main street was \"a dark, unattractive hole\" and the river running through it was a string of dirty water. That was all the nature that Moran knew. Moran began painting by age 15, inspired by the landscape paintings of the British master J.M.W. Turner. There was plenty of landscape for him to paint in America, much different from his hometown. Showing great talent in painting, Moran was soon hired as an illustrator at Scribner's Monthly, and later appointed chief illustrator by age 34. In 1871, he was appointed to illustrate The Wonders of Yellowstone, a story by Nathaniel P. Langford, who had participated in an expedition to Yellowstone. Captivated by the utterly fantastic sights Langford described, Moran became eager to see this odd territory for himself.\nIn 1871 Moran joined the first US government survey of the Yellowstone region with photographer William Henry Jackson. For two weeks he filled his sketchbook with the landscape's most stunning sights. Moran's watercolors the first color renderings of the area as well as Jackson's photos and the survey results were presented to the Congress. His powerful images of Yellowstone fired the imagination of Congress members. In March 1872, lawmakers officially made Yellowstone a national park, the world's first.\nBefore Moran arrived, Yellowstone in the popular imagination was a harsh, wild place with hot water and steam coming out of hellish holes in the ground. Since the painter's work appeared, Yellowstone National Park has come to be known as a picturesque wonderland. By the time Moran died, he had painted a dozen other areas that would become national parks or monuments.",
       "options": [
-        "(A) Its establishment was proposed by Langford.",
-        "(B) Americans knew little about its beauty before the 1870s.",
-        "(C) The government project was started due to its rich natural resources.",
-        "(D) It was the only national park established because of Moran’s works."
+        "Its establishment was proposed by Langford.",
+        "Americans knew little about its beauty before the 1870s.",
+        "The government project was started due to its rich natural resources.",
+        "It was the only national park established because of Moran's works."
       ],
       "answer": "B",
       "type": "single",
@@ -605,12 +595,13 @@
     },
     {
       "number": 42,
-      "text": "What can be inferred from the passage?\n\n(A) Scribner’s Monthly was a magazine promoting national parks.\n(B) Moran had visited Yellowstone before he started painting its landscapes.\n(C) Color photos were not common when Moran started painting Yellowstone.\n(D) Watercolor was the most popular form of landscape painting in the 19th century.\n\n-  7  -\n\n\f113年學測\n英 文 考 科\n\n第 43 至 46 題為題組\n\n請記得在答題卷簽名欄位以正楷簽全名\n\n第  8  頁\n共  11  頁\n\nIn 2020, Petur Oddsson, a power station worker in Iceland, was struck by a 60,000-volt current. The\nelectrical shock burned almost half of his body and melted layers of his skin off. Such deep and extensive\nburns can be fatal. But Oddsson’s life was saved by a creative invention: transplanting codfish skins onto\nhuman bodies.\n\nA  triumph  for  medical  technology,  Oddsson’s  fish  skin  transplantation  was  actually  part  of  the\nastonishing achievement of “100% Fish,” an ambitious task in promoting environmental efficiency. The\nIcelandic  project,  from  which  this  pioneering  procedure  emerged,  strives  for  making  a  fundamental\nchange in the marine industry. It aims to encourage full utilization of each fish caught, and to strengthen\ninnovation in seafood products.\n\nReducing waste of fish catch has become a serious issue today, when many countries are faced with\nfood crises. According to a 2003 study, about 60% of a codfish caught in Iceland was lost or wasted during\nthe production process for human consumption. Under the guidance of 100% Fish, however, Icelanders are\nnow using almost 95% of a cod. Cod skin, for example, is made into calcium supplement and energy drinks,\nand even as material for skin transplantation as in Oddsson’s case. Dried fish heads and spines are exported\nto West Africa, where they are used as the base of a protein-rich soup. Other groundbreaking products,\nincluding Omega-3 capsules, cold virus pretreatment sprays, and dog snacks are made from what was once\ncod catch detritus.\n\nThe Icelandic success is accomplished largely through cooperative efforts across various industries.\n100% Fish takes the initiative to show seafood companies the importance of collaboration, and facilitate\nvaluable connections between fishing companies and other participants of the project, including academia,\nstart-ups, and research and development teams. By sharing knowledge and information, the different sectors\nare able to come up with improved processing and handling, through which creation of various innovative\nproducts was made possible. The project not only helps Icelanders to get 30% more value from each cod\nthan  most  developed  countries,  but  also  provides  an  effective  model  to  promote  resource  efficiency\nworldwide.",
+      "text": "What can be inferred from the passage?",
+      "passage": "**題組：39-42 題**\nThomas Moran, a famous painter in the 19th century, played an important role in the establishment of American national parks. His vivid paintings brought the splendor of the extraordinary landscapes before the eyes of American people, thus setting the stage for the regions to be widely recognized and officially established as national parks.\nMoran came to the United States at age 7 with his family and settled in Philadelphia. They came from northwest England, the blackened heart of the Industrial Revolution: Its main street was \"a dark, unattractive hole\" and the river running through it was a string of dirty water. That was all the nature that Moran knew. Moran began painting by age 15, inspired by the landscape paintings of the British master J.M.W. Turner. There was plenty of landscape for him to paint in America, much different from his hometown. Showing great talent in painting, Moran was soon hired as an illustrator at Scribner's Monthly, and later appointed chief illustrator by age 34. In 1871, he was appointed to illustrate The Wonders of Yellowstone, a story by Nathaniel P. Langford, who had participated in an expedition to Yellowstone. Captivated by the utterly fantastic sights Langford described, Moran became eager to see this odd territory for himself.\nIn 1871 Moran joined the first US government survey of the Yellowstone region with photographer William Henry Jackson. For two weeks he filled his sketchbook with the landscape's most stunning sights. Moran's watercolors the first color renderings of the area as well as Jackson's photos and the survey results were presented to the Congress. His powerful images of Yellowstone fired the imagination of Congress members. In March 1872, lawmakers officially made Yellowstone a national park, the world's first.\nBefore Moran arrived, Yellowstone in the popular imagination was a harsh, wild place with hot water and steam coming out of hellish holes in the ground. Since the painter's work appeared, Yellowstone National Park has come to be known as a picturesque wonderland. By the time Moran died, he had painted a dozen other areas that would become national parks or monuments.",
       "options": [
-        "(A) Scribner’s Monthly was a magazine promoting national parks.",
-        "(B) Moran had visited Yellowstone before he started painting its landscapes.",
-        "(C) Color photos were not common when Moran started painting Yellowstone.",
-        "(D) Watercolor was the most popular form of landscape painting in the 19th century.\n\n-  7  -\n\n\f113年學測\n英 文 考 科\n\n第 43 至 46 題為題組\n\n請記得在答題卷簽名欄位以正楷簽全名\n\n第  8  頁\n共  11  頁\n\nIn 2020, Petur Oddsson, a power station worker in Iceland, was struck by a 60,000-volt current. The\nelectrical shock burned almost half of his body and melted layers of his skin off. Such deep and extensive\nburns can be fatal. But Oddsson’s life was saved by a creative invention: transplanting codfish skins onto\nhuman bodies.\n\nA  triumph  for  medical  technology,  Oddsson’s  fish  skin  transplantation  was  actually  part  of  the\nastonishing achievement of “100% Fish,” an ambitious task in promoting environmental efficiency. The\nIcelandic  project,  from  which  this  pioneering  procedure  emerged,  strives  for  making  a  fundamental\nchange in the marine industry. It aims to encourage full utilization of each fish caught, and to strengthen\ninnovation in seafood products.\n\nReducing waste of fish catch has become a serious issue today, when many countries are faced with\nfood crises. According to a 2003 study, about 60% of a codfish caught in Iceland was lost or wasted during\nthe production process for human consumption. Under the guidance of 100% Fish, however, Icelanders are\nnow using almost 95% of a cod. Cod skin, for example, is made into calcium supplement and energy drinks,\nand even as material for skin transplantation as in Oddsson’s case. Dried fish heads and spines are exported\nto West Africa, where they are used as the base of a protein-rich soup. Other groundbreaking products,\nincluding Omega-3 capsules, cold virus pretreatment sprays, and dog snacks are made from what was once\ncod catch detritus.\n\nThe Icelandic success is accomplished largely through cooperative efforts across various industries.\n100% Fish takes the initiative to show seafood companies the importance of collaboration, and facilitate\nvaluable connections between fishing companies and other participants of the project, including academia,\nstart-ups, and research and development teams. By sharing knowledge and information, the different sectors\nare able to come up with improved processing and handling, through which creation of various innovative\nproducts was made possible. The project not only helps Icelanders to get 30% more value from each cod\nthan  most  developed  countries,  but  also  provides  an  effective  model  to  promote  resource  efficiency\nworldwide."
+        "Scribner's Monthly was a magazine promoting national parks.",
+        "Moran had visited Yellowstone before he started painting its landscapes.",
+        "Color photos were not common when Moran started painting Yellowstone.",
+        "Watercolor was the most popular form of landscape painting in the $19^{th}$ century.\n\n**題組：43-46 題**\nIn 2020, Petur Oddsson, a power station worker in Iceland, was struck by a 60,000-volt current. The electrical shock burned almost half of his body and melted layers of his skin off. Such deep and extensive burns can be fatal. But Oddsson's life was saved by a creative invention: transplanting codfish skins onto human bodies.\nA triumph for medical technology, Oddsson's fish skin transplantation was actually part of the astonishing achievement of \"100% Fish,\" an ambitious task in promoting environmental efficiency. The Icelandic project, from which this pioneering procedure emerged, strives for making a fundamental change in the marine industry. It aims to encourage full utilization of each fish caught, and to strengthen innovation in seafood products.\nReducing waste of fish catch has become a serious issue today, when many countries are faced with food crises. According to a 2003 study, about 60% of a codfish caught in Iceland was lost or wasted during the production process for human consumption. Under the guidance of 100% Fish, however, Icelanders are now using almost 95% of a cod. Cod skin, for example, is made into calcium supplement and energy drinks, and even as material for skin transplantation as in Oddsson's case. Dried fish heads and spines are exported to West Africa, where they are used as the base of a protein-rich soup. Other groundbreaking products, including Omega-3 capsules, cold virus pretreatment sprays, and dog snacks are made from what was once cod catch detritus.\nThe Icelandic success is accomplished largely through cooperative efforts across various industries. 100% Fish takes the initiative to show seafood companies the importance of collaboration, and facilitate valuable connections between fishing companies and other participants of the project, including academia, start-ups, and research and development teams. By sharing knowledge and information, the different sectors are able to come up with improved processing and handling, through which creation of various innovative products was made possible. The project not only helps Icelanders to get 30% more value from each cod than most developed countries, but also provides an effective model to promote resource efficiency worldwide."
       ],
       "answer": "C",
       "type": "single",
@@ -618,12 +609,13 @@
     },
     {
       "number": 43,
-      "text": "What is the primary goal of 100% Fish?\n(A) To advance ocean technology.\n(C) To enhance cross-industry cooperation.\n\n(B) To reduce food crises worldwide.\n(D) To make the most of marine resources.",
+      "text": "What is the primary goal of 100% Fish?",
+      "passage": "**題組：43-46 題**\nIn 2020, Petur Oddsson, a power station worker in Iceland, was struck by a 60,000-volt current. The electrical shock burned almost half of his body and melted layers of his skin off. Such deep and extensive burns can be fatal. But Oddsson's life was saved by a creative invention: transplanting codfish skins onto human bodies.\nA triumph for medical technology, Oddsson's fish skin transplantation was actually part of the astonishing achievement of \"100% Fish,\" an ambitious task in promoting environmental efficiency. The Icelandic project, from which this pioneering procedure emerged, strives for making a fundamental change in the marine industry. It aims to encourage full utilization of each fish caught, and to strengthen innovation in seafood products.\nReducing waste of fish catch has become a serious issue today, when many countries are faced with food crises. According to a 2003 study, about 60% of a codfish caught in Iceland was lost or wasted during the production process for human consumption. Under the guidance of 100% Fish, however, Icelanders are now using almost 95% of a cod. Cod skin, for example, is made into calcium supplement and energy drinks, and even as material for skin transplantation as in Oddsson's case. Dried fish heads and spines are exported to West Africa, where they are used as the base of a protein-rich soup. Other groundbreaking products, including Omega-3 capsules, cold virus pretreatment sprays, and dog snacks are made from what was once cod catch detritus.\nThe Icelandic success is accomplished largely through cooperative efforts across various industries. 100% Fish takes the initiative to show seafood companies the importance of collaboration, and facilitate valuable connections between fishing companies and other participants of the project, including academia, start-ups, and research and development teams. By sharing knowledge and information, the different sectors are able to come up with improved processing and handling, through which creation of various innovative products was made possible. The project not only helps Icelanders to get 30% more value from each cod than most developed countries, but also provides an effective model to promote resource efficiency worldwide.",
       "options": [
-        "(A) To advance ocean technology.",
-        "(C) To enhance cross-industry cooperation.",
-        "(B) To reduce food crises worldwide.",
-        "(D) To make the most of marine resources."
+        "To advance ocean technology.",
+        "To reduce food crises worldwide.",
+        "To enhance cross-industry cooperation.",
+        "To make the most of marine resources."
       ],
       "answer": "D",
       "type": "single",
@@ -631,12 +623,13 @@
     },
     {
       "number": 44,
-      "text": "What does “this pioneering procedure” in the second paragraph refer to?\n\n(A) 100% Fish’s mission.\n(C) A fundamental change in seafood business.\n\n(B) Oddsson’s skin transplant.\n(D) A new approach to protect the environment.",
+      "text": "What does \"this pioneering procedure\" in the second paragraph refer to?",
+      "passage": "**題組：43-46 題**\nIn 2020, Petur Oddsson, a power station worker in Iceland, was struck by a 60,000-volt current. The electrical shock burned almost half of his body and melted layers of his skin off. Such deep and extensive burns can be fatal. But Oddsson's life was saved by a creative invention: transplanting codfish skins onto human bodies.\nA triumph for medical technology, Oddsson's fish skin transplantation was actually part of the astonishing achievement of \"100% Fish,\" an ambitious task in promoting environmental efficiency. The Icelandic project, from which this pioneering procedure emerged, strives for making a fundamental change in the marine industry. It aims to encourage full utilization of each fish caught, and to strengthen innovation in seafood products.\nReducing waste of fish catch has become a serious issue today, when many countries are faced with food crises. According to a 2003 study, about 60% of a codfish caught in Iceland was lost or wasted during the production process for human consumption. Under the guidance of 100% Fish, however, Icelanders are now using almost 95% of a cod. Cod skin, for example, is made into calcium supplement and energy drinks, and even as material for skin transplantation as in Oddsson's case. Dried fish heads and spines are exported to West Africa, where they are used as the base of a protein-rich soup. Other groundbreaking products, including Omega-3 capsules, cold virus pretreatment sprays, and dog snacks are made from what was once cod catch detritus.\nThe Icelandic success is accomplished largely through cooperative efforts across various industries. 100% Fish takes the initiative to show seafood companies the importance of collaboration, and facilitate valuable connections between fishing companies and other participants of the project, including academia, start-ups, and research and development teams. By sharing knowledge and information, the different sectors are able to come up with improved processing and handling, through which creation of various innovative products was made possible. The project not only helps Icelanders to get 30% more value from each cod than most developed countries, but also provides an effective model to promote resource efficiency worldwide.",
       "options": [
-        "(A) 100% Fish’s mission.",
-        "(C) A fundamental change in seafood business.",
-        "(B) Oddsson’s skin transplant.",
-        "(D) A new approach to protect the environment."
+        "100% Fish's mission.",
+        "Oddsson's skin transplant.",
+        "A fundamental change in seafood business.",
+        "A new approach to protect the environment."
       ],
       "answer": "B",
       "type": "single",
@@ -644,12 +637,13 @@
     },
     {
       "number": 45,
-      "text": "Which of the following is true according to the passage?\n\n(A) Iceland has increased their fish catch by 30% in the last 20 years.\n(B) Petur Oddsson was an important member of the Icelandic project.\n(C) Cross-field collaboration has proved to be very fruitful for 100% Fish.\n(D) 100% Fish is a big international enterprise marketing seafood products.",
+      "text": "Which of the following is true according to the passage?",
+      "passage": "**題組：43-46 題**\nIn 2020, Petur Oddsson, a power station worker in Iceland, was struck by a 60,000-volt current. The electrical shock burned almost half of his body and melted layers of his skin off. Such deep and extensive burns can be fatal. But Oddsson's life was saved by a creative invention: transplanting codfish skins onto human bodies.\nA triumph for medical technology, Oddsson's fish skin transplantation was actually part of the astonishing achievement of \"100% Fish,\" an ambitious task in promoting environmental efficiency. The Icelandic project, from which this pioneering procedure emerged, strives for making a fundamental change in the marine industry. It aims to encourage full utilization of each fish caught, and to strengthen innovation in seafood products.\nReducing waste of fish catch has become a serious issue today, when many countries are faced with food crises. According to a 2003 study, about 60% of a codfish caught in Iceland was lost or wasted during the production process for human consumption. Under the guidance of 100% Fish, however, Icelanders are now using almost 95% of a cod. Cod skin, for example, is made into calcium supplement and energy drinks, and even as material for skin transplantation as in Oddsson's case. Dried fish heads and spines are exported to West Africa, where they are used as the base of a protein-rich soup. Other groundbreaking products, including Omega-3 capsules, cold virus pretreatment sprays, and dog snacks are made from what was once cod catch detritus.\nThe Icelandic success is accomplished largely through cooperative efforts across various industries. 100% Fish takes the initiative to show seafood companies the importance of collaboration, and facilitate valuable connections between fishing companies and other participants of the project, including academia, start-ups, and research and development teams. By sharing knowledge and information, the different sectors are able to come up with improved processing and handling, through which creation of various innovative products was made possible. The project not only helps Icelanders to get 30% more value from each cod than most developed countries, but also provides an effective model to promote resource efficiency worldwide.",
       "options": [
-        "(A) Iceland has increased their fish catch by 30% in the last 20 years.",
-        "(B) Petur Oddsson was an important member of the Icelandic project.",
-        "(C) Cross-field collaboration has proved to be very fruitful for 100% Fish.",
-        "(D) 100% Fish is a big international enterprise marketing seafood products."
+        "Iceland has increased their fish catch by 30% in the last 20 years.",
+        "Petur Oddsson was an important member of the Icelandic project.",
+        "Cross-field collaboration has proved to be very fruitful for 100% Fish.",
+        "100% Fish is a big international enterprise marketing seafood products."
       ],
       "answer": "C",
       "type": "single",
@@ -657,9 +651,13 @@
     },
     {
       "number": 46,
-      "text": "Here is a sentence: “Almost nothing of a fish is left for the trash bin.”\n\nWhich paragraph is most suitable to have it as the final sentence?\n(A) Paragraph",
+      "text": "Here is a sentence: \"Almost nothing of a fish is left for the trash bin.\"\nWhich paragraph is most suitable to have it as the final sentence?",
+      "passage": "**題組：43-46 題**\nIn 2020, Petur Oddsson, a power station worker in Iceland, was struck by a 60,000-volt current. The electrical shock burned almost half of his body and melted layers of his skin off. Such deep and extensive burns can be fatal. But Oddsson's life was saved by a creative invention: transplanting codfish skins onto human bodies.\nA triumph for medical technology, Oddsson's fish skin transplantation was actually part of the astonishing achievement of \"100% Fish,\" an ambitious task in promoting environmental efficiency. The Icelandic project, from which this pioneering procedure emerged, strives for making a fundamental change in the marine industry. It aims to encourage full utilization of each fish caught, and to strengthen innovation in seafood products.\nReducing waste of fish catch has become a serious issue today, when many countries are faced with food crises. According to a 2003 study, about 60% of a codfish caught in Iceland was lost or wasted during the production process for human consumption. Under the guidance of 100% Fish, however, Icelanders are now using almost 95% of a cod. Cod skin, for example, is made into calcium supplement and energy drinks, and even as material for skin transplantation as in Oddsson's case. Dried fish heads and spines are exported to West Africa, where they are used as the base of a protein-rich soup. Other groundbreaking products, including Omega-3 capsules, cold virus pretreatment sprays, and dog snacks are made from what was once cod catch detritus.\nThe Icelandic success is accomplished largely through cooperative efforts across various industries. 100% Fish takes the initiative to show seafood companies the importance of collaboration, and facilitate valuable connections between fishing companies and other participants of the project, including academia, start-ups, and research and development teams. By sharing knowledge and information, the different sectors are able to come up with improved processing and handling, through which creation of various innovative products was made possible. The project not only helps Icelanders to get 30% more value from each cod than most developed countries, but also provides an effective model to promote resource efficiency worldwide.",
       "options": [
-        "(A) Paragraph"
+        "Paragraph 1.",
+        "Paragraph 2.",
+        "Paragraph 3.",
+        "Paragraph 4.\n\n**題組：47-50 題**\nMany animals are known to live and move in groups to secure food and avoid predators. Over the years, people have been curious about the way they deal with disturbances arising from the environment, and the operations underlying their responses as a group. Studies on jackdaws and turtle ants may provide some insights into the issue.\nJackdaws are birds in the crow family often found in the English countryside. They are highly social birds and often travel in large flocks. Normally, the birds enjoy a smooth flight together as a group when \"commuting\" between two locations, such as from their nesting site to their feeding ground. However, if a predator (such as a fox) is present, the pattern of their flight will change immediately. Instead of paying attention to all the other members and following the group pattern, they now focus only on the birds within a fixed distance from them, based on information coming from other members. By doing so, the flock members are able to keep a safe distance between themselves, and thus avoid crashing into each other while they flee from the predator.\nTurtle ants often live in the cavities of dead branches in American forests. They have evolved search strategies to link their food source to their nests. They travel entirely along tree branches and vines, laying down trails of pheromone (a chemical substance) behind them so that other ants can follow. The trails connect the ants' colonies and sources of food, forming a sort of communication network. However, since these trails can easily be broken by wind or rain, the ants have to find new paths to get around the broken points and reestablish the network. Often they have to work together to explore alternative routes many times before they finally settle on the most efficient one. By working collectively, the ants are able to improve the efficiency of their network and adapt to their ever-changing environment."
       ],
       "answer": "C",
       "type": "single",
@@ -667,39 +665,35 @@
     },
     {
       "number": 47,
-      "text": "... 47 ...\n\n全名\n\n113年學測\n英文考科\n\n第 貳 部 分 、 混 合 題 （ 占 1 0 分 ）\n\n說明︰本部分共有1題組，每一子題配分標於題末。限在答題卷標示題號的作答區內作答，\n\n並以規定用筆作答。\n\n第 47 至 50 題為題組\n\nMany animals are known to live and move in groups to secure food and avoid predators. Over the\n\nyears, people have been curious about the way they deal with disturbances arising from the environment,\nand the operations underlying their responses as a group. Studies on jackdaws and turtle",
-      "options": [
-        "(A)",
-        "(B)",
-        "(C)",
-        "(D)"
-      ],
-      "answer": "",
-      "type": "single",
-      "score": 1
+      "text": "Studies show that animals like jackdaws and turtle ants are able to use 47 intelligence in both solving problems and 48 to new challenging environment.",
+      "passage": "**題組：47-50 題**\nMany animals are known to live and move in groups to secure food and avoid predators. Over the years, people have been curious about the way they deal with disturbances arising from the environment, and the operations underlying their responses as a group. Studies on jackdaws and turtle ants may provide some insights into the issue.\nJackdaws are birds in the crow family often found in the English countryside. They are highly social birds and often travel in large flocks. Normally, the birds enjoy a smooth flight together as a group when \"commuting\" between two locations, such as from their nesting site to their feeding ground. However, if a predator (such as a fox) is present, the pattern of their flight will change immediately. Instead of paying attention to all the other members and following the group pattern, they now focus only on the birds within a fixed distance from them, based on information coming from other members. By doing so, the flock members are able to keep a safe distance between themselves, and thus avoid crashing into each other while they flee from the predator.\nTurtle ants often live in the cavities of dead branches in American forests. They have evolved search strategies to link their food source to their nests. They travel entirely along tree branches and vines, laying down trails of pheromone (a chemical substance) behind them so that other ants can follow. The trails connect the ants' colonies and sources of food, forming a sort of communication network. However, since these trails can easily be broken by wind or rain, the ants have to find new paths to get around the broken points and reestablish the network. Often they have to work together to explore alternative routes many times before they finally settle on the most efficient one. By working collectively, the ants are able to improve the efficiency of their network and adapt to their ever-changing environment.",
+      "options": [],
+      "answer": "group",
+      "type": "fill",
+      "score": 2
     },
     {
       "number": 48,
-      "text": "... 48 ...\n\nike jackdaws and turtle ants are able to use      47      intelligence in both\n\nsolving problems and      48      to new challenging environment.\n\n49.  From (A) to (F) below, choose the ONES that are true for both jackdaws and turtle ants.（多選題，4分）\n\n(A) They have special strategies to locate food sources.\n\n(B) They have complex interactions led by a leader.\n\n(C) They share information with their group members.",
-      "options": [
-        "(A)",
-        "(B)",
-        "(C)",
-        "(D)"
-      ],
-      "answer": "",
-      "type": "single",
-      "score": 1
+      "text": "Studies show that animals like jackdaws and turtle ants are able to use 47 intelligence in both solving problems and 48 to new challenging environment.",
+      "passage": "**題組：47-50 題**\nMany animals are known to live and move in groups to secure food and avoid predators. Over the years, people have been curious about the way they deal with disturbances arising from the environment, and the operations underlying their responses as a group. Studies on jackdaws and turtle ants may provide some insights into the issue.\nJackdaws are birds in the crow family often found in the English countryside. They are highly social birds and often travel in large flocks. Normally, the birds enjoy a smooth flight together as a group when \"commuting\" between two locations, such as from their nesting site to their feeding ground. However, if a predator (such as a fox) is present, the pattern of their flight will change immediately. Instead of paying attention to all the other members and following the group pattern, they now focus only on the birds within a fixed distance from them, based on information coming from other members. By doing so, the flock members are able to keep a safe distance between themselves, and thus avoid crashing into each other while they flee from the predator.\nTurtle ants often live in the cavities of dead branches in American forests. They have evolved search strategies to link their food source to their nests. They travel entirely along tree branches and vines, laying down trails of pheromone (a chemical substance) behind them so that other ants can follow. The trails connect the ants' colonies and sources of food, forming a sort of communication network. However, since these trails can easily be broken by wind or rain, the ants have to find new paths to get around the broken points and reestablish the network. Often they have to work together to explore alternative routes many times before they finally settle on the most efficient one. By working collectively, the ants are able to improve the efficiency of their network and adapt to their ever-changing environment.",
+      "options": [],
+      "answer": "adapting",
+      "type": "fill",
+      "score": 2
     },
     {
       "number": 49,
-      "text": "From (A) to (F) below, choose the ONES that are true for both jackdaws and turtle ants.（多選題，4分）\n\n(A) They have special strategies to locate food sources.\n\n(B) They have complex interactions led by a leader.\n\n(C) They share information with their group members.\n\n(D) They establish rules to stay away from enemies.\n\n(E) They change their nesting sites from time to time.\n\n(F) They show behavior governed by a unique system of communication.",
+      "text": "From",
+      "passage": "**題組：47-50 題**\nMany animals are known to live and move in groups to secure food and avoid predators. Over the years, people have been curious about the way they deal with disturbances arising from the environment, and the operations underlying their responses as a group. Studies on jackdaws and turtle ants may provide some insights into the issue.\nJackdaws are birds in the crow family often found in the English countryside. They are highly social birds and often travel in large flocks. Normally, the birds enjoy a smooth flight together as a group when \"commuting\" between two locations, such as from their nesting site to their feeding ground. However, if a predator (such as a fox) is present, the pattern of their flight will change immediately. Instead of paying attention to all the other members and following the group pattern, they now focus only on the birds within a fixed distance from them, based on information coming from other members. By doing so, the flock members are able to keep a safe distance between themselves, and thus avoid crashing into each other while they flee from the predator.\nTurtle ants often live in the cavities of dead branches in American forests. They have evolved search strategies to link their food source to their nests. They travel entirely along tree branches and vines, laying down trails of pheromone (a chemical substance) behind them so that other ants can follow. The trails connect the ants' colonies and sources of food, forming a sort of communication network. However, since these trails can easily be broken by wind or rain, the ants have to find new paths to get around the broken points and reestablish the network. Often they have to work together to explore alternative routes many times before they finally settle on the most efficient one. By working collectively, the ants are able to improve the efficiency of their network and adapt to their ever-changing environment.",
       "options": [
-        "(A) to (F) below, choose the ONES that are true for both jackdaws and turtle ants.（多選題，4分）",
-        "(A) They have special strategies to locate food sources.",
-        "(B) They have complex interactions led by a leader.",
-        "(C) They share information with their group members.",
-        "(D) They establish rules to stay away from enemies.\n\n(E) They change their nesting sites from time to time.\n\n(F) They show behavior governed by a unique system of communication."
+        "to",
+        "below, choose the ONES that are true for both jackdaws and turtle ants.",
+        "They have special strategies to locate food sources.",
+        "They have complex interactions led by a leader.",
+        "They share information with their group members.",
+        "They establish rules to stay away from enemies.",
+        "They change their nesting sites from time to time.",
+        "They show behavior governed by a unique system of communication."
       ],
       "answer": [
         "C",
@@ -710,40 +704,39 @@
     },
     {
       "number": 50,
-      "text": "What is the “disturbance” for jackdaws mentioned in the passage?（簡答，2分）\n\n      ________________________________________________________________________________\n\n背 面 還 有 試 題\n\n-  10  -\n\n\f第 11  頁\n共 11  頁\n\n請記得在答題卷簽名欄位以正楷簽全名\n\n113年學測\n英文考科\n\n第 參 部 分 、 非 選 擇 題 （ 占 2 8 分 ）\n\n說明：本部分共有二大題，請依各題指示作答，答案必須寫在「答題卷」標示題號之作答\n\n區內，作答時不必抄題。\n\n一 、 中 譯 英 （ 占 8 分 ）\n\n說明：依題號將以下中文句子譯成正確、通順、達意的英文。每題4分，共8分。",
-      "options": [
-        "(A)",
-        "(B)",
-        "(C)",
-        "(D)"
-      ],
-      "answer": "",
+      "text": "What is the \"disturbance\" for jackdaws mentioned in the passage?",
+      "passage": "**題組：47-50 題**\nMany animals are known to live and move in groups to secure food and avoid predators. Over the years, people have been curious about the way they deal with disturbances arising from the environment, and the operations underlying their responses as a group. Studies on jackdaws and turtle ants may provide some insights into the issue.\nJackdaws are birds in the crow family often found in the English countryside. They are highly social birds and often travel in large flocks. Normally, the birds enjoy a smooth flight together as a group when \"commuting\" between two locations, such as from their nesting site to their feeding ground. However, if a predator (such as a fox) is present, the pattern of their flight will change immediately. Instead of paying attention to all the other members and following the group pattern, they now focus only on the birds within a fixed distance from them, based on information coming from other members. By doing so, the flock members are able to keep a safe distance between themselves, and thus avoid crashing into each other while they flee from the predator.\nTurtle ants often live in the cavities of dead branches in American forests. They have evolved search strategies to link their food source to their nests. They travel entirely along tree branches and vines, laying down trails of pheromone (a chemical substance) behind them so that other ants can follow. The trails connect the ants' colonies and sources of food, forming a sort of communication network. However, since these trails can easily be broken by wind or rain, the ants have to find new paths to get around the broken points and reestablish the network. Often they have to work together to explore alternative routes many times before they finally settle on the most efficient one. By working collectively, the ants are able to improve the efficiency of their network and adapt to their ever-changing environment.",
+      "options": [],
+      "answer": "a predator",
       "type": "essay",
       "score": 2
     },
     {
       "number": 51,
-      "text": "每逢選舉季節，總會看到政治人物造訪各地著名廟宇。",
+      "text": "每逢選舉季節,總會看到政治人物造訪各地著名廟宇。",
+      "passage": "**題組：47-50 題**\nMany animals are known to live and move in groups to secure food and avoid predators. Over the years, people have been curious about the way they deal with disturbances arising from the environment, and the operations underlying their responses as a group. Studies on jackdaws and turtle ants may provide some insights into the issue.\nJackdaws are birds in the crow family often found in the English countryside. They are highly social birds and often travel in large flocks. Normally, the birds enjoy a smooth flight together as a group when \"commuting\" between two locations, such as from their nesting site to their feeding ground. However, if a predator (such as a fox) is present, the pattern of their flight will change immediately. Instead of paying attention to all the other members and following the group pattern, they now focus only on the birds within a fixed distance from them, based on information coming from other members. By doing so, the flock members are able to keep a safe distance between themselves, and thus avoid crashing into each other while they flee from the predator.\nTurtle ants often live in the cavities of dead branches in American forests. They have evolved search strategies to link their food source to their nests. They travel entirely along tree branches and vines, laying down trails of pheromone (a chemical substance) behind them so that other ants can follow. The trails connect the ants' colonies and sources of food, forming a sort of communication network. However, since these trails can easily be broken by wind or rain, the ants have to find new paths to get around the broken points and reestablish the network. Often they have to work together to explore alternative routes many times before they finally settle on the most efficient one. By working collectively, the ants are able to improve the efficiency of their network and adapt to their ever-changing environment.",
       "options": [],
       "answer": "",
       "type": "essay",
-      "score": 4
+      "score": 2
     },
     {
       "number": 52,
-      "text": "除了祈求好的選舉結果，他們也希望展現對在地文化與習俗的尊重。",
+      "text": "除了祈求好的選舉結果,他們也希望展現對在地文化與習俗的尊重。",
+      "passage": "**題組：47-50 題**\nMany animals are known to live and move in groups to secure food and avoid predators. Over the years, people have been curious about the way they deal with disturbances arising from the environment, and the operations underlying their responses as a group. Studies on jackdaws and turtle ants may provide some insights into the issue.\nJackdaws are birds in the crow family often found in the English countryside. They are highly social birds and often travel in large flocks. Normally, the birds enjoy a smooth flight together as a group when \"commuting\" between two locations, such as from their nesting site to their feeding ground. However, if a predator (such as a fox) is present, the pattern of their flight will change immediately. Instead of paying attention to all the other members and following the group pattern, they now focus only on the birds within a fixed distance from them, based on information coming from other members. By doing so, the flock members are able to keep a safe distance between themselves, and thus avoid crashing into each other while they flee from the predator.\nTurtle ants often live in the cavities of dead branches in American forests. They have evolved search strategies to link their food source to their nests. They travel entirely along tree branches and vines, laying down trails of pheromone (a chemical substance) behind them so that other ants can follow. The trails connect the ants' colonies and sources of food, forming a sort of communication network. However, since these trails can easily be broken by wind or rain, the ants have to find new paths to get around the broken points and reestablish the network. Often they have to work together to explore alternative routes many times before they finally settle on the most efficient one. By working collectively, the ants are able to improve the efficiency of their network and adapt to their ever-changing environment.",
       "options": [],
       "answer": "",
       "type": "essay",
-      "score": 4
+      "score": 2
     },
     {
       "number": 53,
-      "text": "二 、 英 文 作 文 （ 占 2 0 分 ）\n\n說明︰依提示寫一篇英文作文，文長至少120個單詞（words）。\n\n提示︰這個世代的青少年除了有課業壓力外，生活上也常面對一些困擾與挑戰。下列三張圖分別\n\n呈現青少年經常遭遇的三種問題，如果你有一個機器人小幫手可以幫你解決其中一個問\n\n題，你會選擇哪一個？請寫一篇英文作文，文分兩段，第一段說明你最想解決哪一個問題，\n\n並解釋原因。第二段說明你希望這個機器人小幫手具備什麼特質或能力、可以如何和你分\n\n工合作來解決此問題。\n\n1\n\n2\n\n3\n\nFirst Heartbreak\n\nCaring What Others Think\n\nMood Swings\n\n-  11  -",
+      "text": "<br><img src=\"/images/ceec/113/學測/英文/fig53.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n這個世代的青少年除了有課業壓力外,生活上也常面對一些困擾與挑戰。下列三張圖分別呈現青少年經常遭遇的三種問題,如果你有一個機器人小幫手可以幫你解決其中一個問題,你會選擇哪一個?請寫一篇英文作文,文分兩段,第一段說明你最想解決哪一個問題,並解釋原因。第二段說明你希望這個機器人小幫手具備什麼特質或能力、可以如何和你分工合作來解決此問題。",
+      "passage": "**題組：47-50 題**\nMany animals are known to live and move in groups to secure food and avoid predators. Over the years, people have been curious about the way they deal with disturbances arising from the environment, and the operations underlying their responses as a group. Studies on jackdaws and turtle ants may provide some insights into the issue.\nJackdaws are birds in the crow family often found in the English countryside. They are highly social birds and often travel in large flocks. Normally, the birds enjoy a smooth flight together as a group when \"commuting\" between two locations, such as from their nesting site to their feeding ground. However, if a predator (such as a fox) is present, the pattern of their flight will change immediately. Instead of paying attention to all the other members and following the group pattern, they now focus only on the birds within a fixed distance from them, based on information coming from other members. By doing so, the flock members are able to keep a safe distance between themselves, and thus avoid crashing into each other while they flee from the predator.\nTurtle ants often live in the cavities of dead branches in American forests. They have evolved search strategies to link their food source to their nests. They travel entirely along tree branches and vines, laying down trails of pheromone (a chemical substance) behind them so that other ants can follow. The trails connect the ants' colonies and sources of food, forming a sort of communication network. However, since these trails can easily be broken by wind or rain, the ants have to find new paths to get around the broken points and reestablish the network. Often they have to work together to explore alternative routes many times before they finally settle on the most efficient one. By working collectively, the ants are able to improve the efficiency of their network and adapt to their ever-changing environment.",
       "options": [],
       "answer": "",
       "type": "essay",
-      "score": 20
+      "score": 2
     }
   ]
 }
