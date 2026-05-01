@@ -8,15 +8,18 @@ hero:
     src: /logo.webp
     alt: AI Exam Logo
   actions:
-    - theme: romance
+    - theme: brand
       text: 國中教育會考 (CAP)
       link: /cap
     - theme: brand
       text: 學科能力測驗 (GSAT)
       link: /gsat
-    - theme: alt
+    - theme: brand
       text: 分科測驗 (AST)
       link: /ast
+    - theme: alt
+      text: 微積分
+      link: /calculus
 
 features:
   - title: 數位化精準還原
