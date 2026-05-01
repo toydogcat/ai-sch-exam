@@ -10,6 +10,8 @@ SUBJECT_META = {
     "數B": {"md": "數B.md", "title": "113 學年度學科能力測驗 - 數學B考科", "duration": 100},
     "數A": {"md": "數A.md", "title": "113 學年度學科能力測驗 - 數學A考科", "duration": 100},
     "英文": {"md": "英文.md", "title": "113 學年度學科能力測驗 - 英文考科", "duration": 100},
+    "國綜": {"md": "國綜.md", "title": "113 學年度學科能力測驗 - 國語文綜合能力測驗", "duration": 90},
+    "國寫": {"md": "國寫.md", "title": "113 學年度學科能力測驗 - 國語文寫作能力測驗", "duration": 90},
 }
 
 def process_images(text, subject_key):
