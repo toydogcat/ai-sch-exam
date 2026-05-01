@@ -17,7 +17,7 @@ export default {
         const oldScript = document.querySelector('script[src*="busuanzi"]')
         if (oldScript) oldScript.remove()
         const script = document.createElement('script')
-        script.src = '//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'
+        script.src = 'https://cdn.jsdelivr.net/gh/sukkaw/busuanzi@2.3/bsz.pure.mini.js'
         script.async = true
         document.head.appendChild(script)
       }
