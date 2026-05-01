@@ -134,7 +134,7 @@ def parse_markdown_to_json(md_path, year, subject_key, title, duration):
         elif "---" in pre_gap:
             current_passage = ""
 
-        clean_q_text = re.sub(r'-\s*\d+\s*-', '', q_block)
+        clean_q_text = re.sub(r'(?m)^\s*-\s*\d+\s*-\s*$', '', q_block)
         clean_q_text = re.sub(r'\d+\s*年學測.*', '', clean_q_text)
         clean_q_text = re.sub(r'第\s*\d+\s*頁\s*共\s*\d+\s*頁', '', clean_q_text)
         clean_q_text = re.sub(r'請記得在答題卷.*', '', clean_q_text)
