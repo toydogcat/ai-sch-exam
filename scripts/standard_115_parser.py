@@ -39,6 +39,69 @@ def process_images(text):
     text = re.sub(r'!\[.*?\]\((.*?)\)', repl, text)
     return text
 
+def markdown_table_to_html(text):
+    if "|" not in text:
+        return text
+
+    lines = text.splitlines()
+    new_lines = []
+    
+    in_table = False
+    table_lines = []
+    
+    for line in lines:
+        stripped = line.strip()
+        if stripped.startswith("|") and stripped.endswith("|") and stripped.count("|") > 1:
+            in_table = True
+            table_lines.append(stripped)
+        else:
+            if in_table:
+                html_table = render_html_table(table_lines)
+                new_lines.append(html_table)
+                table_lines = []
+                in_table = False
+            new_lines.append(line)
+            
+    if in_table:
+        html_table = render_html_table(table_lines)
+        new_lines.append(html_table)
+        
+    return "\n".join(new_lines)
+
+def render_html_table(table_lines):
+    if len(table_lines) < 2:
+        return "\n".join(table_lines)
+        
+    sep = table_lines[1].strip()
+    if not (sep.startswith("|") and sep.endswith("|") and all(c in " |:-" for c in sep)):
+        return "\n".join(table_lines)
+        
+    headers = [h.strip() for h in table_lines[0].split("|")[1:-1]]
+    rows = []
+    for line in table_lines[2:]:
+        cols = [c.strip() for c in line.split("|")[1:-1]]
+        if len(cols) < len(headers):
+            cols += [""] * (len(headers) - len(cols))
+        rows.append(cols[:len(headers)])
+        
+    html = '<div class="custom-table-container" style="overflow-x:auto; margin: 1.5rem 0; white-space: normal;">'
+    html += '<table class="custom-exam-table" style="width:100%; border-collapse: collapse; border: 1px solid #dee2e6; font-size: 1rem; background: #fff; border-radius: 6px; white-space: normal;">'
+    
+    html += '<thead style="background: #f8f9fa; white-space: normal;"><tr>'
+    for h in headers:
+        html += f'<th style="border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;">{h}</th>'
+    html += '</tr></thead>'
+    
+    html += '<tbody style="white-space: normal;">'
+    for r in rows:
+        html += '<tr style="white-space: normal;">'
+        for c in r:
+            html += f'<td style="border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;">{c}</td>'
+        html += '</tr>'
+    html += '</tbody></table></div>'
+    
+    return html
+
 def parse_markdown_to_json(md_path, year, subject, title, duration):
     if not os.path.exists(md_path):
         print(f"File not found: {md_path}")
@@ -108,6 +171,10 @@ def parse_markdown_to_json(md_path, year, subject, title, duration):
 
         clean_q_text = process_images(clean_q_text)
         clean_passage = process_images(current_passage) if current_passage else ""
+
+        clean_q_text = markdown_table_to_html(clean_q_text)
+        if clean_passage:
+            clean_passage = markdown_table_to_html(clean_passage)
 
         questions.append({
             "number": q_num,
