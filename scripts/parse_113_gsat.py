@@ -6,6 +6,7 @@ from pathlib import Path
 
 SUBJECT_META = {
     "自然": {"md": "自然.md", "title": "113 學年度學科能力測驗 - 自然考科", "duration": 110},
+    "社會": {"md": "社會.md", "title": "113 學年度學科能力測驗 - 社會考科", "duration": 110},
 }
 
 def process_images(text, subject_key):
