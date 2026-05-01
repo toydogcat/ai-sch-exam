@@ -1,44 +1,92 @@
 {
-  "title": "114 學年度學科能力測驗 - 數學 A 考科",
+  "title": "114 學年度學科能力測驗 - 數學A考科",
   "duration": 100,
   "questions": [
     {
       "number": 1,
-      "text": "\n\n\n1. 不透明袋中有藍、綠色球各若干顆，且球上皆有 1 或 2 的編號，其顆數如下表，例如 標有 1 號的藍色球有 2 顆。 \n\n\n\n\n\n從此袋中隨機抽取一球（每顆球被抽到的機率相等），若已知抽到藍色球的事件與抽到 1 號球的事件互相獨立，試問 _k_ 值為何？ \n\n\n\n\n\n- 4 3 \n\n- 2. 坐標平面上， _P_ ( _a_ ,0) 為 _x_ 軸上一點，其中 _a_  0。令 _L_ 1 、 _L_ 2 為通過 _P_ 點，斜率分別為 − 3 、 − 2 的直線。已知 _L_ 1 、 _L_ 2 分別與兩坐標軸圍成的兩個直角三角形的面積差為 3 ，試問 _a_ 值 為何？ (1) 3 2 (2) 6 (3) 6 2 (4) 9 (5) 8 2<br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0001-09.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0001-10.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0001-11.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0002-06.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0002-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "text": "不透明袋中有藍、綠色球各若干顆，且球上皆有1或2的編號，其顆數如下表，例如標有1號的藍色球有2顆。\n\n<div class=\"custom-table-container\" style=\"overflow-x:auto; margin: 1.5rem 0; white-space: normal;\"><table class=\"custom-exam-table\" style=\"width:100%; border-collapse: collapse; border: 1px solid #dee2e6; font-size: 1rem; background: #fff; border-radius: 6px; white-space: normal;\"><thead style=\"background: #f8f9fa; white-space: normal;\"><tr><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\"></th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">藍</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">綠</th></tr></thead><tbody style=\"white-space: normal;\"><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">1號</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">2</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">4</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">2號</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">3</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">k</td></tr></tbody></table></div>\n\n從此袋中隨機抽取一球（每顆球被抽到的機率相等），若已知抽到藍色球的事件與抽到1號球的事件互相獨立，試問 k 值為何？",
+      "passage": "",
       "options": [
-        "(1)",
-        "(2)",
-        "(3)",
-        "(4)",
-        "(5)"
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
       ],
       "answer": "5",
       "type": "single",
       "score": 2
     },
     {
-      "number": 3,
-      "text": "\n\n3. 某校舉辦音樂會，包含鋼琴表演 5 個、小提琴表演 4 個、歌唱表演 3 個等三類表演 共 12 個不同曲目。該校想將同類表演排在一起，且歌唱必須排在鋼琴之後或是小提琴 之後。試問這場音樂會可能的曲目排列方式共有幾種？ (1) 5!  4!  3! \n\n   - (2) 2  5!  4!  3! \n\n   - (3) 3  5!  4!  3! (4) 4  5!  4!  3! (5) 6  5!  4!  3! \n\n- 1 - \n\n\n請記得在答題卷簽名欄位以正楷簽全名\n\n\n114 `年學測 數學` A `考科` \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n二、多選題（占 **30** 分） `說明：第` 7 `題至第` 12 `題，每題` 5 `分。`<br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0002-06.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0002-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0003-02.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0003-03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0003-04.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0003-05.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "number": 2,
+      "text": "坐標平面上，$P(a,0)$ 為 $x$ 軸上一點，其中 $a&gt;0$。設 $L_1, L_2$ 為通過 $P$ 點，斜率分別為 $-\\frac{4}{3}, -\\frac{3}{2}$ 的直線。已知 $L_1, L_2$ 分別與兩坐標軸圍成的兩個直角三角形的面積差為 3，試問 $a$ 值為何？",
+      "passage": "",
       "options": [
-        "(1)",
-        "(2)",
-        "(3)",
-        "(4)",
-        "(5)"
+        "$3\\sqrt{2}$",
+        "6",
+        "$6\\sqrt{2}$",
+        "9",
+        "$8\\sqrt{2}$"
+      ],
+      "answer": "2",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 3,
+      "text": "某校舉辦音樂會，包含鋼琴表演5個、小提琴表演4個、歌唱表演3個等三類表演共12個不同曲目。該校想將同類表演排在一起，且歌唱必須排在鋼琴之後或是小提琴之後。試問這場音樂會可能的曲目排列方式共有幾種？",
+      "passage": "",
+      "options": [
+        "$5! \\times 4! \\times 3!$",
+        "$2 \\times 5! \\times 4! \\times 3!$",
+        "$3 \\times 5! \\times 4! \\times 3!$",
+        "$4 \\times 5! \\times 4! \\times 3!$",
+        "$6 \\times 5! \\times 4! \\times 3!$"
       ],
       "answer": "4",
       "type": "single",
       "score": 2
     },
     {
-      "number": 6,
-      "text": "\n\n\n\n\n\n6. \n\n\n 參考數值： 2  1.414 , 3  1.732 , 5  2.236 , 6  2.449 ,   3.142<br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0008-04.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0008-05.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0008-06.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0008-07.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0008-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0008-09.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0008-10.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "number": 4,
+      "text": "坐標平面上，$x$ 坐標與 $y$ 坐標均為整數的點稱為格子點。試問在函數圖形 $y=\\log_2 x$、$x$ 軸與直線 $x=\\frac{61}{2}$ 所圍有界區域的內部（不含邊界）共有多少個格子點？",
+      "passage": "",
       "options": [
-        "(1)",
-        "(2)",
-        "(3)",
-        "(4)",
-        "(5)"
+        "88",
+        "89",
+        "90",
+        "91",
+        "92"
+      ],
+      "answer": "3",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 5,
+      "text": "設 $0 \\le \\theta \\le 2\\pi$。已知所有滿足 $\\sin 2\\theta &gt; \\sin \\theta$ 且 $\\cos 2\\theta &gt; \\cos \\theta$ 的解可表為 $a\\pi &lt; \\theta &lt; b\\pi$，其中 $a,b$ 為實數，試問 $b-a$ 值為何？",
+      "passage": "",
+      "options": [
+        "$\\frac{1}{3}$",
+        "$\\frac{1}{2}$",
+        "$\\frac{2}{3}$",
+        "$\\frac{3}{4}$",
+        "1"
+      ],
+      "answer": "1",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 6,
+      "text": "坐標空間中有三個彼此互相垂直之向量 $\\vec{u}, \\vec{v}, \\vec{w}$。已知 $\\vec{u}-\\vec{v}=(2,-1,0)$，且 $\\vec{v}-\\vec{w}=(-1,2,3)$。試問由 $\\vec{u}, \\vec{v}, \\vec{w}$ 所張出的平行六面體之體積為何？",
+      "passage": "",
+      "options": [
+        "$2\\sqrt{5}$",
+        "$5\\sqrt{2}$",
+        "$2\\sqrt{10}$",
+        "$4\\sqrt{5}$",
+        "$4\\sqrt{10}$"
       ],
       "answer": "3",
       "type": "single",
@@ -46,13 +94,14 @@
     },
     {
       "number": 7,
-      "text": "\n\n\n\n7. 已知數列  _an_  滿足 3 _an_ + 1 = _an_ + _n_ （對任意正整數 _n_ 都成立）且 _a_ 1 = 2 。令數列  _bn_  滿足 _n_ 3 \n\n_bn_ = _an_ − 2 + 4 。試選出正確的選項。 (1) _a_ 2 = 2 3 \n\n(2) _b_ 2 = 4 2 \n\n(3) 數列  _[b] n_  是公比為 的等比數列 3 \n\n(4) 對於任意正整數 _n_ ， 3 _[n] an_ 皆為正整數 − 4 \n\n(5) _b_ 10  10 \n\n- 2 - \n\n114 `年學測 數學` A `考科` \n\n`第` 3 `頁 共` 7 `頁` \n\n\n請記得在答題卷簽名欄位以正楷簽全名\n<br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0003-02.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0003-03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0003-04.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0003-05.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "text": "已知數列 $\\langle a_n \\rangle$ 滿足 $3a_{n+1} = a_n + n$（對任意正整數 $n$ 都成立）且 $a_1=2$。令數列 $\\langle b_n \\rangle$ 滿足 $b_n = a_n - \\frac{n}{2} + \\frac{3}{4}$。試選出正確的選項。",
+      "passage": "",
       "options": [
-        "(1)",
-        "(2)",
-        "(3)",
-        "(4)",
-        "(5)"
+        "$a_2=2$",
+        "$b_2=\\frac{3}{4}$",
+        "數列 $\\langle b_n \\rangle$ 是公比為 $\\frac{2}{3}$ 的等比數列",
+        "對於任意正整數 $n$，$3^n a_n$ 皆為正整數",
+        "$b_{10} &lt; 10^{-4}$"
       ],
       "answer": [
         "2",
@@ -63,13 +112,14 @@
     },
     {
       "number": 8,
-      "text": "8. 考慮坐標平面上滿足方程式 \n\n      - 2 \n\n      - 2 _x_ 4 _x_ = 2 的點 _P_ ( _x_ , _y_ ) ，試選出正確的選項。 \n\n      - 8 2 _y_ \n\n   - (1) 當 _x_ = 3 時，滿足此方程式的解有相異 2 個 \n\n   - (2) 若點 ( _a_ , _b_ ) 滿足此方程式，則點 ( − _a_ , − _b_ ) 也滿足此方程式 \n\n   - (3) 所有可能的點 _P_ ( _x_ , _y_ ) 構成的圖形為一個圓 \n\n   - (4) 點 _P_ ( _x_ , _y_ ) 可能在直線 _x_ + _y_ = 4 上 \n\n   - (5) 對於所有可能的點 _P_ ( _x_ , _y_ ) ，其 _x_ − _y_ 的最大值為 1 + 2 2 \n\n- 2 2 \n\n- 9. 設 _b_ 、 _c_ 為實數。已知二次方程式 _x_ + _bx_ + _c_ = 0有實根，但二次方程式 _x_ + ( _b_ + 2) _x_ + _c_ = 0 沒有實根。試選出正確的選項。 \n\n   - (1) _c_  0 \n\n   - (2) _b_  0 \n\n\n\n\n\n   - (4) _x_ 2 + ( _b_ + 2) _x_ − _c_ = 0 有實根 (5) _x_ 2 + ( _b_ − 2) _x_ + _c_ = 0 有實根<br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0004-13.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "text": "考慮坐標平面上滿足方程式 $\\frac{2^{x^2}}{8} = \\frac{4^x}{2^{y^2}}$ 的點 $P(x,y)$，試選出正確的選項。",
+      "passage": "",
       "options": [
-        "(1)",
-        "(2)",
-        "(3)",
-        "(4)",
-        "(5)"
+        "當 $x=3$ 時，滿足此方程式的解有相異2個",
+        "若點 $(a,b)$ 滿足此方程式，則點 $(-a,-b)$ 也滿足此方程式",
+        "所有可能的點 $P(x,y)$ 構成的圖形為一個圓",
+        "點 $P(x,y)$ 可能在直線 $x+y=4$ 上",
+        "對於所有可能的點 $P(x,y)$，其 $x-y$ 的最大值為 $1+2\\sqrt{2}$"
       ],
       "answer": [
         "3",
@@ -79,14 +129,34 @@
       "score": 2
     },
     {
-      "number": 10,
-      "text": "\n10. 令  為坐標平面上 _y_ = sin  _x_ 在 0  _x_  3 內之函數圖形。一水平直線 _L_ : _y_ = _k_ 與  相交， 其中三交點 _P_ ( _x_ 1, _k_ ), _Q_ ( _x_ 2, _k_ ), _R_ ( _x_ 3, _k_ ) 滿足 _x_ 1  _x_ 2  1 _x_ 3 。試選出正確的選項。 (1) _k_  0 \n\n   - (2) _L_ 與  恰有 3 個交點 \n\n\n\n\n\n- (5) _L_ 與  所有交點的 _x_ 坐標之和大於 5 \n\n- 3 - \n\n\n請記得在答題卷簽名欄位以正楷簽全名\n\n\n114 `年學測 數學` A `考科` \n\n`第` 4 `頁 共` 7 `頁`<br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0004-13.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0004-17.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "number": 9,
+      "text": "設 $b, c$ 為實數。已知二次方程式 $x^2+bx+c=0$ 有實根，但二次方程式 $x^2+(b+2)x+c=0$ 沒有實根。試選出正確的選項。",
+      "passage": "",
       "options": [
-        "(1)",
-        "(2)",
-        "(3)",
-        "(4)",
-        "(5)"
+        "$c &lt; 0$",
+        "$b &lt; 0$",
+        "$x^2+(b+1)x+c=0$ 有實根",
+        "$x^2+(b+2)x-c=0$ 有實根",
+        "$x^2+(b-2)x+c=0$ 有實根"
+      ],
+      "answer": [
+        "2",
+        "4",
+        "5"
+      ],
+      "type": "multi",
+      "score": 2
+    },
+    {
+      "number": 10,
+      "text": "令 $\\Gamma$ 為坐標平面上 $y=\\sin \\pi x$ 在 $0 \\le x \\le 3$ 內之函數圖形。一水平直線 $L: y=k$ 與 $\\Gamma$ 相交，其中三交點 $P(x_1, k), Q(x_2, k), R(x_3, k)$ 滿足 $x_1 &lt; x_2 &lt; 1 &lt; x_3$。試選出正確的選項。",
+      "passage": "",
+      "options": [
+        "$k &gt; 0$",
+        "$L$ 與 $\\Gamma$ 恰有3個交點",
+        "$x_1+x_2 &lt; 1$",
+        "若 $2\\overline{PQ} = \\overline{QR}$，則 $k = \\frac{1}{2}$",
+        "$L$ 與 $\\Gamma$ 所有交點的 $x$ 坐標之和大於 5"
       ],
       "answer": [
         "1",
@@ -97,14 +167,34 @@
       "score": 2
     },
     {
-      "number": 12,
-      "text": "\n12. \n\n\n 某種合金由甲和乙兩種金屬組成，某生想知道其中金屬比例與合金的波長關係。 他做實驗測量「甲占比為 _x_ % 的合金所對應的波長 _y_ （單位：奈米）」，並將得到的 20 筆數據 ( _xk_ , _yk_ )， _k_ = 1, ,20 ，在 _xy_ 平面上標出對應的點，其迴歸直線（最適直線）為 _y_ = 21.3 _x_ − 40 。 \n\n> 為符合投稿規範，須將報告描述為「乙占比為 _u_ % 的合金所對應的波長 _v_ （單位：微米）」， \n\n> 他將數據 ( _xk_ , _yk_ ) 轉換為 ( _uk_ , _vk_ ) ， _k_ = 1, ,20 ，得到在 _uv_ 平面的迴歸直線為 _v_ = _au_ + _b_ 。 − 9 − 6 已知 1 奈米 = 10 公尺， 1 微米 = 10 公尺。試選出正確的選項。 \n\n> (1) _uk_ = 100 − _xk_ ， _k_ = 1, ,20 \n\n> (2) _vk_ = 1000 _yk_ ， _k_ = 1, ,20 \n\n> (3) _u_ 1, _u_ 2, _u_ 3, , _u_ 20 的標準差等於 _x_ 1, _x_ 2, _x_ 3, , _x_ 20 的標準差 \n\n- (4) _b_ = 2.09 \n\n(5) 某生發現有另一筆數據 ( _u_ 21, _v_ 21) ，且滿足 _v_ 21 = _au_ 21 + _b_ ；若將這 21 筆數據 ( _uk_ , _vk_ ) ， _k_ = 1, ,21，在 _uv_ 平面上標出對應的點，則其迴歸直線仍為 _v_ = _au_ + _b_ \n\n三、選填題（占 **25** 分） `說明：第` 13 `題至第` 17 `題，每題` 5 `分。`<br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0004-17.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0005-03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "number": 11,
+      "text": "在 $\\Delta ABC$ 中，$\\overline{AB}=6, \\overline{AC}=5, \\overline{BC}=4$。設 $\\overline{AB}$ 中點為 $D$，$P$ 為 $\\angle ABC$ 之角平分線與 $\\overline{CD}$ 之交點。試選出正確的選項。",
+      "passage": "",
       "options": [
-        "(1)",
-        "(2)",
-        "(3)",
-        "(4)",
-        "(5)"
+        "$\\overline{CP} = \\frac{3}{7} \\overline{CD}$",
+        "$\\vec{AP} = \\frac{3}{7}\\vec{AB} + \\frac{2}{7}\\vec{AC}$",
+        "$\\cos \\angle BAC = \\frac{3}{4}$",
+        "$\\Delta ACP$ 面積為 $\\frac{15}{14}\\sqrt{7}$",
+        "內積 $\\vec{AP} \\cdot \\vec{AC} = \\frac{120}{7}$"
+      ],
+      "answer": [
+        "3",
+        "4",
+        "5"
+      ],
+      "type": "multi",
+      "score": 2
+    },
+    {
+      "number": 12,
+      "text": "某種 alloy 由甲和乙兩種金屬組成，某生想知道其中金屬比例與合金的波長關係。他做實驗測量「甲佔比為 $x\\%$ 的合金所對應的波長 $y$（單位：奈米）」，並將得到的20筆數據 $(x_k, y_k), k=1,\\dots,20$，在 $xy$ 平面上標出對應的點，其迴歸直線為 $y=21.3x-40$。\n為符合投稿規範，須將報告描述為「乙佔比為 $u\\%$ 的合金所對應的波長 $v$（單位：微米）」，他將數據 $(x_k, y_k)$ 轉換為 $(u_k, v_k), k=1,\\dots,20$，得到在 $uv$ 平面的迴歸直線為 $v=au+b$。已知1奈米 $= 10^{-9}$ 公尺，1微米 $= 10^{-6}$ 公尺。試選出正確的選項。",
+      "passage": "",
+      "options": [
+        "$u_k = 100 - x_k ; k=1,\\dots,20$",
+        "$v_k = 1000 y_k ; k=1,\\dots,20$",
+        "$u_1, u_2, \\dots, u_{20}$ 的標準差等於 $x_1, x_2, \\dots, x_{20}$ 的標準差",
+        "$b = 2.09$",
+        "某生發現有另一筆數據 $(u_{21}, v_{21})$，且滿足 $v_{21}=au_{21}+b$；若將這21筆數據 $(u_k, v_k), k=1,\\dots,21$，在 $uv$ 平面上標出對應的點，則其迴歸直線仍為 $v=au+b$"
       ],
       "answer": [
         "1",
@@ -117,72 +207,83 @@
     },
     {
       "number": 13,
-      "text": "\n13. 已知實係數三次多項式 _f_ ( _x_ ) 除以 _x_ + 6 得商式 _q_ ( _x_ ) 和餘式 3。若 _q_ ( _x_ ) 在 _x_ = − 6 有最大值 8， 則 _y_ = _f_ ( _x_ ) 圖形的對稱中心坐標為( 13-1 13-2 ， 13-3 )。 ○○ ○ \n\n- 4 - \n\n114 `年學測 數學` A `考科` \n\n`第` 5 `頁 共` 7 `頁` \n\n\n請記得在答題卷簽名欄位以正楷簽全名\n<br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0005-03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
-      "options": [
-        "(1)",
-        "(2)",
-        "(3)",
-        "(4)",
-        "(5)"
+      "text": "已知實係數三次多項式 $f(x)$ 除以 $x+6$ 得商式 $q(x)$ 和餘式 3。若 $q(x)$ 在 $x=-6$ 有最大值 8，則 $y=f(x)$ 圖形的對稱中心坐標為 (____, ____)。",
+      "passage": "",
+      "options": [],
+      "answer": [
+        "-6",
+        "3"
       ],
-      "answer": "-6, 3",
       "type": "fill",
       "score": 2
     },
     {
       "number": 14,
-      "text": "14. 坐標空間中，已知點 _A_ 的坐標為 ( _a_ , _b_ , _c_ ) ，其中 _a_ , _b_ , _c_ 皆為小於 0 的實數 ， 且知點 _A_ 與三平面 _E_ 1 :4 _y_ + 3 _z_ = 2、 _E_ 2 :3 _y_ + 4 _z_ = − 5 、 _E_ 3 : _x_ + 2 _y_ + 2 _z_ = − 2 的距離都是 6 ， \n\n> 則 _a_ + _b_ + _c_ = 14-1 14-2 14-3 。 ○○○",
-      "options": [
-        "(1)",
-        "(2)",
-        "(3)",
-        "(4)",
-        "(5)"
-      ],
-      "answer": "-111",
+      "text": "坐標空間中，已知點 $A$ 的坐標為 $(a,b,c)$，其中 $a,b,c$ 皆為小於 0 的實數，且知點 $A$ 與三平面 $E_1: 4y+3z=2$、$E_2: 3y+4z=-5$、$E_3: x+2y+2z=-2$ 的距離都是 6，則 $a+b+c =$ ____。",
+      "passage": "",
+      "options": [],
+      "answer": "-11",
       "type": "fill",
       "score": 2
     },
     {
       "number": 15,
-      "text": "15. 假日市集有個攤位推出「試試手氣，定價 480 元的可愛玩偶最低只要 240 元」。規則為： 顧客投擲一枚均勻硬幣至多 5 次，前 3 次連續擲得 3 個正面者則只能以 240 元購得一個 玩偶，擲到第 4 次才累積得 3 個正面者則只能以 320 元購得一個，擲到第 5 次才累積得 3 個正面者則只能以 400 元購得一個； 5 次投完仍未累積 3 個正面者則只能以 480 元 購得一個。參與此遊戲的顧客購得一個玩偶所花金額的期望值為 15-1 15-2 15-3 元。 ○○○ \n\n> 16. 坐標平面上，設 _L_ 1 、 _L_ 2 為通過點 (3,1) 且斜率分別為 _m_ 、 − _m_ 的兩條直線，其中 _m_ 為 一實數。另設  為圓心在原點的一個圓。已知  與 _L_ 1 交於相異兩點 _A_ 、 _B_ ，且知 \n\n16-1 16-2 ○○ 圓心到 _L_ 1 的距離為 1，又  與 _L_ 2 相切，則弦 _AB_ 的長度為 。（化為最簡分數） 16-3 ○ \n\n- 5 - \n\n`請記得在答題卷簽名欄位以正楷簽全名 第` 6 `頁 共` 7 `頁` \n\n114 `年學測 數學` A `考科` \n\n\n\n\n\n\n\n\n\n## 第貳部分、混合題或非選擇題（占 **15** 分） \n\n- `說明︰本部分共有` 1 `題組，單選題每題` 3 `分，非選擇題配分標於題末。限在答題卷標示 題號的作答區內作答。` \n\n   - `選擇（填）題與「非選擇題作圖部分」使用` 2B `鉛筆作答，更正時以橡皮擦擦拭， 切勿使用修正帶（液）。非選擇題請由左而右橫式書寫，作答時必須寫出計算過程 或理由，否則將酌予扣分。` \n\n## 18-20 `題為題組` \n\n\n\n\n\n\n<br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0007-02.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0007-03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0007-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0007-09.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
-      "options": [
-        "(1)",
-        "(2)",
-        "(3)",
-        "(4)",
-        "(5)"
-      ],
+      "text": "假日市集有個攤位推出「試試手氣，定價480元的可愛玩偶最低只要240元」。規則為：顧客投擲一枚均勻硬幣至多5次，前3次連續擲得3個正面者則只能以240元購得一個玩偶，擲到第4次才累積得3個正面者則只能以320元購得一個，擲到第5次才累積得3個正面者則只能以400元購得一個；5次投完仍未累積3個正面者則只能以480元購得一個。參與此遊戲的顧客購得一個玩偶所花金額的期望值為 ____ 元。",
+      "passage": "",
+      "options": [],
       "answer": "405",
       "type": "fill",
       "score": 2
     },
     {
-      "number": 19,
-      "text": "\n\n\n\n19. \n\n\n 試求點 _Q_ 的坐標，以及 _OR_ 與向量 (1,0) 的夾角。（非選擇題，6 分）<br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0007-02.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0007-03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0007-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0007-09.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0007-10.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "number": 16,
+      "text": "坐標平面上，設 $L_1, L_2$ 為通過點 $(3,1)$且斜率分別為 $m, -m$ 的兩條直線，其中 $m$ 為一實數。另設 $\\Gamma$ 為圓心在原點的一個圓。已知 $\\Gamma$ 與 $L_1$ 交於相異兩點 $A, B$，且知圓心到 $L_1$ 的距離為 1，又 $\\Gamma$ 與 $L_2$ 相切，則弦 $AB$ 的長度為 ____。（化為最簡分數）",
+      "passage": "",
+      "options": [],
+      "answer": "24/5",
+      "type": "fill",
+      "score": 2
+    },
+    {
+      "number": 17,
+      "text": "$\\Delta ABC$ 中，已知 $\\overline{AB}=\\overline{BC}=3$ 且 $\\cos \\angle ABC = -\\frac{1}{8}$。若在 $\\Delta ABC$ 的外接圓上有一點 $D$ 滿足 $\\overline{BD}=4$ 且 $\\overline{AD} \\le \\overline{CD}$，則 $\\overline{CD} =$ ____。（化為最簡根式）\n\n**題組：18-20 題**\n已知 $A=\\begin{bmatrix} a_1 & a_2 \\\\ a_3 & a_4 \\end{bmatrix}$、$B=\\begin{bmatrix} b_1 & b_2 \\\\ b_3 & b_4 \\end{bmatrix}$ 皆為坐標平面上以原點為中心，逆時針旋轉一銳角的旋轉矩陣，且滿足 $A^2 = B^3 = \\begin{bmatrix} 0 & c \\\\ 1 & d \\end{bmatrix}$，其中 $c,d$ 為實數。設點 $P(1,1)$ 經 $A^3$ 變換後為點 $Q$，且點 $Q$ 經 $B^4$ 變換後為點 $R$。根據上述，試回答下列問題。",
+      "passage": "",
+      "options": [],
+      "answer": "3\\sqrt{2}",
+      "type": "fill",
+      "score": 2
+    },
+    {
+      "number": 18,
+      "text": "試問 $c$ 之值為何？",
+      "passage": "**題組：18-20 題**\n已知 $A=\\begin{bmatrix} a_1 & a_2 \\\\ a_3 & a_4 \\end{bmatrix}$、$B=\\begin{bmatrix} b_1 & b_2 \\\\ b_3 & b_4 \\end{bmatrix}$ 皆為坐標平面上以原點為中心，逆時針旋轉一銳角的旋轉矩陣，且滿足 $A^2 = B^3 = \\begin{bmatrix} 0 & c \\\\ 1 & d \\end{bmatrix}$，其中 $c,d$ 為實數。設點 $P(1,1)$ 經 $A^3$ 變換後為點 $Q$，且點 $Q$ 經 $B^4$ 變換後為點 $R$。根據上述，試回答下列問題。",
       "options": [
-        "(1)",
-        "(2)",
-        "(3)",
-        "(4)",
-        "(5)"
+        "0",
+        "-1",
+        "1",
+        "$-\\frac{1}{2}$",
+        "$\\frac{1}{2}$"
       ],
+      "answer": "2",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 19,
+      "text": "試求點 $Q$ 的坐標，以及 $\\vec{OR}$ 與向量 $(1,0)$ 的夾角。",
+      "passage": "**題組：18-20 題**\n已知 $A=\\begin{bmatrix} a_1 & a_2 \\\\ a_3 & a_4 \\end{bmatrix}$、$B=\\begin{bmatrix} b_1 & b_2 \\\\ b_3 & b_4 \\end{bmatrix}$ 皆為坐標平面上以原點為中心，逆時針旋轉一銳角的旋轉矩陣，且滿足 $A^2 = B^3 = \\begin{bmatrix} 0 & c \\\\ 1 & d \\end{bmatrix}$，其中 $c,d$ 為實數。設點 $P(1,1)$ 經 $A^3$ 變換後為點 $Q$，且點 $Q$ 經 $B^4$ 變換後為點 $R$。根據上述，試回答下列問題。",
+      "options": [],
       "answer": "",
-      "type": "essay",
+      "type": "calc",
       "score": 2
     },
     {
       "number": 20,
-      "text": "\n20. 設 _L_ 為過點 _P_ 且 與直線 _OQ_ 平行的直線，點 _S_ 為 _L_ 和直線 _OR_ 的交點，試求  _OSP_ ， 並求點 _S_ 的坐標。（非選擇題，6 分） \n\n- 6 - \n\n114 `年學測 數學` A `考科` \n\n`第` 7 `頁 共` 7 `頁` \n\n\n請記得在答題卷簽名欄位以正楷簽全名\n\n\n## 參考公式及可能用到的數值 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0007-10.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0008-04.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0008-05.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0008-06.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0008-07.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0008-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\"><br><img src=\"images/ceec/114/數A/03-114%e5%ad%b8%e6%b8%ac%e6%95%b8%e5%ad%b8a%e8%a9%a6%e9%a1%8c.pdf-0008-09.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
-      "options": [
-        "(1)",
-        "(2)",
-        "(3)",
-        "(4)",
-        "(5)"
-      ],
+      "text": "設 $L$ 為過點 $P$ 且與直線 $OQ$ 平行的直線，點 $S$ 為 $L$ 和直線 $OR$ 的交點，試求 $\\angle OSP$，並求點 $S$ 的坐標。",
+      "passage": "**題組：18-20 題**\n已知 $A=\\begin{bmatrix} a_1 & a_2 \\\\ a_3 & a_4 \\end{bmatrix}$、$B=\\begin{bmatrix} b_1 & b_2 \\\\ b_3 & b_4 \\end{bmatrix}$ 皆為坐標平面上以原點為中心，逆時針旋轉一銳角的旋轉矩陣，且滿足 $A^2 = B^3 = \\begin{bmatrix} 0 & c \\\\ 1 & d \\end{bmatrix}$，其中 $c,d$ 為實數。設點 $P(1,1)$ 經 $A^3$ 變換後為點 $Q$，且點 $Q$ 經 $B^4$ 變換後為點 $R$。根據上述，試回答下列問題。",
+      "options": [],
       "answer": "",
-      "type": "essay",
+      "type": "calc",
       "score": 2
     }
   ]
