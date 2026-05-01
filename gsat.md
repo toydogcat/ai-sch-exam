@@ -39,6 +39,19 @@
 | **社會** | [👉 開始測驗](./exams?path=ceec/113/學測/社會) | [🔗 前往](https://toydogcat.github.io/ai-exp-sch-exam/) |
 | **自然** | [👉 開始測驗](./exams?path=ceec/113/學測/自然) | [🔗 前往](https://toydogcat.github.io/ai-exp-sch-exam/) |
 
+---
+
+## 112 學年度
+| 科目 | 線上測驗 | 深度解析 |
+| :--- | :---: | :---: |
+| **國語文綜合能力測驗** | [👉 開始測驗](./exams?path=ceec/112/學測/國綜) | [🔗 前往](https://toydogcat.github.io/ai-exp-sch-exam/) |
+| **國語文寫作能力測驗** | [👉 開始測驗](./exams?path=ceec/112/學測/國寫) | [🔗 前往](https://toydogcat.github.io/ai-exp-sch-exam/) |
+| **英文** | [👉 開始測驗](./exams?path=ceec/112/學測/英文) | [🔗 前往](https://toydogcat.github.io/ai-exp-sch-exam/) |
+| **數學 A** | [👉 開始測驗](./exams?path=ceec/112/學測/數A) | [🔗 前往](https://toydogcat.github.io/ai-exp-sch-exam/) |
+| **數學 B** | [👉 開始測驗](./exams?path=ceec/112/學測/數B) | [🔗 前往](https://toydogcat.github.io/ai-exp-sch-exam/) |
+| **社會** | [👉 開始測驗](./exams?path=ceec/112/學測/社會) | [🔗 前往](https://toydogcat.github.io/ai-exp-sch-exam/) |
+| **自然** | [👉 開始測驗](./exams?path=ceec/112/學測/自然) | [🔗 前往](https://toydogcat.github.io/ai-exp-sch-exam/) |
+
 <style>
 table {
   width: 100%;

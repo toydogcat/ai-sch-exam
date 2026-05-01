@@ -101,7 +101,7 @@
         "單位時間入射的光子總數",
         "單一光子的動量",
         "光子速度",
-        "光子質量\n\n**題組：8-9 題**\n![](/home/toymsi/documents/examination/Github/ai-sch-exam/public/images/ceec/112/分科/物理/q8.webp)\n一質量為m的小木塊，前方繫有一理想彈簧。此系統由光滑斜面頂端自靜止滑下，進入光滑水平面後正向撞上鉛直牆面，彈簧因被壓縮而使木塊減速，並將木塊原本的動能轉換為彈簧位能，之後木塊在某一瞬間停止不動，定義此為終點。木塊自初始靜止至終點的整個過程，木塊下降的鉛直高度為h，令重力加速度為g，且過程中力學能守恆、系統到達最大速率前尚未撞上牆面，回答下列問題。"
+        "光子質量"
       ],
       "answer": "B",
       "type": "single",
@@ -140,7 +140,7 @@
     {
       "number": 10,
       "text": "<br><img src=\"/images/ceec/112/分科/物理/q10.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n當物質顆粒或材料結構在奈米尺度時，會表現出有別於傳統材料的新穎物理性質。同學查閱奈米科技相關文獻時發現：黃金的熔點會隨粒徑變小而減小，將展現新穎的物理性質。下列同學對此圖的解讀與推論，何者正確？",
-      "passage": "**題組：8-9 題**\n<br><img src=\"/images/ceec/112/分科/物理/q8.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n一質量為m的小木塊，前方繫有一理想彈簧。此系統由光滑斜面頂端自靜止滑下，進入光滑水平面後正向撞上鉛直牆面，彈簧因被壓縮而使木塊減速，並將木塊原本的動能轉換為彈簧位能，之後木塊在某一瞬間停止不動，定義此為終點。木塊自初始靜止至終點的整個過程，木塊下降的鉛直高度為h，令重力加速度為g，且過程中力學能守恆、系統到達最大速率前尚未撞上牆面，回答下列問題。",
+      "passage": "",
       "options": [
         "粒徑變小趨近於零時，熔點亦趨近於零",
         "材料變為奈米尺度時不存在固液氣三態",
@@ -155,7 +155,7 @@
     {
       "number": 11,
       "text": "<br><img src=\"/images/ceec/112/分科/物理/q11.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n機車在排放廢氣時，常伴隨很大的噪音。利用干涉型消音器可以減低此類噪音。當聲波抵達甲點時使其分為兩股不同路徑，分別行經上方與下方，最後在排氣管的乙點會合。假設某機車排氣管內的主要噪音波長為1.0公尺，則下列選項中，兩路徑的長度相差為多少公尺時可以最有效減低噪音？",
-      "passage": "**題組：8-9 題**\n<br><img src=\"/images/ceec/112/分科/物理/q8.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n一質量為m的小木塊，前方繫有一理想彈簧。此系統由光滑斜面頂端自靜止滑下，進入光滑水平面後正向撞上鉛直牆面，彈簧因被壓縮而使木塊減速，並將木塊原本的動能轉換為彈簧位能，之後木塊在某一瞬間停止不動，定義此為終點。木塊自初始靜止至終點的整個過程，木塊下降的鉛直高度為h，令重力加速度為g，且過程中力學能守恆、系統到達最大速率前尚未撞上牆面，回答下列問題。",
+      "passage": "",
       "options": [
         "2.0",
         "1.0",
@@ -170,7 +170,7 @@
     {
       "number": 12,
       "text": "1868年法國天文學者發現來自太陽的光譜有幾道特殊的暗紋，推斷是新元素的特性光譜，這個新元素就以太陽的希臘文命名為氦。已知太陽光譜會出現上述暗紋的原因，是因為氦原子會吸收特定頻率的入射光子所造成的，則下列敘述何者正確？",
-      "passage": "**題組：8-9 題**\n<br><img src=\"/images/ceec/112/分科/物理/q8.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n一質量為m的小木塊，前方繫有一理想彈簧。此系統由光滑斜面頂端自靜止滑下，進入光滑水平面後正向撞上鉛直牆面，彈簧因被壓縮而使木塊減速，並將木塊原本的動能轉換為彈簧位能，之後木塊在某一瞬間停止不動，定義此為終點。木塊自初始靜止至終點的整個過程，木塊下降的鉛直高度為h，令重力加速度為g，且過程中力學能守恆、系統到達最大速率前尚未撞上牆面，回答下列問題。",
+      "passage": "",
       "options": [
         "某元素光譜的暗紋頻率和氦原子光譜的暗紋頻率相同，則此元素一定是氦",
         "會出現暗紋是因為氦原子會將特定頻率光子繞射到不同的方向",
@@ -185,7 +185,7 @@
     {
       "number": 13,
       "text": "甲、乙兩顆大小相同但質量不同的均勻小球，自同一高度以不同的初速水平拋出，落在平坦的地面上。已知甲球的質量為乙球的4倍，但甲球的初速為乙球的一半。若不計空氣阻力，則下列敘述何者錯誤？",
-      "passage": "**題組：8-9 題**\n<br><img src=\"/images/ceec/112/分科/物理/q8.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n一質量為m的小木塊，前方繫有一理想彈簧。此系統由光滑斜面頂端自靜止滑下，進入光滑水平面後正向撞上鉛直牆面，彈簧因被壓縮而使木塊減速，並將木塊原本的動能轉換為彈簧位能，之後木塊在某一瞬間停止不動，定義此為終點。木塊自初始靜止至終點的整個過程，木塊下降的鉛直高度為h，令重力加速度為g，且過程中力學能守恆、系統到達最大速率前尚未撞上牆面，回答下列問題。",
+      "passage": "",
       "options": [
         "乙球的水平射程較大",
         "兩球在空中的飛行時間相等",
@@ -200,7 +200,7 @@
     {
       "number": 14,
       "text": "某生練習紙牌魔術，將一疊紙牌水平整齊放置在桌面上，用右手食指以量值為N的正向力向下壓，然後向前水平推動，除了最上方數來第一張紙牌向前水平滑出之外，其他的紙牌皆不動、維持在原來的位置上。假設每一張紙牌的質量皆為m，紙牌與紙牌之間的靜摩擦係數與動摩擦係數分別為 $\\mu_{s}$ 與 $\\mu_{k}$，第一張紙牌與第二張紙牌之間作用力的水平分量量值為 $F_{12}$，第二張紙牌與第三張紙牌之間作用力的水平分量量值為 $F_{23}$，以此類推。令重力加速度為g，且只考慮摩擦力、重力與手指下壓的力，則下列關於第一張紙牌滑出之過程中的選項哪些正確？",
-      "passage": "**題組：8-9 題**\n<br><img src=\"/images/ceec/112/分科/物理/q8.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n一質量為m的小木塊，前方繫有一理想彈簧。此系統由光滑斜面頂端自靜止滑下，進入光滑水平面後正向撞上鉛直牆面，彈簧因被壓縮而使木塊減速，並將木塊原本的動能轉換為彈簧位能，之後木塊在某一瞬間停止不動，定義此為終點。木塊自初始靜止至終點的整個過程，木塊下降的鉛直高度為h，令重力加速度為g，且過程中力學能守恆、系統到達最大速率前尚未撞上牆面，回答下列問題。",
+      "passage": "",
       "options": [
         "$F_{12}=F_{23}$",
         "$F_{12}=\\mu_{k}(N+2mg)$",
@@ -219,7 +219,7 @@
     {
       "number": 15,
       "text": "某生查得太陽系中行星的基本資料如表1所示。\n\n表1\n<div class=\"custom-table-container\" style=\"overflow-x:auto; margin: 1.5rem 0; white-space: normal;\"><table class=\"custom-exam-table\" style=\"width:100%; border-collapse: collapse; border: 1px solid #dee2e6; font-size: 1rem; background: #fff; border-radius: 6px; white-space: normal;\"><thead style=\"background: #f8f9fa; white-space: normal;\"><tr><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">行星名稱</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">水星</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">金星</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">地球</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">火星</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">木星</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">土星</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">天王星</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">海王星</th></tr></thead><tbody style=\"white-space: normal;\"><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">與太陽的平均距離</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">0.39</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">0.72</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">1.0</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">1.52</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">5.20</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">9.57</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">19.17</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">30.18</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">質量</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">0.055</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">0.82</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">1.0</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">0.11</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">317.8</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">95.2</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">14.5</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">17.1</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">公轉週期</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">0.241</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">0.615</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">1.0</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">1.88</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">11.9</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">29.4</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">83.7</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">164</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">自轉週期</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">58.8</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">244</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">1.0</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">1.03</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">0.415</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">0.445</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">0.720</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">0.673</td></tr></tbody></table></div>\n\n表1中的平均距離、質量、公轉週期、自轉週期等數值，皆是以地球的值設為1時的比值。假設這些行星皆繞太陽作等速率圓周運動，則下列有關表中行星數據的觀察或推論，哪些正確？",
-      "passage": "**題組：8-9 題**\n<br><img src=\"/images/ceec/112/分科/物理/q8.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n一質量為m的小木塊，前方繫有一理想彈簧。此系統由光滑斜面頂端自靜止滑下，進入光滑水平面後正向撞上鉛直牆面，彈簧因被壓縮而使木塊減速，並將木塊原本的動能轉換為彈簧位能，之後木塊在某一瞬間停止不動，定義此為終點。木塊自初始靜止至終點的整個過程，木塊下降的鉛直高度為h，令重力加速度為g，且過程中力學能守恆、系統到達最大速率前尚未撞上牆面，回答下列問題。",
+      "passage": "",
       "options": [
         "離太陽越遠的行星，其公轉角速率越小",
         "離太陽越遠的行星，其自轉角速率越小",
@@ -298,7 +298,7 @@
         "水波波長越長則兩波源間的腹線數目越多",
         "兩波源間的節線數目 and 腹線數目必定相同",
         "白屏幕上對應節線的某固定點亮度幾乎不隨時間改變",
-        "白屏幕上對應腹線的某固定點亮度幾乎不隨時間改變\n\n**題組：20-21 題**\n太陽是地球能量的主要來源，太陽發光發熱的能量來源主要是經由4個質子的核融合反應，反應過程可簡化表示成： $4p^{+}\\rightarrow He^{2+}+2e^{+}+2\\nu_{e}+$ 能量，其中 $p^{+}$ 為質子，$He^{2+}$ 為氦原子核，$e^{+}$ 為正電子， $\\nu_{e}$ 為微中子，前述反應過程為β衰變的一種。太陽的能量主要以光的形式到達地球，由於光具有粒子性，故光可視為許多光子的組成，並以光速c行進。光也具有波動性，故光也可視為以光速行進的電磁波。若電磁波的頻率為f，其組成的光子具有能量E=hf，其中h為普朗克常數。依據以上資料，回答以下問題。"
+        "白屏幕上對應腹線的某固定點亮度幾乎不隨時間改變"
       ],
       "answer": [
         "A",
@@ -318,7 +318,7 @@
     },
     {
       "number": 21,
-      "text": "請以光子動量與波長的關係出發，就如同物質波的動量與波長的關係。試適當選用前述所提及的物理量符號(E, h, f, c)，表示光子動量p。(需有演算過程)\n\n**題組：22-23 題**\n<br><img src=\"/images/ceec/112/分科/物理/q22.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n某生自製水銀氣壓計來進行實驗。他將裝滿水銀的圓柱形平底長玻璃試管垂直倒立沒入水銀槽內，並以外力使閉口端高出水銀槽液面H公分，閉口端的玻璃厚度可忽略。當到達靜態平衡時，液體中同一水平高度上的各點壓力必相等，此時試管內水銀液面和水銀槽液面的高度差為h公分。假設若發生H&gt;h的情況時，試管內的水銀面上方始終為真空。已知1個標準大氣壓等於76公分水銀柱高，記為76cm-Hg。試依據上述資訊，回答以下問題。",
+      "text": "請以光子動量與波長的關係出發，就如同物質波的動量與波長的關係。試適當選用前述所提及的物理量符號(E, h, f, c)，表示光子動量p。(需有演算過程)",
       "passage": "**題組：20-21 題**\n太陽是地球能量的主要來源，太陽發光發熱的能量來源主要是經由4個質子的核融合反應，反應過程可簡化表示成： $4p^{+}\\rightarrow He^{2+}+2e^{+}+2\\nu_{e}+$ 能量，其中 $p^{+}$ 為質子，$He^{2+}$ 為氦原子核，$e^{+}$ 為正電子， $\\nu_{e}$ 為微中子，前述反應過程為β衰變的一種。太陽的能量主要以光的形式到達地球，由於光具有粒子性，故光可視為許多光子的組成，並以光速c行進。光也具有波動性，故光也可視為以光速行進的電磁波。若電磁波的頻率為f，其組成的光子具有能量E=hf，其中h為普朗克常數。依據以上資料，回答以下問題。",
       "options": [],
       "answer": "p = E/c",
@@ -345,7 +345,7 @@
     },
     {
       "number": 23,
-      "text": "今將水銀槽上方的外界空氣始終保持在1個標準大氣壓，初始時H=70，接著改變外力上拉試管，使H增加為80。計算外力在上拉試管10cm的前後，水銀的位能變化為何？假設試管的截面積為 $5 cm^{2}$，試管的重量可忽略，水銀槽液面的高度變化可忽略，水銀密度為 $13.6 g/cm^{3}$，重力加速度為 $10 m/s^{2}$。\n\n**題組：24-26 題**\n<br><img src=\"/images/ceec/112/分科/物理/q24.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n交流軸向磁場機械常被用於發電機或電動機的裝置。位於最上方與最下方是兩個與轉軸連體且可轉動的磁鐵盤，每一磁區的均勻磁場量值為B，方向垂直於盤面，且與轉軸平行。位於中間的是固定線圈盤，由八個扇形的單一線圈組成，每個扇形線圈面積分別與上下八個磁極的面積相同，且扇形外半徑為 $r_{O}$，扇形內半徑為 $r_{I}$。本題組只考慮每個扇形的單一線圈為單匝線圈，其電阻值為R。依據以上資料，回答以下問題。",
+      "text": "今將水銀槽上方的外界空氣始終保持在1個標準大氣壓，初始時H=70，接著改變外力上拉試管，使H增加為80。計算外力在上拉試管10cm的前後，水銀的位能變化為何？假設試管的截面積為 $5 cm^{2}$，試管的重量可忽略，水銀槽液面的高度變化可忽略，水銀密度為 $13.6 g/cm^{3}$，重力加速度為 $10 m/s^{2}$。",
       "passage": "**題組：22-23 題**\n<br><img src=\"/images/ceec/112/分科/物理/q22.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n某生自製水銀氣壓計來進行實驗。他將裝滿水銀的圓柱形平底長玻璃試管垂直倒立沒入水銀槽內，並以外力使閉口端高出水銀槽液面H公分，閉口端的玻璃厚度可忽略。當到達靜態平衡時，液體中同一水平高度上的各點壓力必相等，此時試管內水銀液面和水銀槽液面的高度差為h公分。假設若發生H&gt;h的情況時，試管內的水銀面上方始終為真空。已知1個標準大氣壓等於76公分水銀柱高，記為76cm-Hg。試依據上述資訊，回答以下問題。",
       "options": [],
       "answer": "2.9784 J 或是 3 J",
