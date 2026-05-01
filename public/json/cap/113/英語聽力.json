@@ -3,5 +3,228 @@
   "year": "113",
   "subject": "英語聽力",
   "duration": 25,
-  "questions": []
+  "questions": [
+    {
+      "number": 1,
+      "text": "聽力題目：",
+      "passage": "",
+      "options": [
+        "The bird is on the girl's shoulder.",
+        "The bird is flying over the girl's head.",
+        "The bird is sitting on the girl's head."
+      ],
+      "answer": "C",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/113/英語聽力/04 第1題.mp3",
+      "score": 2
+    },
+    {
+      "number": 2,
+      "text": "聽力題目：",
+      "passage": "",
+      "options": [
+        "The boy is eating and the girl is looking at him.",
+        "The boy and the girl are drinking from the same glass.",
+        "The boy and the girl are drinking together."
+      ],
+      "answer": "A",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/113/英語聽力/05 第2題.mp3",
+      "score": 2
+    },
+    {
+      "number": 3,
+      "text": "聽力題目：",
+      "passage": "",
+      "options": [
+        "It's a picture of a town.",
+        "It's a picture of the country.",
+        "It's a picture of a train station."
+      ],
+      "answer": "B",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/113/英語聽力/06 第3題.mp3",
+      "score": 2
+    },
+    {
+      "number": 4,
+      "text": "聽力題目：\nDo you have any brothers or sisters?",
+      "passage": "",
+      "options": [],
+      "answer": "C",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/113/英語聽力/08 第4題.mp3",
+      "score": 2
+    },
+    {
+      "number": 5,
+      "text": "聽力題目：\nHow long does the movie last?",
+      "passage": "",
+      "options": [],
+      "answer": "B",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/113/英語聽力/09 第5題.mp3",
+      "score": 2
+    },
+    {
+      "number": 6,
+      "text": "聽力題目：\nMy dog died last night. I'm so sad.",
+      "passage": "",
+      "options": [],
+      "answer": "B",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/113/英語聽力/10 第6題.mp3",
+      "score": 2
+    },
+    {
+      "number": 7,
+      "text": "聽力題目：\nWould you like some more meat?",
+      "passage": "",
+      "options": [],
+      "answer": "A",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/113/英語聽力/11 第7題.mp3",
+      "score": 2
+    },
+    {
+      "number": 8,
+      "text": "聽力題目：\nWhy do you call your cat Milky?",
+      "passage": "",
+      "options": [],
+      "answer": "C",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/113/英語聽力/12 第8題.mp3",
+      "score": 2
+    },
+    {
+      "number": 9,
+      "text": "聽力題目：\nHow long has it been since you last saw Jason?",
+      "passage": "",
+      "options": [],
+      "answer": "A",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/113/英語聽力/13 第9題.mp3",
+      "score": 2
+    },
+    {
+      "number": 10,
+      "text": "聽力題目：\nHave you decided where to go for your vacation?",
+      "passage": "",
+      "options": [],
+      "answer": "C",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/113/英語聽力/14 第10題.mp3",
+      "score": 2
+    },
+    {
+      "number": 11,
+      "text": "聽力題目：\nWhat did you get for your birthday?",
+      "passage": "",
+      "options": [],
+      "answer": "B",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/113/英語聽力/15 第11題.mp3",
+      "score": 2
+    },
+    {
+      "number": 12,
+      "text": "聽力題目：\nW: Oh no, the coffee machine is not working again. I really need a cup of coffee right now.\nM: Let me see. I think you forgot to put water in.\nW: Oh, I'm so stupid. I just checked the coffee beans and turned the machine on.\nM: Well, problem solved.\nQuestion: Why is the coffee machine not working?",
+      "passage": "",
+      "options": [],
+      "answer": "B",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/113/英語聽力/17 第12題.mp3",
+      "score": 2
+    },
+    {
+      "number": 13,
+      "text": "聽力題目：\nM: Excuse me, how can I get to City Zoo?\nW: You can take Bus 941 to the train station, and then take a taxi there. Or you can take Bus 703 to East Market, and then walk for about 5 minutes.\nM: Which one is faster?\nW: The first one. But it costs more.\nM: Oh, I'm not in a hurry, and I want to save some money.\nW: Then taking Bus 703 is a better choice for you.\nQuestion: How will the man probably go to City Zoo?",
+      "passage": "",
+      "options": [],
+      "answer": "A",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/113/英語聽力/18 第13題.mp3",
+      "score": 2
+    },
+    {
+      "number": 14,
+      "text": "聽力題目：\nM: Do you see the theater?\nW: Yes. It's across the street.\nM: Good. Walk past the theater, and turn left on West Street.\nW: OK. Turn left on West Street.\nM: Go straight for one block. It's next to the pet shop. I'll wait for you there.\nW: Got it. See you soon.\nQuestion: Where will the man and the woman meet?",
+      "passage": "",
+      "options": [],
+      "answer": "C",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/113/英語聽力/19 第14題.mp3",
+      "score": 2
+    },
+    {
+      "number": 15,
+      "text": "聽力題目：\nM: Have you seen these pictures?\nW: Wow. Where was this taken?\nM: That's me in London. I went there to study English for three months last year. I took the picture with my host family.\nW: I see. How about this one? The beach looks beautiful.\nM: Oh, my sister and I took a trip to Hawaii this summer.\nW: Cool. I want to visit these places, too.\nQuestion: What are the man and the woman talking about?",
+      "passage": "",
+      "options": [],
+      "answer": "B",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/113/英語聽力/20 第15題.mp3",
+      "score": 2
+    },
+    {
+      "number": 16,
+      "text": "聽力題目：\nW: Did you enjoy the pizza last night?\nM: Yes, it was great. Did you order it online?\nW: No, someone sent it to the wrong house. My neighbor got it, but he had already had dinner, so he gave it to me. I thought you might like it, so I gave it to you.\nQuestion: What was special about the pizza?",
+      "passage": "",
+      "options": [],
+      "answer": "A",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/113/英語聽力/21 第16題.mp3",
+      "score": 2
+    },
+    {
+      "number": 17,
+      "text": "聽力題目：\nW: I was in Taiwan during Chinese New Year, and I went to my friend's house for dinner. Her family cooked a lot of delicious food, and they told me the meaning of each dish. I also got a red envelope with money in it. It was a very special experience for me.\nQuestion: What is the woman talking about?",
+      "passage": "",
+      "options": [],
+      "answer": "C",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/113/英語聽力/22 第17題.mp3",
+      "score": 2
+    },
+    {
+      "number": 18,
+      "text": "聽力題目：\nM: Look at this T-shirt.\nW: I love \"why why\"? What does that mean?\nM: Oh, no. The two letters are the first letters of my name and my wife's name. We're Yan and Ying.\nW: Oh, I see.\nQuestion: Which T-shirt are the man and the woman talking about?",
+      "passage": "",
+      "options": [],
+      "answer": "C",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/113/英語聽力/23 第18題.mp3",
+      "score": 2
+    },
+    {
+      "number": 19,
+      "text": "聽力題目：\nAttention, passengers. Please don't stand near the doors. Move inside so more people can get on the train. The doors are closing. Please stand back.\nQuestion: What does the speaker ask the passengers to do?",
+      "passage": "",
+      "options": [],
+      "answer": "B",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/113/英語聽力/24 第19題.mp3",
+      "score": 2
+    },
+    {
+      "number": 20,
+      "text": "聽力題目：\nM: That was a great meal.\nW: Yes, the fish was very good.\nM: I agree. But I shouldn't have eaten so much. Now my stomach hurts.\nW: Well, take some rest, and you'll feel better.\nQuestion: How did the man feel about the meal?",
+      "passage": "",
+      "options": [],
+      "answer": "A",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/113/英語聽力/25 第20題.mp3",
+      "score": 2
+    },
+    {
+      "number": 21,
+      "text": "聽力題目：\nM: I had a job interview this morning. I think it went well. The manager smiled a lot, and he said he liked my ideas. But I'm still nervous. I really want this job. I hope they'll call me soon.\nQuestion: What is the man worried about?",
+      "passage": "",
+      "options": [],
+      "answer": "C",
+      "type": "single",
+      "audio": "/home/toymsi/documents/examination/Github/ai-sch-exam/public/audio/cap/113/英語聽力/26 第21題.mp3",
+      "score": 2
+    }
+  ]
 }

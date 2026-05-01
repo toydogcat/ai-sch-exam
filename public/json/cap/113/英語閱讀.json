@@ -5,263 +5,648 @@
   "duration": 60,
   "questions": [
     {
-      "number": 21,
-      "text": "21. Mom: Linda, you’ve been playing computer games all evening!  Have you finished your report? \n\nLinda: Well, most of it this afternoon, and I’ll finish it by Friday. \n\n(A) I would do (B) I did (C) I was doing (D) I’ll do \n\n第二部分：題組 ( 第 22 - 43 題，共 22 題 ) \n\n(22-23) \n\nIt was around eight o’clock on Saturday night.  Philip was at home with his little brother, Jason.  Jason was hungry and kept crying.  But Philip couldn’t cook and their father was not home yet because he was working late in the office.  So Philip decided to take Jason out for some food. \n\nHalf an hour later, when they came back home, Philip was surprised to find that their father was talking to the police and a woman outside their house.  He didn’t know who the woman was.  She looked scared and stood behind the police.  Philip’s father was very angry and kept shouting, “I didn’t do anything wrong!  I forgot my keys and was just trying to get into MY OWN HOUSE!”  But the police didn’t believe him until Philip ran to them and explained everything. \n\nThe police told Philip that the woman called 110 when she saw Philip’s father trying to get into a house through a window.  That was how it all happened.",
+      "number": 1,
+      "text": "Look at the picture. There is _____ under the door.",
+      "passage": "",
       "options": [
-        "(A)",
-        "(B)",
-        "(C)",
-        "(D)"
+        "an envelope",
+        "a plant",
+        "a sign",
+        "an umbrella"
+      ],
+      "answer": "A",
+      "type": "single",
+      "audio": "",
+      "score": 2
+    },
+    {
+      "number": 2,
+      "text": "My _____ hurts so much that I cannot even turn my head.",
+      "passage": "",
+      "options": [
+        "arm",
+        "knee",
+        "neck",
+        "stomach"
+      ],
+      "answer": "C",
+      "type": "single",
+      "audio": "",
+      "score": 2
+    },
+    {
+      "number": 3,
+      "text": "Our school basketball team won the national game last night. We are so _____ them.",
+      "passage": "",
+      "options": [
+        "popular with",
+        "proud of",
+        "sorry for",
+        "worried about"
       ],
       "answer": "B",
       "type": "single",
+      "audio": "",
+      "score": 2
+    },
+    {
+      "number": 4,
+      "text": "Tomorrow is Sam's last day in the office. Nobody knows why he decided to _____.",
+      "passage": "",
+      "options": [
+        "hide",
+        "leave",
+        "pack",
+        "walk"
+      ],
+      "answer": "B",
+      "type": "single",
+      "audio": "",
+      "score": 2
+    },
+    {
+      "number": 5,
+      "text": "It's not a good idea to go mountain climbing in this bad _____. We should wait until the typhoon goes away.",
+      "passage": "",
+      "options": [
+        "chance",
+        "dream",
+        "habit",
+        "weather"
+      ],
+      "answer": "D",
+      "type": "single",
+      "audio": "",
+      "score": 2
+    },
+    {
+      "number": 6,
+      "text": "Chris loves walking with Anna on snowy days, but Anna hates _____ very much.",
+      "passage": "",
+      "options": [
+        "them",
+        "so",
+        "one",
+        "it"
+      ],
+      "answer": "D",
+      "type": "single",
+      "audio": "",
+      "score": 2
+    },
+    {
+      "number": 7,
+      "text": "Lora likes to eat bananas that are already a little brown on the outside, and so _____ I.",
+      "passage": "",
+      "options": [
+        "am",
+        "do",
+        "have",
+        "will"
+      ],
+      "answer": "B",
+      "type": "single",
+      "audio": "",
+      "score": 2
+    },
+    {
+      "number": 8,
+      "text": "Your refrigerator shouldn't be making loud noises now, but if it _____ does, just give me a call and I'll come check it again.",
+      "passage": "",
+      "options": [
+        "already",
+        "even",
+        "finally",
+        "still"
+      ],
+      "answer": "D",
+      "type": "single",
+      "audio": "",
+      "score": 2
+    },
+    {
+      "number": 9,
+      "text": "After winning money in the card game, Jay decided to try again. He felt that he might also be _____ a second time.",
+      "passage": "",
+      "options": [
+        "famous",
+        "interested",
+        "lucky",
+        "ready"
+      ],
+      "answer": "C",
+      "type": "single",
+      "audio": "",
+      "score": 2
+    },
+    {
+      "number": 10,
+      "text": "The knife doesn't cut very well. It's not as _____ as before.",
+      "passage": "",
+      "options": [
+        "bright",
+        "heavy",
+        "quick",
+        "sharp"
+      ],
+      "answer": "D",
+      "type": "single",
+      "audio": "",
+      "score": 2
+    },
+    {
+      "number": 11,
+      "text": "John will stay with his sister until he _____ an apartment.",
+      "passage": "",
+      "options": [
+        "will find",
+        "would find",
+        "finds",
+        "found"
+      ],
+      "answer": "C",
+      "type": "single",
+      "audio": "",
+      "score": 2
+    },
+    {
+      "number": 12,
+      "text": "Students _____ to go on the school trip should ask their parents first.",
+      "passage": "",
+      "options": [
+        "who want",
+        "want",
+        "who they want",
+        "what they want"
+      ],
+      "answer": "A",
+      "type": "single",
+      "audio": "",
+      "score": 2
+    },
+    {
+      "number": 13,
+      "text": "The temple sits alone in the mountains at a height of 3,000m _____ sea level.",
+      "passage": "",
+      "options": [
+        "above",
+        "at",
+        "below",
+        "in"
+      ],
+      "answer": "A",
+      "type": "single",
+      "audio": "",
+      "score": 2
+    },
+    {
+      "number": 14,
+      "text": "Patty spent several days planning to invite Charlie to dinner, _____ she couldn't say a word when they met.",
+      "passage": "",
+      "options": [
+        "but",
+        "if",
+        "or",
+        "so"
+      ],
+      "answer": "A",
+      "type": "single",
+      "audio": "",
+      "score": 2
+    },
+    {
+      "number": 15,
+      "text": "I can't tell you what I think of the movie because I _____ it. I'll probably watch it this Saturday.",
+      "passage": "",
+      "options": [
+        "am not seeing",
+        "don't see",
+        "haven't seen",
+        "won't see"
+      ],
+      "answer": "C",
+      "type": "single",
+      "audio": "",
+      "score": 2
+    },
+    {
+      "number": 16,
+      "text": "The new guy at the help desk answers calls like a _____. There are no ups and downs in his voice and you can't tell if he is happy or sad.",
+      "passage": "",
+      "options": [
+        "father",
+        "foreigner",
+        "radio",
+        "robot"
+      ],
+      "answer": "D",
+      "type": "single",
+      "audio": "",
+      "score": 2
+    },
+    {
+      "number": 17,
+      "text": "Jasmine planned to spend her summer in the country, but right after she got there, she started to _____ the noise in the city.",
+      "passage": "",
+      "options": [
+        "enjoy",
+        "mind",
+        "miss",
+        "notice"
+      ],
+      "answer": "C",
+      "type": "single",
+      "audio": "",
+      "score": 2
+    },
+    {
+      "number": 18,
+      "text": "\"Bad traffic\" is perhaps the _____ excuse for being late when your boss knows it only takes you five minutes to walk to work.",
+      "passage": "",
+      "options": [
+        "easiest",
+        "oldest",
+        "smartest",
+        "worst"
+      ],
+      "answer": "D",
+      "type": "single",
+      "audio": "",
+      "score": 2
+    },
+    {
+      "number": 19,
+      "text": "The housework in Mr. and Mrs. Wang's family _____ between them and their kids. Everyone's got their own job to do.",
+      "passage": "",
+      "options": [
+        "is shared",
+        "are shared",
+        "shares",
+        "share"
+      ],
+      "answer": "A",
+      "type": "single",
+      "audio": "",
+      "score": 2
+    },
+    {
+      "number": 20,
+      "text": "I want to find another dentist because _____ pulled out a good tooth last time I went to him.",
+      "passage": "",
+      "options": [
+        "I",
+        "me",
+        "mine",
+        "myself"
+      ],
+      "answer": "C",
+      "type": "single",
+      "audio": "",
+      "score": 2
+    },
+    {
+      "number": 21,
+      "text": "Mom: Linda, you've been playing computer games all evening! Have you finished your report?\nLinda: Well, _____ most of it this afternoon, and I'll finish it by Friday.",
+      "passage": "",
+      "options": [
+        "I would do",
+        "I did",
+        "I was doing",
+        "I'll do\n\n**題組：22-23 題**\nIt was around eight o'clock on Saturday night. Philip was at home with his little brother, Jason. Jason was hungry and kept crying. But Philip couldn't cook and their father was not home yet because he was working late in the office. So Philip decided to take Jason out for some food.\nHalf an hour later, when they came back home, Philip was surprised to find that their father was talking to the police and a woman outside their house. He didn't know who the woman was. She looked scared and stood behind the police. Philip's father was very angry and kept shouting, \"I didn't do anything wrong! I forgot my keys and was just trying to get into MY OWN HOUSE!\" But the police didn't believe him until Philip ran to them and explained everything.\nThe police told Philip that the woman called 110 when she saw Philip's father trying to get into a house through a window. That was how it all happened."
+      ],
+      "answer": "B",
+      "type": "single",
+      "audio": "",
       "score": 2
     },
     {
       "number": 22,
-      "text": "22. Why did Philip go out? \n\n   - (A) To meet a woman. \n\n   - (B) To look for his father. \n\n(C) To ask the police for help. \n\n   - (D) To buy food for his brother.",
+      "text": "Why did Philip go out?",
+      "passage": "**題組：22-23 題**\nIt was around eight o'clock on Saturday night. Philip was at home with his little brother, Jason. Jason was hungry and kept crying. But Philip couldn't cook and their father was not home yet because he was working late in the office. So Philip decided to take Jason out for some food.\nHalf an hour later, when they came back home, Philip was surprised to find that their father was talking to the police and a woman outside their house. He didn't know who the woman was. She looked scared and stood behind the police. Philip's father was very angry and kept shouting, \"I didn't do anything wrong! I forgot my keys and was just trying to get into MY OWN HOUSE!\" But the police didn't believe him until Philip ran to them and explained everything.\nThe police told Philip that the woman called 110 when she saw Philip's father trying to get into a house through a window. That was how it all happened.",
       "options": [
-        "(A)",
-        "(B)",
-        "(C)",
-        "(D)"
+        "To meet a woman.",
+        "To look for his father.",
+        "To ask the police for help.",
+        "To buy food for his brother."
       ],
       "answer": "D",
       "type": "single",
+      "audio": "",
       "score": 2
     },
     {
       "number": 23,
-      "text": "23. Why was Philip’s father angry? \n\n   - (A) He forgot his keys. \n\n   - (B) The woman was hiding from him. \n\n   - (C) The police didn’t believe what he said. \n\n   - (D) Philip and his brother went out at night. \n\n3 \n\n\n\n---\n\n(24-25) \n\n\n\n\n\n[oven ][烤爐]<br><img src=\"/images/cap/113/英語閱讀/113_英語閱讀_試題.pdf-0005-01.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "text": "Why was Philip's father angry?",
+      "passage": "**題組：22-23 題**\nIt was around eight o'clock on Saturday night. Philip was at home with his little brother, Jason. Jason was hungry and kept crying. But Philip couldn't cook and their father was not home yet because he was working late in the office. So Philip decided to take Jason out for some food.\nHalf an hour later, when they came back home, Philip was surprised to find that their father was talking to the police and a woman outside their house. He didn't know who the woman was. She looked scared and stood behind the police. Philip's father was very angry and kept shouting, \"I didn't do anything wrong! I forgot my keys and was just trying to get into MY OWN HOUSE!\" But the police didn't believe him until Philip ran to them and explained everything.\nThe police told Philip that the woman called 110 when she saw Philip's father trying to get into a house through a window. That was how it all happened.",
       "options": [
-        "(A)",
-        "(B)",
-        "(C)",
-        "(D)"
+        "He forgot his keys.",
+        "The woman was hiding from him.",
+        "The police didn't believe what he said.",
+        "Philip and his brother went out at night.\n\n**題組：24-25 題**\n**BAKER'S KITCHEN**\nSince 1993\nWe Give You the Taste of the Good Life\nWant to be the first to bring our popular breads home?\nHere is when they come fresh out of the oven every day.\n\n| Type of Bread | Time | Type of Bread | Time |\n| :--- | :--- | :--- | :--- |\n| French bread | 7:30am | bagels | 11:30am |\n| bread rolls | 8:30am | pretzels | 2:30pm (*Friday only) |\n| croissants | 9:30am (*Friday only) | challah | 3:30pm |\n| white bread | 10:30am | farm bread | 4:30pm |\n\nAll breads at half price after 8pm (after 7pm on Saturdays and Sundays)\n**MEMBERS ONLY** Become a Baker's Kitchen member for only $100 and you can save 10% on all your shopping at Baker's Kitchen.\nBusiness hours: Mon. to Fri., 7:30am to 9pm, Sat. & Sun., 7:30am to 8pm"
       ],
       "answer": "C",
       "type": "single",
+      "audio": "",
       "score": 2
     },
     {
       "number": 24,
-      "text": "24. Kevin is going to buy some fresh bread at Baker’s Kitchen.  He loves white bread, his mom \n\n   - likes farm bread, his father enjoys bagels, and his sister eats only challah.  Which is the earliest possible time for him to get all these breads for his family? \n\n   - (A) 11:00am. (B) 4:00pm. (C) 5:00pm. (D) 7:00pm.",
+      "text": "Kevin is going to buy some fresh bread at Baker's Kitchen. He loves white bread, his mom likes farm bread, his father enjoys bagels, and his sister eats only challah. Which is the earliest possible time for him to get all these breads for his family?",
+      "passage": "**題組：24-25 題**\n**BAKER'S KITCHEN**\nSince 1993\nWe Give You the Taste of the Good Life\nWant to be the first to bring our popular breads home?\nHere is when they come fresh out of the oven every day.\n\n| Type of Bread | Time | Type of Bread | Time |\n| :--- | :--- | :--- | :--- |\n| French bread | 7:30am | bagels | 11:30am |\n| bread rolls | 8:30am | pretzels | 2:30pm (*Friday only) |\n| croissants | 9:30am (*Friday only) | challah | 3:30pm |\n| white bread | 10:30am | farm bread | 4:30pm |\n\nAll breads at half price after 8pm (after 7pm on Saturdays and Sundays)\n**MEMBERS ONLY** Become a Baker's Kitchen member for only $100 and you can save 10% on all your shopping at Baker's Kitchen.\nBusiness hours: Mon. to Fri., 7:30am to 9pm, Sat. & Sun., 7:30am to 8pm",
       "options": [
-        "(A)",
-        "(B)",
-        "(C)",
-        "(D)"
+        "11:00am.",
+        "4:00pm.",
+        "5:00pm.",
+        "7:00pm."
       ],
       "answer": "C",
       "type": "single",
+      "audio": "",
       "score": 2
     },
     {
       "number": 25,
-      "text": "25. What do we know about Baker’s Kitchen? \n\n   - (A) It is open five days a week. \n\n   - (B) Its breads are half price one hour before closing. \n\n   - (C) Its croissants and pretzels are sold on weekends. \n\n   - (D) Its members can save $100 when they shop on Fridays. \n\n4 \n\n請翻頁繼續作答 \n\n\n\n---\n\n(26-27)<br><img src=\"/images/cap/113/英語閱讀/113_英語閱讀_試題.pdf-0006-01.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "text": "What do we know about Baker's Kitchen?",
+      "passage": "**題組：24-25 題**\n**BAKER'S KITCHEN**\nSince 1993\nWe Give You the Taste of the Good Life\nWant to be the first to bring our popular breads home?\nHere is when they come fresh out of the oven every day.\n\n| Type of Bread | Time | Type of Bread | Time |\n| :--- | :--- | :--- | :--- |\n| French bread | 7:30am | bagels | 11:30am |\n| bread rolls | 8:30am | pretzels | 2:30pm (*Friday only) |\n| croissants | 9:30am (*Friday only) | challah | 3:30pm |\n| white bread | 10:30am | farm bread | 4:30pm |\n\nAll breads at half price after 8pm (after 7pm on Saturdays and Sundays)\n**MEMBERS ONLY** Become a Baker's Kitchen member for only $100 and you can save 10% on all your shopping at Baker's Kitchen.\nBusiness hours: Mon. to Fri., 7:30am to 9pm, Sat. & Sun., 7:30am to 8pm",
       "options": [
-        "(A)",
-        "(B)",
-        "(C)",
-        "(D)"
+        "It is open five days a week.",
+        "Its breads are half price one hour before closing.",
+        "Its croissants and pretzels are sold on weekends.",
+        "Its members can save $100 when they shop on Fridays.\n\n**題組：26-27 題**\n**INFORMATION ABOUT THE 2021 GREEN FESTIVAL**\n1. The 2021 Green Festival will be held at Satyr's Park from April 1 to May 31.\n2. You are welcome to take the Free Festival Bus at the Goat Street Station to the festival.\n3. You can also go to the festival by metro (get off at the Koala Street Station or the Turtle Street Station) or by bus (take No. 28, 103, 125, 157, 259, 505, 908, or 1086).\n4. During the festival, Fox Street is closed; no cars can enter the street.\n5. Garden Square won't be open for car parking; there will be a farmers' market at the square during the festival.\n6. During the festival, Faun's Weekend Flower Market will be open every day from 8am to 2pm."
       ],
       "answer": "B",
       "type": "single",
+      "audio": "",
       "score": 2
     },
     {
       "number": 26,
-      "text": "26. What is recommended to people who want to visit the festival? \n\n[recommend  ][推薦] \n\n   - (A) Using the free festival bus service. \n\n   - (B) Visiting the festival on the weekend. \n\n   - (C) Entering Satyr’s Park from Fox Street. \n\n   - (D) Parking in Garden Square and walking to the festival.",
+      "text": "What is recommended to people who want to visit the festival?",
+      "passage": "**題組：26-27 題**\n**INFORMATION ABOUT THE 2021 GREEN FESTIVAL**\n1. The 2021 Green Festival will be held at Satyr's Park from April 1 to May 31.\n2. You are welcome to take the Free Festival Bus at the Goat Street Station to the festival.\n3. You can also go to the festival by metro (get off at the Koala Street Station or the Turtle Street Station) or by bus (take No. 28, 103, 125, 157, 259, 505, 908, or 1086).\n4. During the festival, Fox Street is closed; no cars can enter the street.\n5. Garden Square won't be open for car parking; there will be a farmers' market at the square during the festival.\n6. During the festival, Faun's Weekend Flower Market will be open every day from 8am to 2pm.",
       "options": [
-        "(A)",
-        "(B)",
-        "(C)",
-        "(D)"
+        "Using the free festival bus service.",
+        "Visiting the festival on the weekend.",
+        "Entering Satyr's Park from Fox Street.",
+        "Parking in Garden Square and walking to the festival."
       ],
       "answer": "A",
       "type": "single",
+      "audio": "",
       "score": 2
     },
     {
       "number": 27,
-      "text": "27. What can we learn about the farmers’ market from the map? \n\n   - (A) The farmers’ market is next to the flower market. \n\n   - (B) The farmers’ market and the festival are on the same block. \n\n   - (C) You can go to the farmers’ market by taking Bus No. 157 to Puppy Street. \n\n   - (D) The nearest metro station to the farmers’ market is the Koala Street Station. \n\n5 \n\n\n\n---\n\n(28-29) \n\n\n\n\n\n**----- Start of picture text -----**<br>\nYan lived a good life in a big house.  One day he invited a friend to dinner at his<br>house.  However, on the dinner table there was only one small dish of one small fish.<br>The friend looked quietly at the fish.  It was no bigger than a finger.<br>Then he asked Yan if he could borrow a lamp.<br>“What for?” Yan asked.<br>“Well, it’s so dark in here,” the friend said with a dry smile,<br>“I can’t see the other delicious dishes you’ve prepared for me.”<br>Chang kept a lot of ducks and chickens on his farm.  One day, his best friend<br>came to visit him.  At noon, Chang told his friend that he couldn’t let him stay for lunch<br>because there wasn’t much food to eat.  The friend looked out at Chang’s farm animals<br>for a moment.  Then he asked Chang if he had a big knife.<br>“Yes, but what for?” Chang asked.<br>“I’m thinking about killing the horse I rode here so we’ll<br>have something for lunch,” the friend said.<br>“But how are you going to go home without it?”<br>“Well, you wouldn’t mind lending me one of your many<br>ducks or chickens so I can ride it home, would you?”<br>**----- End of picture text -----**<br><br><img src=\"/images/cap/113/英語閱讀/113_英語閱讀_試題.pdf-0007-01.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "text": "What can we learn about the farmers' market?",
+      "passage": "**題組：26-27 題**\n**INFORMATION ABOUT THE 2021 GREEN FESTIVAL**\n1. The 2021 Green Festival will be held at Satyr's Park from April 1 to May 31.\n2. You are welcome to take the Free Festival Bus at the Goat Street Station to the festival.\n3. You can also go to the festival by metro (get off at the Koala Street Station or the Turtle Street Station) or by bus (take No. 28, 103, 125, 157, 259, 505, 908, or 1086).\n4. During the festival, Fox Street is closed; no cars can enter the street.\n5. Garden Square won't be open for car parking; there will be a farmers' market at the square during the festival.\n6. During the festival, Faun's Weekend Flower Market will be open every day from 8am to 2pm.",
       "options": [
-        "(A)",
-        "(B)",
-        "(C)",
-        "(D)"
+        "The farmers' market is next to the flower market.",
+        "The farmers' market and the festival are on the same block.",
+        "You can go to the farmers' market by taking Bus No. 157 to Puppy Street.",
+        "The nearest metro station to the farmers' market is the Koala Street Station.\n\n**題組：28-29 題**\nYan lived a good life in a big house. One day he invited a friend to dinner at his house. However, on the dinner table there was only one small dish of one small fish. The friend looked quietly at the fish. It was no bigger than a finger.\nThen he asked Yan if he could borrow a lamp.\n\"What for?\" Yan asked.\n\"Well, it's so dark in here,\" the friend said with a dry smile, \"I can't see the other delicious dishes you've prepared for me.\"\n\nChang kept a lot of ducks and chickens on his farm. One day, his best friend came to visit him. At noon, Chang told his friend that he couldn't let him stay for lunch because there wasn't much food to eat. The friend looked out at Chang's farm animals for a moment. Then he asked Chang if he had a big knife.\n\"Yes, but what for?\" Chang asked.\n\"I'm thinking about killing the horse I rode here so we'll have something for lunch,\" the friend said.\n\"But how are you going to go home without it?\"\n\"Well, you wouldn't mind lending me one of your many ducks or chickens so I can ride it home, would you?\""
       ],
       "answer": "D",
       "type": "single",
+      "audio": "",
       "score": 2
     },
     {
       "number": 28,
-      "text": "28. What kind of people do Yan’s and Chang’s friends most likely think [likely ][可能] Yan and Chang are? \n\n   - (A) They enjoy good food. \n\n   - (B) They don’t like to share. \n\n   - (C) They like to make friends. \n\n   - (D) They don’t like new things.",
+      "text": "What kind of people do Yan's and Chang's friends most likely think Yan and Chang are?",
+      "passage": "**題組：28-29 題**\nYan lived a good life in a big house. One day he invited a friend to dinner at his house. However, on the dinner table there was only one small dish of one small fish. The friend looked quietly at the fish. It was no bigger than a finger.\nThen he asked Yan if he could borrow a lamp.\n\"What for?\" Yan asked.\n\"Well, it's so dark in here,\" the friend said with a dry smile, \"I can't see the other delicious dishes you've prepared for me.\"\n\nChang kept a lot of ducks and chickens on his farm. One day, his best friend came to visit him. At noon, Chang told his friend that he couldn't let him stay for lunch because there wasn't much food to eat. The friend looked out at Chang's farm animals for a moment. Then he asked Chang if he had a big knife.\n\"Yes, but what for?\" Chang asked.\n\"I'm thinking about killing the horse I rode here so we'll have something for lunch,\" the friend said.\n\"But how are you going to go home without it?\"\n\"Well, you wouldn't mind lending me one of your many ducks or chickens so I can ride it home, would you?\"",
       "options": [
-        "(A)",
-        "(B)",
-        "(C)",
-        "(D)"
+        "They enjoy good food.",
+        "They don't like to share.",
+        "They like to make friends.",
+        "They don't like new things."
       ],
       "answer": "B",
       "type": "single",
+      "audio": "",
       "score": 2
     },
     {
       "number": 29,
-      "text": "29. What is it in the second story? \n\n   - (A) A big knife. \n\n   - (B) The horse. \n\n   - (C) Lunch. \n\n   - (D) One of Chang’s ducks or chickens. \n\n6 \n\n請翻頁繼續作答 \n\n\n\n---\n\n(30-32) \n\n\n\n\n\nUsually, people visit bookstores to buy books.  But those who walk into Cotoha come to see its owner, Chen Bing-Hong.  They bring him books with different problems.  Some have lost their covers, some are missing a few pages, and some have pages that are falling out.  Chen can always fix the books and make them whole again. \n\nChen sees himself as a doctor.  He says that books, like people, get sick and need help.  In Taiwan, there are not many “doctors” like him, and most of them work for big libraries and museums.  If big libraries and museums are hospitals, Chen’s bookstore is a health center.  Big libraries and museums fix important old books with serious problems, and Chen helps people with books that have smaller problems.  However, the smaller size of the problems doesn’t mean Chen’s job is less important. \n\nChen gave an example of a science book he once worked on.  It was very old and half of its cover was lost.  Its owner still wanted to keep it because it was a gift from a teacher who helped him follow his dream of studying science.  When he got his book back, he was very surprised at the new-old book.  He felt he was brought back to the days with his teacher. Seeing the owner’s smile made Chen happy, because smiles like that are what his magic is for. \n\n7 \n\n\n\n---<br><img src=\"/images/cap/113/英語閱讀/113_英語閱讀_試題.pdf-0008-01.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "text": "What is `it` in the second story?",
+      "passage": "**題組：28-29 題**\nYan lived a good life in a big house. One day he invited a friend to dinner at his house. However, on the dinner table there was only one small dish of one small fish. The friend looked quietly at the fish. It was no bigger than a finger.\nThen he asked Yan if he could borrow a lamp.\n\"What for?\" Yan asked.\n\"Well, it's so dark in here,\" the friend said with a dry smile, \"I can't see the other delicious dishes you've prepared for me.\"\n\nChang kept a lot of ducks and chickens on his farm. One day, his best friend came to visit him. At noon, Chang told his friend that he couldn't let him stay for lunch because there wasn't much food to eat. The friend looked out at Chang's farm animals for a moment. Then he asked Chang if he had a big knife.\n\"Yes, but what for?\" Chang asked.\n\"I'm thinking about killing the horse I rode here so we'll have something for lunch,\" the friend said.\n\"But how are you going to go home without it?\"\n\"Well, you wouldn't mind lending me one of your many ducks or chickens so I can ride it home, would you?\"",
       "options": [
-        "(A)",
-        "(B)",
-        "(C)",
-        "(D)"
+        "A big knife.",
+        "The horse.",
+        "Lunch.",
+        "One of Chang's ducks or chickens.\n\n**題組：30-32 題**\n**TAINAN CORNERS**\nUsually, people visit bookstores to buy books. But those who walk into Cotoha come to see its owner, Chen Bing-Hong. They bring him books with different problems. Some have lost their covers, some are missing a few pages, and some have pages that are falling out. Chen can always fix the books and make them whole again.\nChen sees himself as a doctor. He says that books, like people, get sick and need help. In Taiwan, there are not many \"doctors\" like him, and most of them work for big libraries and museums. If big libraries and museums are hospitals, Chen's bookstore is a health center. Big libraries and museums fix important old books with serious problems, and Chen helps people with books that have smaller problems. However, the smaller size of the problems doesn't mean Chen's job is less important.\nChen gave an example of a science book he once worked on. It was very old and half of its cover was lost. Its owner still wanted to keep it because it was a gift from a teacher who helped him follow his dream of studying science. When he got his book back, he was very surprised at the new-old book. He felt he was brought back to the days with his teacher. Seeing the owner's smile made Chen happy, because smiles like that are what his magic is for."
       ],
       "answer": "B",
       "type": "single",
+      "audio": "",
       "score": 2
     },
     {
       "number": 30,
-      "text": "30. Why does the writer talk about doctors and a health center in the reading? \n\n   - (A) To explain Chen’s services. \n\n   - (B) To talk about Chen’s future plans. \n\n   - (C) To explain Chen’s love for books. \n\n   - (D) To show why bookstores are important.",
+      "text": "Why does the writer talk about doctors and a health center in the reading?",
+      "passage": "**題組：30-32 題**\n**TAINAN CORNERS**\nUsually, people visit bookstores to buy books. But those who walk into Cotoha come to see its owner, Chen Bing-Hong. They bring him books with different problems. Some have lost their covers, some are missing a few pages, and some have pages that are falling out. Chen can always fix the books and make them whole again.\nChen sees himself as a doctor. He says that books, like people, get sick and need help. In Taiwan, there are not many \"doctors\" like him, and most of them work for big libraries and museums. If big libraries and museums are hospitals, Chen's bookstore is a health center. Big libraries and museums fix important old books with serious problems, and Chen helps people with books that have smaller problems. However, the smaller size of the problems doesn't mean Chen's job is less important.\nChen gave an example of a science book he once worked on. It was very old and half of its cover was lost. Its owner still wanted to keep it because it was a gift from a teacher who helped him follow his dream of studying science. When he got his book back, he was very surprised at the new-old book. He felt he was brought back to the days with his teacher. Seeing the owner's smile made Chen happy, because smiles like that are what his magic is for.",
       "options": [
-        "(A)",
-        "(B)",
-        "(C)",
-        "(D)"
+        "To explain Chen's services.",
+        "To talk about Chen's future plans.",
+        "To explain Chen's love for books.",
+        "To show why bookstores are important."
       ],
       "answer": "A",
       "type": "single",
+      "audio": "",
       "score": 2
     },
     {
       "number": 31,
-      "text": "31. Why is Chen Bing-Hong’s job important in the example he gave? \n\n   - (A) It allows people to get books as gifts. \n\n   - (B) It saves people money on new books. \n\n   - (C) It gives people hope to follow their dreams. \n\n   - (D) It helps people think of special moments in the past.",
+      "text": "Why is Chen Bing-Hong's job important in the example he gave?",
+      "passage": "**題組：30-32 題**\n**TAINAN CORNERS**\nUsually, people visit bookstores to buy books. But those who walk into Cotoha come to see its owner, Chen Bing-Hong. They bring him books with different problems. Some have lost their covers, some are missing a few pages, and some have pages that are falling out. Chen can always fix the books and make them whole again.\nChen sees himself as a doctor. He says that books, like people, get sick and need help. In Taiwan, there are not many \"doctors\" like him, and most of them work for big libraries and museums. If big libraries and museums are hospitals, Chen's bookstore is a health center. Big libraries and museums fix important old books with serious problems, and Chen helps people with books that have smaller problems. However, the smaller size of the problems doesn't mean Chen's job is less important.\nChen gave an example of a science book he once worked on. It was very old and half of its cover was lost. Its owner still wanted to keep it because it was a gift from a teacher who helped him follow his dream of studying science. When he got his book back, he was very surprised at the new-old book. He felt he was brought back to the days with his teacher. Seeing the owner's smile made Chen happy, because smiles like that are what his magic is for.",
       "options": [
-        "(A)",
-        "(B)",
-        "(C)",
-        "(D)"
+        "It allows people to get books as gifts.",
+        "It saves people money on new books.",
+        "It gives people hope to follow their dreams.",
+        "It helps people think of special moments in the past."
       ],
       "answer": "D",
       "type": "single",
+      "audio": "",
       "score": 2
     },
     {
       "number": 32,
-      "text": "32. What is his magic? \n\n   - (A) Fixing books. \n\n   - (B) Making book owners smile. \n\n   - (C) Finding books that are long lost. \n\n   - (D) Changing his bookstore into a library. \n\n8 \n\n請翻頁繼續作答 \n\n\n\n---\n\n(33-35) \n\n**A Delicious Surprise and Welcome Change** By Karl Falk, June 1, 2016 \n\nIn Austria, there are not many restaurants like Habibi & Hawara.  Here you can enjoy Austrian and Syrian food together.  Two Austrians, Martin Rohla and David Kreytenberg, started this yummy plan from their experience of working with refugees. \n\nEvery year, thousands of people have to leave their homes and families because of war in their countries.  So many of them go to Austria that some \n\n\n\n\n\npeople in the country think they have become a problem.  They are afraid refugees may take away their jobs and they don’t feel safe around them, either.  But Rohla and Kreytenberg would beg to differ: The refugees don’t have to be a problem. They want to help them start a new life.  They invited refugees to meetings and found that some of them were cooks back in Syria.  So the idea of Habibi & Hawara was born—a restaurant that brings together Austrian and Syrian food.  “The two worlds far away from each other meet together,” Kreytenberg said. \n\nBut Rohla and Kreytenberg want to do more than just give the refugees work.  They want their best workers to buy the restaurant in the end.  They hope that Habibi & Hawara is not just a one-time plan and that other Austrians will join them and help more refugees. \n\n[refugee ][難民 ][war ][戰爭]<br><img src=\"/images/cap/113/英語閱讀/113_英語閱讀_試題.pdf-0010-04.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "text": "What is his magic?",
+      "passage": "**題組：30-32 題**\n**TAINAN CORNERS**\nUsually, people visit bookstores to buy books. But those who walk into Cotoha come to see its owner, Chen Bing-Hong. They bring him books with different problems. Some have lost their covers, some are missing a few pages, and some have pages that are falling out. Chen can always fix the books and make them whole again.\nChen sees himself as a doctor. He says that books, like people, get sick and need help. In Taiwan, there are not many \"doctors\" like him, and most of them work for big libraries and museums. If big libraries and museums are hospitals, Chen's bookstore is a health center. Big libraries and museums fix important old books with serious problems, and Chen helps people with books that have smaller problems. However, the smaller size of the problems doesn't mean Chen's job is less important.\nChen gave an example of a science book he once worked on. It was very old and half of its cover was lost. Its owner still wanted to keep it because it was a gift from a teacher who helped him follow his dream of studying science. When he got his book back, he was very surprised at the new-old book. He felt he was brought back to the days with his teacher. Seeing the owner's smile made Chen happy, because smiles like that are what his magic is for.",
       "options": [
-        "(A)",
-        "(B)",
-        "(C)",
-        "(D)"
+        "Fixing books.",
+        "Making book owners smile.",
+        "Finding books that are long lost.",
+        "Changing his bookstore into a library.\n\n**題組：33-35 題**\n**A Delicious Surprise and Welcome Change**\nBy Karl Falk, June 1, 2016\nIn Austria, there are not many restaurants like Habibi & Hawara. Here you can enjoy Austrian and Syrian food together. Two Austrians, Martin Rohla and David Kreytenberg, started this yummy plan from their experience of working with refugees.\nEvery year, thousands of people have to leave their homes and families because of war in their countries. So many of them go to Austria that some people in the country think they have become a problem. They are afraid refugees may take away their jobs and they don't feel safe around them, either. But Rohla and Kreytenberg would beg to differ: The refugees don't have to be a problem.\nThey want to help them start a new life. They invited refugees to meetings and found that some of them were cooks back in Syria. So the idea of Habibi & Hawara was born-a restaurant that brings together Austrian and Syrian food. \"The two worlds far away from each other meet together,\" Kreytenberg said.\nBut Rohla and Kreytenberg want to do more than just give the refugees work. They want their best workers to buy the restaurant in the end. They hope that Habibi & Hawara is not just a one-time plan and that other Austrians will join them and help more refugees."
       ],
       "answer": "A",
       "type": "single",
+      "audio": "",
       "score": 2
     },
     {
       "number": 33,
-      "text": "33. According to the reading, why did Rohla and Kreytenberg open Habibi & Hawara? \n\n(A) To help refugees live better in Austria. \n\n(B) To collect money to help Syria fight the war. \n\n(C) To help Austrians learn about the war in Syria. \n\n(D) To help refugees go back to their home countries. \n\n9 \n\n\n\n---",
+      "text": "According to the reading, why did Rohla and Kreytenberg open Habibi & Hawara?",
+      "passage": "**題組：33-35 題**\n**A Delicious Surprise and Welcome Change**\nBy Karl Falk, June 1, 2016\nIn Austria, there are not many restaurants like Habibi & Hawara. Here you can enjoy Austrian and Syrian food together. Two Austrians, Martin Rohla and David Kreytenberg, started this yummy plan from their experience of working with refugees.\nEvery year, thousands of people have to leave their homes and families because of war in their countries. So many of them go to Austria that some people in the country think they have become a problem. They are afraid refugees may take away their jobs and they don't feel safe around them, either. But Rohla and Kreytenberg would beg to differ: The refugees don't have to be a problem.\nThey want to help them start a new life. They invited refugees to meetings and found that some of them were cooks back in Syria. So the idea of Habibi & Hawara was born-a restaurant that brings together Austrian and Syrian food. \"The two worlds far away from each other meet together,\" Kreytenberg said.\nBut Rohla and Kreytenberg want to do more than just give the refugees work. They want their best workers to buy the restaurant in the end. They hope that Habibi & Hawara is not just a one-time plan and that other Austrians will join them and help more refugees.",
       "options": [
-        "(A)",
-        "(B)",
-        "(C)",
-        "(D)"
+        "To help refugees live better in Austria.",
+        "To collect money to help Syria fight the war.",
+        "To help Austrians learn about the war in Syria.",
+        "To help refugees go back to their home countries."
       ],
       "answer": "A",
       "type": "single",
+      "audio": "",
       "score": 2
     },
     {
       "number": 34,
-      "text": "34. What can we learn about Habibi & Hawara? \n\n   - (A) It was moved from Syria to Austria. \n\n   - (B) It may finally be sold to its workers. \n\n   - (C) It has cooking classes in Syrian food. \n\n   - (D) It is an important meeting place for Syrians.",
+      "text": "What can we learn about Habibi & Hawara?",
+      "passage": "**題組：33-35 題**\n**A Delicious Surprise and Welcome Change**\nBy Karl Falk, June 1, 2016\nIn Austria, there are not many restaurants like Habibi & Hawara. Here you can enjoy Austrian and Syrian food together. Two Austrians, Martin Rohla and David Kreytenberg, started this yummy plan from their experience of working with refugees.\nEvery year, thousands of people have to leave their homes and families because of war in their countries. So many of them go to Austria that some people in the country think they have become a problem. They are afraid refugees may take away their jobs and they don't feel safe around them, either. But Rohla and Kreytenberg would beg to differ: The refugees don't have to be a problem.\nThey want to help them start a new life. They invited refugees to meetings and found that some of them were cooks back in Syria. So the idea of Habibi & Hawara was born-a restaurant that brings together Austrian and Syrian food. \"The two worlds far away from each other meet together,\" Kreytenberg said.\nBut Rohla and Kreytenberg want to do more than just give the refugees work. They want their best workers to buy the restaurant in the end. They hope that Habibi & Hawara is not just a one-time plan and that other Austrians will join them and help more refugees.",
       "options": [
-        "(A)",
-        "(B)",
-        "(C)",
-        "(D)"
+        "It was moved from Syria to Austria.",
+        "It may finally be sold to its workers.",
+        "It has cooking classes in Syrian food.",
+        "It is an important meeting place for Syrians."
       ],
       "answer": "B",
       "type": "single",
+      "audio": "",
       "score": 2
     },
     {
       "number": 35,
-      "text": "35. What does it mean when people beg to difer? \n\n   - (A) They do not agree. \n\n   - (B) They look different. \n\n   - (C) They cannot speak for others. \n\n   - (D) They do not notice something. \n\n10 \n\n請翻頁繼續作答 \n\n\n\n---\n\n(36-39) \n\n\n\n\n\n## _**Ellen Zimmer**_ \n\n## VOICES OF PEOPLE \n\nIf you want to learn about bringing back extinct animals, reading John Smith’s _Back from the Dead_ is a good start.  But I have to say I can’t agree with everything he says. \n\nFrom his book, I can see Smith is an advocate of bringing extinct animals back.  He says we have lost many animals because we made their living spaces too dirty.  He also thinks we must do everything we can to bring them back.  However, I don’t know how much time and money we would need to make the world a better place for them, and honestly no one knows if they could actually come back. \n\nSmith also says that bringing back extinct animals may be good for us.  He talks about an extinct frog that grew tadpoles in its stomach.  Some women’s babies die before they are born, and Smith believes bringing back the frog may be an answer to the problem. According to him, by studying how the tadpoles grow inside the frog’s stomach, we might be able to find new ways to help these women successfully keep their babies.  But I don’t think things are as easy as Smith thinks.  We have spent ten years and millions of dollars on this kind of frog, but all we have got are only a few dead frog eggs.  If we can’t see a real frog, how can we be sure women will get the help they need? \n\nDr. Solomon Wang from the Animal Saving Office says the study of bringing back extinct animals is “throwing good money after bad.”  And he’s right.  A lot of hard work has been put into this expensive dream, but we haven’t seen anything come out of it. So should we still keep going down this road? \n\n[extinct ][絕種的 ][tadpole ][蝌蚪] \n\n11 \n\n\n\n---<br><img src=\"/images/cap/113/英語閱讀/113_英語閱讀_試題.pdf-0012-01.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "text": "What does it mean when people beg to differ?",
+      "passage": "**題組：33-35 題**\n**A Delicious Surprise and Welcome Change**\nBy Karl Falk, June 1, 2016\nIn Austria, there are not many restaurants like Habibi & Hawara. Here you can enjoy Austrian and Syrian food together. Two Austrians, Martin Rohla and David Kreytenberg, started this yummy plan from their experience of working with refugees.\nEvery year, thousands of people have to leave their homes and families because of war in their countries. So many of them go to Austria that some people in the country think they have become a problem. They are afraid refugees may take away their jobs and they don't feel safe around them, either. But Rohla and Kreytenberg would beg to differ: The refugees don't have to be a problem.\nThey want to help them start a new life. They invited refugees to meetings and found that some of them were cooks back in Syria. So the idea of Habibi & Hawara was born-a restaurant that brings together Austrian and Syrian food. \"The two worlds far away from each other meet together,\" Kreytenberg said.\nBut Rohla and Kreytenberg want to do more than just give the refugees work. They want their best workers to buy the restaurant in the end. They hope that Habibi & Hawara is not just a one-time plan and that other Austrians will join them and help more refugees.",
       "options": [
-        "(A)",
-        "(B)",
-        "(C)",
-        "(D)"
+        "They do not agree.",
+        "They look different.",
+        "They cannot speak for others.",
+        "They do not notice something.\n\n**題組：36-39 題**\n**VOICES OF PEOPLE**\n**Ellen Zimmer**\nIf you want to learn about bringing back extinct animals, reading John Smith's Back from the Dead is a good start. But I have to say I can't agree with everything he says.\nFrom his book, I can see Smith is an advocate of bringing extinct animals back. He says we have lost many animals because we made their living spaces too dirty. He also thinks we must do everything we can to bring them back. However, I don't know how much time and money we would need to make the world a better place for them, and honestly no one knows if they could actually come back.\nSmith also says that bringing back extinct animals may be good for us. He talks about an extinct frog that grew tadpoles in its stomach. Some women's babies die before they are born, and Smith believes bringing back the frog may be an answer to the problem. According to him, by studying how the tadpoles grow inside the frog's stomach, we might be able to find new ways to help these women successfully keep their babies. But I don't think things are as easy as Smith thinks. We have spent ten years and millions of dollars on this kind of frog, but all we have got are only a few dead frog eggs. If we can't see a real frog, how can we be sure women will get the help they need?\nDr. Solomon Wang from the Animal Saving Office says the study of bringing back extinct animals is \"throwing good money after bad.\" And he's right. A lot of hard work has been put into this expensive dream, but we haven't seen anything come out of it. So should we still keep going down this road?"
       ],
       "answer": "A",
       "type": "single",
+      "audio": "",
       "score": 2
     },
     {
       "number": 36,
-      "text": "36. What does it mean when someone is an advocate of something? \n\n   - (A) They talk a lot but do little about it. \n\n   - (B) They believe it is good and should be done. \n\n   - (C) They have had some bad experiences with it. \n\n   - (D) They are one of the first people who have done it.",
+      "text": "What does it mean when someone is an advocate of something?",
+      "passage": "**題組：36-39 題**\n**VOICES OF PEOPLE**\n**Ellen Zimmer**\nIf you want to learn about bringing back extinct animals, reading John Smith's Back from the Dead is a good start. But I have to say I can't agree with everything he says.\nFrom his book, I can see Smith is an advocate of bringing extinct animals back. He says we have lost many animals because we made their living spaces too dirty. He also thinks we must do everything we can to bring them back. However, I don't know how much time and money we would need to make the world a better place for them, and honestly no one knows if they could actually come back.\nSmith also says that bringing back extinct animals may be good for us. He talks about an extinct frog that grew tadpoles in its stomach. Some women's babies die before they are born, and Smith believes bringing back the frog may be an answer to the problem. According to him, by studying how the tadpoles grow inside the frog's stomach, we might be able to find new ways to help these women successfully keep their babies. But I don't think things are as easy as Smith thinks. We have spent ten years and millions of dollars on this kind of frog, but all we have got are only a few dead frog eggs. If we can't see a real frog, how can we be sure women will get the help they need?\nDr. Solomon Wang from the Animal Saving Office says the study of bringing back extinct animals is \"throwing good money after bad.\" And he's right. A lot of hard work has been put into this expensive dream, but we haven't seen anything come out of it. So should we still keep going down this road?",
       "options": [
-        "(A)",
-        "(B)",
-        "(C)",
-        "(D)"
+        "They talk a lot but do little about it.",
+        "They believe it is good and should be done.",
+        "They have had some bad experiences with it.",
+        "They are one of the first people who have done it."
       ],
       "answer": "B",
       "type": "single",
+      "audio": "",
       "score": 2
     },
     {
       "number": 37,
-      "text": "37. What is special about the extinct frog in Smith’s book? \n\n   - (A) It can live in a dirty living space. \n\n   - (B) It might help fix a health problem. \n\n   - (C) It eats its babies when it cannot find food. \n\n   - (D) It is the first extinct animal that people studied.",
+      "text": "What is special about the extinct frog in Smith's book?",
+      "passage": "**題組：36-39 題**\n**VOICES OF PEOPLE**\n**Ellen Zimmer**\nIf you want to learn about bringing back extinct animals, reading John Smith's Back from the Dead is a good start. But I have to say I can't agree with everything he says.\nFrom his book, I can see Smith is an advocate of bringing extinct animals back. He says we have lost many animals because we made their living spaces too dirty. He also thinks we must do everything we can to bring them back. However, I don't know how much time and money we would need to make the world a better place for them, and honestly no one knows if they could actually come back.\nSmith also says that bringing back extinct animals may be good for us. He talks about an extinct frog that grew tadpoles in its stomach. Some women's babies die before they are born, and Smith believes bringing back the frog may be an answer to the problem. According to him, by studying how the tadpoles grow inside the frog's stomach, we might be able to find new ways to help these women successfully keep their babies. But I don't think things are as easy as Smith thinks. We have spent ten years and millions of dollars on this kind of frog, but all we have got are only a few dead frog eggs. If we can't see a real frog, how can we be sure women will get the help they need?\nDr. Solomon Wang from the Animal Saving Office says the study of bringing back extinct animals is \"throwing good money after bad.\" And he's right. A lot of hard work has been put into this expensive dream, but we haven't seen anything come out of it. So should we still keep going down this road?",
       "options": [
-        "(A)",
-        "(B)",
-        "(C)",
-        "(D)"
+        "It can live in a dirty living space.",
+        "It might help fix a health problem.",
+        "It eats its babies when it cannot find food.",
+        "It is the first extinct animal that people studied."
       ],
       "answer": "B",
       "type": "single",
+      "audio": "",
       "score": 2
     },
     {
       "number": 38,
-      "text": "38. Why does Ellen Zimmer use the words from Dr. Solomon Wang? \n\n   - (A) To start a new topic. \n\n   - (B) To share a big dream. \n\n   - (C) To make her idea clearer. \n\n   - (D) To invite people to take action.",
+      "text": "Why does Ellen Zimmer use the words from Dr. Solomon Wang?",
+      "passage": "**題組：36-39 題**\n**VOICES OF PEOPLE**\n**Ellen Zimmer**\nIf you want to learn about bringing back extinct animals, reading John Smith's Back from the Dead is a good start. But I have to say I can't agree with everything he says.\nFrom his book, I can see Smith is an advocate of bringing extinct animals back. He says we have lost many animals because we made their living spaces too dirty. He also thinks we must do everything we can to bring them back. However, I don't know how much time and money we would need to make the world a better place for them, and honestly no one knows if they could actually come back.\nSmith also says that bringing back extinct animals may be good for us. He talks about an extinct frog that grew tadpoles in its stomach. Some women's babies die before they are born, and Smith believes bringing back the frog may be an answer to the problem. According to him, by studying how the tadpoles grow inside the frog's stomach, we might be able to find new ways to help these women successfully keep their babies. But I don't think things are as easy as Smith thinks. We have spent ten years and millions of dollars on this kind of frog, but all we have got are only a few dead frog eggs. If we can't see a real frog, how can we be sure women will get the help they need?\nDr. Solomon Wang from the Animal Saving Office says the study of bringing back extinct animals is \"throwing good money after bad.\" And he's right. A lot of hard work has been put into this expensive dream, but we haven't seen anything come out of it. So should we still keep going down this road?",
       "options": [
-        "(A)",
-        "(B)",
-        "(C)",
-        "(D)"
+        "To start a new topic.",
+        "To share a big dream.",
+        "To make her idea clearer.",
+        "To invite people to take action."
       ],
       "answer": "C",
       "type": "single",
+      "audio": "",
       "score": 2
     },
     {
       "number": 39,
-      "text": "39. What does Ellen Zimmer most likely think about bringing back extinct animals? \n\n   - (A) It is possible. \n\n   - (B) It is dangerous. \n\n[likely ][可能] \n\n- (C) It is not possible. \n\n- (D) It is not dangerous. \n\n12 \n\n請翻頁繼續作答 \n\n\n\n---\n\n(40-43) \n\n## A HISTORY LESSON ON THE PANDEMIC \n\n## **2020.10.29** \n\nSince the Covid-19 pandemic started, people have begun “social distancing”— keeping a safe space between you and anyone you don’t live with.  Though it has been a very popular topic this year, social distancing 40 .  In fact, it was widely used in the U.S. in the flu pandemic in 1918.  But how well did it work?  The Americans’ experience can tell us whether it really saved lives. \n\n\n\n\n\n13 \n\n\n\n---\n\nFrom the picture, we can see that 41 started social distancing earlier than the other three cities.  This helped the city keep the number of deaths down.  Besides taking early action, keeping the action long enough was also important in fighting the pandemic.  The picture shows that Portland and Denver did well in the first few weeks.  However, both cities 42 , and the numbers of deaths climbed again. But there was one thing Portland did right.  The city used several ways of social distancing at the same time to deal with the pandemic. 43 , sick people were kept away from healthy ones; schools were closed; public activities were not allowed.  All these were useful in keeping people safe. \n\nThe lessons of the 1918 pandemic bring us hope.  While we are still learning to fight Covid-19, social distancing may be the best way to get us through the dark days, at least for now. \n\n[pandemic ][（疾病的）大流行 ][per ][每][(][一][)] \n\n## 40. (A) is not a new idea \n\n- (B) has not been very useful \n\n- (C) may bring some problems \n\n- (D) is not welcomed by everyone \n\n## 41. (A) Portland \n\n   - (B) New York \n\n   - (C) Denver \n\n   - (D) Pittsburgh<br><img src=\"/images/cap/113/英語閱讀/113_英語閱讀_試題.pdf-0014-04.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
+      "text": "What does Ellen Zimmer most likely think about bringing back extinct animals?",
+      "passage": "**題組：36-39 題**\n**VOICES OF PEOPLE**\n**Ellen Zimmer**\nIf you want to learn about bringing back extinct animals, reading John Smith's Back from the Dead is a good start. But I have to say I can't agree with everything he says.\nFrom his book, I can see Smith is an advocate of bringing extinct animals back. He says we have lost many animals because we made their living spaces too dirty. He also thinks we must do everything we can to bring them back. However, I don't know how much time and money we would need to make the world a better place for them, and honestly no one knows if they could actually come back.\nSmith also says that bringing back extinct animals may be good for us. He talks about an extinct frog that grew tadpoles in its stomach. Some women's babies die before they are born, and Smith believes bringing back the frog may be an answer to the problem. According to him, by studying how the tadpoles grow inside the frog's stomach, we might be able to find new ways to help these women successfully keep their babies. But I don't think things are as easy as Smith thinks. We have spent ten years and millions of dollars on this kind of frog, but all we have got are only a few dead frog eggs. If we can't see a real frog, how can we be sure women will get the help they need?\nDr. Solomon Wang from the Animal Saving Office says the study of bringing back extinct animals is \"throwing good money after bad.\" And he's right. A lot of hard work has been put into this expensive dream, but we haven't seen anything come out of it. So should we still keep going down this road?",
       "options": [
-        "(A)",
-        "(B)",
-        "(C)",
-        "(D)"
+        "It is possible.",
+        "It is dangerous.",
+        "It is not possible.",
+        "It is not dangerous.\n\n**題組：40-43 題**\n**A HISTORY LESSON ON THE PANDEMIC**\n2020.10.29\nSince the Covid-19 pandemic started, people have begun \"social distancing\"—keeping a safe space between you and anyone you don't live with. Though it has been a very popular topic this year, social distancing __40__. In fact, it was widely used in the U.S. in the flu pandemic in 1918. But how well did it work? The Americans' experience can tell us whether it really saved lives.\n\n(Data of each week's numbers of deaths per 100,000 people from September 11, 1918 through February 19, 1919)\n**Portland** (Social distancing started around Week 7 and ended around Week 18)\nNo. of deaths per 100,000 after 24 weeks: 506\n**New York** (Social distancing started around Week 2 and ended around Week 13)\nNo. of deaths per 100,000 after 24 weeks: 453\n**Denver** (Social distancing started around Week 5 and ended around Week 10, then restarted briefly)\nNo. of deaths per 100,000 after 24 weeks: 631\n**Pittsburgh** (Social distancing started around Week 6 and ended around Week 12)\nNo. of deaths per 100,000 after 24 weeks: 807\n\nFrom the data, we can see that __41__ started social distancing earlier than the other three cities. This helped the city keep the number of deaths down. Besides taking early action, keeping the action long enough was also important in fighting the pandemic. The data shows that Portland and Denver did well in the first few weeks. However, both cities __42__, and the numbers of deaths climbed again.\nBut there was one thing Portland did right. The city used several ways of social distancing at the same time to deal with the pandemic. __43__, sick people were kept away from healthy ones; schools were closed; public activities were not allowed. All these were useful in keeping people safe.\nThe lessons of the 1918 pandemic bring us hope. While we are still learning to fight Covid-19, social distancing may be the best way to get us through the dark days, at least for now."
       ],
       "answer": "C",
       "type": "single",
+      "audio": "",
+      "score": 2
+    },
+    {
+      "number": 40,
+      "text": "",
+      "passage": "**題組：40-43 題**\n**A HISTORY LESSON ON THE PANDEMIC**\n2020.10.29\nSince the Covid-19 pandemic started, people have begun \"social distancing\"—keeping a safe space between you and anyone you don't live with. Though it has been a very popular topic this year, social distancing __40__. In fact, it was widely used in the U.S. in the flu pandemic in 1918. But how well did it work? The Americans' experience can tell us whether it really saved lives.\n\n(Data of each week's numbers of deaths per 100,000 people from September 11, 1918 through February 19, 1919)\n**Portland** (Social distancing started around Week 7 and ended around Week 18)\nNo. of deaths per 100,000 after 24 weeks: 506\n**New York** (Social distancing started around Week 2 and ended around Week 13)\nNo. of deaths per 100,000 after 24 weeks: 453\n**Denver** (Social distancing started around Week 5 and ended around Week 10, then restarted briefly)\nNo. of deaths per 100,000 after 24 weeks: 631\n**Pittsburgh** (Social distancing started around Week 6 and ended around Week 12)\nNo. of deaths per 100,000 after 24 weeks: 807\n\nFrom the data, we can see that __41__ started social distancing earlier than the other three cities. This helped the city keep the number of deaths down. Besides taking early action, keeping the action long enough was also important in fighting the pandemic. The data shows that Portland and Denver did well in the first few weeks. However, both cities __42__, and the numbers of deaths climbed again.\nBut there was one thing Portland did right. The city used several ways of social distancing at the same time to deal with the pandemic. __43__, sick people were kept away from healthy ones; schools were closed; public activities were not allowed. All these were useful in keeping people safe.\nThe lessons of the 1918 pandemic bring us hope. While we are still learning to fight Covid-19, social distancing may be the best way to get us through the dark days, at least for now.",
+      "options": [
+        "is not a new idea",
+        "has not been very useful",
+        "may bring some problems",
+        "is not welcomed by everyone"
+      ],
+      "answer": "A",
+      "type": "single",
+      "audio": "",
+      "score": 2
+    },
+    {
+      "number": 41,
+      "text": "",
+      "passage": "**題組：40-43 題**\n**A HISTORY LESSON ON THE PANDEMIC**\n2020.10.29\nSince the Covid-19 pandemic started, people have begun \"social distancing\"—keeping a safe space between you and anyone you don't live with. Though it has been a very popular topic this year, social distancing __40__. In fact, it was widely used in the U.S. in the flu pandemic in 1918. But how well did it work? The Americans' experience can tell us whether it really saved lives.\n\n(Data of each week's numbers of deaths per 100,000 people from September 11, 1918 through February 19, 1919)\n**Portland** (Social distancing started around Week 7 and ended around Week 18)\nNo. of deaths per 100,000 after 24 weeks: 506\n**New York** (Social distancing started around Week 2 and ended around Week 13)\nNo. of deaths per 100,000 after 24 weeks: 453\n**Denver** (Social distancing started around Week 5 and ended around Week 10, then restarted briefly)\nNo. of deaths per 100,000 after 24 weeks: 631\n**Pittsburgh** (Social distancing started around Week 6 and ended around Week 12)\nNo. of deaths per 100,000 after 24 weeks: 807\n\nFrom the data, we can see that __41__ started social distancing earlier than the other three cities. This helped the city keep the number of deaths down. Besides taking early action, keeping the action long enough was also important in fighting the pandemic. The data shows that Portland and Denver did well in the first few weeks. However, both cities __42__, and the numbers of deaths climbed again.\nBut there was one thing Portland did right. The city used several ways of social distancing at the same time to deal with the pandemic. __43__, sick people were kept away from healthy ones; schools were closed; public activities were not allowed. All these were useful in keeping people safe.\nThe lessons of the 1918 pandemic bring us hope. While we are still learning to fight Covid-19, social distancing may be the best way to get us through the dark days, at least for now.",
+      "options": [
+        "Portland",
+        "New York",
+        "Denver",
+        "Pittsburgh"
+      ],
+      "answer": "B",
+      "type": "single",
+      "audio": "",
       "score": 2
     },
     {
       "number": 42,
-      "text": "42. (A) had higher numbers of deaths \n\n   - (B) stopped social distancing too soon \n\n   - (C) began social distancing a second time \n\n   - (D) had the most days of social distancing \n\n## 43. (A) Also \n\n- (B) At first \n\n- (C) However \n\n- (D) For example \n\n14 \n\n試題結束",
+      "text": "",
+      "passage": "**題組：40-43 題**\n**A HISTORY LESSON ON THE PANDEMIC**\n2020.10.29\nSince the Covid-19 pandemic started, people have begun \"social distancing\"—keeping a safe space between you and anyone you don't live with. Though it has been a very popular topic this year, social distancing __40__. In fact, it was widely used in the U.S. in the flu pandemic in 1918. But how well did it work? The Americans' experience can tell us whether it really saved lives.\n\n(Data of each week's numbers of deaths per 100,000 people from September 11, 1918 through February 19, 1919)\n**Portland** (Social distancing started around Week 7 and ended around Week 18)\nNo. of deaths per 100,000 after 24 weeks: 506\n**New York** (Social distancing started around Week 2 and ended around Week 13)\nNo. of deaths per 100,000 after 24 weeks: 453\n**Denver** (Social distancing started around Week 5 and ended around Week 10, then restarted briefly)\nNo. of deaths per 100,000 after 24 weeks: 631\n**Pittsburgh** (Social distancing started around Week 6 and ended around Week 12)\nNo. of deaths per 100,000 after 24 weeks: 807\n\nFrom the data, we can see that __41__ started social distancing earlier than the other three cities. This helped the city keep the number of deaths down. Besides taking early action, keeping the action long enough was also important in fighting the pandemic. The data shows that Portland and Denver did well in the first few weeks. However, both cities __42__, and the numbers of deaths climbed again.\nBut there was one thing Portland did right. The city used several ways of social distancing at the same time to deal with the pandemic. __43__, sick people were kept away from healthy ones; schools were closed; public activities were not allowed. All these were useful in keeping people safe.\nThe lessons of the 1918 pandemic bring us hope. While we are still learning to fight Covid-19, social distancing may be the best way to get us through the dark days, at least for now.",
       "options": [
-        "(A)",
-        "(B)",
-        "(C)",
-        "(D)"
+        "had higher numbers of deaths",
+        "stopped social distancing too soon",
+        "began social distancing a second time",
+        "had the most days of social distancing"
       ],
       "answer": "B",
       "type": "single",
+      "audio": "",
+      "score": 2
+    },
+    {
+      "number": 43,
+      "text": "",
+      "passage": "**題組：40-43 題**\n**A HISTORY LESSON ON THE PANDEMIC**\n2020.10.29\nSince the Covid-19 pandemic started, people have begun \"social distancing\"—keeping a safe space between you and anyone you don't live with. Though it has been a very popular topic this year, social distancing __40__. In fact, it was widely used in the U.S. in the flu pandemic in 1918. But how well did it work? The Americans' experience can tell us whether it really saved lives.\n\n(Data of each week's numbers of deaths per 100,000 people from September 11, 1918 through February 19, 1919)\n**Portland** (Social distancing started around Week 7 and ended around Week 18)\nNo. of deaths per 100,000 after 24 weeks: 506\n**New York** (Social distancing started around Week 2 and ended around Week 13)\nNo. of deaths per 100,000 after 24 weeks: 453\n**Denver** (Social distancing started around Week 5 and ended around Week 10, then restarted briefly)\nNo. of deaths per 100,000 after 24 weeks: 631\n**Pittsburgh** (Social distancing started around Week 6 and ended around Week 12)\nNo. of deaths per 100,000 after 24 weeks: 807\n\nFrom the data, we can see that __41__ started social distancing earlier than the other three cities. This helped the city keep the number of deaths down. Besides taking early action, keeping the action long enough was also important in fighting the pandemic. The data shows that Portland and Denver did well in the first few weeks. However, both cities __42__, and the numbers of deaths climbed again.\nBut there was one thing Portland did right. The city used several ways of social distancing at the same time to deal with the pandemic. __43__, sick people were kept away from healthy ones; schools were closed; public activities were not allowed. All these were useful in keeping people safe.\nThe lessons of the 1918 pandemic bring us hope. While we are still learning to fight Covid-19, social distancing may be the best way to get us through the dark days, at least for now.",
+      "options": [
+        "Also",
+        "At first",
+        "However",
+        "For example"
+      ],
+      "answer": "D",
+      "type": "single",
+      "audio": "",
       "score": 2
     }
   ]

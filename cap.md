@@ -23,6 +23,8 @@
 | **社會** | [👉 開始測驗](./exams?path=cap/113/社會) | [🔗 前往](https://toydogcat.github.io/ai-exp-sch-exam/) |
 | **自然** | [👉 開始測驗](./exams?path=cap/113/自然) | [🔗 前往](https://toydogcat.github.io/ai-exp-sch-exam/) |
 | **英語閱讀** | [👉 開始測驗](./exams?path=cap/113/英語閱讀) | [🔗 前往](https://toydogcat.github.io/ai-exp-sch-exam/) |
+| **英語聽力** | [👉 開始測驗](./exams?path=cap/113/英語聽力) | [🔗 前往](https://toydogcat.github.io/ai-exp-sch-exam/) |
+| **寫作測驗** | [👉 開始測驗](./exams?path=cap/113/寫作測驗) | [🔗 前往](https://toydogcat.github.io/ai-exp-sch-exam/) |
 
 ---
 
