@@ -8,7 +8,7 @@ hero:
     src: /logo.webp
     alt: AI Exam Logo
   actions:
-    - theme: brand
+    - theme: alt
       text: 國中教育會考 (CAP)
       link: /cap
     - theme: brand
@@ -17,7 +17,7 @@ hero:
     - theme: brand
       text: 分科測驗 (AST)
       link: /ast
-    - theme: alt
+    - theme: romance
       text: 微積分
       link: /calculus
 

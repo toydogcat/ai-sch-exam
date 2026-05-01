@@ -1,0 +1,670 @@
+{
+  "title": "112 學年度分科測驗 - 生物考科",
+  "duration": 80,
+  "questions": [
+    {
+      "number": 1,
+      "text": "某生將實驗動物進行甲狀腺切除手術，10天後分析其血清中激素含量，下列敘述何者正確？",
+      "passage": "",
+      "options": [
+        "降鈣素升高",
+        "促甲狀腺素釋放激素升高",
+        "促甲狀腺素不變",
+        "副甲狀腺素不變"
+      ],
+      "answer": "B",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 2,
+      "text": "下列哪些因素傾向改變族群等位基因的頻率？",
+      "passage": "",
+      "options": [
+        "族群沒有遷入與遷出的個體",
+        "族群中的雌、雄個體隨機配對",
+        "沒有定向或分裂天擇，有利於中間表型",
+        "不受天擇篩選之中性突變",
+        "環境擾動隨機移除族群內個體"
+      ],
+      "answer": [
+        "C",
+        "D",
+        "E"
+      ],
+      "type": "multi",
+      "score": 2
+    },
+    {
+      "number": 3,
+      "text": "從達爾文的物種原始到現代綜合論與中性理論，演化的概念與機制不斷被深化甚至挑戰，下列敘述哪些正確？",
+      "passage": "",
+      "options": [
+        "功能基因的DNA鹼基突變時，必會影響轉譯出的蛋白質的功能，因而受天擇篩選",
+        "中性突變不影響生物演化",
+        "現代綜合論與中性理論所認為的演化主要動力不同",
+        "表型與DNA序列變化都會被天擇所篩選",
+        "族群中等位基因頻度隨世代改變即為演化"
+      ],
+      "answer": [
+        "C",
+        "E"
+      ],
+      "type": "multi",
+      "score": 2
+    },
+    {
+      "number": 4,
+      "text": "下列有關植物共生性菌根的敘述，何者正確？",
+      "passage": "",
+      "options": [
+        "菌根是植物根部與細菌的共生構造",
+        "共生菌可提供植物生存所需的醣類等養分",
+        "共生菌可增加植物根部的表面積，以增加水分及礦物質的吸收",
+        "所有共生菌都會在植物根部形成外鞘"
+      ],
+      "answer": "C",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 5,
+      "text": "嬰兒正在吸吮母乳時，除了刺激乳腺泌乳外，正在哺乳的媽媽有時會感受到子宮收縮。下列有關吸吮動作造成上述現象的敘述，哪些正確？",
+      "passage": "",
+      "options": [
+        "乳頭的感覺受器受刺激後，直接經由神經傳導引起子宮收縮",
+        "腦垂腺前葉釋放催乳素，促進乳汁分泌",
+        "腦垂腺前葉釋放濾泡刺激素，引起子宮收縮",
+        "腦垂腺後葉釋放催產素，引起子宮收縮",
+        "腦垂腺前葉釋放黃體成長激素，刺激黃體素分泌造成子宮收縮"
+      ],
+      "answer": [
+        "B",
+        "D"
+      ],
+      "type": "multi",
+      "score": 2
+    },
+    {
+      "number": 6,
+      "text": "由單醣、胺基酸、核苷酸合成為多醣、蛋白質與核酸的過程中有哪些共同點？",
+      "passage": "",
+      "options": [
+        "為脫水反應",
+        "在細胞質內進行",
+        "需要酵素參與",
+        "為耗能反應",
+        "主要在細胞分裂時進行"
+      ],
+      "answer": [
+        "A",
+        "C",
+        "D"
+      ],
+      "type": "multi",
+      "score": 2
+    },
+    {
+      "number": 7,
+      "text": "下列有關植物器官的敘述，何者正確？",
+      "passage": "",
+      "options": [
+        "僅塊根能儲存養分，其它種類的根不行",
+        "蘿蔔的塊莖儲藏養分",
+        "仙人掌肉質莖只具有儲藏養分的功能",
+        "蓮藕是屬於莖的一種，可儲藏養分"
+      ],
+      "answer": "D",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 8,
+      "text": "<br><img src=\"/images/ceec/112/分科/生物/q8.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n感染病毒會造成細胞DNA損傷，蛋白質X的表現量會因DNA損傷而增加。西方墨點法是偵測特定蛋白質表現量的工具，此方法需先將細胞的蛋白質以膠體電泳分離後，再用特定蛋白質的抗體去識別該特定蛋白質在電泳膠體中的集中帶，集中帶愈粗即表示該特定蛋白質表現量愈高。某生收集如表1所列之第一組~第三組的細胞蛋白質萃取液，在相同條件之下以蛋白質X的抗體進行西方墨點法分析，結果皆偵測到蛋白質X的訊號。下列何種訊號與預期結果較為符合？\n\n表1\n\n<div class=\"custom-table-container\" style=\"overflow-x:auto; margin: 1.5rem 0; white-space: normal;\"><table class=\"custom-exam-table\" style=\"width:100%; border-collapse: collapse; border: 1px solid #dee2e6; font-size: 1rem; background: #fff; border-radius: 6px; white-space: normal;\"><thead style=\"background: #f8f9fa; white-space: normal;\"><tr><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">實驗組別</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">一</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">二</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">三</th></tr></thead><tbody style=\"white-space: normal;\"><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">病毒感染</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">無</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">有</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">有</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">添加物</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">無</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">無</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">DNA損傷修復劑</td></tr></tbody></table></div>",
+      "passage": "",
+      "options": [
+        "",
+        "",
+        "",
+        "**題組：9-10 題**\n![](/home/toymsi/documents/examination/Github/ai-sch-exam/public/images/ceec/112/分科/生物/q9.webp)\n1832年於阿根廷發現的大地獺(ground sloth)下顎化石，其後生物學家理察·歐文(Richard Owen)則在1839年將其命名為Mylodon darwinii。"
+      ],
+      "answer": "B",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 9,
+      "text": "若科學家認為已滅絕的大地獺與現生樹獺外形相似，而想以現代科學方法證明這兩物種有共同祖先，則下列何者為最適合的方法？",
+      "passage": "**題組：9-10 題**\n<br><img src=\"/images/ceec/112/分科/生物/q9.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n1832年於阿根廷發現的大地獺(ground sloth)下顎化石，其後生物學家理察·歐文(Richard Owen)則在1839年將其命名為Mylodon darwinii。",
+      "options": [
+        "進行細胞培養觀察細胞型態的相似度",
+        "以PCR擴增其DNA後比較相關DNA序列相似度",
+        "萃取DNA後比較相關DNA長度相似度",
+        "檢測骨頭主要組成成分的相似度"
+      ],
+      "answer": "B",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 10,
+      "text": "下列對於Mylodon darwinii命名法的敘述，何者正確？",
+      "passage": "**題組：9-10 題**\n<br><img src=\"/images/ceec/112/分科/生物/q9.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n1832年於阿根廷發現的大地獺(ground sloth)下顎化石，其後生物學家理察·歐文(Richard Owen)則在1839年將其命名為Mylodon darwinii。",
+      "options": [
+        "是依發現者名字作為俗名的命名",
+        "是以通用英文所進行的命名",
+        "是依達爾文演化論進行命名",
+        "是以林奈之二名法進行命名"
+      ],
+      "answer": "D",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 11,
+      "text": "在蛋白質上加上醣鏈會形成醣蛋白，下列對於醣蛋白的敘述哪些正確？",
+      "passage": "**題組：9-10 題**\n<br><img src=\"/images/ceec/112/分科/生物/q9.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n1832年於阿根廷發現的大地獺(ground sloth)下顎化石，其後生物學家理察·歐文(Richard Owen)則在1839年將其命名為Mylodon darwinii。",
+      "options": [
+        "所有的生物皆會合成醣蛋白",
+        "真核細胞醣蛋白的合成是在細胞核完成",
+        "真核細胞的細胞膜上具有醣蛋白",
+        "病毒表面的醣蛋白，使其可進入特定宿主細胞",
+        "細菌細胞壁組成之醣蛋白是致病的重要依據"
+      ],
+      "answer": [
+        "C",
+        "D"
+      ],
+      "type": "multi",
+      "score": 2
+    },
+    {
+      "number": 12,
+      "text": "下列有關染色體與遺傳的敘述，哪些正確？",
+      "passage": "**題組：9-10 題**\n<br><img src=\"/images/ceec/112/分科/生物/q9.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n1832年於阿根廷發現的大地獺(ground sloth)下顎化石，其後生物學家理察·歐文(Richard Owen)則在1839年將其命名為Mylodon darwinii。",
+      "options": [
+        "包法利-薩登以實驗數據證明基因位於染色體上",
+        "決定果蠅眼睛顏色之基因位於體染色體上",
+        "摩根的實驗發現性聯遺傳",
+        "不同體色與翅形的果蠅雜交後，F2子代產生4種表型比率為9:3:3:1證實基因的連(聯)鎖",
+        "染色體互換提供了表型的多樣與變化"
+      ],
+      "answer": [
+        "C",
+        "E"
+      ],
+      "type": "multi",
+      "score": 2
+    },
+    {
+      "number": 13,
+      "text": "森林內一隻狼(捕食者)凝視著正在吃草的兔子(獵物)，並緩慢移動靠近此尚未警覺到危險的獵物，下列有關捕食者和獵物當下生理狀態的敘述，哪些正確？",
+      "passage": "**題組：9-10 題**\n<br><img src=\"/images/ceec/112/分科/生物/q9.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n1832年於阿根廷發現的大地獺(ground sloth)下顎化石，其後生物學家理察·歐文(Richard Owen)則在1839年將其命名為Mylodon darwinii。",
+      "options": [
+        "捕食者體內釋放乙醯膽鹼增強其心肌的收縮",
+        "捕食者運動神經細胞釋放乙醯膽鹼促進骨骼肌收縮",
+        "捕食者交感神經系統活性增加",
+        "獵物消化道的交感神經系統活化中",
+        "獵物消化道的副交感神經系統活化中"
+      ],
+      "answer": [
+        "B",
+        "C",
+        "E"
+      ],
+      "type": "multi",
+      "score": 2
+    },
+    {
+      "number": 14,
+      "text": "一胜肽鏈的序列為Met-Phe-Ser-Tyr-Cys-Arg，從胜肽鏈的合成開始到結束，下列哪些分子會出現在核糖體的A位？",
+      "passage": "**題組：9-10 題**\n<br><img src=\"/images/ceec/112/分科/生物/q9.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n1832年於阿根廷發現的大地獺(ground sloth)下顎化石，其後生物學家理察·歐文(Richard Owen)則在1839年將其命名為Mylodon darwinii。",
+      "options": [
+        "帶有Ser胺基酸的tRNA",
+        "不帶有胺基酸的tRNA",
+        "帶有Gln胺基酸的tRNA",
+        "帶有胜肽鏈Tyr-Cys的tRNA",
+        "帶有胜肽鏈Met-Phe-Ser-Tyr-Cys的tRNA\n\n**題組：15-16 題**\n「2050淨零碳排」是全球積極倡導的永續發展策略，可以吸收及儲存二氧化碳(CO2)的「碳匯」(carbon sink)，是減少二氧化碳排放的重要策略之一。"
+      ],
+      "answer": [
+        "A",
+        "E"
+      ],
+      "type": "multi",
+      "score": 2
+    },
+    {
+      "number": 15,
+      "text": "植物栽種可被用來作為碳匯執行行動之一，下列敘述哪些正確？",
+      "passage": "**題組：15-16 題**\n「2050淨零碳排」是全球積極倡導的永續發展策略，可以吸收及儲存二氧化碳(CO2)的「碳匯」(carbon sink)，是減少二氧化碳排放的重要策略之一。",
+      "options": [
+        "植物可以吸收但不排放二氧化碳",
+        "只有植物可以進行固碳作用",
+        "生長在水中的植物也可行固碳反應",
+        "植物可將CO2的氧分子轉變成O2後釋放",
+        "植物可將CO2的碳分子轉變成醣類後儲存"
+      ],
+      "answer": [
+        "C",
+        "E"
+      ],
+      "type": "multi",
+      "score": 2
+    },
+    {
+      "number": 16,
+      "text": "合成生物學是具有可在生物中設計一條新代謝路徑的生物技術。若要藉由合成生物學改造大腸桿菌，使其有固碳的能力，下列何種實驗策略的成功性較大？",
+      "passage": "**題組：15-16 題**\n「2050淨零碳排」是全球積極倡導的永續發展策略，可以吸收及儲存二氧化碳(CO2)的「碳匯」(carbon sink)，是減少二氧化碳排放的重要策略之一。",
+      "options": [
+        "阻止五碳醣轉變成核苷酸",
+        "促進殺菌毒素的產生",
+        "促使三碳醣的新合成",
+        "改變細菌轉譯起始密碼子"
+      ],
+      "answer": "C",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 17,
+      "text": "在2022年下旬時，由於猴痘感染的病例不斷增加，因此世界衛生組織將猴痘列為國際關注公衛緊急事件(Public Health Emergency of International Concern PHEIC)，當時的新冠肺炎(COVID-19)也是被列為PHEIC。科學家發現，若曾經施打天花疫苗，對猴痘可產生一定程度的專一性保護力。下列對於猴痘的敘述，何者正確？",
+      "passage": "**題組：15-16 題**\n「2050淨零碳排」是全球積極倡導的永續發展策略，可以吸收及儲存二氧化碳(CO2)的「碳匯」(carbon sink)，是減少二氧化碳排放的重要策略之一。",
+      "options": [
+        "猴痘與新冠肺炎病原體相同，因此同被列入PHEIC",
+        "僅感染人類以外的動物，預先被列入PHEIC以提升關注度",
+        "施打新冠肺炎疫苗也可對猴痘感染產生專一性保護能力",
+        "感染猴痘病原體應可活化接種天花疫苗所產生之記憶細胞\n\n**題組：18-19 題**\n![](/home/toymsi/documents/examination/Github/ai-sch-exam/public/images/ceec/112/分科/生物/q18_19.webp)\n科學家找到了一種LCS2基因的植物突變株，編號命名為lcs2-1。研究發現在不同鈣離子濃度下，lcs2-1突變株的側根數目與野生型植物(Col-0)比起來會有不同的表現型，柱狀圖上方字母相同者表示表現型無差異，字母不同者表示有顯著差異。"
+      ],
+      "answer": "D",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 18,
+      "text": "依據圖表的數據，該野生型與lcs2-1突變株的根部表型，何者正確？",
+      "passage": "**題組：18-19 題**\n<br><img src=\"/images/ceec/112/分科/生物/q18_19.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n科學家找到了一種LCS2基因的植物突變株，編號命名為lcs2-1。研究發現在不同鈣離子濃度下，lcs2-1突變株的側根數目與野生型植物(Col-0)比起來會有不同的表現型，柱狀圖上方字母相同者表示表現型無差異，字母不同者表示有顯著差異。",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": "C",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 19,
+      "text": "科學家利用基因轉殖技術導入木栓質水解酵素CDEF1基因到lcs2-1突變株(lcs2-1/CDEF1)，發現lcs2-1/CDEF1植株在不同鈣離子濃度下可以恢復側根型態，下列何者正確？",
+      "passage": "**題組：18-19 題**\n<br><img src=\"/images/ceec/112/分科/生物/q18_19.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n科學家找到了一種LCS2基因的植物突變株，編號命名為lcs2-1。研究發現在不同鈣離子濃度下，lcs2-1突變株的側根數目與野生型植物(Col-0)比起來會有不同的表現型，柱狀圖上方字母相同者表示表現型無差異，字母不同者表示有顯著差異。",
+      "options": [
+        "",
+        "",
+        "",
+        "**題組：20-22 題**\n維生素為生物體進行各式生理反應不可或缺的重要因子之一，可根據其結構特性大致分為水溶性維生素與脂溶性維生素。其中維生素B群為水溶性維生素的一類，易溶於水中，攝取過量後會隨尿液排出體外，不會在體內過度累積。維生素B群中的維生素B12具有相對複雜的環狀結構，環中心結合一個鈷離子，因此又稱為鈷胺素(cobalamins)。人體無法自行合成維生素B12，必須由食物中攝取，例如蛋類、奶類、魚類與肉類等。食物中的維生素B12可與胃中的R蛋白(haptocorrin)結合，形成B12-haptocorrin複合物，並從胃部通過幽門進入腸道。在腸道中，此複合物受蛋白酶消化而將維生素B12釋出，並且藉由胃壁細胞分泌的內在因子(IF)與維生素B12結合，形成IF-B12複合物。此IF-B12複合物便可藉由迴腸黏膜上皮細胞的接受器辨識，進而透過內噬作用進入細胞。而腸上皮細胞會釋出維生素B12進入循環系統，血漿中的維生素B12會與轉鈷胺素(transcobalamin II, TC-II)結合而進行體內運輸。經由肝門靜脈運輸到肝臟後，維生素B12主要以甲基鈷胺素(methylcobalamin)和腺苷鈷胺素(adenosylcobalamin)等形式進行儲存，部分則經由循環系統送至全身各組織執行功能。維生素B12可在肝臟中經代謝後隨膽汁排入腸道，使部分維生素B12得以被再次吸收。"
+      ],
+      "answer": "C",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 20,
+      "text": "維生素B12主要以何種形式被人體腸道所吸收？",
+      "passage": "**題組：20-22 題**\n維生素為生物體進行各式生理反應不可或缺的重要因子之一，可根據其結構特性大致分為水溶性維生素與脂溶性維生素。其中維生素B群為水溶性維生素的一類，易溶於水中，攝取過量後會隨尿液排出體外，不會在體內過度累積。維生素B群中的維生素B12具有相對複雜的環狀結構，環中心結合一個鈷離子，因此又稱為鈷胺素(cobalamins)。人體無法自行合成維生素B12，必須由食物中攝取，例如蛋類、奶類、魚類與肉類等。食物中的維生素B12可與胃中的R蛋白(haptocorrin)結合，形成B12-haptocorrin複合物，並從胃部通過幽門進入腸道。在腸道中，此複合物受蛋白酶消化而將維生素B12釋出，並且藉由胃壁細胞分泌的內在因子(IF)與維生素B12結合，形成IF-B12複合物。此IF-B12複合物便可藉由迴腸黏膜上皮細胞的接受器辨識，進而透過內噬作用進入細胞。而腸上皮細胞會釋出維生素B12進入循環系統，血漿中的維生素B12會與轉鈷胺素(transcobalamin II, TC-II)結合而進行體內運輸。經由肝門靜脈運輸到肝臟後，維生素B12主要以甲基鈷胺素(methylcobalamin)和腺苷鈷胺素(adenosylcobalamin)等形式進行儲存，部分則經由循環系統送至全身各組織執行功能。維生素B12可在肝臟中經代謝後隨膽汁排入腸道，使部分維生素B12得以被再次吸收。",
+      "options": [
+        "維生素B12單體",
+        "B12-haptocorrin複合物",
+        "B12-TC-II複合物",
+        "IF-B12複合物"
+      ],
+      "answer": "D",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 21,
+      "text": "維生素B12主要儲藏在身體何處？",
+      "passage": "**題組：20-22 題**\n維生素為生物體進行各式生理反應不可或缺的重要因子之一，可根據其結構特性大致分為水溶性維生素與脂溶性維生素。其中維生素B群為水溶性維生素的一類，易溶於水中，攝取過量後會隨尿液排出體外，不會在體內過度累積。維生素B群中的維生素B12具有相對複雜的環狀結構，環中心結合一個鈷離子，因此又稱為鈷胺素(cobalamins)。人體無法自行合成維生素B12，必須由食物中攝取，例如蛋類、奶類、魚類與肉類等。食物中的維生素B12可與胃中的R蛋白(haptocorrin)結合，形成B12-haptocorrin複合物，並從胃部通過幽門進入腸道。在腸道中，此複合物受蛋白酶消化而將維生素B12釋出，並且藉由胃壁細胞分泌的內在因子(IF)與維生素B12結合，形成IF-B12複合物。此IF-B12複合物便可藉由迴腸黏膜上皮細胞的接受器辨識，進而透過內噬作用進入細胞。而腸上皮細胞會釋出維生素B12進入循環系統，血漿中的維生素B12會與轉鈷胺素(transcobalamin II, TC-II)結合而進行體內運輸。經由肝門靜脈運輸到肝臟後，維生素B12主要以甲基鈷胺素(methylcobalamin)和腺苷鈷胺素(adenosylcobalamin)等形式進行儲存，部分則經由循環系統送至全身各組織執行功能。維生素B12可在肝臟中經代謝後隨膽汁排入腸道，使部分維生素B12得以被再次吸收。",
+      "options": [
+        "腸道",
+        "胃",
+        "肝臟",
+        "膽囊"
+      ],
+      "answer": "C",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 22,
+      "text": "下列與維生素B12相關的敘述與推論，何者正確？",
+      "passage": "**題組：20-22 題**\n維生素為生物體進行各式生理反應不可或缺的重要因子之一，可根據其結構特性大致分為水溶性維生素與脂溶性維生素。其中維生素B群為水溶性維生素的一類，易溶於水中，攝取過量後會隨尿液排出體外，不會在體內過度累積。維生素B群中的維生素B12具有相對複雜的環狀結構，環中心結合一個鈷離子，因此又稱為鈷胺素(cobalamins)。人體無法自行合成維生素B12，必須由食物中攝取，例如蛋類、奶類、魚類與肉類等。食物中的維生素B12可與胃中的R蛋白(haptocorrin)結合，形成B12-haptocorrin複合物，並從胃部通過幽門進入腸道。在腸道中，此複合物受蛋白酶消化而將維生素B12釋出，並且藉由胃壁細胞分泌的內在因子(IF)與維生素B12結合，形成IF-B12複合物。此IF-B12複合物便可藉由迴腸黏膜上皮細胞的接受器辨識，進而透過內噬作用進入細胞。而腸上皮細胞會釋出維生素B12進入循環系統，血漿中的維生素B12會與轉鈷胺素(transcobalamin II, TC-II)結合而進行體內運輸。經由肝門靜脈運輸到肝臟後，維生素B12主要以甲基鈷胺素(methylcobalamin)和腺苷鈷胺素(adenosylcobalamin)等形式進行儲存，部分則經由循環系統送至全身各組織執行功能。維生素B12可在肝臟中經代謝後隨膽汁排入腸道，使部分維生素B12得以被再次吸收。",
+      "options": [
+        "循環系統血漿中，肝動脈的維生素B12通常較肝門靜脈為高",
+        "消化系統中形成B12-haptocorrin複合物之目的為使細胞進行內噬作用",
+        "B12-haptocorrin複合物的降解蛋白酶缺乏時，將造成維生素B12累積於胃部",
+        "人體中維生素B12全由食物中取得，利用後部分可在腸道再吸收\n\n**題組：23-25 題**\n螞蟻是非常典型的社會性昆蟲，他們從卵、幼蟲、蛹到成蟲等各發育期相互間都有複雜且緊密關係。舉例而言，孤雌生殖的畢氏粗角蟻(Ooceraea biroi)的成蟻，除了照顧卵和蛹外，同時也會搬運移動能力有限的幼蟲至有適當食物之處。科學家好奇畢氏粗角蟻是如何維持這種密切的互動關係。研究顯示，畢氏粗角蟻的蛹會排出一種社會性分泌物(social fluid)，此分泌物會引起成蟻對蛹與幼蟲的照顧行為。在實驗過程中，科學家發現社會性分泌物若未被清除，蛹就會被黴菌感染而致死；若幼蟲沒有吃到社會性分泌物，則會有生長遲緩與存活率下降的現象；成蟻也傾向將幼蟲搬到有分泌物的蛹附近。成分鑑定結果顯示，社會性分泌物與昆蟲蛻皮過程所產生的蛻皮液相似，含有許多蛋白質降解與幾丁質分解相關物質。此研究顯示蛹在螞蟻群體中所扮演的角色外，也解析蟻群照顧行為的運作機轉。"
+      ],
+      "answer": "D",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 23,
+      "text": "根據文章所描述的觀察結果，下列敘述哪些正確？",
+      "passage": "**題組：23-25 題**\n螞蟻是非常典型的社會性昆蟲，他們從卵、幼蟲、蛹到成蟲等各發育期相互間都有複雜且緊密關係。舉例而言，孤雌生殖的畢氏粗角蟻(Ooceraea biroi)的成蟻，除了照顧卵和蛹外，同時也會搬運移動能力有限的幼蟲至有適當食物之處。科學家好奇畢氏粗角蟻是如何維持這種密切的互動關係。研究顯示，畢氏粗角蟻的蛹會排出一種社會性分泌物(social fluid)，此分泌物會引起成蟻對蛹與幼蟲的照顧行為。在實驗過程中，科學家發現社會性分泌物若未被清除，蛹就會被黴菌感染而致死；若幼蟲沒有吃到社會性分泌物，則會有生長遲緩與存活率下降的現象；成蟻也傾向將幼蟲搬到有分泌物的蛹附近。成分鑑定結果顯示，社會性分泌物與昆蟲蛻皮過程所產生的蛻皮液相似，含有許多蛋白質降解與幾丁質分解相關物質。此研究顯示蛹在螞蟻群體中所扮演的角色外，也解析蟻群照顧行為的運作機轉。",
+      "options": [
+        "各階段的螞蟻都會分泌相同的社會性分泌物",
+        "蛹的社會性分泌物會影響幼蟲生長狀況",
+        "成蟻照顧行為主要是發生在幼蟲蛻皮階段",
+        "只有孤雌生殖的螞蟻可分泌社會性分泌物",
+        "成蟻的照顧行為參與了蛹與幼蟲的互動"
+      ],
+      "answer": [
+        "B",
+        "E"
+      ],
+      "type": "multi",
+      "score": 2
+    },
+    {
+      "number": 24,
+      "text": "昆蟲在蛻皮時，蛻皮液會分泌到新舊表皮之間的蛻皮層(exuvial space)。科學家將幼蟲與有在蛻皮層注射藍色染液的蛹放置在一起，在蛹成功存活之下，幼蟲腸道也呈現出藍色。根據主文與此題幹，推測科學家希望藉由此實驗證明下列何種現象？",
+      "passage": "**題組：23-25 題**\n螞蟻是非常典型的社會性昆蟲，他們從卵、幼蟲、蛹到成蟲等各發育期相互間都有複雜且緊密關係。舉例而言，孤雌生殖的畢氏粗角蟻(Ooceraea biroi)的成蟻，除了照顧卵和蛹外，同時也會搬運移動能力有限的幼蟲至有適當食物之處。科學家好奇畢氏粗角蟻是如何維持這種密切的互動關係。研究顯示，畢氏粗角蟻的蛹會排出一種社會性分泌物(social fluid)，此分泌物會引起成蟻對蛹與幼蟲的照顧行為。在實驗過程中，科學家發現社會性分泌物若未被清除，蛹就會被黴菌感染而致死；若幼蟲沒有吃到社會性分泌物，則會有生長遲緩與存活率下降的現象；成蟻也傾向將幼蟲搬到有分泌物的蛹附近。成分鑑定結果顯示，社會性分泌物與昆蟲蛻皮過程所產生的蛻皮液相似，含有許多蛋白質降解與幾丁質分解相關物質。此研究顯示蛹在螞蟻群體中所扮演的角色外，也解析蟻群照顧行為的運作機轉。",
+      "options": [
+        "藍色染劑適用於蛹與幼蟲的動物行為觀察實驗",
+        "蛹的蛻皮層與幼蟲腸道組成是相似的",
+        "幼蟲會攝食蛹所排出的分泌物",
+        "蛹可因為藍色液體的注射而不受黴菌感染"
+      ],
+      "answer": "C",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 25,
+      "text": "<br><img src=\"/images/ceec/112/分科/生物/q25.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n科學家進行三組不同供應物的測試(如表2所示)，每組放入相同數量的成蟻與幼蟲，4天後觀測各組的平均幼蟲體長。下列哪一圖示結果符合上文敘述？\n\n表2\n\n<div class=\"custom-table-container\" style=\"overflow-x:auto; margin: 1.5rem 0; white-space: normal;\"><table class=\"custom-exam-table\" style=\"width:100%; border-collapse: collapse; border: 1px solid #dee2e6; font-size: 1rem; background: #fff; border-radius: 6px; white-space: normal;\"><thead style=\"background: #f8f9fa; white-space: normal;\"><tr><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">供應物</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">甲</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">乙</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">丙</th></tr></thead><tbody style=\"white-space: normal;\"><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\"></td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">死掉的火蟻蛹</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">無</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">活的O.biroi蛹</td></tr></tbody></table></div>",
+      "passage": "**題組：23-25 題**\n螞蟻是非常典型的社會性昆蟲，他們從卵、幼蟲、蛹到成蟲等各發育期相互間都有複雜且緊密關係。舉例而言，孤雌生殖的畢氏粗角蟻(Ooceraea biroi)的成蟻，除了照顧卵和蛹外，同時也會搬運移動能力有限的幼蟲至有適當食物之處。科學家好奇畢氏粗角蟻是如何維持這種密切的互動關係。研究顯示，畢氏粗角蟻的蛹會排出一種社會性分泌物(social fluid)，此分泌物會引起成蟻對蛹與幼蟲的照顧行為。在實驗過程中，科學家發現社會性分泌物若未被清除，蛹就會被黴菌感染而致死；若幼蟲沒有吃到社會性分泌物，則會有生長遲緩與存活率下降的現象；成蟻也傾向將幼蟲搬到有分泌物的蛹附近。成分鑑定結果顯示，社會性分泌物與昆蟲蛻皮過程所產生的蛻皮液相似，含有許多蛋白質降解與幾丁質分解相關物質。此研究顯示蛹在螞蟻群體中所扮演的角色外，也解析蟻群照顧行為的運作機轉。",
+      "options": [
+        "",
+        "",
+        "",
+        "**題組：26-28 題**\n免疫球蛋白E(IgE)誘發的嚴重過敏性反應(anaphylaxis)是一種急性且危及生命的免疫反應。人類的嚴重過敏性反應主要症狀是血壓急遽下降，而在實驗小鼠模式(正常體溫37±1°C)則在過敏發生30分鐘內核心體溫下降約6℃，這些都可能產生致命後果。過敏原會引發B細胞產生IgE，IgE與肥大細胞(MCs)形成結合體(IgE/MCs)，待過敏原再次進入身體時，會活化與IgE結合的肥大細胞，使其釋放發炎因子(包含組織胺、腫瘤壞死因子、血小板活化因子、蛋白酶等)。動物核心體溫平衡由溫度調節神經迴路所調控：(1)位於背根神經節、三叉神經節、結狀神經節等對周邊溫度敏感的感覺神經元→(2)脊髓→(3)腦幹LPB核區→(4)下視丘視前核區(POA)的溫度調節中樞。最新研究報導指出，IgE誘發的小鼠嚴重過敏性反應中核心體溫的顯著下降，與肥大細胞分泌物質活化上述溫度調節神經迴路，進而影響棕色脂肪(BAT)產熱作用有關。"
+      ],
+      "answer": "A",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 26,
+      "text": "<br><img src=\"/images/ceec/112/分科/生物/q26.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n將引發IgE介導嚴重過敏性反應的過敏原，再次分別注射到野生型小鼠(WT)和肥大細胞缺失小鼠(MC-)體內，30分鐘後量測其核心體溫，下列哪一圖示結果符合本文敘述？",
+      "passage": "**題組：26-28 題**\n免疫球蛋白E(IgE)誘發的嚴重過敏性反應(anaphylaxis)是一種急性且危及生命的免疫反應。人類的嚴重過敏性反應主要症狀是血壓急遽下降，而在實驗小鼠模式(正常體溫37±1°C)則在過敏發生30分鐘內核心體溫下降約6℃，這些都可能產生致命後果。過敏原會引發B細胞產生IgE，IgE與肥大細胞(MCs)形成結合體(IgE/MCs)，待過敏原再次進入身體時，會活化與IgE結合的肥大細胞，使其釋放發炎因子(包含組織胺、腫瘤壞死因子、血小板活化因子、蛋白酶等)。動物核心體溫平衡由溫度調節神經迴路所調控：(1)位於背根神經節、三叉神經節、結狀神經節等對周邊溫度敏感的感覺神經元→(2)脊髓→(3)腦幹LPB核區→(4)下視丘視前核區(POA)的溫度調節中樞。最新研究報導指出，IgE誘發的小鼠嚴重過敏性反應中核心體溫的顯著下降，與肥大細胞分泌物質活化上述溫度調節神經迴路，進而影響棕色脂肪(BAT)產熱作用有關。",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": "B",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 27,
+      "text": "<br><img src=\"/images/ceec/112/分科/生物/q27.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n對周邊溫度敏感的感覺神經元有兩種，一種具有離子通道TrpV4；另一種則具有離子通道TrpV1。科學家為了探究是由哪一種感覺神經元負責將來自IgE/MCs發的過敏性反應的分子訊息，轉傳給中樞神經系統，他們將引發IgE介導嚴重過敏性反應的過敏原，再次分別注射到野生型小鼠(WT)、TrpV1基因剔除鼠(TrpV1-)、和TrpV4基因剔除鼠(TrpV4-)體內，並於30分鐘後量測實驗動物的核心體溫。下列敘述何者最符合結果推論？",
+      "passage": "**題組：26-28 題**\n免疫球蛋白E(IgE)誘發的嚴重過敏性反應(anaphylaxis)是一種急性且危及生命的免疫反應。人類的嚴重過敏性反應主要症狀是血壓急遽下降，而在實驗小鼠模式(正常體溫37±1°C)則在過敏發生30分鐘內核心體溫下降約6℃，這些都可能產生致命後果。過敏原會引發B細胞產生IgE，IgE與肥大細胞(MCs)形成結合體(IgE/MCs)，待過敏原再次進入身體時，會活化與IgE結合的肥大細胞，使其釋放發炎因子(包含組織胺、腫瘤壞死因子、血小板活化因子、蛋白酶等)。動物核心體溫平衡由溫度調節神經迴路所調控：(1)位於背根神經節、三叉神經節、結狀神經節等對周邊溫度敏感的感覺神經元→(2)脊髓→(3)腦幹LPB核區→(4)下視丘視前核區(POA)的溫度調節中樞。最新研究報導指出，IgE誘發的小鼠嚴重過敏性反應中核心體溫的顯著下降，與肥大細胞分泌物質活化上述溫度調節神經迴路，進而影響棕色脂肪(BAT)產熱作用有關。",
+      "options": [
+        "IgE/MCs的分子訊息分別活化表現TrpV1和TrpV4的感覺神經元，使二者產生動作電位",
+        "IgE/MCs的分子訊息分別活化表現部分的TrpV1和TrpV4的感覺神經元，使二者產生動作電位",
+        "IgE/MCs的分子訊息主要活化表現TrpV1的感覺神經元，使其產生動作電位",
+        "IgE/MCs的分子訊息主要活化表現TrpV4的感覺神經元，使其產生動作電位"
+      ],
+      "answer": "C",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 28,
+      "text": "科學家發現因IgE介導活化的肥大細胞所釋放的凝乳酶，具有活化溫度調節神經迴路的作用。綜合文章描述下列哪一示意圖較適合本文的結論？(註解：→活化；┫抑制)",
+      "passage": "**題組：26-28 題**\n免疫球蛋白E(IgE)誘發的嚴重過敏性反應(anaphylaxis)是一種急性且危及生命的免疫反應。人類的嚴重過敏性反應主要症狀是血壓急遽下降，而在實驗小鼠模式(正常體溫37±1°C)則在過敏發生30分鐘內核心體溫下降約6℃，這些都可能產生致命後果。過敏原會引發B細胞產生IgE，IgE與肥大細胞(MCs)形成結合體(IgE/MCs)，待過敏原再次進入身體時，會活化與IgE結合的肥大細胞，使其釋放發炎因子(包含組織胺、腫瘤壞死因子、血小板活化因子、蛋白酶等)。動物核心體溫平衡由溫度調節神經迴路所調控：(1)位於背根神經節、三叉神經節、結狀神經節等對周邊溫度敏感的感覺神經元→(2)脊髓→(3)腦幹LPB核區→(4)下視丘視前核區(POA)的溫度調節中樞。最新研究報導指出，IgE誘發的小鼠嚴重過敏性反應中核心體溫的顯著下降，與肥大細胞分泌物質活化上述溫度調節神經迴路，進而影響棕色脂肪(BAT)產熱作用有關。",
+      "options": [
+        "凝乳酶→TrpV1+/TrpV4+感覺神經元→脊髓→腦幹→溫度調節中樞→BAT產熱",
+        "凝乳酶→TrpV4+感覺神經元→脊髓→腦幹→溫度調節中樞→BAT產熱",
+        "凝乳酶→TrpV1+感覺神經元→脊髓→腦幹→溫度調節中樞┫BAT產熱",
+        "凝乳酶→TrpV4+感覺神經元→脊髓→腦幹→溫度調節中樞┫BAT產熱"
+      ],
+      "answer": "C",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 29,
+      "text": "小瑩在複式顯微鏡下觀察動物組織玻片，視野中觀察到少量細胞散佈於大量的細胞外基質中。下列相關敘述哪些正確？",
+      "passage": "**題組：26-28 題**\n免疫球蛋白E(IgE)誘發的嚴重過敏性反應(anaphylaxis)是一種急性且危及生命的免疫反應。人類的嚴重過敏性反應主要症狀是血壓急遽下降，而在實驗小鼠模式(正常體溫37±1°C)則在過敏發生30分鐘內核心體溫下降約6℃，這些都可能產生致命後果。過敏原會引發B細胞產生IgE，IgE與肥大細胞(MCs)形成結合體(IgE/MCs)，待過敏原再次進入身體時，會活化與IgE結合的肥大細胞，使其釋放發炎因子(包含組織胺、腫瘤壞死因子、血小板活化因子、蛋白酶等)。動物核心體溫平衡由溫度調節神經迴路所調控：(1)位於背根神經節、三叉神經節、結狀神經節等對周邊溫度敏感的感覺神經元→(2)脊髓→(3)腦幹LPB核區→(4)下視丘視前核區(POA)的溫度調節中樞。最新研究報導指出，IgE誘發的小鼠嚴重過敏性反應中核心體溫的顯著下降，與肥大細胞分泌物質活化上述溫度調節神經迴路，進而影響棕色脂肪(BAT)產熱作用有關。",
+      "options": [
+        "小瑩想把視野右上角的A細胞移至視野中央觀察，她應將玻片往左下方移動",
+        "由於視野中細胞數量稀少，若小瑩想看較多的細胞，她應該轉換成較高倍物鏡",
+        "在10倍物鏡下A細胞的最大直徑約為目鏡測微器的3小格長度，若於40倍物鏡下則約為12小格長度",
+        "該組織與脂肪、硬骨、軟骨和血液等組織同屬於結締組織",
+        "該組織多分布於口腔黏膜表面，以保護口腔"
+      ],
+      "answer": [
+        "C",
+        "D"
+      ],
+      "type": "multi",
+      "score": 2
+    },
+    {
+      "number": 30,
+      "text": "<br><img src=\"/images/ceec/112/分科/生物/q30.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n某生以顯微鏡觀察植物組織細胞，並比較有無加碘液的變化。組織切片加了碘液後呈藍黑色。根據上述結果該生所觀察的可能為下列哪一種組織細胞？",
+      "passage": "**題組：26-28 題**\n免疫球蛋白E(IgE)誘發的嚴重過敏性反應(anaphylaxis)是一種急性且危及生命的免疫反應。人類的嚴重過敏性反應主要症狀是血壓急遽下降，而在實驗小鼠模式(正常體溫37±1°C)則在過敏發生30分鐘內核心體溫下降約6℃，這些都可能產生致命後果。過敏原會引發B細胞產生IgE，IgE與肥大細胞(MCs)形成結合體(IgE/MCs)，待過敏原再次進入身體時，會活化與IgE結合的肥大細胞，使其釋放發炎因子(包含組織胺、腫瘤壞死因子、血小板活化因子、蛋白酶等)。動物核心體溫平衡由溫度調節神經迴路所調控：(1)位於背根神經節、三叉神經節、結狀神經節等對周邊溫度敏感的感覺神經元→(2)脊髓→(3)腦幹LPB核區→(4)下視丘視前核區(POA)的溫度調節中樞。最新研究報導指出，IgE誘發的小鼠嚴重過敏性反應中核心體溫的顯著下降，與肥大細胞分泌物質活化上述溫度調節神經迴路，進而影響棕色脂肪(BAT)產熱作用有關。",
+      "options": [
+        "馬鈴薯塊莖薄壁細胞",
+        "甘藷塊根表皮細胞",
+        "甜菜儲藏根木質部細胞",
+        "甘蔗儲藏莖形成層細胞\n\n**題組：31-32 題**\n採取測試者X和測試者Y二位同學的血液後，分別與含有抗體A或抗體B溶液反應，凝集反應結果如表3。\n\n表3\n\n| 測試者 | 抗體 A | 抗體 B |\n|---|---|---|\n| X | - | - |\n| Y | - | + |\n\n(註：+表示有凝集，-表示無凝集)"
+      ],
+      "answer": "A",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 31,
+      "text": "測試者X和Y的血型為何？",
+      "passage": "**題組：31-32 題**\n採取測試者X和測試者Y二位同學的血液後，分別與含有抗體A或抗體B溶液反應，凝集反應結果如表3。\n\n表3\n\n<div class=\"custom-table-container\" style=\"overflow-x:auto; margin: 1.5rem 0; white-space: normal;\"><table class=\"custom-exam-table\" style=\"width:100%; border-collapse: collapse; border: 1px solid #dee2e6; font-size: 1rem; background: #fff; border-radius: 6px; white-space: normal;\"><thead style=\"background: #f8f9fa; white-space: normal;\"><tr><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">測試者</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">抗體 A</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">抗體 B</th></tr></thead><tbody style=\"white-space: normal;\"><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">X</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">-</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">-</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">Y</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">-</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">+</td></tr></tbody></table></div>\n\n(註：+表示有凝集，-表示無凝集)",
+      "options": [
+        "X為AB型血，Y為B型血",
+        "X為AB型血，Y為A型血",
+        "X為O型血，Y為A型血",
+        "X為O型血，Y為B型血"
+      ],
+      "answer": "D",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 32,
+      "text": "將測試者S的血漿與測試者X和Y血液反應，皆無凝集反應。下列何者正確？",
+      "passage": "**題組：31-32 題**\n採取測試者X和測試者Y二位同學的血液後，分別與含有抗體A或抗體B溶液反應，凝集反應結果如表3。\n\n表3\n\n<div class=\"custom-table-container\" style=\"overflow-x:auto; margin: 1.5rem 0; white-space: normal;\"><table class=\"custom-exam-table\" style=\"width:100%; border-collapse: collapse; border: 1px solid #dee2e6; font-size: 1rem; background: #fff; border-radius: 6px; white-space: normal;\"><thead style=\"background: #f8f9fa; white-space: normal;\"><tr><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">測試者</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">抗體 A</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">抗體 B</th></tr></thead><tbody style=\"white-space: normal;\"><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">X</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">-</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">-</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">Y</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">-</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">+</td></tr></tbody></table></div>\n\n(註：+表示有凝集，-表示無凝集)",
+      "options": [
+        "S為B型或AB型",
+        "S為A型或B型",
+        "S為O型或AB型",
+        "S為O型或A型\n\n**題組：33-34 題**\n某生先準備酵母菌與糖水，再利用發酵管進行酵母菌對醣類發酵之觀測，據此回答下列問題。"
+      ],
+      "answer": "A",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 33,
+      "text": "<br><img src=\"/images/ceec/112/分科/生物/q33.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n下列對於實驗過程的說明，何者正確？",
+      "passage": "**題組：33-34 題**\n某生先準備酵母菌與糖水，再利用發酵管進行酵母菌對醣類發酵之觀測，據此回答下列問題。",
+      "options": [
+        "將酵母菌與糖水分別加入此發酵管後，需充分搖晃以讓兩者混合均勻",
+        "混合液體只能加到黑色箭頭標記處，以清楚觀測產氣情況",
+        "發酵進行時，在混合液表面可觀測到含有二氧化碳的氣泡",
+        "需在白色箭頭處塞入不可通氣的橡皮塞，留住氣體以準確記錄"
+      ],
+      "answer": "C",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 34,
+      "text": "<br><img src=\"/images/ceec/112/分科/生物/q34.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n某生在正確配置後開始進行甲、乙、丙三組的發酵實驗，結果顯示相對氣體產生量為：丙&gt;乙&gt;甲。下列敘述何者正確？",
+      "passage": "**題組：33-34 題**\n某生先準備酵母菌與糖水，再利用發酵管進行酵母菌對醣類發酵之觀測，據此回答下列問題。",
+      "options": [
+        "若甲組pH為7，那乙組pH可能是3",
+        "若甲組與丙組加入相同濃度且同種類的糖水，丙組的反應溫度可能為75°C",
+        "若乙組與丙組加入未知濃度等體積同種類的糖水，乙組的濃度可能較低",
+        "本實驗主要是觀測酵母菌的乳酸發酵作用"
+      ],
+      "answer": "C",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 35,
+      "text": "<br><img src=\"/images/ceec/112/分科/生物/q35.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n進行「花與果實多樣性」的探討活動時，學生們對花朵進行觀察。下列選項為不同學生的觀察心得，何者正確？",
+      "passage": "**題組：33-34 題**\n某生先準備酵母菌與糖水，再利用發酵管進行酵母菌對醣類發酵之觀測，據此回答下列問題。",
+      "options": [
+        "此花為輻射對稱",
+        "此花有多個雄蕊，較可能為風媒花",
+        "此花的雌蕊較雄蕊長，較可能為自花授粉",
+        "此花具有漂亮的斑紋，較可能為蟲媒花\n\n**題組：36-37 題**\n植物組織培養(Tissue culture)是在無菌情況下，將植株的一小部分放入特定培養基中，之後可以養成另一株完整的植物。請依據文本回答第36-37題。"
+      ],
+      "answer": "D",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 36,
+      "text": "下列有關組織培養的敘述，何者正確？",
+      "passage": "**題組：36-37 題**\n植物組織培養(Tissue culture)是在無菌情況下，將植株的一小部分放入特定培養基中，之後可以養成另一株完整的植物。請依據文本回答第36-37題。",
+      "options": [
+        "此技術是利用植物中多潛能幹細胞的特性",
+        "培養出的植物與來源植物應具有相同性狀",
+        "只要有適當的刺激，即使使用死細胞也可再活化而成為植株",
+        "為一種利用有性生殖來量產植物的技術"
+      ],
+      "answer": "B",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 37,
+      "text": "<br><img src=\"/images/ceec/112/分科/生物/q37.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n某生進行實驗，先以CK及植物激素甲(植物激素甲其濃度為[CK]的10倍)加入的培養基，培養出癒傷組織後，再改以CK及植物激素甲(植物激素甲其濃度為[CK]的100倍)加入的培養基培養。試問植物激素甲為何物？試問當甲的濃度比例升高時，可刺激未分化細胞形成何種構造？\n\n**題組：38-40 題**\n<br><img src=\"/images/ceec/112/分科/生物/q38.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n長尾巧織雀分布於非洲草原，繁殖季時雄鳥會在領域內低飛、展示尾羽，以吸引多隻雌鳥前來配對築巢。科學家為研究雄鳥尾羽長度與性擇之關聯，以繁殖季領域內的鳥巢數作為成功繁殖指標，捕捉雄鳥進行以下實驗操作：(1)縮短組：將尾羽剪短；(2)拉長組：黏貼羽毛、增加尾羽長度；(3)控制組A：不對尾羽做任何處理；(4)控制組B：將尾羽剪斷再黏回。調查發現，在實驗前後每隻雄鳥的領域沒有明顯變化，而領域內平均鳥巢數圖表顯示拉長組增加、縮短組減少。",
+      "passage": "**題組：36-37 題**\n植物組織培養(Tissue culture)是在無菌情況下，將植株的一小部分放入特定培養基中，之後可以養成另一株完整的植物。請依據文本回答第36-37題。",
+      "options": [],
+      "answer": "生長素(或吲哚乙酸或IAA)；根(或不定根)",
+      "type": "essay",
+      "score": 2
+    },
+    {
+      "number": 38,
+      "text": "四組雄鳥飛行展示尾羽的頻率(每30分鐘之平均次數)如表4所示，試問展示頻率與繁殖成功率的相關性為何？\n\n表4\n\n<div class=\"custom-table-container\" style=\"overflow-x:auto; margin: 1.5rem 0; white-space: normal;\"><table class=\"custom-exam-table\" style=\"width:100%; border-collapse: collapse; border: 1px solid #dee2e6; font-size: 1rem; background: #fff; border-radius: 6px; white-space: normal;\"><thead style=\"background: #f8f9fa; white-space: normal;\"><tr><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\"></th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">縮短組</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">拉長組</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">控制組 A</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">控制組 B</th></tr></thead><tbody style=\"white-space: normal;\"><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">實驗前</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">9.2</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">10.8</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">10.3</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">10.3</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">實驗後</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">10.3</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">7.8</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">6.9</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">6.9</td></tr></tbody></table></div>",
+      "passage": "**題組：38-40 題**\n<br><img src=\"/images/ceec/112/分科/生物/q38.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n長尾巧織雀分布於非洲草原，繁殖季時雄鳥會在領域內低飛、展示尾羽，以吸引多隻雌鳥前來配對築巢。科學家為研究雄鳥尾羽長度與性擇之關聯，以繁殖季領域內的鳥巢數作為成功繁殖指標，捕捉雄鳥進行以下實驗操作：(1)縮短組：將尾羽剪短；(2)拉長組：黏貼羽毛、增加尾羽長度；(3)控制組A：不對尾羽做任何處理；(4)控制組B：將尾羽剪斷再黏回。調查發現，在實驗前後每隻雄鳥的領域沒有明顯變化，而領域內平均鳥巢數圖表顯示拉長組增加、縮短組減少。",
+      "options": [],
+      "answer": "無關聯性(或無關或無或不明顯)",
+      "type": "essay",
+      "score": 2
+    },
+    {
+      "number": 39,
+      "text": "請說明本實驗為何需要控制組B？",
+      "passage": "",
+      "options": [],
+      "answer": "確認尾羽剪黏操作本身是否影響實驗結果",
+      "type": "essay",
+      "score": 2
+    },
+    {
+      "number": 40,
+      "text": "下列哪項推論最符合此項實驗的觀察結果？",
+      "passage": "",
+      "options": [
+        "雌鳥會依據雄鳥尾羽長度擇偶",
+        "雌鳥會依據雄鳥領域大小擇偶",
+        "雄鳥尾羽長度會影響領域範圍",
+        "尾羽有經修改後的雄鳥更吸引雌鳥\n\n**題組：41-43 題**\n生物體內與外在環境的變動會對生物體造成刺激。刺激的種類繁多，但生物體可藉由不同的感覺受器接受刺激，並因應刺激的種類及強弱，產生特定的生理反應或行為，以下為人體感覺受器相關的問題，回答第41-43題。"
+      ],
+      "answer": "A",
+      "type": "single",
+      "score": 2
+    },
+    {
+      "number": 41,
+      "text": "聽覺是聲波透過內耳耳蝸內淋巴液發生震動，進而誘發何種受器細胞產生電位變化？",
+      "passage": "**題組：41-43 題**\n生物體內與外在環境的變動會對生物體造成刺激。刺激的種類繁多，但生物體可藉由不同的感覺受器接受刺激，並因應刺激的種類及強弱，產生特定的生理反應或行為，以下為人體感覺受器相關的問題，回答第41-43題。",
+      "options": [],
+      "answer": "毛細胞(或機械性受器細胞或機械受器)",
+      "type": "essay",
+      "score": 2
+    },
+    {
+      "number": 42,
+      "text": "哪一種化學受器是特化的神經細胞，可接受外在環境中化學物質的刺激？",
+      "passage": "**題組：41-43 題**\n生物體內與外在環境的變動會對生物體造成刺激。刺激的種類繁多，但生物體可藉由不同的感覺受器接受刺激，並因應刺激的種類及強弱，產生特定的生理反應或行為，以下為人體感覺受器相關的問題，回答第41-43題。",
+      "options": [],
+      "answer": "嗅細胞(或嗅覺感覺神經元或嗅覺受器或嗅覺神經元)",
+      "type": "essay",
+      "score": 2
+    },
+    {
+      "number": 43,
+      "text": "請寫出人類眼睛與彩色視覺相關，可以偵測特定波長範圍光線的光受器名稱。\n\n**題組：44-45 題**\n<br><img src=\"/images/ceec/112/分科/生物/q44_45.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n科學家在2023年發現了細胞感染新型冠狀病毒(SARS-CoV-2)後，造成DNA損傷的作用機制：在SARS-CoV-2感染的細胞中，參與強化細胞週期停滯的CHK1的表現量會受到影響，接著影響CHK1下游因子RRM2(ribonucleoside-diphosphate reductase subunit M2)的表現，導致三磷酸去氧核苷酸(dNTPs)失衡，最終造成DNA損傷。圖11甲為CHK1與RRM2的mRNA表現量。圖11乙則是用西方墨點法所進行的蛋白質表現量偵測，帶狀訊號的粗細與蛋白質表現量有正相關性，H3指確定蛋白質樣本使用量相同，病毒N指確認病毒有感染成功。根據以上所提供的資訊及所學知識回答44-45題。",
+      "passage": "**題組：41-43 題**\n生物體內與外在環境的變動會對生物體造成刺激。刺激的種類繁多，但生物體可藉由不同的感覺受器接受刺激，並因應刺激的種類及強弱，產生特定的生理反應或行為，以下為人體感覺受器相關的問題，回答第41-43題。",
+      "options": [],
+      "answer": "視錐細胞(或錐狀細胞或錐細胞)",
+      "type": "essay",
+      "score": 2
+    },
+    {
+      "number": 44,
+      "text": "根據圖11甲與圖11乙，描述CHK1在病毒感染後的CHK1蛋白質表現量有何變化？",
+      "passage": "**題組：44-45 題**\n<br><img src=\"/images/ceec/112/分科/生物/q44_45.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n科學家在2023年發現了細胞感染新型冠狀病毒(SARS-CoV-2)後，造成DNA損傷的作用機制：在SARS-CoV-2感染的細胞中，參與強化細胞週期停滯的CHK1的表現量會受到影響，接著影響CHK1下游因子RRM2(ribonucleoside-diphosphate reductase subunit M2)的表現，導致三磷酸去氧核苷酸(dNTPs)失衡，最終造成DNA損傷。圖11甲為CHK1與RRM2的mRNA表現量。圖11乙則是用西方墨點法所進行的蛋白質表現量偵測，帶狀訊號的粗細與蛋白質表現量有正相關性，H3指確定蛋白質樣本使用量相同，病毒N指確認病毒有感染成功。根據以上所提供的資訊及所學知識回答44-45題。",
+      "options": [],
+      "answer": "病毒感染造成CHK1蛋白質表現量下降",
+      "type": "essay",
+      "score": 2
+    },
+    {
+      "number": 45,
+      "text": "病毒造成三磷酸去氧核苷酸(dNTPs)失衡現象如圖11丙所示，此現象最有可能影響細胞週期中的哪一個階段？為什麼？\n\n**題組：46-48 題**\n赫希(Hershey)和蔡斯(Chase)的噬菌體實驗證明遺傳物質為DNA，他們以不同的放射性同位素分別標定噬菌體的DNA和蛋白質殼體，再分別感染大腸桿菌。一段時間後，以果汁機攪拌，再以離心機離心，使試管中的培養液產生沉澱物和上方的懸浮液。本實驗的重大成就是證明進入細菌體內的遺傳物質是噬菌體的DNA。根據以上所提供的資訊及所學知識回答46-48題。",
+      "passage": "**題組：44-45 題**\n<br><img src=\"/images/ceec/112/分科/生物/q44_45.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n科學家在2023年發現了細胞感染新型冠狀病毒(SARS-CoV-2)後，造成DNA損傷的作用機制：在SARS-CoV-2感染的細胞中，參與強化細胞週期停滯的CHK1的表現量會受到影響，接著影響CHK1下游因子RRM2(ribonucleoside-diphosphate reductase subunit M2)的表現，導致三磷酸去氧核苷酸(dNTPs)失衡，最終造成DNA損傷。圖11甲為CHK1與RRM2的mRNA表現量。圖11乙則是用西方墨點法所進行的蛋白質表現量偵測，帶狀訊號的粗細與蛋白質表現量有正相關性，H3指確定蛋白質樣本使用量相同，病毒N指確認病毒有感染成功。根據以上所提供的資訊及所學知識回答44-45題。",
+      "options": [],
+      "answer": "間期(或S期)；因會進行DNA複製，但細胞中的原料不足。",
+      "type": "essay",
+      "score": 2
+    },
+    {
+      "number": 46,
+      "text": "赫希和蔡斯以何種放射性同位素標定噬菌體的蛋白質分子？",
+      "passage": "**題組：46-48 題**\n赫希(Hershey)和蔡斯(Chase)的噬菌體實驗證明遺傳物質為DNA，他們以不同的放射性同位素分別標定噬菌體的DNA和蛋白質殼體，再分別感染大腸桿菌。一段時間後，以果汁機攪拌，再以離心機離心，使試管中的培養液產生沉澱物和上方的懸浮液。本實驗的重大成就是證明進入細菌體內的遺傳物質是噬菌體的DNA。根據以上所提供的資訊及所學知識回答46-48題。",
+      "options": [],
+      "answer": "35S",
+      "type": "essay",
+      "score": 2
+    },
+    {
+      "number": 47,
+      "text": "以果汁機攪拌的目的為何？",
+      "passage": "**題組：46-48 題**\n赫希(Hershey)和蔡斯(Chase)的噬菌體實驗證明遺傳物質為DNA，他們以不同的放射性同位素分別標定噬菌體的DNA和蛋白質殼體，再分別感染大腸桿菌。一段時間後，以果汁機攪拌，再以離心機離心，使試管中的培養液產生沉澱物和上方的懸浮液。本實驗的重大成就是證明進入細菌體內的遺傳物質是噬菌體的DNA。根據以上所提供的資訊及所學知識回答46-48題。",
+      "options": [],
+      "answer": "使附著在大腸桿菌上的噬菌體和大腸桿菌分開",
+      "type": "essay",
+      "score": 2
+    },
+    {
+      "number": 48,
+      "text": "若有一實驗重組的噬菌體具有A種噬菌體的蛋白質殼體和B種噬菌體的DNA，則感染細菌後，新產生的噬菌體蛋白質殼體具有何種噬菌體特性？",
+      "passage": "**題組：46-48 題**\n赫希(Hershey)和蔡斯(Chase)的噬菌體實驗證明遺傳物質為DNA，他們以不同的放射性同位素分別標定噬菌體的DNA和蛋白質殼體，再分別感染大腸桿菌。一段時間後，以果汁機攪拌，再以離心機離心，使試管中的培養液產生沉澱物和上方的懸浮液。本實驗的重大成就是證明進入細菌體內的遺傳物質是噬菌體的DNA。根據以上所提供的資訊及所學知識回答46-48題。",
+      "options": [],
+      "answer": "B噬菌體",
+      "type": "essay",
+      "score": 2
+    }
+  ]
+}
