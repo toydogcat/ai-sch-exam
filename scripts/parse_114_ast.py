@@ -148,23 +148,29 @@ def parse_markdown_to_json(md_path, year, subject_key, title, duration):
         clean_q_text = re.sub(r'請記得在答題卷.*', '', clean_q_text)
         clean_q_text = clean_q_text.strip()
         
-        if not re.match(rf'^\s*{q_num}\s*[.、]', clean_q_text):
-            clean_q_text = f"{q_num}. {clean_q_text}"
-
         options = []
         if q_type in ["single", "multi"]:
-            if "(A)" in q_block or "(B)" in q_block:
-                labels = []
-                for l in ["(A)", "(B)", "(C)", "(D)", "(E)", "(F)", "(G)"]:
-                    if l in q_block: labels.append(l)
-                options = labels if labels else ["(A)", "(B)", "(C)", "(D)", "(E)"]
-            elif "(1)" in q_block or "(2)" in q_block:
-                labels = []
-                for l in ["(1)", "(2)", "(3)", "(4)", "(5)", "(6)", "(7)"]:
-                    if l in q_block: labels.append(l)
-                options = labels if labels else ["(1)", "(2)", "(3)", "(4)", "(5)"]
+            if "(A)" in clean_q_text:
+                opt_matches = re.findall(r'\(([A-G])\)\s*(.*?)(?=\s*\([A-G]\)|$)', clean_q_text, re.DOTALL)
+            elif "(1)" in clean_q_text:
+                opt_matches = re.findall(r'\(([1-7])\)\s*(.*?)(?=\s*\([1-7]\)|$)', clean_q_text, re.DOTALL)
+            else:
+                opt_matches = []
+
+            if opt_matches:
+                for opt_label, opt_val in opt_matches:
+                    options.append(opt_val.strip())
+                first_label = opt_matches[0][0]
+                clean_q_text = clean_q_text.split(f"({first_label})")[0].strip()
             else:
                 options = ["(A)", "(B)", "(C)", "(D)", "(E)"]
+
+
+        clean_q_text = clean_q_text.replace("<", "&lt;").replace(">", "&gt;")
+        if current_passage:
+            current_passage = current_passage.replace("<", "&lt;").replace(">", "&gt;")
+        options = [opt.replace("<", "&lt;").replace(">", "&gt;") for opt in options]
+
 
         parsed_ans = q_ans
         if q_type == "multi" or "," in q_ans:
