@@ -1,0 +1,3204 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "text": "已知 $f(x) = 1x^2 + 2$，試問此函數在 $y$ 軸上的截距為何？",
+      "options": [
+        "$3$",
+        "$1$",
+        "$2$",
+        "$0$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "截距即為 $x=0$ 時的函數值：$f(0) = 1(0)^2 + 2 = 2$。\n\n---",
+      "chapter": "Ch1 1.1節：函數的表示法",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "下列哪一個函數的對稱軸為 $y$ 軸（即偶函數）？",
+      "options": [
+        "$f(x) = x^{5}$",
+        "$f(x) = x^{4}$",
+        "$f(x) = x + 2$",
+        "$f(x) = \\sin(x)$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "偶函數滿足 $f(-x) = f(x)$。若最高次方為偶數 $2n$，則對應為偶函數。\n\n---",
+      "chapter": "Ch1 1.1節：函數的表示法",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "求函數 $f(x) = \\sqrt{x - 3}$ 的定義域為何？",
+      "options": [
+        "$[3, \\infty)$",
+        "$(3, \\infty)$",
+        "$(-\\infty, 3]$",
+        "$\\mathbb{R}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "根號內部不可為負數，故 $x - 3 \\geq 0 \\implies x \\geq 3$，即 $[3, \\infty)$。\n\n---",
+      "chapter": "Ch1 1.1節：函數的表示法",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "已知 $f(x) = 4x^2 + 2$，試問此函數在 $y$ 軸上的截距為何？",
+      "options": [
+        "$0$",
+        "$4$",
+        "$6$",
+        "$2$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "截距即為 $x=0$ 時的函數值：$f(0) = 4(0)^2 + 2 = 2$。\n\n---",
+      "chapter": "Ch1 1.1節：函數的表示法",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "下列哪一個函數的對稱軸為 $y$ 軸（即偶函數）？",
+      "options": [
+        "$f(x) = x + 5$",
+        "$f(x) = x^{11}$",
+        "$f(x) = x^{10}$",
+        "$f(x) = \\sin(x)$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "偶函數滿足 $f(-x) = f(x)$。若最高次方為偶數 $2n$，則對應為偶函數。\n\n---",
+      "chapter": "Ch1 1.1節：函數的表示法",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "求函數 $f(x) = \\sqrt{x - 6}$ 的定義域為何？",
+      "options": [
+        "$(6, \\infty)$",
+        "$[6, \\infty)$",
+        "$(-\\infty, 6]$",
+        "$\\mathbb{R}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "根號內部不可為負數，故 $x - 6 \\geq 0 \\implies x \\geq 6$，即 $[6, \\infty)$。\n\n---",
+      "chapter": "Ch1 1.1節：函數的表示法",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "已知 $f(x) = 7x^2 + 2$，試問此函數在 $y$ 軸上的截距為何？",
+      "options": [
+        "$2$",
+        "$7$",
+        "$9$",
+        "$0$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "截距即為 $x=0$ 時的函數值：$f(0) = 7(0)^2 + 2 = 2$。\n\n---",
+      "chapter": "Ch1 1.1節：函數的表示法",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "下列哪一個函數的對稱軸為 $y$ 軸（即偶函數）？",
+      "options": [
+        "$f(x) = \\sin(x)$",
+        "$f(x) = x^{17}$",
+        "$f(x) = x + 8$",
+        "$f(x) = x^{16}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "偶函數滿足 $f(-x) = f(x)$。若最高次方為偶數 $2n$，則對應為偶函數。\n\n---",
+      "chapter": "Ch1 1.1節：函數的表示法",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "求函數 $f(x) = \\sqrt{x - 9}$ 的定義域為何？",
+      "options": [
+        "$(-\\infty, 9]$",
+        "$(9, \\infty)$",
+        "$[9, \\infty)$",
+        "$\\mathbb{R}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根號內部不可為負數，故 $x - 9 \\geq 0 \\implies x \\geq 9$，即 $[9, \\infty)$。\n\n---",
+      "chapter": "Ch1 1.1節：函數的表示法",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "已知 $f(x) = 10x^2 + 2$，試問此函數在 $y$ 軸上的截距為何？",
+      "options": [
+        "$10$",
+        "$2$",
+        "$12$",
+        "$0$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "截距即為 $x=0$ 時的函數值：$f(0) = 10(0)^2 + 2 = 2$。\n\n---",
+      "chapter": "Ch1 1.1節：函數的表示法",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "下列哪一個函數的對稱軸為 $y$ 軸（即偶函數）？",
+      "options": [
+        "$f(x) = x^{22}$",
+        "$f(x) = x^{23}$",
+        "$f(x) = x + 11$",
+        "$f(x) = \\sin(x)$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "偶函數滿足 $f(-x) = f(x)$。若最高次方為偶數 $2n$，則對應為偶函數。\n\n---",
+      "chapter": "Ch1 1.1節：函數的表示法",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "求函數 $f(x) = \\sqrt{x - 12}$ 的定義域為何？",
+      "options": [
+        "$\\mathbb{R}$",
+        "$(12, \\infty)$",
+        "$(-\\infty, 12]$",
+        "$[12, \\infty)$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根號內部不可為負數，故 $x - 12 \\geq 0 \\implies x \\geq 12$，即 $[12, \\infty)$。\n\n---",
+      "chapter": "Ch1 1.1節：函數的表示法",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "已知 $f(x) = 13x^2 + 2$，試問此函數在 $y$ 軸上的截距為何？",
+      "options": [
+        "$15$",
+        "$13$",
+        "$2$",
+        "$0$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "截距即為 $x=0$ 時的函數值：$f(0) = 13(0)^2 + 2 = 2$。\n\n---",
+      "chapter": "Ch1 1.1節：函數的表示法",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "下列哪一個函數的對稱軸為 $y$ 軸（即偶函數）？",
+      "options": [
+        "$f(x) = x^{29}$",
+        "$f(x) = x^{28}$",
+        "$f(x) = x + 14$",
+        "$f(x) = \\sin(x)$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "偶函數滿足 $f(-x) = f(x)$。若最高次方為偶數 $2n$，則對應為偶函數。\n\n---",
+      "chapter": "Ch1 1.1節：函數的表示法",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "求函數 $f(x) = \\sqrt{x - 15}$ 的定義域為何？",
+      "options": [
+        "$[15, \\infty)$",
+        "$(15, \\infty)$",
+        "$(-\\infty, 15]$",
+        "$\\mathbb{R}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "根號內部不可為負數，故 $x - 15 \\geq 0 \\implies x \\geq 15$，即 $[15, \\infty)$。\n\n---",
+      "chapter": "Ch1 1.1節：函數的表示法",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "已知 $f(x) = 16x^2 + 2$，試問此函數在 $y$ 軸上的截距為何？",
+      "options": [
+        "$0$",
+        "$16$",
+        "$18$",
+        "$2$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "截距即為 $x=0$ 時的函數值：$f(0) = 16(0)^2 + 2 = 2$。\n\n---",
+      "chapter": "Ch1 1.1節：函數的表示法",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "下列哪一個函數的對稱軸為 $y$ 軸（即偶函數）？",
+      "options": [
+        "$f(x) = x + 17$",
+        "$f(x) = x^{35}$",
+        "$f(x) = x^{34}$",
+        "$f(x) = \\sin(x)$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "偶函數滿足 $f(-x) = f(x)$。若最高次方為偶數 $2n$，則對應為偶函數。\n\n---",
+      "chapter": "Ch1 1.1節：函數的表示法",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "求函數 $f(x) = \\sqrt{x - 18}$ 的定義域為何？",
+      "options": [
+        "$(18, \\infty)$",
+        "$[18, \\infty)$",
+        "$(-\\infty, 18]$",
+        "$\\mathbb{R}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "根號內部不可為負數，故 $x - 18 \\geq 0 \\implies x \\geq 18$，即 $[18, \\infty)$。\n\n---",
+      "chapter": "Ch1 1.1節：函數的表示法",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "已知 $f(x) = 19x^2 + 2$，試問此函數在 $y$ 軸上的截距為何？",
+      "options": [
+        "$2$",
+        "$19$",
+        "$21$",
+        "$0$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "截距即為 $x=0$ 時的函數值：$f(0) = 19(0)^2 + 2 = 2$。\n\n---",
+      "chapter": "Ch1 1.1節：函數的表示法",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "下列哪一個函數的對稱軸為 $y$ 軸（即偶函數）？",
+      "options": [
+        "$f(x) = \\sin(x)$",
+        "$f(x) = x^{41}$",
+        "$f(x) = x + 20$",
+        "$f(x) = x^{40}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "偶函數滿足 $f(-x) = f(x)$。若最高次方為偶數 $2n$，則對應為偶函數。\n\n---",
+      "chapter": "Ch1 1.1節：函數的表示法",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "已知 $f(x) = 3x - 1$，試求當 $x = 21$ 時，$f(x)$ 的精確函數值為何？",
+      "options": [],
+      "answer": "62",
+      "type": "fill",
+      "solution": "直接代入 $x=21 \\implies 3(21) - 1 = 62$。\n\n---",
+      "chapter": "Ch1 1.1節：函數的表示法",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "已知 $f(x) = 3x - 1$，試求當 $x = 22$ 時，$f(x)$ 的精確函數值為何？",
+      "options": [],
+      "answer": "65",
+      "type": "fill",
+      "solution": "直接代入 $x=22 \\implies 3(22) - 1 = 65$。\n\n---",
+      "chapter": "Ch1 1.1節：函數的表示法",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "已知 $f(x) = 3x - 1$，試求當 $x = 23$ 時，$f(x)$ 的精確函數值為何？",
+      "options": [],
+      "answer": "68",
+      "type": "fill",
+      "solution": "直接代入 $x=23 \\implies 3(23) - 1 = 68$。\n\n---",
+      "chapter": "Ch1 1.1節：函數的表示法",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "已知 $f(x) = 3x - 1$，試求當 $x = 24$ 時，$f(x)$ 的精確函數值為何？",
+      "options": [],
+      "answer": "71",
+      "type": "fill",
+      "solution": "直接代入 $x=24 \\implies 3(24) - 1 = 71$。\n\n---",
+      "chapter": "Ch1 1.1節：函數的表示法",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "已知 $f(x) = 3x - 1$，試求當 $x = 25$ 時，$f(x)$ 的精確函數值為何？",
+      "options": [],
+      "answer": "74",
+      "type": "fill",
+      "solution": "直接代入 $x=25 \\implies 3(25) - 1 = 74$。\n\n---",
+      "chapter": "Ch1 1.1節：函數的表示法",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "已知 $f(x) = 3x - 1$，試求當 $x = 26$ 時，$f(x)$ 的精確函數值為何？",
+      "options": [],
+      "answer": "77",
+      "type": "fill",
+      "solution": "直接代入 $x=26 \\implies 3(26) - 1 = 77$。\n\n---",
+      "chapter": "Ch1 1.1節：函數的表示法",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "已知 $f(x) = 3x - 1$，試求當 $x = 27$ 時，$f(x)$ 的精確函數值為何？",
+      "options": [],
+      "answer": "80",
+      "type": "fill",
+      "solution": "直接代入 $x=27 \\implies 3(27) - 1 = 80$。\n\n---",
+      "chapter": "Ch1 1.1節：函數的表示法",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "已知 $f(x) = 3x - 1$，試求當 $x = 28$ 時，$f(x)$ 的精確函數值為何？",
+      "options": [],
+      "answer": "83",
+      "type": "fill",
+      "solution": "直接代入 $x=28 \\implies 3(28) - 1 = 83$。\n\n---",
+      "chapter": "Ch1 1.1節：函數的表示法",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "已知 $f(x) = 3x - 1$，試求當 $x = 29$ 時，$f(x)$ 的精確函數值為何？",
+      "options": [],
+      "answer": "86",
+      "type": "fill",
+      "solution": "直接代入 $x=29 \\implies 3(29) - 1 = 86$。\n\n---",
+      "chapter": "Ch1 1.1節：函數的表示法",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "已知 $f(x) = 3x - 1$，試求當 $x = 30$ 時，$f(x)$ 的精確函數值為何？",
+      "options": [],
+      "answer": "89",
+      "type": "fill",
+      "solution": "直接代入 $x=30 \\implies 3(30) - 1 = 89$。",
+      "chapter": "Ch1 1.1節：函數的表示法",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "求極限值 $\\lim_{x \\to 1} \\frac{x^2 - 1}{x - 1}$。",
+      "options": [
+        "$2$",
+        "$1$",
+        "$1$",
+        "不存在"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "因式分解分子：$\\lim_{x \\to 1} \\frac{(x-1)(x+1)}{x-1} = \\lim_{x \\to 1} (x+1) = 2$。\n\n---",
+      "chapter": "Ch1 1.2節：數學模型與基本函數",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "已知極限 $\\lim_{x \\to 2} \\frac{k}{x} = 2$，試問常數 $k$ 的值為何？",
+      "options": [
+        "$3$",
+        "$2$",
+        "$5$",
+        "$4$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "代入極限：$\\frac{k}{2} = 2 \\implies k = 4$。\n\n---",
+      "chapter": "Ch1 1.2節：數學模型與基本函數",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "求極限值 $\\lim_{x \\to 3} (3x + 1)$。",
+      "options": [
+        "$13$",
+        "$8$",
+        "$10$",
+        "$20$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "直接將 $x=3$ 代入：$3(3) + 1 = 10$。\n\n---",
+      "chapter": "Ch1 1.2節：數學模型與基本函數",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "求極限值 $\\lim_{x \\to 4} \\frac{x^2 - 16}{x - 4}$。",
+      "options": [
+        "$4$",
+        "$8$",
+        "$16$",
+        "不存在"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "因式分解分子：$\\lim_{x \\to 4} \\frac{(x-4)(x+4)}{x-4} = \\lim_{x \\to 4} (x+4) = 8$。\n\n---",
+      "chapter": "Ch1 1.2節：數學模型與基本函數",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "已知極限 $\\lim_{x \\to 5} \\frac{k}{x} = 2$，試問常數 $k$ 的值為何？",
+      "options": [
+        "$10$",
+        "$5$",
+        "$11$",
+        "$9$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入極限：$\\frac{k}{5} = 2 \\implies k = 10$。\n\n---",
+      "chapter": "Ch1 1.2節：數學模型與基本函數",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "求極限值 $\\lim_{x \\to 6} (6x + 1)$。",
+      "options": [
+        "$74$",
+        "$35$",
+        "$40$",
+        "$37$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "直接將 $x=6$ 代入：$6(6) + 1 = 37$。\n\n---",
+      "chapter": "Ch1 1.2節：數學模型與基本函數",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "求極限值 $\\lim_{x \\to 7} \\frac{x^2 - 49}{x - 7}$。",
+      "options": [
+        "$49$",
+        "$7$",
+        "$14$",
+        "不存在"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "因式分解分子：$\\lim_{x \\to 7} \\frac{(x-7)(x+7)}{x-7} = \\lim_{x \\to 7} (x+7) = 14$。\n\n---",
+      "chapter": "Ch1 1.2節：數學模型與基本函數",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "已知極限 $\\lim_{x \\to 8} \\frac{k}{x} = 2$，試問常數 $k$ 的值為何？",
+      "options": [
+        "$8$",
+        "$16$",
+        "$17$",
+        "$15$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入極限：$\\frac{k}{8} = 2 \\implies k = 16$。\n\n---",
+      "chapter": "Ch1 1.2節：數學模型與基本函數",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "求極限值 $\\lim_{x \\to 9} (9x + 1)$。",
+      "options": [
+        "$82$",
+        "$80$",
+        "$85$",
+        "$164$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "直接將 $x=9$ 代入：$9(9) + 1 = 82$。\n\n---",
+      "chapter": "Ch1 1.2節：數學模型與基本函數",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "求極限值 $\\lim_{x \\to 10} \\frac{x^2 - 100}{x - 10}$。",
+      "options": [
+        "不存在",
+        "$10$",
+        "$100$",
+        "$20$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "因式分解分子：$\\lim_{x \\to 10} \\frac{(x-10)(x+10)}{x-10} = \\lim_{x \\to 10} (x+10) = 20$。\n\n---",
+      "chapter": "Ch1 1.2節：數學模型與基本函數",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "已知極限 $\\lim_{x \\to 11} \\frac{k}{x} = 2$，試問常數 $k$ 的值為何？",
+      "options": [
+        "$23$",
+        "$11$",
+        "$22$",
+        "$21$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "代入極限：$\\frac{k}{11} = 2 \\implies k = 22$。\n\n---",
+      "chapter": "Ch1 1.2節：數學模型與基本函數",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "求極限值 $\\lim_{x \\to 12} (12x + 1)$。",
+      "options": [
+        "$143$",
+        "$145$",
+        "$148$",
+        "$290$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "直接將 $x=12$ 代入：$12(12) + 1 = 145$。\n\n---",
+      "chapter": "Ch1 1.2節：數學模型與基本函數",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "求極限值 $\\lim_{x \\to 13} \\frac{x^2 - 169}{x - 13}$。",
+      "options": [
+        "$26$",
+        "$13$",
+        "$169$",
+        "不存在"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "因式分解分子：$\\lim_{x \\to 13} \\frac{(x-13)(x+13)}{x-13} = \\lim_{x \\to 13} (x+13) = 26$。\n\n---",
+      "chapter": "Ch1 1.2節：數學模型與基本函數",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "已知極限 $\\lim_{x \\to 14} \\frac{k}{x} = 2$，試問常數 $k$ 的值為何？",
+      "options": [
+        "$27$",
+        "$14$",
+        "$29$",
+        "$28$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "代入極限：$\\frac{k}{14} = 2 \\implies k = 28$。\n\n---",
+      "chapter": "Ch1 1.2節：數學模型與基本函數",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "求極限值 $\\lim_{x \\to 15} (15x + 1)$。",
+      "options": [
+        "$229$",
+        "$224$",
+        "$226$",
+        "$452$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "直接將 $x=15$ 代入：$15(15) + 1 = 226$。\n\n---",
+      "chapter": "Ch1 1.2節：數學模型與基本函數",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "求極限值 $\\lim_{x \\to 16} \\frac{x^2 - 256}{x - 16}$。",
+      "options": [
+        "$16$",
+        "$32$",
+        "$256$",
+        "不存在"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "因式分解分子：$\\lim_{x \\to 16} \\frac{(x-16)(x+16)}{x-16} = \\lim_{x \\to 16} (x+16) = 32$。\n\n---",
+      "chapter": "Ch1 1.2節：數學模型與基本函數",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "已知極限 $\\lim_{x \\to 17} \\frac{k}{x} = 2$，試問常數 $k$ 的值為何？",
+      "options": [
+        "$34$",
+        "$17$",
+        "$35$",
+        "$33$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入極限：$\\frac{k}{17} = 2 \\implies k = 34$。\n\n---",
+      "chapter": "Ch1 1.2節：數學模型與基本函數",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "求極限值 $\\lim_{x \\to 18} (18x + 1)$。",
+      "options": [
+        "$650$",
+        "$323$",
+        "$328$",
+        "$325$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "直接將 $x=18$ 代入：$18(18) + 1 = 325$。\n\n---",
+      "chapter": "Ch1 1.2節：數學模型與基本函數",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "求極限值 $\\lim_{x \\to 19} \\frac{x^2 - 361}{x - 19}$。",
+      "options": [
+        "$361$",
+        "$19$",
+        "$38$",
+        "不存在"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "因式分解分子：$\\lim_{x \\to 19} \\frac{(x-19)(x+19)}{x-19} = \\lim_{x \\to 19} (x+19) = 38$。\n\n---",
+      "chapter": "Ch1 1.2節：數學模型與基本函數",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "已知極限 $\\lim_{x \\to 20} \\frac{k}{x} = 2$，試問常數 $k$ 的值為何？",
+      "options": [
+        "$20$",
+        "$40$",
+        "$41$",
+        "$39$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入極限：$\\frac{k}{20} = 2 \\implies k = 40$。\n\n---",
+      "chapter": "Ch1 1.2節：數學模型與基本函數",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "求極限值 $\\lim_{x \\to 21} (x^2 - 1)$。",
+      "options": [],
+      "answer": "440",
+      "type": "fill",
+      "solution": "直接代入 $x=21 \\implies 21^2 - 1 = 440$。\n\n---",
+      "chapter": "Ch1 1.2節：數學模型與基本函數",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "求極限值 $\\lim_{x \\to 22} (x^2 - 1)$。",
+      "options": [],
+      "answer": "483",
+      "type": "fill",
+      "solution": "直接代入 $x=22 \\implies 22^2 - 1 = 483$。\n\n---",
+      "chapter": "Ch1 1.2節：數學模型與基本函數",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "求極限值 $\\lim_{x \\to 23} (x^2 - 1)$。",
+      "options": [],
+      "answer": "528",
+      "type": "fill",
+      "solution": "直接代入 $x=23 \\implies 23^2 - 1 = 528$。\n\n---",
+      "chapter": "Ch1 1.2節：數學模型與基本函數",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "求極限值 $\\lim_{x \\to 24} (x^2 - 1)$。",
+      "options": [],
+      "answer": "575",
+      "type": "fill",
+      "solution": "直接代入 $x=24 \\implies 24^2 - 1 = 575$。\n\n---",
+      "chapter": "Ch1 1.2節：數學模型與基本函數",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "求極限值 $\\lim_{x \\to 25} (x^2 - 1)$。",
+      "options": [],
+      "answer": "624",
+      "type": "fill",
+      "solution": "直接代入 $x=25 \\implies 25^2 - 1 = 624$。\n\n---",
+      "chapter": "Ch1 1.2節：數學模型與基本函數",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "求極限值 $\\lim_{x \\to 26} (x^2 - 1)$。",
+      "options": [],
+      "answer": "675",
+      "type": "fill",
+      "solution": "直接代入 $x=26 \\implies 26^2 - 1 = 675$。\n\n---",
+      "chapter": "Ch1 1.2節：數學模型與基本函數",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "求極限值 $\\lim_{x \\to 27} (x^2 - 1)$。",
+      "options": [],
+      "answer": "728",
+      "type": "fill",
+      "solution": "直接代入 $x=27 \\implies 27^2 - 1 = 728$。\n\n---",
+      "chapter": "Ch1 1.2節：數學模型與基本函數",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "求極限值 $\\lim_{x \\to 28} (x^2 - 1)$。",
+      "options": [],
+      "answer": "783",
+      "type": "fill",
+      "solution": "直接代入 $x=28 \\implies 28^2 - 1 = 783$。\n\n---",
+      "chapter": "Ch1 1.2節：數學模型與基本函數",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "求極限值 $\\lim_{x \\to 29} (x^2 - 1)$。",
+      "options": [],
+      "answer": "840",
+      "type": "fill",
+      "solution": "直接代入 $x=29 \\implies 29^2 - 1 = 840$。\n\n---",
+      "chapter": "Ch1 1.2節：數學模型與基本函數",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "求極限值 $\\lim_{x \\to 30} (x^2 - 1)$。",
+      "options": [],
+      "answer": "899",
+      "type": "fill",
+      "solution": "直接代入 $x=30 \\implies 30^2 - 1 = 899$。",
+      "chapter": "Ch1 1.2節：數學模型與基本函數",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "已知 $f(x) = 3x + 1$，$g(x) = x^2$，試求複合函數 $(f \\circ g)(x)$ 的解析式為何？",
+      "options": [
+        "$3x^2 + 3$",
+        "$(3x+1)^2$",
+        "$3x^2 + 1$",
+        "$x^2 + 3$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "複合函數 $(f \\circ g)(x) = f(g(x)) = f(x^2) = 3x^2 + 1$。\n\n---",
+      "chapter": "Ch1 1.3節：新舊函數的變換",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "已知 $f(x) = \\sqrt{x}$，若要將圖形沿垂直方向拉伸 4 倍，應如何表示新函數？",
+      "options": [
+        "$4\\sqrt{x}$",
+        "$\\sqrt{4x}$",
+        "$\\sqrt{x} + 4$",
+        "$\\sqrt{x - 4}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "沿垂直方向拉伸 4 倍，代表將函數值乘以 4，故表示為 $4\\sqrt{x}$。\n\n---",
+      "chapter": "Ch1 1.3節：新舊函數的變換",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "設 $f(x) = x^2$，若將此函數向右平移 5 個單位、向上平移 3 個單位，新函數 $g(x)$ 為何？",
+      "options": [
+        "$(x+5)^2 - 3$",
+        "$(x+5)^2 + 3$",
+        "$(x-5)^2 - 3$",
+        "$(x-5)^2 + 3$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "向右平移 5 個單位代表將 $x$ 替換為 $x-5$，向上平移 3 個單位代表加上 3。故為 $(x-5)^2 + 3$。\n\n---",
+      "chapter": "Ch1 1.3節：新舊函數的變換",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "已知 $f(x) = 6x + 1$，$g(x) = x^2$，試求複合函數 $(f \\circ g)(x)$ 的解析式為何？",
+      "options": [
+        "$(6x+1)^2$",
+        "$6x^2 + 1$",
+        "$6x^2 + 6$",
+        "$x^2 + 6$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "複合函數 $(f \\circ g)(x) = f(g(x)) = f(x^2) = 6x^2 + 1$。\n\n---",
+      "chapter": "Ch1 1.3節：新舊函數的變換",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "已知 $f(x) = \\sqrt{x}$，若要將圖形沿垂直方向拉伸 7 倍，應如何表示新函數？",
+      "options": [
+        "$\\sqrt{x - 7}$",
+        "$\\sqrt{7x}$",
+        "$\\sqrt{x} + 7$",
+        "$7\\sqrt{x}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "沿垂直方向拉伸 7 倍，代表將函數值乘以 7，故表示為 $7\\sqrt{x}$。\n\n---",
+      "chapter": "Ch1 1.3節：新舊函數的變換",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "設 $f(x) = x^2$，若將此函數向右平移 8 個單位、向上平移 3 個單位，新函數 $g(x)$ 為何？",
+      "options": [
+        "$(x-8)^2 - 3$",
+        "$(x+8)^2 + 3$",
+        "$(x-8)^2 + 3$",
+        "$(x+8)^2 - 3$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "向右平移 8 個單位代表將 $x$ 替換為 $x-8$，向上平移 3 個單位代表加上 3。故為 $(x-8)^2 + 3$。\n\n---",
+      "chapter": "Ch1 1.3節：新舊函數的變換",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "已知 $f(x) = 9x + 1$，$g(x) = x^2$，試求複合函數 $(f \\circ g)(x)$ 的解析式為何？",
+      "options": [
+        "$9x^2 + 1$",
+        "$(9x+1)^2$",
+        "$9x^2 + 9$",
+        "$x^2 + 9$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "複合函數 $(f \\circ g)(x) = f(g(x)) = f(x^2) = 9x^2 + 1$。\n\n---",
+      "chapter": "Ch1 1.3節：新舊函數的變換",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "已知 $f(x) = \\sqrt{x}$，若要將圖形沿垂直方向拉伸 10 倍，應如何表示新函數？",
+      "options": [
+        "$\\sqrt{x} + 10$",
+        "$\\sqrt{10x}$",
+        "$10\\sqrt{x}$",
+        "$\\sqrt{x - 10}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "沿垂直方向拉伸 10 倍，代表將函數值乘以 10，故表示為 $10\\sqrt{x}$。\n\n---",
+      "chapter": "Ch1 1.3節：新舊函數的變換",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "設 $f(x) = x^2$，若將此函數向右平移 11 個單位、向上平移 3 個單位，新函數 $g(x)$ 為何？",
+      "options": [
+        "$(x+11)^2 + 3$",
+        "$(x-11)^2 + 3$",
+        "$(x-11)^2 - 3$",
+        "$(x+11)^2 - 3$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "向右平移 11 個單位代表將 $x$ 替換為 $x-11$，向上平移 3 個單位代表加上 3。故為 $(x-11)^2 + 3$。\n\n---",
+      "chapter": "Ch1 1.3節：新舊函數的變換",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "已知 $f(x) = 12x + 1$，$g(x) = x^2$，試求複合函數 $(f \\circ g)(x)$ 的解析式為何？",
+      "options": [
+        "$x^2 + 12$",
+        "$(12x+1)^2$",
+        "$12x^2 + 12$",
+        "$12x^2 + 1$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "複合函數 $(f \\circ g)(x) = f(g(x)) = f(x^2) = 12x^2 + 1$。\n\n---",
+      "chapter": "Ch1 1.3節：新舊函數的變換",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "已知 $f(x) = \\sqrt{x}$，若要將圖形沿垂直方向拉伸 13 倍，應如何表示新函數？",
+      "options": [
+        "$\\sqrt{13x}$",
+        "$13\\sqrt{x}$",
+        "$\\sqrt{x} + 13$",
+        "$\\sqrt{x - 13}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "沿垂直方向拉伸 13 倍，代表將函數值乘以 13，故表示為 $13\\sqrt{x}$。\n\n---",
+      "chapter": "Ch1 1.3節：新舊函數的變換",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "設 $f(x) = x^2$，若將此函數向右平移 14 個單位、向上平移 3 個單位，新函數 $g(x)$ 為何？",
+      "options": [
+        "$(x-14)^2 + 3$",
+        "$(x+14)^2 + 3$",
+        "$(x-14)^2 - 3$",
+        "$(x+14)^2 - 3$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "向右平移 14 個單位代表將 $x$ 替換為 $x-14$，向上平移 3 個單位代表加上 3。故為 $(x-14)^2 + 3$。\n\n---",
+      "chapter": "Ch1 1.3節：新舊函數的變換",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "已知 $f(x) = 15x + 1$，$g(x) = x^2$，試求複合函數 $(f \\circ g)(x)$ 的解析式為何？",
+      "options": [
+        "$15x^2 + 15$",
+        "$(15x+1)^2$",
+        "$15x^2 + 1$",
+        "$x^2 + 15$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "複合函數 $(f \\circ g)(x) = f(g(x)) = f(x^2) = 15x^2 + 1$。\n\n---",
+      "chapter": "Ch1 1.3節：新舊函數的變換",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "已知 $f(x) = \\sqrt{x}$，若要將圖形沿垂直方向拉伸 16 倍，應如何表示新函數？",
+      "options": [
+        "$16\\sqrt{x}$",
+        "$\\sqrt{16x}$",
+        "$\\sqrt{x} + 16$",
+        "$\\sqrt{x - 16}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "沿垂直方向拉伸 16 倍，代表將函數值乘以 16，故表示為 $16\\sqrt{x}$。\n\n---",
+      "chapter": "Ch1 1.3節：新舊函數的變換",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "設 $f(x) = x^2$，若將此函數向右平移 17 個單位、向上平移 3 個單位，新函數 $g(x)$ 為何？",
+      "options": [
+        "$(x+17)^2 - 3$",
+        "$(x+17)^2 + 3$",
+        "$(x-17)^2 - 3$",
+        "$(x-17)^2 + 3$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "向右平移 17 個單位代表將 $x$ 替換為 $x-17$，向上平移 3 個單位代表加上 3。故為 $(x-17)^2 + 3$。\n\n---",
+      "chapter": "Ch1 1.3節：新舊函數的變換",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "已知 $f(x) = 18x + 1$，$g(x) = x^2$，試求複合函數 $(f \\circ g)(x)$ 的解析式為何？",
+      "options": [
+        "$(18x+1)^2$",
+        "$18x^2 + 1$",
+        "$18x^2 + 18$",
+        "$x^2 + 18$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "複合函數 $(f \\circ g)(x) = f(g(x)) = f(x^2) = 18x^2 + 1$。\n\n---",
+      "chapter": "Ch1 1.3節：新舊函數的變換",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "已知 $f(x) = \\sqrt{x}$，若要將圖形沿垂直方向拉伸 19 倍，應如何表示新函數？",
+      "options": [
+        "$\\sqrt{x - 19}$",
+        "$\\sqrt{19x}$",
+        "$\\sqrt{x} + 19$",
+        "$19\\sqrt{x}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "沿垂直方向拉伸 19 倍，代表將函數值乘以 19，故表示為 $19\\sqrt{x}$。\n\n---",
+      "chapter": "Ch1 1.3節：新舊函數的變換",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "設 $f(x) = x^2$，若將此函數向右平移 20 個單位、向上平移 3 個單位，新函數 $g(x)$ 為何？",
+      "options": [
+        "$(x-20)^2 - 3$",
+        "$(x+20)^2 + 3$",
+        "$(x-20)^2 + 3$",
+        "$(x+20)^2 - 3$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "向右平移 20 個單位代表將 $x$ 替換為 $x-20$，向上平移 3 個單位代表加上 3。故為 $(x-20)^2 + 3$。\n\n---",
+      "chapter": "Ch1 1.3節：新舊函數的變換",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "已知 $f(x) = 21x + 1$，$g(x) = x^2$，試求複合函數 $(f \\circ g)(x)$ 的解析式為何？",
+      "options": [
+        "$21x^2 + 1$",
+        "$(21x+1)^2$",
+        "$21x^2 + 21$",
+        "$x^2 + 21$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "複合函數 $(f \\circ g)(x) = f(g(x)) = f(x^2) = 21x^2 + 1$。\n\n---",
+      "chapter": "Ch1 1.3節：新舊函數的變換",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "已知 $f(x) = \\sqrt{x}$，若要將圖形沿垂直方向拉伸 22 倍，應如何表示新函數？",
+      "options": [
+        "$\\sqrt{x} + 22$",
+        "$\\sqrt{22x}$",
+        "$22\\sqrt{x}$",
+        "$\\sqrt{x - 22}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "沿垂直方向拉伸 22 倍，代表將函數值乘以 22，故表示為 $22\\sqrt{x}$。\n\n---",
+      "chapter": "Ch1 1.3節：新舊函數的變換",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "已知 $f(x) = x^2 + 1$，$g(x) = x - 3$，試求 $(f \\circ g)(3)$ 的精確值為何？",
+      "options": [],
+      "answer": "1",
+      "type": "fill",
+      "solution": "首先計算 $g(3) = 3 - 3 = 0$，再將其代入 $f(x)$ 中：$f(0) = 0^2 + 1 = 1$。所以 $(f \\circ g)(3) = 1$。\n\n---",
+      "chapter": "Ch1 1.3節：新舊函數的變換",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "已知 $f(x) = x^2 + 1$，$g(x) = x - 4$，試求 $(f \\circ g)(4)$ 的精確值為何？",
+      "options": [],
+      "answer": "1",
+      "type": "fill",
+      "solution": "首先計算 $g(4) = 4 - 4 = 0$，再將其代入 $f(x)$ 中：$f(0) = 0^2 + 1 = 1$。所以 $(f \\circ g)(4) = 1$。\n\n---",
+      "chapter": "Ch1 1.3節：新舊函數的變換",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "已知 $f(x) = x^2 + 1$，$g(x) = x - 5$，試求 $(f \\circ g)(5)$ 的精確值為何？",
+      "options": [],
+      "answer": "1",
+      "type": "fill",
+      "solution": "首先計算 $g(5) = 5 - 5 = 0$，再將其代入 $f(x)$ 中：$f(0) = 0^2 + 1 = 1$。所以 $(f \\circ g)(5) = 1$。\n\n---",
+      "chapter": "Ch1 1.3節：新舊函數的變換",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "已知 $f(x) = x^2 + 1$，$g(x) = x - 6$，試求 $(f \\circ g)(6)$ 的精確值為何？",
+      "options": [],
+      "answer": "1",
+      "type": "fill",
+      "solution": "首先計算 $g(6) = 6 - 6 = 0$，再將其代入 $f(x)$ 中：$f(0) = 0^2 + 1 = 1$。所以 $(f \\circ g)(6) = 1$。\n\n---",
+      "chapter": "Ch1 1.3節：新舊函數的變換",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "已知 $f(x) = x^2 + 1$，$g(x) = x - 7$，試求 $(f \\circ g)(7)$ 的精確值為何？",
+      "options": [],
+      "answer": "1",
+      "type": "fill",
+      "solution": "首先計算 $g(7) = 7 - 7 = 0$，再將其代入 $f(x)$ 中：$f(0) = 0^2 + 1 = 1$。所以 $(f \\circ g)(7) = 1$。\n\n---",
+      "chapter": "Ch1 1.3節：新舊函數的變換",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "已知 $f(x) = x^2 + 1$，$g(x) = x - 8$，試求 $(f \\circ g)(8)$ 的精確值為何？",
+      "options": [],
+      "answer": "1",
+      "type": "fill",
+      "solution": "首先計算 $g(8) = 8 - 8 = 0$，再將其代入 $f(x)$ 中：$f(0) = 0^2 + 1 = 1$。所以 $(f \\circ g)(8) = 1$。\n\n---",
+      "chapter": "Ch1 1.3節：新舊函數的變換",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "已知 $f(x) = x^2 + 1$，$g(x) = x - 9$，試求 $(f \\circ g)(9)$ 的精確值為何？",
+      "options": [],
+      "answer": "1",
+      "type": "fill",
+      "solution": "首先計算 $g(9) = 9 - 9 = 0$，再將其代入 $f(x)$ 中：$f(0) = 0^2 + 1 = 1$。所以 $(f \\circ g)(9) = 1$。\n\n---",
+      "chapter": "Ch1 1.3節：新舊函數的變換",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "已知 $f(x) = x^2 + 1$，$g(x) = x - 10$，試求 $(f \\circ g)(10)$ 的精確值為何？",
+      "options": [],
+      "answer": "1",
+      "type": "fill",
+      "solution": "首先計算 $g(10) = 10 - 10 = 0$，再將其代入 $f(x)$ 中：$f(0) = 0^2 + 1 = 1$。所以 $(f \\circ g)(10) = 1$。\n\n---",
+      "chapter": "Ch1 1.3節：新舊函數的變換",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "已知 $f(x) = x^2 + 1$，$g(x) = x - 11$，試求 $(f \\circ g)(11)$ 的精確值為何？",
+      "options": [],
+      "answer": "1",
+      "type": "fill",
+      "solution": "首先計算 $g(11) = 11 - 11 = 0$，再將其代入 $f(x)$ 中：$f(0) = 0^2 + 1 = 1$。所以 $(f \\circ g)(11) = 1$。\n\n---",
+      "chapter": "Ch1 1.3節：新舊函數的變換",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "已知 $f(x) = x^2 + 1$，$g(x) = x - 12$，試求 $(f \\circ g)(12)$ 的精確值為何？",
+      "options": [],
+      "answer": "1",
+      "type": "fill",
+      "solution": "首先計算 $g(12) = 12 - 12 = 0$，再將其代入 $f(x)$ 中：$f(0) = 0^2 + 1 = 1$。所以 $(f \\circ g)(12) = 1$。",
+      "chapter": "Ch1 1.3節：新舊函數的變換",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "已知曲線 $y = x^2 + 2x$，試求其在 $x = 0$ 處的切線斜率為何？",
+      "options": [
+        "$0$",
+        "$4$",
+        "$2$",
+        "$1$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "對 $y$ 微分得 $y' = 2x + 2$。代入 $x=0$ 得斜率為 $2$。\n\n---",
+      "chapter": "Ch1 1.4節：切線與速度問題",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "一物體的運動方程式為 $s(t) = 3t^2$，試問在 $t = 1$ 秒時的瞬時速度為多少？",
+      "options": [
+        "$9$",
+        "$3$",
+        "$6$",
+        "$4$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "利用極限或微分：$v(t) = s'(t) = 6t$。在 $t=1$ 時，$v(1) = 6$。\n\n---",
+      "chapter": "Ch1 1.4節：切線與速度問題",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "已知曲線 $y = x^2 + 4x$，試求其在 $x = 0$ 處的切線斜率為何？",
+      "options": [
+        "$4$",
+        "$6$",
+        "$0$",
+        "$1$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "對 $y$ 微分得 $y' = 2x + 4$。代入 $x=0$ 得斜率為 $4$。\n\n---",
+      "chapter": "Ch1 1.4節：切線與速度問題",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "一物體的運動方程式為 $s(t) = 5t^2$，試問在 $t = 1$ 秒時的瞬時速度為多少？",
+      "options": [
+        "$10$",
+        "$5$",
+        "$15$",
+        "$6$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "利用極限或微分：$v(t) = s'(t) = 10t$。在 $t=1$ 時，$v(1) = 10$。\n\n---",
+      "chapter": "Ch1 1.4節：切線與速度問題",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "已知曲線 $y = x^2 + 6x$，試求其在 $x = 0$ 處的切線斜率為何？",
+      "options": [
+        "$0$",
+        "$8$",
+        "$6$",
+        "$1$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "對 $y$ 微分得 $y' = 2x + 6$。代入 $x=0$ 得斜率為 $6$。\n\n---",
+      "chapter": "Ch1 1.4節：切線與速度問題",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "一物體的運動方程式為 $s(t) = 7t^2$，試問在 $t = 1$ 秒時的瞬時速度為多少？",
+      "options": [
+        "$21$",
+        "$7$",
+        "$14$",
+        "$8$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "利用極限或微分：$v(t) = s'(t) = 14t$。在 $t=1$ 時，$v(1) = 14$。\n\n---",
+      "chapter": "Ch1 1.4節：切線與速度問題",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "已知曲線 $y = x^2 + 8x$，試求其在 $x = 0$ 處的切線斜率為何？",
+      "options": [
+        "$8$",
+        "$10$",
+        "$0$",
+        "$1$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "對 $y$ 微分得 $y' = 2x + 8$。代入 $x=0$ 得斜率為 $8$。\n\n---",
+      "chapter": "Ch1 1.4節：切線與速度問題",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "一物體的運動方程式為 $s(t) = 9t^2$，試問在 $t = 1$ 秒時的瞬時速度為多少？",
+      "options": [
+        "$18$",
+        "$9$",
+        "$27$",
+        "$10$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "利用極限或微分：$v(t) = s'(t) = 18t$。在 $t=1$ 時，$v(1) = 18$。\n\n---",
+      "chapter": "Ch1 1.4節：切線與速度問題",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "已知曲線 $y = x^2 + 10x$，試求其在 $x = 0$ 處的切線斜率為何？",
+      "options": [
+        "$0$",
+        "$12$",
+        "$10$",
+        "$1$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "對 $y$ 微分得 $y' = 2x + 10$。代入 $x=0$ 得斜率為 $10$。\n\n---",
+      "chapter": "Ch1 1.4節：切線與速度問題",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "一物體的運動方程式為 $s(t) = 11t^2$，試問在 $t = 1$ 秒時的瞬時速度為多少？",
+      "options": [
+        "$33$",
+        "$11$",
+        "$22$",
+        "$12$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "利用極限或微分：$v(t) = s'(t) = 22t$。在 $t=1$ 時，$v(1) = 22$。\n\n---",
+      "chapter": "Ch1 1.4節：切線與速度問題",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "已知曲線 $y = x^2 + 12x$，試求其在 $x = 0$ 處的切線斜率為何？",
+      "options": [
+        "$12$",
+        "$14$",
+        "$0$",
+        "$1$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "對 $y$ 微分得 $y' = 2x + 12$。代入 $x=0$ 得斜率為 $12$。\n\n---",
+      "chapter": "Ch1 1.4節：切線與速度問題",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "一物體的運動方程式為 $s(t) = 13t^2$，試問在 $t = 1$ 秒時的瞬時速度為多少？",
+      "options": [
+        "$26$",
+        "$13$",
+        "$39$",
+        "$14$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "利用極限或微分：$v(t) = s'(t) = 26t$。在 $t=1$ 時，$v(1) = 26$。\n\n---",
+      "chapter": "Ch1 1.4節：切線與速度問題",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "已知曲線 $y = x^2 + 14x$，試求其在 $x = 0$ 處的切線斜率為何？",
+      "options": [
+        "$0$",
+        "$16$",
+        "$14$",
+        "$1$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "對 $y$ 微分得 $y' = 2x + 14$。代入 $x=0$ 得斜率為 $14$。\n\n---",
+      "chapter": "Ch1 1.4節：切線與速度問題",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "一物體的運動方程式為 $s(t) = 15t^2$，試問在 $t = 1$ 秒時的瞬時速度為多少？",
+      "options": [
+        "$45$",
+        "$15$",
+        "$30$",
+        "$16$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "利用極限或微分：$v(t) = s'(t) = 30t$。在 $t=1$ 時，$v(1) = 30$。\n\n---",
+      "chapter": "Ch1 1.4節：切線與速度問題",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "已知曲線 $y = x^2 + 16x$，試求其在 $x = 0$ 處的切線斜率為何？",
+      "options": [
+        "$16$",
+        "$18$",
+        "$0$",
+        "$1$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "對 $y$ 微分得 $y' = 2x + 16$。代入 $x=0$ 得斜率為 $16$。\n\n---",
+      "chapter": "Ch1 1.4節：切線與速度問題",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "一物體的運動方程式為 $s(t) = 17t^2$，試問在 $t = 1$ 秒時的瞬時速度為多少？",
+      "options": [
+        "$34$",
+        "$17$",
+        "$51$",
+        "$18$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "利用極限或微分：$v(t) = s'(t) = 34t$。在 $t=1$ 時，$v(1) = 34$。\n\n---",
+      "chapter": "Ch1 1.4節：切線與速度問題",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "已知曲線 $y = x^2 + 18x$，試求其在 $x = 0$ 處的切線斜率為何？",
+      "options": [
+        "$0$",
+        "$20$",
+        "$18$",
+        "$1$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "對 $y$ 微分得 $y' = 2x + 18$。代入 $x=0$ 得斜率為 $18$。\n\n---",
+      "chapter": "Ch1 1.4節：切線與速度問題",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "一物體的運動方程式為 $s(t) = 19t^2$，試問在 $t = 1$ 秒時的瞬時速度為多少？",
+      "options": [
+        "$57$",
+        "$19$",
+        "$38$",
+        "$20$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "利用極限或微分：$v(t) = s'(t) = 38t$。在 $t=1$ 時，$v(1) = 38$。\n\n---",
+      "chapter": "Ch1 1.4節：切線與速度問題",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "已知曲線 $y = x^2 + 20x$，試求其在 $x = 0$ 處的切線斜率為何？",
+      "options": [
+        "$20$",
+        "$22$",
+        "$0$",
+        "$1$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "對 $y$ 微分得 $y' = 2x + 20$。代入 $x=0$ 得斜率為 $20$。\n\n---",
+      "chapter": "Ch1 1.4節：切線與速度問題",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "一物體的運動方程式為 $s(t) = 21t^2$，試問在 $t = 1$ 秒時的瞬時速度為多少？",
+      "options": [
+        "$42$",
+        "$21$",
+        "$63$",
+        "$22$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "利用極限或微分：$v(t) = s'(t) = 42t$。在 $t=1$ 時，$v(1) = 42$。\n\n---",
+      "chapter": "Ch1 1.4節：切線與速度問題",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "若某物體之位移 $s(t) = 6t^2 + 2t$，試求當 $t=1$ 秒時之瞬時速度為何？",
+      "options": [],
+      "answer": "14",
+      "type": "fill",
+      "solution": "瞬時速度為 $s'(t) = 12t + 2$。在 $t=1$ 時，速度為 $12 \\times 1 + 2 = 14$。\n\n---",
+      "chapter": "Ch1 1.4節：切線與速度問題",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "若某物體之位移 $s(t) = 7t^2 + 2t$，試求當 $t=1$ 秒時之瞬時速度為何？",
+      "options": [],
+      "answer": "16",
+      "type": "fill",
+      "solution": "瞬時速度為 $s'(t) = 14t + 2$。在 $t=1$ 時，速度為 $14 \\times 1 + 2 = 16$。\n\n---",
+      "chapter": "Ch1 1.4節：切線與速度問題",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "若某物體之位移 $s(t) = 8t^2 + 2t$，試求當 $t=1$ 秒時之瞬時速度為何？",
+      "options": [],
+      "answer": "18",
+      "type": "fill",
+      "solution": "瞬時速度為 $s'(t) = 16t + 2$。在 $t=1$ 時，速度為 $16 \\times 1 + 2 = 18$。\n\n---",
+      "chapter": "Ch1 1.4節：切線與速度問題",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "若某物體之位移 $s(t) = 9t^2 + 2t$，試求當 $t=1$ 秒時之瞬時速度為何？",
+      "options": [],
+      "answer": "20",
+      "type": "fill",
+      "solution": "瞬時速度為 $s'(t) = 18t + 2$。在 $t=1$ 時，速度為 $18 \\times 1 + 2 = 20$。\n\n---",
+      "chapter": "Ch1 1.4節：切線與速度問題",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "若某物體之位移 $s(t) = 10t^2 + 2t$，試求當 $t=1$ 秒時之瞬時速度為何？",
+      "options": [],
+      "answer": "22",
+      "type": "fill",
+      "solution": "瞬時速度為 $s'(t) = 20t + 2$。在 $t=1$ 時，速度為 $20 \\times 1 + 2 = 22$。\n\n---",
+      "chapter": "Ch1 1.4節：切線與速度問題",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "若某物體之位移 $s(t) = 11t^2 + 2t$，試求當 $t=1$ 秒時之瞬時速度為何？",
+      "options": [],
+      "answer": "24",
+      "type": "fill",
+      "solution": "瞬時速度為 $s'(t) = 22t + 2$。在 $t=1$ 時，速度為 $22 \\times 1 + 2 = 24$。\n\n---",
+      "chapter": "Ch1 1.4節：切線與速度問題",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "若某物體之位移 $s(t) = 12t^2 + 2t$，試求當 $t=1$ 秒時之瞬時速度為何？",
+      "options": [],
+      "answer": "26",
+      "type": "fill",
+      "solution": "瞬時速度為 $s'(t) = 24t + 2$。在 $t=1$ 時，速度為 $24 \\times 1 + 2 = 26$。\n\n---",
+      "chapter": "Ch1 1.4節：切線與速度問題",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "若某物體之位移 $s(t) = 13t^2 + 2t$，試求當 $t=1$ 秒時之瞬時速度為何？",
+      "options": [],
+      "answer": "28",
+      "type": "fill",
+      "solution": "瞬時速度為 $s'(t) = 26t + 2$。在 $t=1$ 時，速度為 $26 \\times 1 + 2 = 28$。\n\n---",
+      "chapter": "Ch1 1.4節：切線與速度問題",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "若某物體之位移 $s(t) = 14t^2 + 2t$，試求當 $t=1$ 秒時之瞬時速度為何？",
+      "options": [],
+      "answer": "30",
+      "type": "fill",
+      "solution": "瞬時速度為 $s'(t) = 28t + 2$。在 $t=1$ 時，速度為 $28 \\times 1 + 2 = 30$。\n\n---",
+      "chapter": "Ch1 1.4節：切線與速度問題",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "若某物體之位移 $s(t) = 15t^2 + 2t$，試求當 $t=1$ 秒時之瞬時速度為何？",
+      "options": [],
+      "answer": "32",
+      "type": "fill",
+      "solution": "瞬時速度為 $s'(t) = 30t + 2$。在 $t=1$ 時，速度為 $30 \\times 1 + 2 = 32$。",
+      "chapter": "Ch1 1.4節：切線與速度問題",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "已知 $\\lim_{x \\to 2^+} f(x) = 4$，$\\lim_{x \\to 2^-} f(x) = 4$，則 $\\lim_{x \\to 2} f(x)$ 為何？",
+      "options": [
+        "$4$",
+        "$2$",
+        "不存在",
+        "$\\infty$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "由於左右極限相等，故極限存在且等於左右極限值 $4$。\n\n---",
+      "chapter": "Ch1 1.5節：函數的極限",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "求極限值 $\\lim_{x \\to 5} (x^2 - 5)$ 的結果為何？",
+      "options": [
+        "$20$",
+        "$30$",
+        "$25$",
+        "$0$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "直接代入得：$5^2 - 5 = 20$。\n\n---",
+      "chapter": "Ch1 1.5節：函數的極限",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "已知 $\\lim_{x \\to 2^+} f(x) = 6$，$\\lim_{x \\to 2^-} f(x) = 6$，則 $\\lim_{x \\to 2} f(x)$ 為何？",
+      "options": [
+        "不存在",
+        "$2$",
+        "$6$",
+        "$\\infty$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "由於左右極限相等，故極限存在且等於左右極限值 $6$。\n\n---",
+      "chapter": "Ch1 1.5節：函數的極限",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "求極限值 $\\lim_{x \\to 7} (x^2 - 7)$ 的結果為何？",
+      "options": [
+        "$49$",
+        "$56$",
+        "$42$",
+        "$0$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "直接代入得：$7^2 - 7 = 42$。\n\n---",
+      "chapter": "Ch1 1.5節：函數的極限",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "已知 $\\lim_{x \\to 2^+} f(x) = 8$，$\\lim_{x \\to 2^-} f(x) = 8$，則 $\\lim_{x \\to 2} f(x)$ 為何？",
+      "options": [
+        "$8$",
+        "$2$",
+        "不存在",
+        "$\\infty$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "由於左右極限相等，故極限存在且等於左右極限值 $8$。\n\n---",
+      "chapter": "Ch1 1.5節：函數的極限",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "求極限值 $\\lim_{x \\to 9} (x^2 - 9)$ 的結果為何？",
+      "options": [
+        "$72$",
+        "$90$",
+        "$81$",
+        "$0$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "直接代入得：$9^2 - 9 = 72$。\n\n---",
+      "chapter": "Ch1 1.5節：函數的極限",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "已知 $\\lim_{x \\to 2^+} f(x) = 10$，$\\lim_{x \\to 2^-} f(x) = 10$，則 $\\lim_{x \\to 2} f(x)$ 為何？",
+      "options": [
+        "不存在",
+        "$2$",
+        "$10$",
+        "$\\infty$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "由於左右極限相等，故極限存在且等於左右極限值 $10$。\n\n---",
+      "chapter": "Ch1 1.5節：函數的極限",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "求極限值 $\\lim_{x \\to 11} (x^2 - 11)$ 的結果為何？",
+      "options": [
+        "$121$",
+        "$132$",
+        "$110$",
+        "$0$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "直接代入得：$11^2 - 11 = 110$。\n\n---",
+      "chapter": "Ch1 1.5節：函數的極限",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "已知 $\\lim_{x \\to 2^+} f(x) = 12$，$\\lim_{x \\to 2^-} f(x) = 12$，則 $\\lim_{x \\to 2} f(x)$ 為何？",
+      "options": [
+        "$12$",
+        "$2$",
+        "不存在",
+        "$\\infty$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "由於左右極限相等，故極限存在且等於左右極限值 $12$。\n\n---",
+      "chapter": "Ch1 1.5節：函數的極限",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "求極限值 $\\lim_{x \\to 13} (x^2 - 13)$ 的結果為何？",
+      "options": [
+        "$156$",
+        "$182$",
+        "$169$",
+        "$0$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "直接代入得：$13^2 - 13 = 156$。\n\n---",
+      "chapter": "Ch1 1.5節：函數的極限",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "已知 $\\lim_{x \\to 2^+} f(x) = 14$，$\\lim_{x \\to 2^-} f(x) = 14$，則 $\\lim_{x \\to 2} f(x)$ 為何？",
+      "options": [
+        "不存在",
+        "$2$",
+        "$14$",
+        "$\\infty$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "由於左右極限相等，故極限存在且等於左右極限值 $14$。\n\n---",
+      "chapter": "Ch1 1.5節：函數的極限",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "求極限值 $\\lim_{x \\to 15} (x^2 - 15)$ 的結果為何？",
+      "options": [
+        "$225$",
+        "$240$",
+        "$210$",
+        "$0$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "直接代入得：$15^2 - 15 = 210$。\n\n---",
+      "chapter": "Ch1 1.5節：函數的極限",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "已知 $\\lim_{x \\to 2^+} f(x) = 16$，$\\lim_{x \\to 2^-} f(x) = 16$，則 $\\lim_{x \\to 2} f(x)$ 為何？",
+      "options": [
+        "$16$",
+        "$2$",
+        "不存在",
+        "$\\infty$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "由於左右極限相等，故極限存在且等於左右極限值 $16$。\n\n---",
+      "chapter": "Ch1 1.5節：函數的極限",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "求極限值 $\\lim_{x \\to 17} (x^2 - 17)$ 的結果為何？",
+      "options": [
+        "$272$",
+        "$306$",
+        "$289$",
+        "$0$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "直接代入得：$17^2 - 17 = 272$。\n\n---",
+      "chapter": "Ch1 1.5節：函數的極限",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "已知 $\\lim_{x \\to 2^+} f(x) = 18$，$\\lim_{x \\to 2^-} f(x) = 18$，則 $\\lim_{x \\to 2} f(x)$ 為何？",
+      "options": [
+        "不存在",
+        "$2$",
+        "$18$",
+        "$\\infty$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "由於左右極限相等，故極限存在且等於左右極限值 $18$。\n\n---",
+      "chapter": "Ch1 1.5節：函數的極限",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "求極限值 $\\lim_{x \\to 19} (x^2 - 19)$ 的結果為何？",
+      "options": [
+        "$361$",
+        "$380$",
+        "$342$",
+        "$0$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "直接代入得：$19^2 - 19 = 342$。\n\n---",
+      "chapter": "Ch1 1.5節：函數的極限",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "已知 $\\lim_{x \\to 2^+} f(x) = 20$，$\\lim_{x \\to 2^-} f(x) = 20$，則 $\\lim_{x \\to 2} f(x)$ 為何？",
+      "options": [
+        "$20$",
+        "$2$",
+        "不存在",
+        "$\\infty$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "由於左右極限相等，故極限存在且等於左右極限值 $20$。\n\n---",
+      "chapter": "Ch1 1.5節：函數的極限",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "求極限值 $\\lim_{x \\to 21} (x^2 - 21)$ 的結果為何？",
+      "options": [
+        "$420$",
+        "$462$",
+        "$441$",
+        "$0$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "直接代入得：$21^2 - 21 = 420$。\n\n---",
+      "chapter": "Ch1 1.5節：函數的極限",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "已知 $\\lim_{x \\to 2^+} f(x) = 22$，$\\lim_{x \\to 2^-} f(x) = 22$，則 $\\lim_{x \\to 2} f(x)$ 為何？",
+      "options": [
+        "不存在",
+        "$2$",
+        "$22$",
+        "$\\infty$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "由於左右極限相等，故極限存在且等於左右極限值 $22$。\n\n---",
+      "chapter": "Ch1 1.5節：函數的極限",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "求極限值 $\\lim_{x \\to 23} (x^2 - 23)$ 的結果為何？",
+      "options": [
+        "$529$",
+        "$552$",
+        "$506$",
+        "$0$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "直接代入得：$23^2 - 23 = 506$。\n\n---",
+      "chapter": "Ch1 1.5節：函數的極限",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "求極限值 $\\lim_{x \\to 3} (3x + 4)$。",
+      "options": [],
+      "answer": "13",
+      "type": "fill",
+      "solution": "直接代入 $x=3$：$3(3) + 4 = 13$。\n\n---",
+      "chapter": "Ch1 1.5節：函數的極限",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "求極限值 $\\lim_{x \\to 3} (4x + 4)$。",
+      "options": [],
+      "answer": "16",
+      "type": "fill",
+      "solution": "直接代入 $x=3$：$4(3) + 4 = 16$。\n\n---",
+      "chapter": "Ch1 1.5節：函數的極限",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "求極限值 $\\lim_{x \\to 3} (5x + 4)$。",
+      "options": [],
+      "answer": "19",
+      "type": "fill",
+      "solution": "直接代入 $x=3$：$5(3) + 4 = 19$。\n\n---",
+      "chapter": "Ch1 1.5節：函數的極限",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "求極限值 $\\lim_{x \\to 3} (6x + 4)$。",
+      "options": [],
+      "answer": "22",
+      "type": "fill",
+      "solution": "直接代入 $x=3$：$6(3) + 4 = 22$。\n\n---",
+      "chapter": "Ch1 1.5節：函數的極限",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "求極限值 $\\lim_{x \\to 3} (7x + 4)$。",
+      "options": [],
+      "answer": "25",
+      "type": "fill",
+      "solution": "直接代入 $x=3$：$7(3) + 4 = 25$。\n\n---",
+      "chapter": "Ch1 1.5節：函數的極限",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "求極限值 $\\lim_{x \\to 3} (8x + 4)$。",
+      "options": [],
+      "answer": "28",
+      "type": "fill",
+      "solution": "直接代入 $x=3$：$8(3) + 4 = 28$。\n\n---",
+      "chapter": "Ch1 1.5節：函數的極限",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "求極限值 $\\lim_{x \\to 3} (9x + 4)$。",
+      "options": [],
+      "answer": "31",
+      "type": "fill",
+      "solution": "直接代入 $x=3$：$9(3) + 4 = 31$。\n\n---",
+      "chapter": "Ch1 1.5節：函數的極限",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "求極限值 $\\lim_{x \\to 3} (10x + 4)$。",
+      "options": [],
+      "answer": "34",
+      "type": "fill",
+      "solution": "直接代入 $x=3$：$10(3) + 4 = 34$。\n\n---",
+      "chapter": "Ch1 1.5節：函數的極限",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "求極限值 $\\lim_{x \\to 3} (11x + 4)$。",
+      "options": [],
+      "answer": "37",
+      "type": "fill",
+      "solution": "直接代入 $x=3$：$11(3) + 4 = 37$。\n\n---",
+      "chapter": "Ch1 1.5節：函數的極限",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "求極限值 $\\lim_{x \\to 3} (12x + 4)$。",
+      "options": [],
+      "answer": "40",
+      "type": "fill",
+      "solution": "直接代入 $x=3$：$12(3) + 4 = 40$。",
+      "chapter": "Ch1 1.5節：函數的極限",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "利用夾擠定理，若對於所有 $x \\neq 0$，$-x^2 \\leq f(x) \\leq x^2$，求 $\\lim_{x \\to 0} f(x)$ 的值。",
+      "options": [
+        "不存在",
+        "$1$",
+        "$0$",
+        "$\\infty$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "由於 $\\lim_{x \\to 0} (-x^2) = 0$ 且 $\\lim_{x \\to 0} x^2 = 0$，由夾擠定理得其極限為 0。\n\n---",
+      "chapter": "Ch1 1.6節：利用極限定律計算極限",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "求極限值 $\\lim_{x \\to 3} \\frac{x^2 - 9}{x - 3}$。",
+      "options": [
+        "$0$",
+        "$3$",
+        "$6$",
+        "不存在"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "因式分解分子得 $x+3$，代入得 $6$。\n\n---",
+      "chapter": "Ch1 1.6節：利用極限定律計算極限",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "利用夾擠定理，若對於所有 $x \\neq 0$，$-x^2 \\leq f(x) \\leq x^2$，求 $\\lim_{x \\to 0} f(x)$ 的值。",
+      "options": [
+        "$0$",
+        "$1$",
+        "不存在",
+        "$\\infty$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "由於 $\\lim_{x \\to 0} (-x^2) = 0$ 且 $\\lim_{x \\to 0} x^2 = 0$，由夾擠定理得其極限為 0。\n\n---",
+      "chapter": "Ch1 1.6節：利用極限定律計算極限",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "求極限值 $\\lim_{x \\to 5} \\frac{x^2 - 25}{x - 5}$。",
+      "options": [
+        "$10$",
+        "$5$",
+        "$0$",
+        "不存在"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "因式分解分子得 $x+5$，代入得 $10$。\n\n---",
+      "chapter": "Ch1 1.6節：利用極限定律計算極限",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "利用夾擠定理，若對於所有 $x \\neq 0$，$-x^2 \\leq f(x) \\leq x^2$，求 $\\lim_{x \\to 0} f(x)$ 的值。",
+      "options": [
+        "不存在",
+        "$1$",
+        "$0$",
+        "$\\infty$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "由於 $\\lim_{x \\to 0} (-x^2) = 0$ 且 $\\lim_{x \\to 0} x^2 = 0$，由夾擠定理得其極限為 0。\n\n---",
+      "chapter": "Ch1 1.6節：利用極限定律計算極限",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "求極限值 $\\lim_{x \\to 7} \\frac{x^2 - 49}{x - 7}$。",
+      "options": [
+        "$0$",
+        "$7$",
+        "$14$",
+        "不存在"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "因式分解分子得 $x+7$，代入得 $14$。\n\n---",
+      "chapter": "Ch1 1.6節：利用極限定律計算極限",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "利用夾擠定理，若對於所有 $x \\neq 0$，$-x^2 \\leq f(x) \\leq x^2$，求 $\\lim_{x \\to 0} f(x)$ 的值。",
+      "options": [
+        "$0$",
+        "$1$",
+        "不存在",
+        "$\\infty$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "由於 $\\lim_{x \\to 0} (-x^2) = 0$ 且 $\\lim_{x \\to 0} x^2 = 0$，由夾擠定理得其極限為 0。\n\n---",
+      "chapter": "Ch1 1.6節：利用極限定律計算極限",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "求極限值 $\\lim_{x \\to 9} \\frac{x^2 - 81}{x - 9}$。",
+      "options": [
+        "$18$",
+        "$9$",
+        "$0$",
+        "不存在"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "因式分解分子得 $x+9$，代入得 $18$。\n\n---",
+      "chapter": "Ch1 1.6節：利用極限定律計算極限",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "利用夾擠定理，若對於所有 $x \\neq 0$，$-x^2 \\leq f(x) \\leq x^2$，求 $\\lim_{x \\to 0} f(x)$ 的值。",
+      "options": [
+        "不存在",
+        "$1$",
+        "$0$",
+        "$\\infty$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "由於 $\\lim_{x \\to 0} (-x^2) = 0$ 且 $\\lim_{x \\to 0} x^2 = 0$，由夾擠定理得其極限為 0。\n\n---",
+      "chapter": "Ch1 1.6節：利用極限定律計算極限",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "求極限值 $\\lim_{x \\to 11} \\frac{x^2 - 121}{x - 11}$。",
+      "options": [
+        "$0$",
+        "$11$",
+        "$22$",
+        "不存在"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "因式分解分子得 $x+11$，代入得 $22$。\n\n---",
+      "chapter": "Ch1 1.6節：利用極限定律計算極限",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "利用夾擠定理，若對於所有 $x \\neq 0$，$-x^2 \\leq f(x) \\leq x^2$，求 $\\lim_{x \\to 0} f(x)$ 的值。",
+      "options": [
+        "$0$",
+        "$1$",
+        "不存在",
+        "$\\infty$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "由於 $\\lim_{x \\to 0} (-x^2) = 0$ 且 $\\lim_{x \\to 0} x^2 = 0$，由夾擠定理得其極限為 0。\n\n---",
+      "chapter": "Ch1 1.6節：利用極限定律計算極限",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "求極限值 $\\lim_{x \\to 13} \\frac{x^2 - 169}{x - 13}$。",
+      "options": [
+        "$26$",
+        "$13$",
+        "$0$",
+        "不存在"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "因式分解分子得 $x+13$，代入得 $26$。\n\n---",
+      "chapter": "Ch1 1.6節：利用極限定律計算極限",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "利用夾擠定理，若對於所有 $x \\neq 0$，$-x^2 \\leq f(x) \\leq x^2$，求 $\\lim_{x \\to 0} f(x)$ 的值。",
+      "options": [
+        "不存在",
+        "$1$",
+        "$0$",
+        "$\\infty$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "由於 $\\lim_{x \\to 0} (-x^2) = 0$ 且 $\\lim_{x \\to 0} x^2 = 0$，由夾擠定理得其極限為 0。\n\n---",
+      "chapter": "Ch1 1.6節：利用極限定律計算極限",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "求極限值 $\\lim_{x \\to 15} \\frac{x^2 - 225}{x - 15}$。",
+      "options": [
+        "$0$",
+        "$15$",
+        "$30$",
+        "不存在"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "因式分解分子得 $x+15$，代入得 $30$。\n\n---",
+      "chapter": "Ch1 1.6節：利用極限定律計算極限",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "利用夾擠定理，若對於所有 $x \\neq 0$，$-x^2 \\leq f(x) \\leq x^2$，求 $\\lim_{x \\to 0} f(x)$ 的值。",
+      "options": [
+        "$0$",
+        "$1$",
+        "不存在",
+        "$\\infty$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "由於 $\\lim_{x \\to 0} (-x^2) = 0$ 且 $\\lim_{x \\to 0} x^2 = 0$，由夾擠定理得其極限為 0。\n\n---",
+      "chapter": "Ch1 1.6節：利用極限定律計算極限",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "求極限值 $\\lim_{x \\to 17} \\frac{x^2 - 289}{x - 17}$。",
+      "options": [
+        "$34$",
+        "$17$",
+        "$0$",
+        "不存在"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "因式分解分子得 $x+17$，代入得 $34$。\n\n---",
+      "chapter": "Ch1 1.6節：利用極限定律計算極限",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "利用夾擠定理，若對於所有 $x \\neq 0$，$-x^2 \\leq f(x) \\leq x^2$，求 $\\lim_{x \\to 0} f(x)$ 的值。",
+      "options": [
+        "不存在",
+        "$1$",
+        "$0$",
+        "$\\infty$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "由於 $\\lim_{x \\to 0} (-x^2) = 0$ 且 $\\lim_{x \\to 0} x^2 = 0$，由夾擠定理得其極限為 0。\n\n---",
+      "chapter": "Ch1 1.6節：利用極限定律計算極限",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "求極限值 $\\lim_{x \\to 19} \\frac{x^2 - 361}{x - 19}$。",
+      "options": [
+        "$0$",
+        "$19$",
+        "$38$",
+        "不存在"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "因式分解分子得 $x+19$，代入得 $38$。\n\n---",
+      "chapter": "Ch1 1.6節：利用極限定律計算極限",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "利用夾擠定理，若對於所有 $x \\neq 0$，$-x^2 \\leq f(x) \\leq x^2$，求 $\\lim_{x \\to 0} f(x)$ 的值。",
+      "options": [
+        "$0$",
+        "$1$",
+        "不存在",
+        "$\\infty$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "由於 $\\lim_{x \\to 0} (-x^2) = 0$ 且 $\\lim_{x \\to 0} x^2 = 0$，由夾擠定理得其極限為 0。\n\n---",
+      "chapter": "Ch1 1.6節：利用極限定律計算極限",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "求極限值 $\\lim_{x \\to 21} \\frac{x^2 - 441}{x - 21}$。",
+      "options": [
+        "$42$",
+        "$21$",
+        "$0$",
+        "不存在"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "因式分解分子得 $x+21$，代入得 $42$。\n\n---",
+      "chapter": "Ch1 1.6節：利用極限定律計算極限",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "求極限值 $\\lim_{x \\to 1} (x^3 + 6x + 2)$。",
+      "options": [],
+      "answer": "9",
+      "type": "fill",
+      "solution": "直接代入 $x=1$：$1^3 + 6(1) + 2 = 9$。\n\n---",
+      "chapter": "Ch1 1.6節：利用極限定律計算極限",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "求極限值 $\\lim_{x \\to 1} (x^3 + 7x + 2)$。",
+      "options": [],
+      "answer": "10",
+      "type": "fill",
+      "solution": "直接代入 $x=1$：$1^3 + 7(1) + 2 = 10$。\n\n---",
+      "chapter": "Ch1 1.6節：利用極限定律計算極限",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "求極限值 $\\lim_{x \\to 1} (x^3 + 8x + 2)$。",
+      "options": [],
+      "answer": "11",
+      "type": "fill",
+      "solution": "直接代入 $x=1$：$1^3 + 8(1) + 2 = 11$。\n\n---",
+      "chapter": "Ch1 1.6節：利用極限定律計算極限",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "求極限值 $\\lim_{x \\to 1} (x^3 + 9x + 2)$。",
+      "options": [],
+      "answer": "12",
+      "type": "fill",
+      "solution": "直接代入 $x=1$：$1^3 + 9(1) + 2 = 12$。\n\n---",
+      "chapter": "Ch1 1.6節：利用極限定律計算極限",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "求極限值 $\\lim_{x \\to 1} (x^3 + 10x + 2)$。",
+      "options": [],
+      "answer": "13",
+      "type": "fill",
+      "solution": "直接代入 $x=1$：$1^3 + 10(1) + 2 = 13$。\n\n---",
+      "chapter": "Ch1 1.6節：利用極限定律計算極限",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "求極限值 $\\lim_{x \\to 1} (x^3 + 11x + 2)$。",
+      "options": [],
+      "answer": "14",
+      "type": "fill",
+      "solution": "直接代入 $x=1$：$1^3 + 11(1) + 2 = 14$。\n\n---",
+      "chapter": "Ch1 1.6節：利用極限定律計算極限",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "求極限值 $\\lim_{x \\to 1} (x^3 + 12x + 2)$。",
+      "options": [],
+      "answer": "15",
+      "type": "fill",
+      "solution": "直接代入 $x=1$：$1^3 + 12(1) + 2 = 15$。\n\n---",
+      "chapter": "Ch1 1.6節：利用極限定律計算極限",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "求極限值 $\\lim_{x \\to 1} (x^3 + 13x + 2)$。",
+      "options": [],
+      "answer": "16",
+      "type": "fill",
+      "solution": "直接代入 $x=1$：$1^3 + 13(1) + 2 = 16$。\n\n---",
+      "chapter": "Ch1 1.6節：利用極限定律計算極限",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "求極限值 $\\lim_{x \\to 1} (x^3 + 14x + 2)$。",
+      "options": [],
+      "answer": "17",
+      "type": "fill",
+      "solution": "直接代入 $x=1$：$1^3 + 14(1) + 2 = 17$。\n\n---",
+      "chapter": "Ch1 1.6節：利用極限定律計算極限",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "求極限值 $\\lim_{x \\to 1} (x^3 + 15x + 2)$。",
+      "options": [],
+      "answer": "18",
+      "type": "fill",
+      "solution": "直接代入 $x=1$：$1^3 + 15(1) + 2 = 18$。",
+      "chapter": "Ch1 1.6節：利用極限定律計算極限",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "極限精確定義中，若 $|x - a| < \\delta$，則何者成立？",
+      "options": [
+        "$|f(x) - a| < \\epsilon$",
+        "$|f(x) - L| < \\epsilon$",
+        "$|x - L| < \\epsilon$",
+        "$|f(x) - L| > \\epsilon$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "根據極限定義，當 $x$ 趨近於 $a$（$|x - a| < \\delta$）時，函數值趨近於 $L$（$|f(x) - L| < \\epsilon$）。\n\n---",
+      "chapter": "Ch1 1.7節：極限的精確定義",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "設 $\\lim_{x \\to 1} (4x - 1) = 3$，若 $\\epsilon = 0.1$，試求最大的 $\\delta$ 滿足定義。",
+      "options": [
+        "$0.1$",
+        "$0.025$",
+        "$0.05$",
+        "$0.2$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "由 $|(4x-1) - (3)| < 0.1 \\implies 4|x-1| < 0.1 \\implies |x-1| < \\frac{0.1}{4}$。故 $\\delta = 0.025$。\n\n---",
+      "chapter": "Ch1 1.7節：極限的精確定義",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "極限精確定義中，若 $|x - a| < \\delta$，則何者成立？",
+      "options": [
+        "$|f(x) - L| > \\epsilon$",
+        "$|f(x) - a| < \\epsilon$",
+        "$|x - L| < \\epsilon$",
+        "$|f(x) - L| < \\epsilon$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據極限定義，當 $x$ 趨近於 $a$（$|x - a| < \\delta$）時，函數值趨近於 $L$（$|f(x) - L| < \\epsilon$）。\n\n---",
+      "chapter": "Ch1 1.7節：極限的精確定義",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "設 $\\lim_{x \\to 1} (6x - 1) = 5$，若 $\\epsilon = 0.1$，試求最大的 $\\delta$ 滿足定義。",
+      "options": [
+        "$0.2$",
+        "$0.1$",
+        "$0.05$",
+        "$0.0167$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "由 $|(6x-1) - (5)| < 0.1 \\implies 6|x-1| < 0.1 \\implies |x-1| < \\frac{0.1}{6}$。故 $\\delta = 0.0167$。\n\n---",
+      "chapter": "Ch1 1.7節：極限的精確定義",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "極限精確定義中，若 $|x - a| < \\delta$，則何者成立？",
+      "options": [
+        "$|f(x) - a| < \\epsilon$",
+        "$|f(x) - L| < \\epsilon$",
+        "$|x - L| < \\epsilon$",
+        "$|f(x) - L| > \\epsilon$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "根據極限定義，當 $x$ 趨近於 $a$（$|x - a| < \\delta$）時，函數值趨近於 $L$（$|f(x) - L| < \\epsilon$）。\n\n---",
+      "chapter": "Ch1 1.7節：極限的精確定義",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "設 $\\lim_{x \\to 1} (8x - 1) = 7$，若 $\\epsilon = 0.1$，試求最大的 $\\delta$ 滿足定義。",
+      "options": [
+        "$0.1$",
+        "$0.0125$",
+        "$0.05$",
+        "$0.2$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "由 $|(8x-1) - (7)| < 0.1 \\implies 8|x-1| < 0.1 \\implies |x-1| < \\frac{0.1}{8}$。故 $\\delta = 0.0125$。\n\n---",
+      "chapter": "Ch1 1.7節：極限的精確定義",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "極限精確定義中，若 $|x - a| < \\delta$，則何者成立？",
+      "options": [
+        "$|f(x) - L| > \\epsilon$",
+        "$|f(x) - a| < \\epsilon$",
+        "$|x - L| < \\epsilon$",
+        "$|f(x) - L| < \\epsilon$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據極限定義，當 $x$ 趨近於 $a$（$|x - a| < \\delta$）時，函數值趨近於 $L$（$|f(x) - L| < \\epsilon$）。\n\n---",
+      "chapter": "Ch1 1.7節：極限的精確定義",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "設 $\\lim_{x \\to 1} (10x - 1) = 9$，若 $\\epsilon = 0.1$，試求最大的 $\\delta$ 滿足定義。",
+      "options": [
+        "$0.2$",
+        "$0.1$",
+        "$0.05$",
+        "$0.01$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "由 $|(10x-1) - (9)| < 0.1 \\implies 10|x-1| < 0.1 \\implies |x-1| < \\frac{0.1}{10}$。故 $\\delta = 0.01$。\n\n---",
+      "chapter": "Ch1 1.7節：極限的精確定義",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "極限精確定義中，若 $|x - a| < \\delta$，則何者成立？",
+      "options": [
+        "$|f(x) - a| < \\epsilon$",
+        "$|f(x) - L| < \\epsilon$",
+        "$|x - L| < \\epsilon$",
+        "$|f(x) - L| > \\epsilon$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "根據極限定義，當 $x$ 趨近於 $a$（$|x - a| < \\delta$）時，函數值趨近於 $L$（$|f(x) - L| < \\epsilon$）。\n\n---",
+      "chapter": "Ch1 1.7節：極限的精確定義",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "設 $\\lim_{x \\to 1} (12x - 1) = 11$，若 $\\epsilon = 0.1$，試求最大的 $\\delta$ 滿足定義。",
+      "options": [
+        "$0.1$",
+        "$0.0083$",
+        "$0.05$",
+        "$0.2$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "由 $|(12x-1) - (11)| < 0.1 \\implies 12|x-1| < 0.1 \\implies |x-1| < \\frac{0.1}{12}$。故 $\\delta = 0.0083$。\n\n---",
+      "chapter": "Ch1 1.7節：極限的精確定義",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "極限精確定義中，若 $|x - a| < \\delta$，則何者成立？",
+      "options": [
+        "$|f(x) - L| > \\epsilon$",
+        "$|f(x) - a| < \\epsilon$",
+        "$|x - L| < \\epsilon$",
+        "$|f(x) - L| < \\epsilon$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據極限定義，當 $x$ 趨近於 $a$（$|x - a| < \\delta$）時，函數值趨近於 $L$（$|f(x) - L| < \\epsilon$）。\n\n---",
+      "chapter": "Ch1 1.7節：極限的精確定義",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "設 $\\lim_{x \\to 1} (14x - 1) = 13$，若 $\\epsilon = 0.1$，試求最大的 $\\delta$ 滿足定義。",
+      "options": [
+        "$0.2$",
+        "$0.1$",
+        "$0.05$",
+        "$0.0071$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "由 $|(14x-1) - (13)| < 0.1 \\implies 14|x-1| < 0.1 \\implies |x-1| < \\frac{0.1}{14}$。故 $\\delta = 0.0071$。\n\n---",
+      "chapter": "Ch1 1.7節：極限的精確定義",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "極限精確定義中，若 $|x - a| < \\delta$，則何者成立？",
+      "options": [
+        "$|f(x) - a| < \\epsilon$",
+        "$|f(x) - L| < \\epsilon$",
+        "$|x - L| < \\epsilon$",
+        "$|f(x) - L| > \\epsilon$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "根據極限定義，當 $x$ 趨近於 $a$（$|x - a| < \\delta$）時，函數值趨近於 $L$（$|f(x) - L| < \\epsilon$）。\n\n---",
+      "chapter": "Ch1 1.7節：極限的精確定義",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "設 $\\lim_{x \\to 1} (16x - 1) = 15$，若 $\\epsilon = 0.1$，試求最大的 $\\delta$ 滿足定義。",
+      "options": [
+        "$0.1$",
+        "$0.0063$",
+        "$0.05$",
+        "$0.2$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "由 $|(16x-1) - (15)| < 0.1 \\implies 16|x-1| < 0.1 \\implies |x-1| < \\frac{0.1}{16}$。故 $\\delta = 0.0063$。\n\n---",
+      "chapter": "Ch1 1.7節：極限的精確定義",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "極限精確定義中，若 $|x - a| < \\delta$，則何者成立？",
+      "options": [
+        "$|f(x) - L| > \\epsilon$",
+        "$|f(x) - a| < \\epsilon$",
+        "$|x - L| < \\epsilon$",
+        "$|f(x) - L| < \\epsilon$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據極限定義，當 $x$ 趨近於 $a$（$|x - a| < \\delta$）時，函數值趨近於 $L$（$|f(x) - L| < \\epsilon$）。\n\n---",
+      "chapter": "Ch1 1.7節：極限的精確定義",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "設 $\\lim_{x \\to 1} (18x - 1) = 17$，若 $\\epsilon = 0.1$，試求最大的 $\\delta$ 滿足定義。",
+      "options": [
+        "$0.2$",
+        "$0.1$",
+        "$0.05$",
+        "$0.0056$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "由 $|(18x-1) - (17)| < 0.1 \\implies 18|x-1| < 0.1 \\implies |x-1| < \\frac{0.1}{18}$。故 $\\delta = 0.0056$。\n\n---",
+      "chapter": "Ch1 1.7節：極限的精確定義",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "極限精確定義中，若 $|x - a| < \\delta$，則何者成立？",
+      "options": [
+        "$|f(x) - a| < \\epsilon$",
+        "$|f(x) - L| < \\epsilon$",
+        "$|x - L| < \\epsilon$",
+        "$|f(x) - L| > \\epsilon$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "根據極限定義，當 $x$ 趨近於 $a$（$|x - a| < \\delta$）時，函數值趨近於 $L$（$|f(x) - L| < \\epsilon$）。\n\n---",
+      "chapter": "Ch1 1.7節：極限的精確定義",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "設 $\\lim_{x \\to 1} (20x - 1) = 19$，若 $\\epsilon = 0.1$，試求最大的 $\\delta$ 滿足定義。",
+      "options": [
+        "$0.1$",
+        "$0.005$",
+        "$0.05$",
+        "$0.2$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "由 $|(20x-1) - (19)| < 0.1 \\implies 20|x-1| < 0.1 \\implies |x-1| < \\frac{0.1}{20}$。故 $\\delta = 0.005$。\n\n---",
+      "chapter": "Ch1 1.7節：極限的精確定義",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "極限精確定義中，若 $|x - a| < \\delta$，則何者成立？",
+      "options": [
+        "$|f(x) - L| > \\epsilon$",
+        "$|f(x) - a| < \\epsilon$",
+        "$|x - L| < \\epsilon$",
+        "$|f(x) - L| < \\epsilon$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據極限定義，當 $x$ 趨近於 $a$（$|x - a| < \\delta$）時，函數值趨近於 $L$（$|f(x) - L| < \\epsilon$）。\n\n---",
+      "chapter": "Ch1 1.7節：極限的精確定義",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "設 $\\lim_{x \\to 1} (22x - 1) = 21$，若 $\\epsilon = 0.1$，試求最大的 $\\delta$ 滿足定義。",
+      "options": [
+        "$0.2$",
+        "$0.1$",
+        "$0.05$",
+        "$0.0045$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "由 $|(22x-1) - (21)| < 0.1 \\implies 22|x-1| < 0.1 \\implies |x-1| < \\frac{0.1}{22}$。故 $\\delta = 0.0045$。\n\n---",
+      "chapter": "Ch1 1.7節：極限的精確定義",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "若 $\\lim_{x \\to 2} 5x = 10$，且 $\\epsilon = 0.2$，求對應的 $\\delta$ 最大值除以 0.1 後的值為多少？",
+      "options": [],
+      "answer": "0.4",
+      "type": "fill",
+      "solution": "$\\delta = \\frac{\\epsilon}{5} = \\frac{0.2}{5}$。除以 0.1 即為 $\\frac{2}{5}$。其值為 0.4。\n\n---",
+      "chapter": "Ch1 1.7節：極限的精確定義",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "若 $\\lim_{x \\to 2} 6x = 12$，且 $\\epsilon = 0.2$，求對應的 $\\delta$ 最大值除以 0.1 後的值為多少？",
+      "options": [],
+      "answer": "0.33",
+      "type": "fill",
+      "solution": "$\\delta = \\frac{\\epsilon}{6} = \\frac{0.2}{6}$。除以 0.1 即為 $\\frac{2}{6}$。其值為 0.33。\n\n---",
+      "chapter": "Ch1 1.7節：極限的精確定義",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "若 $\\lim_{x \\to 2} 7x = 14$，且 $\\epsilon = 0.2$，求對應的 $\\delta$ 最大值除以 0.1 後的值為多少？",
+      "options": [],
+      "answer": "0.29",
+      "type": "fill",
+      "solution": "$\\delta = \\frac{\\epsilon}{7} = \\frac{0.2}{7}$。除以 0.1 即為 $\\frac{2}{7}$。其值為 0.29。\n\n---",
+      "chapter": "Ch1 1.7節：極限的精確定義",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "若 $\\lim_{x \\to 2} 8x = 16$，且 $\\epsilon = 0.2$，求對應的 $\\delta$ 最大值除以 0.1 後的值為多少？",
+      "options": [],
+      "answer": "0.25",
+      "type": "fill",
+      "solution": "$\\delta = \\frac{\\epsilon}{8} = \\frac{0.2}{8}$。除以 0.1 即為 $\\frac{2}{8}$。其值為 0.25。\n\n---",
+      "chapter": "Ch1 1.7節：極限的精確定義",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "若 $\\lim_{x \\to 2} 9x = 18$，且 $\\epsilon = 0.2$，求對應的 $\\delta$ 最大值除以 0.1 後的值為多少？",
+      "options": [],
+      "answer": "0.22",
+      "type": "fill",
+      "solution": "$\\delta = \\frac{\\epsilon}{9} = \\frac{0.2}{9}$。除以 0.1 即為 $\\frac{2}{9}$。其值為 0.22。\n\n---",
+      "chapter": "Ch1 1.7節：極限的精確定義",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "若 $\\lim_{x \\to 2} 10x = 20$，且 $\\epsilon = 0.2$，求對應的 $\\delta$ 最大值除以 0.1 後的值為多少？",
+      "options": [],
+      "answer": "0.2",
+      "type": "fill",
+      "solution": "$\\delta = \\frac{\\epsilon}{10} = \\frac{0.2}{10}$。除以 0.1 即為 $\\frac{2}{10}$。其值為 0.2。\n\n---",
+      "chapter": "Ch1 1.7節：極限的精確定義",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "若 $\\lim_{x \\to 2} 11x = 22$，且 $\\epsilon = 0.2$，求對應的 $\\delta$ 最大值除以 0.1 後的值為多少？",
+      "options": [],
+      "answer": "0.18",
+      "type": "fill",
+      "solution": "$\\delta = \\frac{\\epsilon}{11} = \\frac{0.2}{11}$。除以 0.1 即為 $\\frac{2}{11}$。其值為 0.18。\n\n---",
+      "chapter": "Ch1 1.7節：極限的精確定義",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "若 $\\lim_{x \\to 2} 12x = 24$，且 $\\epsilon = 0.2$，求對應的 $\\delta$ 最大值除以 0.1 後的值為多少？",
+      "options": [],
+      "answer": "0.17",
+      "type": "fill",
+      "solution": "$\\delta = \\frac{\\epsilon}{12} = \\frac{0.2}{12}$。除以 0.1 即為 $\\frac{2}{12}$。其值為 0.17。\n\n---",
+      "chapter": "Ch1 1.7節：極限的精確定義",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "若 $\\lim_{x \\to 2} 13x = 26$，且 $\\epsilon = 0.2$，求對應的 $\\delta$ 最大值除以 0.1 後的值為多少？",
+      "options": [],
+      "answer": "0.15",
+      "type": "fill",
+      "solution": "$\\delta = \\frac{\\epsilon}{13} = \\frac{0.2}{13}$。除以 0.1 即為 $\\frac{2}{13}$。其值為 0.15。\n\n---",
+      "chapter": "Ch1 1.7節：極限的精確定義",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "若 $\\lim_{x \\to 2} 14x = 28$，且 $\\epsilon = 0.2$，求對應的 $\\delta$ 最大值除以 0.1 後的值為多少？",
+      "options": [],
+      "answer": "0.14",
+      "type": "fill",
+      "solution": "$\\delta = \\frac{\\epsilon}{14} = \\frac{0.2}{14}$。除以 0.1 即為 $\\frac{2}{14}$。其值為 0.14。",
+      "chapter": "Ch1 1.7節：極限的精確定義",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "設 $f(x)$ 在 $[0, 1]$ 上連續，若 $f(0) = -1$ 且 $f(1) = 1$，由中間值定理可知 $f(c) = 0$ 在區間內至少有幾個根？",
+      "options": [
+        "$2$",
+        "$1$",
+        "$0$",
+        "無限多"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "因 $f(0) \\cdot f(1) < 0$，根據中間值定理，在區間 $(0, 1)$ 內至少存在一個根。\n\n---",
+      "chapter": "Ch1 1.8節：函數的連續性",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "已知函數 $f(x) = \\frac{x-1}{x - 3}$，試問該函數在何處不連續？",
+      "options": [
+        "$x = 3$",
+        "$x = 1$",
+        "$x = 0$",
+        "全區域連續"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "分母不可為 0，當 $x - 3 = 0 \\implies x = 3$ 時不連續。\n\n---",
+      "chapter": "Ch1 1.8節：函數的連續性",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "設 $f(x)$ 在 $[0, 1]$ 上連續，若 $f(0) = -1$ 且 $f(1) = 1$，由中間值定理可知 $f(c) = 0$ 在區間內至少有幾個根？",
+      "options": [
+        "無限多",
+        "$2$",
+        "$0$",
+        "$1$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "因 $f(0) \\cdot f(1) < 0$，根據中間值定理，在區間 $(0, 1)$ 內至少存在一個根。\n\n---",
+      "chapter": "Ch1 1.8節：函數的連續性",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "已知函數 $f(x) = \\frac{x-1}{x - 5}$，試問該函數在何處不連續？",
+      "options": [
+        "$x = 0$",
+        "$x = 1$",
+        "$x = 5$",
+        "全區域連續"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "分母不可為 0，當 $x - 5 = 0 \\implies x = 5$ 時不連續。\n\n---",
+      "chapter": "Ch1 1.8節：函數的連續性",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "設 $f(x)$ 在 $[0, 1]$ 上連續，若 $f(0) = -1$ 且 $f(1) = 1$，由中間值定理可知 $f(c) = 0$ 在區間內至少有幾個根？",
+      "options": [
+        "$2$",
+        "$1$",
+        "$0$",
+        "無限多"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "因 $f(0) \\cdot f(1) < 0$，根據中間值定理，在區間 $(0, 1)$ 內至少存在一個根。\n\n---",
+      "chapter": "Ch1 1.8節：函數的連續性",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "已知函數 $f(x) = \\frac{x-1}{x - 7}$，試問該函數在何處不連續？",
+      "options": [
+        "$x = 7$",
+        "$x = 1$",
+        "$x = 0$",
+        "全區域連續"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "分母不可為 0，當 $x - 7 = 0 \\implies x = 7$ 時不連續。\n\n---",
+      "chapter": "Ch1 1.8節：函數的連續性",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "設 $f(x)$ 在 $[0, 1]$ 上連續，若 $f(0) = -1$ 且 $f(1) = 1$，由中間值定理可知 $f(c) = 0$ 在區間內至少有幾個根？",
+      "options": [
+        "無限多",
+        "$2$",
+        "$0$",
+        "$1$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "因 $f(0) \\cdot f(1) < 0$，根據中間值定理，在區間 $(0, 1)$ 內至少存在一個根。\n\n---",
+      "chapter": "Ch1 1.8節：函數的連續性",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "已知函數 $f(x) = \\frac{x-1}{x - 9}$，試問該函數在何處不連續？",
+      "options": [
+        "$x = 0$",
+        "$x = 1$",
+        "$x = 9$",
+        "全區域連續"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "分母不可為 0，當 $x - 9 = 0 \\implies x = 9$ 時不連續。\n\n---",
+      "chapter": "Ch1 1.8節：函數的連續性",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "設 $f(x)$ 在 $[0, 1]$ 上連續，若 $f(0) = -1$ 且 $f(1) = 1$，由中間值定理可知 $f(c) = 0$ 在區間內至少有幾個根？",
+      "options": [
+        "$2$",
+        "$1$",
+        "$0$",
+        "無限多"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "因 $f(0) \\cdot f(1) < 0$，根據中間值定理，在區間 $(0, 1)$ 內至少存在一個根。\n\n---",
+      "chapter": "Ch1 1.8節：函數的連續性",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "已知函數 $f(x) = \\frac{x-1}{x - 11}$，試問該函數在何處不連續？",
+      "options": [
+        "$x = 11$",
+        "$x = 1$",
+        "$x = 0$",
+        "全區域連續"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "分母不可為 0，當 $x - 11 = 0 \\implies x = 11$ 時不連續。\n\n---",
+      "chapter": "Ch1 1.8節：函數的連續性",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "設 $f(x)$ 在 $[0, 1]$ 上連續，若 $f(0) = -1$ 且 $f(1) = 1$，由中間值定理可知 $f(c) = 0$ 在區間內至少有幾個根？",
+      "options": [
+        "無限多",
+        "$2$",
+        "$0$",
+        "$1$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "因 $f(0) \\cdot f(1) < 0$，根據中間值定理，在區間 $(0, 1)$ 內至少存在一個根。\n\n---",
+      "chapter": "Ch1 1.8節：函數的連續性",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "已知函數 $f(x) = \\frac{x-1}{x - 13}$，試問該函數在何處不連續？",
+      "options": [
+        "$x = 0$",
+        "$x = 1$",
+        "$x = 13$",
+        "全區域連續"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "分母不可為 0，當 $x - 13 = 0 \\implies x = 13$ 時不連續。\n\n---",
+      "chapter": "Ch1 1.8節：函數的連續性",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "設 $f(x)$ 在 $[0, 1]$ 上連續，若 $f(0) = -1$ 且 $f(1) = 1$，由中間值定理可知 $f(c) = 0$ 在區間內至少有幾個根？",
+      "options": [
+        "$2$",
+        "$1$",
+        "$0$",
+        "無限多"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "因 $f(0) \\cdot f(1) < 0$，根據中間值定理，在區間 $(0, 1)$ 內至少存在一個根。\n\n---",
+      "chapter": "Ch1 1.8節：函數的連續性",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "已知函數 $f(x) = \\frac{x-1}{x - 15}$，試問該函數在何處不連續？",
+      "options": [
+        "$x = 15$",
+        "$x = 1$",
+        "$x = 0$",
+        "全區域連續"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "分母不可為 0，當 $x - 15 = 0 \\implies x = 15$ 時不連續。\n\n---",
+      "chapter": "Ch1 1.8節：函數的連續性",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "設 $f(x)$ 在 $[0, 1]$ 上連續，若 $f(0) = -1$ 且 $f(1) = 1$，由中間值定理可知 $f(c) = 0$ 在區間內至少有幾個根？",
+      "options": [
+        "無限多",
+        "$2$",
+        "$0$",
+        "$1$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "因 $f(0) \\cdot f(1) < 0$，根據中間值定理，在區間 $(0, 1)$ 內至少存在一個根。\n\n---",
+      "chapter": "Ch1 1.8節：函數的連續性",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "已知函數 $f(x) = \\frac{x-1}{x - 17}$，試問該函數在何處不連續？",
+      "options": [
+        "$x = 0$",
+        "$x = 1$",
+        "$x = 17$",
+        "全區域連續"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "分母不可為 0，當 $x - 17 = 0 \\implies x = 17$ 時不連續。\n\n---",
+      "chapter": "Ch1 1.8節：函數的連續性",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "設 $f(x)$ 在 $[0, 1]$ 上連續，若 $f(0) = -1$ 且 $f(1) = 1$，由中間值定理可知 $f(c) = 0$ 在區間內至少有幾個根？",
+      "options": [
+        "$2$",
+        "$1$",
+        "$0$",
+        "無限多"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "因 $f(0) \\cdot f(1) < 0$，根據中間值定理，在區間 $(0, 1)$ 內至少存在一個根。\n\n---",
+      "chapter": "Ch1 1.8節：函數的連續性",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "已知函數 $f(x) = \\frac{x-1}{x - 19}$，試問該函數在何處不連續？",
+      "options": [
+        "$x = 19$",
+        "$x = 1$",
+        "$x = 0$",
+        "全區域連續"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "分母不可為 0，當 $x - 19 = 0 \\implies x = 19$ 時不連續。\n\n---",
+      "chapter": "Ch1 1.8節：函數的連續性",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "設 $f(x)$ 在 $[0, 1]$ 上連續，若 $f(0) = -1$ 且 $f(1) = 1$，由中間值定理可知 $f(c) = 0$ 在區間內至少有幾個根？",
+      "options": [
+        "無限多",
+        "$2$",
+        "$0$",
+        "$1$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "因 $f(0) \\cdot f(1) < 0$，根據中間值定理，在區間 $(0, 1)$ 內至少存在一個根。\n\n---",
+      "chapter": "Ch1 1.8節：函數的連續性",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "已知函數 $f(x) = \\frac{x-1}{x - 21}$，試問該函數在何處不連續？",
+      "options": [
+        "$x = 0$",
+        "$x = 1$",
+        "$x = 21$",
+        "全區域連續"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "分母不可為 0，當 $x - 21 = 0 \\implies x = 21$ 時不連續。\n\n---",
+      "chapter": "Ch1 1.8節：函數的連續性",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "若函數 $f(x) = 6x^2 + 1$ 在 $\\mathbb{R}$ 上連續，試求 $f(2)$ 的精確值為何？",
+      "options": [],
+      "answer": "25",
+      "type": "fill",
+      "solution": "直接代入 $x=2$：$6(2)^2 + 1 = 25$。\n\n---",
+      "chapter": "Ch1 1.8節：函數的連續性",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "若函數 $f(x) = 7x^2 + 1$ 在 $\\mathbb{R}$ 上連續，試求 $f(2)$ 的精確值為何？",
+      "options": [],
+      "answer": "29",
+      "type": "fill",
+      "solution": "直接代入 $x=2$：$7(2)^2 + 1 = 29$。\n\n---",
+      "chapter": "Ch1 1.8節：函數的連續性",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "若函數 $f(x) = 8x^2 + 1$ 在 $\\mathbb{R}$ 上連續，試求 $f(2)$ 的精確值為何？",
+      "options": [],
+      "answer": "33",
+      "type": "fill",
+      "solution": "直接代入 $x=2$：$8(2)^2 + 1 = 33$。\n\n---",
+      "chapter": "Ch1 1.8節：函數的連續性",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "若函數 $f(x) = 9x^2 + 1$ 在 $\\mathbb{R}$ 上連續，試求 $f(2)$ 的精確值為何？",
+      "options": [],
+      "answer": "37",
+      "type": "fill",
+      "solution": "直接代入 $x=2$：$9(2)^2 + 1 = 37$。\n\n---",
+      "chapter": "Ch1 1.8節：函數的連續性",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "若函數 $f(x) = 10x^2 + 1$ 在 $\\mathbb{R}$ 上連續，試求 $f(2)$ 的精確值為何？",
+      "options": [],
+      "answer": "41",
+      "type": "fill",
+      "solution": "直接代入 $x=2$：$10(2)^2 + 1 = 41$。\n\n---",
+      "chapter": "Ch1 1.8節：函數的連續性",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "若函數 $f(x) = 11x^2 + 1$ 在 $\\mathbb{R}$ 上連續，試求 $f(2)$ 的精確值為何？",
+      "options": [],
+      "answer": "45",
+      "type": "fill",
+      "solution": "直接代入 $x=2$：$11(2)^2 + 1 = 45$。\n\n---",
+      "chapter": "Ch1 1.8節：函數的連續性",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "若函數 $f(x) = 12x^2 + 1$ 在 $\\mathbb{R}$ 上連續，試求 $f(2)$ 的精確值為何？",
+      "options": [],
+      "answer": "49",
+      "type": "fill",
+      "solution": "直接代入 $x=2$：$12(2)^2 + 1 = 49$。\n\n---",
+      "chapter": "Ch1 1.8節：函數的連續性",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "若函數 $f(x) = 13x^2 + 1$ 在 $\\mathbb{R}$ 上連續，試求 $f(2)$ 的精確值為何？",
+      "options": [],
+      "answer": "53",
+      "type": "fill",
+      "solution": "直接代入 $x=2$：$13(2)^2 + 1 = 53$。\n\n---",
+      "chapter": "Ch1 1.8節：函數的連續性",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "若函數 $f(x) = 14x^2 + 1$ 在 $\\mathbb{R}$ 上連續，試求 $f(2)$ 的精確值為何？",
+      "options": [],
+      "answer": "57",
+      "type": "fill",
+      "solution": "直接代入 $x=2$：$14(2)^2 + 1 = 57$。\n\n---",
+      "chapter": "Ch1 1.8節：函數的連續性",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "若函數 $f(x) = 15x^2 + 1$ 在 $\\mathbb{R}$ 上連續，試求 $f(2)$ 的精確值為何？",
+      "options": [],
+      "answer": "61",
+      "type": "fill",
+      "solution": "直接代入 $x=2$：$15(2)^2 + 1 = 61$。",
+      "chapter": "Ch1 1.8節：函數的連續性",
+      "score": 10
+    }
+  ]
+}

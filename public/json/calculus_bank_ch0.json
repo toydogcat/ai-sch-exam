@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "text": "已知 $f(x) = 2x + 2$，試問 $f(1)$ 的值為下列何者？",
+      "options": [
+        "$4$",
+        "$2$",
+        "$6$",
+        "$8$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "直接將 $x=1$ 代入：$f(1) = 2(1) + 2 = 4$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "若 $x^2 - 9 = 0$，則 $x$ 的可能值為下列何者？",
+      "options": [
+        "$\\pm 3$",
+        "$-3$",
+        "$3$",
+        "$\\pm 9$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "利用平方差公式：$x^2 - 9 = (x-3)(x+3) = 0 \\implies x = \\pm 3$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "化簡代數式 $x^{4} \\cdot x^{6} / x^{3}$ 的結果為何？",
+      "options": [
+        "$x^{27}$",
+        "$x^{13}$",
+        "$x^{21}$",
+        "$x^{7}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "利用指數律：$x^{4} \\cdot x^{6} / x^{3} = x^{4+6-3} = x^{7}$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "已知 $f(x) = 5x + 8$，試問 $f(4)$ 的值為下列何者？",
+      "options": [
+        "$26$",
+        "$28$",
+        "$30$",
+        "$56$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "直接將 $x=4$ 代入：$f(4) = 5(4) + 8 = 28$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "若 $x^2 - 36 = 0$，則 $x$ 的可能值為下列何者？",
+      "options": [
+        "$-6$",
+        "$6$",
+        "$\\pm 6$",
+        "$\\pm 36$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "利用平方差公式：$x^2 - 36 = (x-6)(x+6) = 0 \\implies x = \\pm 6$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "化簡代數式 $x^{7} \\cdot x^{12} / x^{6}$ 的結果為何？",
+      "options": [
+        "$x^{78}$",
+        "$x^{25}$",
+        "$x^{13}$",
+        "$x^{90}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "利用指數律：$x^{7} \\cdot x^{12} / x^{6} = x^{7+12-6} = x^{13}$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "已知 $f(x) = 8x + 14$，試問 $f(7)$ 的值為下列何者？",
+      "options": [
+        "$140$",
+        "$70$",
+        "$72$",
+        "$68$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "直接將 $x=7$ 代入：$f(7) = 8(7) + 14 = 70$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "若 $x^2 - 81 = 0$，則 $x$ 的可能值為下列何者？",
+      "options": [
+        "$9$",
+        "$-9$",
+        "$\\pm 9$",
+        "$\\pm 81$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "利用平方差公式：$x^2 - 81 = (x-9)(x+9) = 0 \\implies x = \\pm 9$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "化簡代數式 $x^{10} \\cdot x^{18} / x^{9}$ 的結果為何？",
+      "options": [
+        "$x^{37}$",
+        "$x^{19}$",
+        "$x^{171}$",
+        "$x^{189}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "利用指數律：$x^{10} \\cdot x^{18} / x^{9} = x^{10+18-9} = x^{19}$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "已知 $f(x) = 11x + 20$，試問 $f(10)$ 的值為下列何者？",
+      "options": [
+        "$132$",
+        "$130$",
+        "$128$",
+        "$260$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "直接將 $x=10$ 代入：$f(10) = 11(10) + 20 = 130$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "若 $x^2 - 144 = 0$，則 $x$ 的可能值為下列何者？",
+      "options": [
+        "$\\pm 144$",
+        "$-12$",
+        "$\\pm 12$",
+        "$12$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "利用平方差公式：$x^2 - 144 = (x-12)(x+12) = 0 \\implies x = \\pm 12$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "化簡代數式 $x^{13} \\cdot x^{24} / x^{12}$ 的結果為何？",
+      "options": [
+        "$x^{25}$",
+        "$x^{49}$",
+        "$x^{300}$",
+        "$x^{324}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "利用指數律：$x^{13} \\cdot x^{24} / x^{12} = x^{13+24-12} = x^{25}$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "已知 $f(x) = 14x + 26$，試問 $f(13)$ 的值為下列何者？",
+      "options": [
+        "$208$",
+        "$206$",
+        "$210$",
+        "$416$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "直接將 $x=13$ 代入：$f(13) = 14(13) + 26 = 208$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "若 $x^2 - 225 = 0$，則 $x$ 的可能值為下列何者？",
+      "options": [
+        "$\\pm 15$",
+        "$-15$",
+        "$15$",
+        "$\\pm 225$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "利用平方差公式：$x^2 - 225 = (x-15)(x+15) = 0 \\implies x = \\pm 15$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "化簡代數式 $x^{16} \\cdot x^{30} / x^{15}$ 的結果為何？",
+      "options": [
+        "$x^{495}$",
+        "$x^{61}$",
+        "$x^{465}$",
+        "$x^{31}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "利用指數律：$x^{16} \\cdot x^{30} / x^{15} = x^{16+30-15} = x^{31}$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "已知 $f(x) = 17x + 32$，試問 $f(16)$ 的值為下列何者？",
+      "options": [
+        "$302$",
+        "$304$",
+        "$306$",
+        "$608$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "直接將 $x=16$ 代入：$f(16) = 17(16) + 32 = 304$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "若 $x^2 - 324 = 0$，則 $x$ 的可能值為下列何者？",
+      "options": [
+        "$-18$",
+        "$18$",
+        "$\\pm 18$",
+        "$\\pm 324$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "利用平方差公式：$x^2 - 324 = (x-18)(x+18) = 0 \\implies x = \\pm 18$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "化簡代數式 $x^{19} \\cdot x^{36} / x^{18}$ 的結果為何？",
+      "options": [
+        "$x^{666}$",
+        "$x^{73}$",
+        "$x^{37}$",
+        "$x^{702}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "利用指數律：$x^{19} \\cdot x^{36} / x^{18} = x^{19+36-18} = x^{37}$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "已知 $f(x) = 20x + 38$，試問 $f(19)$ 的值為下列何者？",
+      "options": [
+        "$836$",
+        "$418$",
+        "$420$",
+        "$416$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "直接將 $x=19$ 代入：$f(19) = 20(19) + 38 = 418$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "若 $x^2 - 441 = 0$，則 $x$ 的可能值為下列何者？",
+      "options": [
+        "$21$",
+        "$-21$",
+        "$\\pm 21$",
+        "$\\pm 441$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "利用平方差公式：$x^2 - 441 = (x-21)(x+21) = 0 \\implies x = \\pm 21$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "化簡多項式 $(x+6)(x+23) - x^2$，並求其 $x$ 項之係數為何？",
+      "options": [],
+      "answer": "29",
+      "type": "fill",
+      "solution": "展開原式：$(x^2 + 29x + 138) - x^2 = 29x + 138$。因此 $x$ 項係數為 29。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "化簡多項式 $(x+7)(x+24) - x^2$，並求其 $x$ 項之係數為何？",
+      "options": [],
+      "answer": "31",
+      "type": "fill",
+      "solution": "展開原式：$(x^2 + 31x + 168) - x^2 = 31x + 168$。因此 $x$ 項係數為 31。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "化簡多項式 $(x+8)(x+25) - x^2$，並求其 $x$ 項之係數為何？",
+      "options": [],
+      "answer": "33",
+      "type": "fill",
+      "solution": "展開原式：$(x^2 + 33x + 200) - x^2 = 33x + 200$。因此 $x$ 項係數為 33。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "化簡多項式 $(x+9)(x+26) - x^2$，並求其 $x$ 項之係數為何？",
+      "options": [],
+      "answer": "35",
+      "type": "fill",
+      "solution": "展開原式：$(x^2 + 35x + 234) - x^2 = 35x + 234$。因此 $x$ 項係數為 35。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "化簡多項式 $(x+10)(x+27) - x^2$，並求其 $x$ 項之係數為何？",
+      "options": [],
+      "answer": "37",
+      "type": "fill",
+      "solution": "展開原式：$(x^2 + 37x + 270) - x^2 = 37x + 270$。因此 $x$ 項係數為 37。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "化簡多項式 $(x+11)(x+28) - x^2$，並求其 $x$ 項之係數為何？",
+      "options": [],
+      "answer": "39",
+      "type": "fill",
+      "solution": "展開原式：$(x^2 + 39x + 308) - x^2 = 39x + 308$。因此 $x$ 項係數為 39。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "化簡多項式 $(x+12)(x+29) - x^2$，並求其 $x$ 項之係數為何？",
+      "options": [],
+      "answer": "41",
+      "type": "fill",
+      "solution": "展開原式：$(x^2 + 41x + 348) - x^2 = 41x + 348$。因此 $x$ 項係數為 41。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "化簡多項式 $(x+13)(x+30) - x^2$，並求其 $x$ 項之係數為何？",
+      "options": [],
+      "answer": "43",
+      "type": "fill",
+      "solution": "展開原式：$(x^2 + 43x + 390) - x^2 = 43x + 390$。因此 $x$ 項係數為 43。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "化簡多項式 $(x+14)(x+31) - x^2$，並求其 $x$ 項之係數為何？",
+      "options": [],
+      "answer": "45",
+      "type": "fill",
+      "solution": "展開原式：$(x^2 + 45x + 434) - x^2 = 45x + 434$。因此 $x$ 項係數為 45。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "化簡多項式 $(x+15)(x+32) - x^2$，並求其 $x$ 項之係數為何？",
+      "options": [],
+      "answer": "47",
+      "type": "fill",
+      "solution": "展開原式：$(x^2 + 47x + 480) - x^2 = 47x + 480$。因此 $x$ 項係數為 47。",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "設 $\\theta = 30^\\circ$，試問換算為弧度（Radian）後的值為何？",
+      "options": [
+        "$1.17\\pi$",
+        "$0.34\\pi$",
+        "$0.17\\pi$",
+        "$-0.32999999999999996\\pi$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "角度轉弧度公式為 $\\theta \\times \\frac{\\pi}{180}$。代入：$30^\\circ \\times \\frac{\\pi}{180} = 0.17\\pi$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "若 $\\sin \\theta = 0.6$，且 $\\theta$ 在第一象限，試問 $\\cos \\theta$ 的值為多少？",
+      "options": [
+        "$0.6$",
+        "$0.4$",
+        "$0.2$",
+        "$0.8$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "由 $\\sin^2 \\theta + \\cos^2 \\theta = 1$ 可知：$\\cos \\theta = \\sqrt{1 - 0.6^2} = \\sqrt{0.64} = 0.8$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "若一個圓的半徑為 $3$，試問其面積為何？",
+      "options": [
+        "$9\\pi$",
+        "$6\\pi$",
+        "$3\\pi$",
+        "$27\\pi$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "圓面積公式為 $A = \\pi r^2$。代入 $r=3 \\implies 9\\pi$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "設 $\\theta = 120^\\circ$，試問換算為弧度（Radian）後的值為何？",
+      "options": [
+        "$1.34\\pi$",
+        "$0.67\\pi$",
+        "$1.67\\pi$",
+        "$0.17000000000000004\\pi$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "角度轉弧度公式為 $\\theta \\times \\frac{\\pi}{180}$。代入：$120^\\circ \\times \\frac{\\pi}{180} = 0.67\\pi$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "若 $\\sin \\theta = 0.6$，且 $\\theta$ 在第一象限，試問 $\\cos \\theta$ 的值為多少？",
+      "options": [
+        "$0.2$",
+        "$0.4$",
+        "$0.8$",
+        "$0.6$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "由 $\\sin^2 \\theta + \\cos^2 \\theta = 1$ 可知：$\\cos \\theta = \\sqrt{1 - 0.6^2} = \\sqrt{0.64} = 0.8$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "若一個圓的半徑為 $6$，試問其面積為何？",
+      "options": [
+        "$216\\pi$",
+        "$12\\pi$",
+        "$6\\pi$",
+        "$36\\pi$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "圓面積公式為 $A = \\pi r^2$。代入 $r=6 \\implies 36\\pi$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "設 $\\theta = 210^\\circ$，試問換算為弧度（Radian）後的值為何？",
+      "options": [
+        "$1.17\\pi$",
+        "$2.34\\pi$",
+        "$2.17\\pi$",
+        "$0.6699999999999999\\pi$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "角度轉弧度公式為 $\\theta \\times \\frac{\\pi}{180}$。代入：$210^\\circ \\times \\frac{\\pi}{180} = 1.17\\pi$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "若 $\\sin \\theta = 0.6$，且 $\\theta$ 在第一象限，試問 $\\cos \\theta$ 的值為多少？",
+      "options": [
+        "$0.4$",
+        "$0.8$",
+        "$0.2$",
+        "$0.6$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "由 $\\sin^2 \\theta + \\cos^2 \\theta = 1$ 可知：$\\cos \\theta = \\sqrt{1 - 0.6^2} = \\sqrt{0.64} = 0.8$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "若一個圓的半徑為 $9$，試問其面積為何？",
+      "options": [
+        "$9\\pi$",
+        "$18\\pi$",
+        "$81\\pi$",
+        "$729\\pi$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "圓面積公式為 $A = \\pi r^2$。代入 $r=9 \\implies 81\\pi$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "設 $\\theta = 300^\\circ$，試問換算為弧度（Radian）後的值為何？",
+      "options": [
+        "$1.17\\pi$",
+        "$3.34\\pi$",
+        "$2.67\\pi$",
+        "$1.67\\pi$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "角度轉弧度公式為 $\\theta \\times \\frac{\\pi}{180}$。代入：$300^\\circ \\times \\frac{\\pi}{180} = 1.67\\pi$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "若 $\\sin \\theta = 0.6$，且 $\\theta$ 在第一象限，試問 $\\cos \\theta$ 的值為多少？",
+      "options": [
+        "$0.8$",
+        "$0.4$",
+        "$0.2$",
+        "$0.6$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "由 $\\sin^2 \\theta + \\cos^2 \\theta = 1$ 可知：$\\cos \\theta = \\sqrt{1 - 0.6^2} = \\sqrt{0.64} = 0.8$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "若一個圓的半徑為 $12$，試問其面積為何？",
+      "options": [
+        "$24\\pi$",
+        "$144\\pi$",
+        "$12\\pi$",
+        "$1728\\pi$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "圓面積公式為 $A = \\pi r^2$。代入 $r=12 \\implies 144\\pi$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "設 $\\theta = 390^\\circ$，試問換算為弧度（Radian）後的值為何？",
+      "options": [
+        "$3.17\\pi$",
+        "$4.34\\pi$",
+        "$2.17\\pi$",
+        "$1.67\\pi$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "角度轉弧度公式為 $\\theta \\times \\frac{\\pi}{180}$。代入：$390^\\circ \\times \\frac{\\pi}{180} = 2.17\\pi$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "若 $\\sin \\theta = 0.6$，且 $\\theta$ 在第一象限，試問 $\\cos \\theta$ 的值為多少？",
+      "options": [
+        "$0.6$",
+        "$0.4$",
+        "$0.2$",
+        "$0.8$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "由 $\\sin^2 \\theta + \\cos^2 \\theta = 1$ 可知：$\\cos \\theta = \\sqrt{1 - 0.6^2} = \\sqrt{0.64} = 0.8$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "若一個圓的半徑為 $15$，試問其面積為何？",
+      "options": [
+        "$225\\pi$",
+        "$30\\pi$",
+        "$15\\pi$",
+        "$3375\\pi$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "圓面積公式為 $A = \\pi r^2$。代入 $r=15 \\implies 225\\pi$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "設 $\\theta = 480^\\circ$，試問換算為弧度（Radian）後的值為何？",
+      "options": [
+        "$5.34\\pi$",
+        "$2.67\\pi$",
+        "$3.67\\pi$",
+        "$2.17\\pi$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "角度轉弧度公式為 $\\theta \\times \\frac{\\pi}{180}$。代入：$480^\\circ \\times \\frac{\\pi}{180} = 2.67\\pi$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "若 $\\sin \\theta = 0.6$，且 $\\theta$ 在第一象限，試問 $\\cos \\theta$ 的值為多少？",
+      "options": [
+        "$0.2$",
+        "$0.4$",
+        "$0.8$",
+        "$0.6$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "由 $\\sin^2 \\theta + \\cos^2 \\theta = 1$ 可知：$\\cos \\theta = \\sqrt{1 - 0.6^2} = \\sqrt{0.64} = 0.8$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "若一個圓的半徑為 $18$，試問其面積為何？",
+      "options": [
+        "$5832\\pi$",
+        "$36\\pi$",
+        "$18\\pi$",
+        "$324\\pi$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "圓面積公式為 $A = \\pi r^2$。代入 $r=18 \\implies 324\\pi$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "設 $\\theta = 570^\\circ$，試問換算為弧度（Radian）後的值為何？",
+      "options": [
+        "$3.17\\pi$",
+        "$6.34\\pi$",
+        "$4.17\\pi$",
+        "$2.67\\pi$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "角度轉弧度公式為 $\\theta \\times \\frac{\\pi}{180}$。代入：$570^\\circ \\times \\frac{\\pi}{180} = 3.17\\pi$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "若 $\\sin \\theta = 0.6$，且 $\\theta$ 在第一象限，試問 $\\cos \\theta$ 的值為多少？",
+      "options": [
+        "$0.4$",
+        "$0.8$",
+        "$0.2$",
+        "$0.6$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "由 $\\sin^2 \\theta + \\cos^2 \\theta = 1$ 可知：$\\cos \\theta = \\sqrt{1 - 0.6^2} = \\sqrt{0.64} = 0.8$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "若一個圓的半徑為 $3$，試求其面積除以 $\\pi$ 後的精確值為多少？",
+      "options": [],
+      "answer": "9",
+      "type": "fill",
+      "solution": "圓面積為 $\\pi r^2 = 9\\pi$。除以 $\\pi$ 後為 9。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "若一個圓的半徑為 $4$，試求其面積除以 $\\pi$ 後的精確值為多少？",
+      "options": [],
+      "answer": "16",
+      "type": "fill",
+      "solution": "圓面積為 $\\pi r^2 = 16\\pi$。除以 $\\pi$ 後為 16。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "若一個圓的半徑為 $5$，試求其面積除以 $\\pi$ 後的精確值為多少？",
+      "options": [],
+      "answer": "25",
+      "type": "fill",
+      "solution": "圓面積為 $\\pi r^2 = 25\\pi$。除以 $\\pi$ 後為 25。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "若一個圓的半徑為 $6$，試求其面積除以 $\\pi$ 後的精確值為多少？",
+      "options": [],
+      "answer": "36",
+      "type": "fill",
+      "solution": "圓面積為 $\\pi r^2 = 36\\pi$。除以 $\\pi$ 後為 36。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "若一個圓的半徑為 $7$，試求其面積除以 $\\pi$ 後的精確值為多少？",
+      "options": [],
+      "answer": "49",
+      "type": "fill",
+      "solution": "圓面積為 $\\pi r^2 = 49\\pi$。除以 $\\pi$ 後為 49。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "若一個圓的半徑為 $8$，試求其面積除以 $\\pi$ 後的精確值為多少？",
+      "options": [],
+      "answer": "64",
+      "type": "fill",
+      "solution": "圓面積為 $\\pi r^2 = 64\\pi$。除以 $\\pi$ 後為 64。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "若一個圓的半徑為 $9$，試求其面積除以 $\\pi$ 後的精確值為多少？",
+      "options": [],
+      "answer": "81",
+      "type": "fill",
+      "solution": "圓面積為 $\\pi r^2 = 81\\pi$。除以 $\\pi$ 後為 81。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "若一個圓的半徑為 $10$，試求其面積除以 $\\pi$ 後的精確值為多少？",
+      "options": [],
+      "answer": "100",
+      "type": "fill",
+      "solution": "圓面積為 $\\pi r^2 = 100\\pi$。除以 $\\pi$ 後為 100。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "若一個圓的半徑為 $11$，試求其面積除以 $\\pi$ 後的精確值為多少？",
+      "options": [],
+      "answer": "121",
+      "type": "fill",
+      "solution": "圓面積為 $\\pi r^2 = 121\\pi$。除以 $\\pi$ 後為 121。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "若一個圓的半徑為 $12$，試求其面積除以 $\\pi$ 後的精確值為多少？",
+      "options": [],
+      "answer": "144",
+      "type": "fill",
+      "solution": "圓面積為 $\\pi r^2 = 144\\pi$。除以 $\\pi$ 後為 144。",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    }
+  ]
+}

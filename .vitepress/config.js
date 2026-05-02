@@ -40,6 +40,12 @@ export default defineConfig({
           { text: '學測 (GSAT)', link: '/gsat' },
           { text: '分科測驗 (AST)', link: '/ast' }
         ]
+      },
+      {
+        text: '高等數學 (Advanced Math)',
+        items: [
+          { text: '微積分隨機線上測驗', link: '/calculus' }
+        ]
       }
     ],
     footer: {

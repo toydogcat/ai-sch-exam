@@ -1,0 +1,3604 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "text": "若函數 $f(t) = t^2 + 2t$，試問其在 $t=2$ 時之瞬時變化率為何？",
+      "options": [
+        "$2$",
+        "$4$",
+        "$6$",
+        "$4$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "$f'(t) = 2t + 2$。代入 $t=2$ 得 $2(2) + 2 = 6$。\n\n---",
+      "chapter": "Ch2 2.1節：導數與變化率",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "已知一曲線方程式為 $y = 3x^2$，試問其在 $x=1$ 處的切線斜率為何？",
+      "options": [
+        "$3$",
+        "$6$",
+        "$2$",
+        "$9$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "利用導數定義或微分：$y' = 2 \\cdot 3x = 6x$。代入 $x=1$ 得 $6$。\n\n---",
+      "chapter": "Ch2 2.1節：導數與變化率",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "若函數 $f(t) = t^2 + 4t$，試問其在 $t=2$ 時之瞬時變化率為何？",
+      "options": [
+        "$4$",
+        "$6$",
+        "$4$",
+        "$8$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "$f'(t) = 2t + 4$。代入 $t=2$ 得 $2(2) + 4 = 8$。\n\n---",
+      "chapter": "Ch2 2.1節：導數與變化率",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "已知一曲線方程式為 $y = 5x^2$，試問其在 $x=1$ 處的切線斜率為何？",
+      "options": [
+        "$10$",
+        "$5$",
+        "$2$",
+        "$15$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "利用導數定義或微分：$y' = 2 \\cdot 5x = 10x$。代入 $x=1$ 得 $10$。\n\n---",
+      "chapter": "Ch2 2.1節：導數與變化率",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "若函數 $f(t) = t^2 + 6t$，試問其在 $t=2$ 時之瞬時變化率為何？",
+      "options": [
+        "$6$",
+        "$8$",
+        "$10$",
+        "$4$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "$f'(t) = 2t + 6$。代入 $t=2$ 得 $2(2) + 6 = 10$。\n\n---",
+      "chapter": "Ch2 2.1節：導數與變化率",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "已知一曲線方程式為 $y = 7x^2$，試問其在 $x=1$ 處的切線斜率為何？",
+      "options": [
+        "$7$",
+        "$14$",
+        "$2$",
+        "$21$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "利用導數定義或微分：$y' = 2 \\cdot 7x = 14x$。代入 $x=1$ 得 $14$。\n\n---",
+      "chapter": "Ch2 2.1節：導數與變化率",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "若函數 $f(t) = t^2 + 8t$，試問其在 $t=2$ 時之瞬時變化率為何？",
+      "options": [
+        "$4$",
+        "$10$",
+        "$8$",
+        "$12$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "$f'(t) = 2t + 8$。代入 $t=2$ 得 $2(2) + 8 = 12$。\n\n---",
+      "chapter": "Ch2 2.1節：導數與變化率",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "已知一曲線方程式為 $y = 9x^2$，試問其在 $x=1$ 處的切線斜率為何？",
+      "options": [
+        "$18$",
+        "$9$",
+        "$2$",
+        "$27$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "利用導數定義或微分：$y' = 2 \\cdot 9x = 18x$。代入 $x=1$ 得 $18$。\n\n---",
+      "chapter": "Ch2 2.1節：導數與變化率",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "若函數 $f(t) = t^2 + 10t$，試問其在 $t=2$ 時之瞬時變化率為何？",
+      "options": [
+        "$10$",
+        "$12$",
+        "$14$",
+        "$4$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "$f'(t) = 2t + 10$。代入 $t=2$ 得 $2(2) + 10 = 14$。\n\n---",
+      "chapter": "Ch2 2.1節：導數與變化率",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "已知一曲線方程式為 $y = 11x^2$，試問其在 $x=1$ 處的切線斜率為何？",
+      "options": [
+        "$11$",
+        "$22$",
+        "$2$",
+        "$33$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "利用導數定義或微分：$y' = 2 \\cdot 11x = 22x$。代入 $x=1$ 得 $22$。\n\n---",
+      "chapter": "Ch2 2.1節：導數與變化率",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "若函數 $f(t) = t^2 + 12t$，試問其在 $t=2$ 時之瞬時變化率為何？",
+      "options": [
+        "$4$",
+        "$14$",
+        "$12$",
+        "$16$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "$f'(t) = 2t + 12$。代入 $t=2$ 得 $2(2) + 12 = 16$。\n\n---",
+      "chapter": "Ch2 2.1節：導數與變化率",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "已知一曲線方程式為 $y = 13x^2$，試問其在 $x=1$ 處的切線斜率為何？",
+      "options": [
+        "$26$",
+        "$13$",
+        "$2$",
+        "$39$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "利用導數定義或微分：$y' = 2 \\cdot 13x = 26x$。代入 $x=1$ 得 $26$。\n\n---",
+      "chapter": "Ch2 2.1節：導數與變化率",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "若函數 $f(t) = t^2 + 14t$，試問其在 $t=2$ 時之瞬時變化率為何？",
+      "options": [
+        "$14$",
+        "$16$",
+        "$18$",
+        "$4$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "$f'(t) = 2t + 14$。代入 $t=2$ 得 $2(2) + 14 = 18$。\n\n---",
+      "chapter": "Ch2 2.1節：導數與變化率",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "已知一曲線方程式為 $y = 15x^2$，試問其在 $x=1$ 處的切線斜率為何？",
+      "options": [
+        "$15$",
+        "$30$",
+        "$2$",
+        "$45$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "利用導數定義或微分：$y' = 2 \\cdot 15x = 30x$。代入 $x=1$ 得 $30$。\n\n---",
+      "chapter": "Ch2 2.1節：導數與變化率",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "若函數 $f(t) = t^2 + 16t$，試問其在 $t=2$ 時之瞬時變化率為何？",
+      "options": [
+        "$4$",
+        "$18$",
+        "$16$",
+        "$20$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "$f'(t) = 2t + 16$。代入 $t=2$ 得 $2(2) + 16 = 20$。\n\n---",
+      "chapter": "Ch2 2.1節：導數與變化率",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "已知一曲線方程式為 $y = 17x^2$，試問其在 $x=1$ 處的切線斜率為何？",
+      "options": [
+        "$34$",
+        "$17$",
+        "$2$",
+        "$51$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "利用導數定義或微分：$y' = 2 \\cdot 17x = 34x$。代入 $x=1$ 得 $34$。\n\n---",
+      "chapter": "Ch2 2.1節：導數與變化率",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "若函數 $f(t) = t^2 + 18t$，試問其在 $t=2$ 時之瞬時變化率為何？",
+      "options": [
+        "$18$",
+        "$20$",
+        "$22$",
+        "$4$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "$f'(t) = 2t + 18$。代入 $t=2$ 得 $2(2) + 18 = 22$。\n\n---",
+      "chapter": "Ch2 2.1節：導數與變化率",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "已知一曲線方程式為 $y = 19x^2$，試問其在 $x=1$ 處的切線斜率為何？",
+      "options": [
+        "$19$",
+        "$38$",
+        "$2$",
+        "$57$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "利用導數定義或微分：$y' = 2 \\cdot 19x = 38x$。代入 $x=1$ 得 $38$。\n\n---",
+      "chapter": "Ch2 2.1節：導數與變化率",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "若函數 $f(t) = t^2 + 20t$，試問其在 $t=2$ 時之瞬時變化率為何？",
+      "options": [
+        "$4$",
+        "$22$",
+        "$20$",
+        "$24$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "$f'(t) = 2t + 20$。代入 $t=2$ 得 $2(2) + 20 = 24$。\n\n---",
+      "chapter": "Ch2 2.1節：導數與變化率",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "已知一曲線方程式為 $y = 21x^2$，試問其在 $x=1$ 處的切線斜率為何？",
+      "options": [
+        "$42$",
+        "$21$",
+        "$2$",
+        "$63$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "利用導數定義或微分：$y' = 2 \\cdot 21x = 42x$。代入 $x=1$ 得 $42$。\n\n---",
+      "chapter": "Ch2 2.1節：導數與變化率",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "求 $f(x) = 3x^2$ 在 $x=3$ 處之切線斜率。",
+      "options": [],
+      "answer": "18",
+      "type": "fill",
+      "solution": "對 $x$ 微分得 $f'(x) = 6x$。代入 $x=3 \\implies 6 \\times 3 = 18$。\n\n---",
+      "chapter": "Ch2 2.1節：導數與變化率",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "求 $f(x) = 4x^2$ 在 $x=3$ 處之切線斜率。",
+      "options": [],
+      "answer": "24",
+      "type": "fill",
+      "solution": "對 $x$ 微分得 $f'(x) = 8x$。代入 $x=3 \\implies 8 \\times 3 = 24$。\n\n---",
+      "chapter": "Ch2 2.1節：導數與變化率",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "求 $f(x) = 5x^2$ 在 $x=3$ 處之切線斜率。",
+      "options": [],
+      "answer": "30",
+      "type": "fill",
+      "solution": "對 $x$ 微分得 $f'(x) = 10x$。代入 $x=3 \\implies 10 \\times 3 = 30$。\n\n---",
+      "chapter": "Ch2 2.1節：導數與變化率",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "求 $f(x) = 6x^2$ 在 $x=3$ 處之切線斜率。",
+      "options": [],
+      "answer": "36",
+      "type": "fill",
+      "solution": "對 $x$ 微分得 $f'(x) = 12x$。代入 $x=3 \\implies 12 \\times 3 = 36$。\n\n---",
+      "chapter": "Ch2 2.1節：導數與變化率",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "求 $f(x) = 7x^2$ 在 $x=3$ 處之切線斜率。",
+      "options": [],
+      "answer": "42",
+      "type": "fill",
+      "solution": "對 $x$ 微分得 $f'(x) = 14x$。代入 $x=3 \\implies 14 \\times 3 = 42$。\n\n---",
+      "chapter": "Ch2 2.1節：導數與變化率",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "求 $f(x) = 8x^2$ 在 $x=3$ 處之切線斜率。",
+      "options": [],
+      "answer": "48",
+      "type": "fill",
+      "solution": "對 $x$ 微分得 $f'(x) = 16x$。代入 $x=3 \\implies 16 \\times 3 = 48$。\n\n---",
+      "chapter": "Ch2 2.1節：導數與變化率",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "求 $f(x) = 9x^2$ 在 $x=3$ 處之切線斜率。",
+      "options": [],
+      "answer": "54",
+      "type": "fill",
+      "solution": "對 $x$ 微分得 $f'(x) = 18x$。代入 $x=3 \\implies 18 \\times 3 = 54$。\n\n---",
+      "chapter": "Ch2 2.1節：導數與變化率",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "求 $f(x) = 10x^2$ 在 $x=3$ 處之切線斜率。",
+      "options": [],
+      "answer": "60",
+      "type": "fill",
+      "solution": "對 $x$ 微分得 $f'(x) = 20x$。代入 $x=3 \\implies 20 \\times 3 = 60$。\n\n---",
+      "chapter": "Ch2 2.1節：導數與變化率",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "求 $f(x) = 11x^2$ 在 $x=3$ 處之切線斜率。",
+      "options": [],
+      "answer": "66",
+      "type": "fill",
+      "solution": "對 $x$ 微分得 $f'(x) = 22x$。代入 $x=3 \\implies 22 \\times 3 = 66$。\n\n---",
+      "chapter": "Ch2 2.1節：導數與變化率",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "求 $f(x) = 12x^2$ 在 $x=3$ 處之切線斜率。",
+      "options": [],
+      "answer": "72",
+      "type": "fill",
+      "solution": "對 $x$ 微分得 $f'(x) = 24x$。代入 $x=3 \\implies 24 \\times 3 = 72$。",
+      "chapter": "Ch2 2.1節：導數與變化率",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "設導函數 $f'(x) = 3x$，試問其導函數的定義域為何？",
+      "options": [
+        "$[0, \\infty)$",
+        "$(0, \\infty)$",
+        "$\\mathbb{R}$",
+        "$(-\\infty, 0)$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "因為 $f'(x) = 3x$ 是多項式函數，在所有實數上均有定義。故其定義域為 $\\mathbb{R}$。\n\n---",
+      "chapter": "Ch2 2.2節：導數作為一個函數",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "求函數 $f(x) = x^4$ 的導函數 $f'(x)$。",
+      "options": [
+        "$4x^3$",
+        "$x^4$",
+        "$3x^4$",
+        "$\\4x^3$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "由冪函數微分法可知 $\\frac{d}{dx} (x^n) = nx^{n-1}$。故為 $4x^3$。\n\n---",
+      "chapter": "Ch2 2.2節：導數作為一個函數",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "設導函數 $f'(x) = 5x$，試問其導函數的定義域為何？",
+      "options": [
+        "$(-\\infty, 0)$",
+        "$(0, \\infty)$",
+        "$[0, \\infty)$",
+        "$\\mathbb{R}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "因為 $f'(x) = 5x$ 是多項式函數，在所有實數上均有定義。故其定義域為 $\\mathbb{R}$。\n\n---",
+      "chapter": "Ch2 2.2節：導數作為一個函數",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "求函數 $f(x) = x^6$ 的導函數 $f'(x)$。",
+      "options": [
+        "$x^6$",
+        "$6x^5$",
+        "$5x^6$",
+        "$\\6x^5$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "由冪函數微分法可知 $\\frac{d}{dx} (x^n) = nx^{n-1}$。故為 $6x^5$。\n\n---",
+      "chapter": "Ch2 2.2節：導數作為一個函數",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "設導函數 $f'(x) = 7x$，試問其導函數的定義域為何？",
+      "options": [
+        "$[0, \\infty)$",
+        "$(0, \\infty)$",
+        "$\\mathbb{R}$",
+        "$(-\\infty, 0)$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "因為 $f'(x) = 7x$ 是多項式函數，在所有實數上均有定義。故其定義域為 $\\mathbb{R}$。\n\n---",
+      "chapter": "Ch2 2.2節：導數作為一個函數",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "求函數 $f(x) = x^8$ 的導函數 $f'(x)$。",
+      "options": [
+        "$8x^7$",
+        "$x^8$",
+        "$7x^8$",
+        "$\\8x^7$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "由冪函數微分法可知 $\\frac{d}{dx} (x^n) = nx^{n-1}$。故為 $8x^7$。\n\n---",
+      "chapter": "Ch2 2.2節：導數作為一個函數",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "設導函數 $f'(x) = 9x$，試問其導函數的定義域為何？",
+      "options": [
+        "$(-\\infty, 0)$",
+        "$(0, \\infty)$",
+        "$[0, \\infty)$",
+        "$\\mathbb{R}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "因為 $f'(x) = 9x$ 是多項式函數，在所有實數上均有定義。故其定義域為 $\\mathbb{R}$。\n\n---",
+      "chapter": "Ch2 2.2節：導數作為一個函數",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "求函數 $f(x) = x^10$ 的導函數 $f'(x)$。",
+      "options": [
+        "$x^10$",
+        "$10x^9$",
+        "$9x^10$",
+        "$\\10x^9$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "由冪函數微分法可知 $\\frac{d}{dx} (x^n) = nx^{n-1}$。故為 $10x^9$。\n\n---",
+      "chapter": "Ch2 2.2節：導數作為一個函數",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "設導函數 $f'(x) = 11x$，試問其導函數的定義域為何？",
+      "options": [
+        "$[0, \\infty)$",
+        "$(0, \\infty)$",
+        "$\\mathbb{R}$",
+        "$(-\\infty, 0)$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "因為 $f'(x) = 11x$ 是多項式函數，在所有實數上均有定義。故其定義域為 $\\mathbb{R}$。\n\n---",
+      "chapter": "Ch2 2.2節：導數作為一個函數",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "求函數 $f(x) = x^12$ 的導函數 $f'(x)$。",
+      "options": [
+        "$12x^11$",
+        "$x^12$",
+        "$11x^12$",
+        "$\\12x^11$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "由冪函數微分法可知 $\\frac{d}{dx} (x^n) = nx^{n-1}$。故為 $12x^11$。\n\n---",
+      "chapter": "Ch2 2.2節：導數作為一個函數",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "設導函數 $f'(x) = 13x$，試問其導函數的定義域為何？",
+      "options": [
+        "$(-\\infty, 0)$",
+        "$(0, \\infty)$",
+        "$[0, \\infty)$",
+        "$\\mathbb{R}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "因為 $f'(x) = 13x$ 是多項式函數，在所有實數上均有定義。故其定義域為 $\\mathbb{R}$。\n\n---",
+      "chapter": "Ch2 2.2節：導數作為一個函數",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "求函數 $f(x) = x^14$ 的導函數 $f'(x)$。",
+      "options": [
+        "$x^14$",
+        "$14x^13$",
+        "$13x^14$",
+        "$\\14x^13$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "由冪函數微分法可知 $\\frac{d}{dx} (x^n) = nx^{n-1}$。故為 $14x^13$。\n\n---",
+      "chapter": "Ch2 2.2節：導數作為一個函數",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "設導函數 $f'(x) = 15x$，試問其導函數的定義域為何？",
+      "options": [
+        "$[0, \\infty)$",
+        "$(0, \\infty)$",
+        "$\\mathbb{R}$",
+        "$(-\\infty, 0)$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "因為 $f'(x) = 15x$ 是多項式函數，在所有實數上均有定義。故其定義域為 $\\mathbb{R}$。\n\n---",
+      "chapter": "Ch2 2.2節：導數作為一個函數",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "求函數 $f(x) = x^16$ 的導函數 $f'(x)$。",
+      "options": [
+        "$16x^15$",
+        "$x^16$",
+        "$15x^16$",
+        "$\\16x^15$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "由冪函數微分法可知 $\\frac{d}{dx} (x^n) = nx^{n-1}$。故為 $16x^15$。\n\n---",
+      "chapter": "Ch2 2.2節：導數作為一個函數",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "設導函數 $f'(x) = 17x$，試問其導函數的定義域為何？",
+      "options": [
+        "$(-\\infty, 0)$",
+        "$(0, \\infty)$",
+        "$[0, \\infty)$",
+        "$\\mathbb{R}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "因為 $f'(x) = 17x$ 是多項式函數，在所有實數上均有定義。故其定義域為 $\\mathbb{R}$。\n\n---",
+      "chapter": "Ch2 2.2節：導數作為一個函數",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "求函數 $f(x) = x^18$ 的導函數 $f'(x)$。",
+      "options": [
+        "$x^18$",
+        "$18x^17$",
+        "$17x^18$",
+        "$\\18x^17$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "由冪函數微分法可知 $\\frac{d}{dx} (x^n) = nx^{n-1}$。故為 $18x^17$。\n\n---",
+      "chapter": "Ch2 2.2節：導數作為一個函數",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "設導函數 $f'(x) = 19x$，試問其導函數的定義域為何？",
+      "options": [
+        "$[0, \\infty)$",
+        "$(0, \\infty)$",
+        "$\\mathbb{R}$",
+        "$(-\\infty, 0)$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "因為 $f'(x) = 19x$ 是多項式函數，在所有實數上均有定義。故其定義域為 $\\mathbb{R}$。\n\n---",
+      "chapter": "Ch2 2.2節：導數作為一個函數",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "求函數 $f(x) = x^20$ 的導函數 $f'(x)$。",
+      "options": [
+        "$20x^19$",
+        "$x^20$",
+        "$19x^20$",
+        "$\\20x^19$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "由冪函數微分法可知 $\\frac{d}{dx} (x^n) = nx^{n-1}$。故為 $20x^19$。\n\n---",
+      "chapter": "Ch2 2.2節：導數作為一個函數",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "設導函數 $f'(x) = 21x$，試問其導函數的定義域為何？",
+      "options": [
+        "$(-\\infty, 0)$",
+        "$(0, \\infty)$",
+        "$[0, \\infty)$",
+        "$\\mathbb{R}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "因為 $f'(x) = 21x$ 是多項式函數，在所有實數上均有定義。故其定義域為 $\\mathbb{R}$。\n\n---",
+      "chapter": "Ch2 2.2節：導數作為一個函數",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "求函數 $f(x) = x^22$ 的導函數 $f'(x)$。",
+      "options": [
+        "$x^22$",
+        "$22x^21$",
+        "$21x^22$",
+        "$\\22x^21$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "由冪函數微分法可知 $\\frac{d}{dx} (x^n) = nx^{n-1}$。故為 $22x^21$。\n\n---",
+      "chapter": "Ch2 2.2節：導數作為一個函數",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "若函數 $f(x) = 2x^2$，求導函數 $f'(x)$ 在 $x=5$ 的值。",
+      "options": [],
+      "answer": "20",
+      "type": "fill",
+      "solution": "導函數為 $f'(x) = 4x$。代入 $x=5 \\implies 4 \\times 5 = 20$。\n\n---",
+      "chapter": "Ch2 2.2節：導數作為一個函數",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "若函數 $f(x) = 3x^2$，求導函數 $f'(x)$ 在 $x=5$ 的值。",
+      "options": [],
+      "answer": "30",
+      "type": "fill",
+      "solution": "導函數為 $f'(x) = 6x$。代入 $x=5 \\implies 6 \\times 5 = 30$。\n\n---",
+      "chapter": "Ch2 2.2節：導數作為一個函數",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "若函數 $f(x) = 4x^2$，求導函數 $f'(x)$ 在 $x=5$ 的值。",
+      "options": [],
+      "answer": "40",
+      "type": "fill",
+      "solution": "導函數為 $f'(x) = 8x$。代入 $x=5 \\implies 8 \\times 5 = 40$。\n\n---",
+      "chapter": "Ch2 2.2節：導數作為一個函數",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "若函數 $f(x) = 5x^2$，求導函數 $f'(x)$ 在 $x=5$ 的值。",
+      "options": [],
+      "answer": "50",
+      "type": "fill",
+      "solution": "導函數為 $f'(x) = 10x$。代入 $x=5 \\implies 10 \\times 5 = 50$。\n\n---",
+      "chapter": "Ch2 2.2節：導數作為一個函數",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "若函數 $f(x) = 6x^2$，求導函數 $f'(x)$ 在 $x=5$ 的值。",
+      "options": [],
+      "answer": "60",
+      "type": "fill",
+      "solution": "導函數為 $f'(x) = 12x$。代入 $x=5 \\implies 12 \\times 5 = 60$。\n\n---",
+      "chapter": "Ch2 2.2節：導數作為一個函數",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "若函數 $f(x) = 7x^2$，求導函數 $f'(x)$ 在 $x=5$ 的值。",
+      "options": [],
+      "answer": "70",
+      "type": "fill",
+      "solution": "導函數為 $f'(x) = 14x$。代入 $x=5 \\implies 14 \\times 5 = 70$。\n\n---",
+      "chapter": "Ch2 2.2節：導數作為一個函數",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "若函數 $f(x) = 8x^2$，求導函數 $f'(x)$ 在 $x=5$ 的值。",
+      "options": [],
+      "answer": "80",
+      "type": "fill",
+      "solution": "導函數為 $f'(x) = 16x$。代入 $x=5 \\implies 16 \\times 5 = 80$。\n\n---",
+      "chapter": "Ch2 2.2節：導數作為一個函數",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "若函數 $f(x) = 9x^2$，求導函數 $f'(x)$ 在 $x=5$ 的值。",
+      "options": [],
+      "answer": "90",
+      "type": "fill",
+      "solution": "導函數為 $f'(x) = 18x$。代入 $x=5 \\implies 18 \\times 5 = 90$。\n\n---",
+      "chapter": "Ch2 2.2節：導數作為一個函數",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "若函數 $f(x) = 10x^2$，求導函數 $f'(x)$ 在 $x=5$ 的值。",
+      "options": [],
+      "answer": "100",
+      "type": "fill",
+      "solution": "導函數為 $f'(x) = 20x$。代入 $x=5 \\implies 20 \\times 5 = 100$。\n\n---",
+      "chapter": "Ch2 2.2節：導數作為一個函數",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "若函數 $f(x) = 11x^2$，求導函數 $f'(x)$ 在 $x=5$ 的值。",
+      "options": [],
+      "answer": "110",
+      "type": "fill",
+      "solution": "導函數為 $f'(x) = 22x$。代入 $x=5 \\implies 22 \\times 5 = 110$。",
+      "chapter": "Ch2 2.2節：導數作為一個函數",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "求函數 $f(x) = (2x+1)(x+2)$ 的導函數 $f'(x)$。",
+      "options": [
+        "$4x + 5$",
+        "$2x + 3$",
+        "$2x^2 + 1$",
+        "$x + 2$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "展開得 $f(x) = 2x^2 + 5x + 2$，故微分為 $4x + 5$。\n\n---",
+      "chapter": "Ch2 2.3節：微分公式",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "利用微分公式計算 $\\frac{d}{dx} (3x^3 + 5x)$ 的結果。",
+      "options": [
+        "$9x^2$",
+        "$3x^2 + 5$",
+        "$9x^2 + 5$",
+        "$9x + 5$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "對各項微分得 $9x^2 + 5$。\n\n---",
+      "chapter": "Ch2 2.3節：微分公式",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "求函數 $f(x) = (4x+1)(x+2)$ 的導函數 $f'(x)$。",
+      "options": [
+        "$4x + 5$",
+        "$8x + 9$",
+        "$4x^2 + 1$",
+        "$x + 4$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "展開得 $f(x) = 4x^2 + 9x + 2$，故微分為 $8x + 9$。\n\n---",
+      "chapter": "Ch2 2.3節：微分公式",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "利用微分公式計算 $\\frac{d}{dx} (5x^3 + 5x)$ 的結果。",
+      "options": [
+        "$15x + 5$",
+        "$5x^2 + 5$",
+        "$15x^2$",
+        "$15x^2 + 5$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "對各項微分得 $15x^2 + 5$。\n\n---",
+      "chapter": "Ch2 2.3節：微分公式",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "求函數 $f(x) = (6x+1)(x+2)$ 的導函數 $f'(x)$。",
+      "options": [
+        "$12x + 13$",
+        "$6x + 7$",
+        "$6x^2 + 1$",
+        "$x + 6$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "展開得 $f(x) = 6x^2 + 13x + 2$，故微分為 $12x + 13$。\n\n---",
+      "chapter": "Ch2 2.3節：微分公式",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "利用微分公式計算 $\\frac{d}{dx} (7x^3 + 5x)$ 的結果。",
+      "options": [
+        "$21x^2$",
+        "$7x^2 + 5$",
+        "$21x^2 + 5$",
+        "$21x + 5$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "對各項微分得 $21x^2 + 5$。\n\n---",
+      "chapter": "Ch2 2.3節：微分公式",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "求函數 $f(x) = (8x+1)(x+2)$ 的導函數 $f'(x)$。",
+      "options": [
+        "$8x + 9$",
+        "$16x + 17$",
+        "$8x^2 + 1$",
+        "$x + 8$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "展開得 $f(x) = 8x^2 + 17x + 2$，故微分為 $16x + 17$。\n\n---",
+      "chapter": "Ch2 2.3節：微分公式",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "利用微分公式計算 $\\frac{d}{dx} (9x^3 + 5x)$ 的結果。",
+      "options": [
+        "$27x + 5$",
+        "$9x^2 + 5$",
+        "$27x^2$",
+        "$27x^2 + 5$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "對各項微分得 $27x^2 + 5$。\n\n---",
+      "chapter": "Ch2 2.3節：微分公式",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "求函數 $f(x) = (10x+1)(x+2)$ 的導函數 $f'(x)$。",
+      "options": [
+        "$20x + 21$",
+        "$10x + 11$",
+        "$10x^2 + 1$",
+        "$x + 10$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "展開得 $f(x) = 10x^2 + 21x + 2$，故微分為 $20x + 21$。\n\n---",
+      "chapter": "Ch2 2.3節：微分公式",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "利用微分公式計算 $\\frac{d}{dx} (11x^3 + 5x)$ 的結果。",
+      "options": [
+        "$33x^2$",
+        "$11x^2 + 5$",
+        "$33x^2 + 5$",
+        "$33x + 5$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "對各項微分得 $33x^2 + 5$。\n\n---",
+      "chapter": "Ch2 2.3節：微分公式",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "求函數 $f(x) = (12x+1)(x+2)$ 的導函數 $f'(x)$。",
+      "options": [
+        "$12x + 13$",
+        "$24x + 25$",
+        "$12x^2 + 1$",
+        "$x + 12$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "展開得 $f(x) = 12x^2 + 25x + 2$，故微分為 $24x + 25$。\n\n---",
+      "chapter": "Ch2 2.3節：微分公式",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "利用微分公式計算 $\\frac{d}{dx} (13x^3 + 5x)$ 的結果。",
+      "options": [
+        "$39x + 5$",
+        "$13x^2 + 5$",
+        "$39x^2$",
+        "$39x^2 + 5$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "對各項微分得 $39x^2 + 5$。\n\n---",
+      "chapter": "Ch2 2.3節：微分公式",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "求函數 $f(x) = (14x+1)(x+2)$ 的導函數 $f'(x)$。",
+      "options": [
+        "$28x + 29$",
+        "$14x + 15$",
+        "$14x^2 + 1$",
+        "$x + 14$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "展開得 $f(x) = 14x^2 + 29x + 2$，故微分為 $28x + 29$。\n\n---",
+      "chapter": "Ch2 2.3節：微分公式",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "利用微分公式計算 $\\frac{d}{dx} (15x^3 + 5x)$ 的結果。",
+      "options": [
+        "$45x^2$",
+        "$15x^2 + 5$",
+        "$45x^2 + 5$",
+        "$45x + 5$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "對各項微分得 $45x^2 + 5$。\n\n---",
+      "chapter": "Ch2 2.3節：微分公式",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "求函數 $f(x) = (16x+1)(x+2)$ 的導函數 $f'(x)$。",
+      "options": [
+        "$16x + 17$",
+        "$32x + 33$",
+        "$16x^2 + 1$",
+        "$x + 16$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "展開得 $f(x) = 16x^2 + 33x + 2$，故微分為 $32x + 33$。\n\n---",
+      "chapter": "Ch2 2.3節：微分公式",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "利用微分公式計算 $\\frac{d}{dx} (17x^3 + 5x)$ 的結果。",
+      "options": [
+        "$51x + 5$",
+        "$17x^2 + 5$",
+        "$51x^2$",
+        "$51x^2 + 5$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "對各項微分得 $51x^2 + 5$。\n\n---",
+      "chapter": "Ch2 2.3節：微分公式",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "求函數 $f(x) = (18x+1)(x+2)$ 的導函數 $f'(x)$。",
+      "options": [
+        "$36x + 37$",
+        "$18x + 19$",
+        "$18x^2 + 1$",
+        "$x + 18$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "展開得 $f(x) = 18x^2 + 37x + 2$，故微分為 $36x + 37$。\n\n---",
+      "chapter": "Ch2 2.3節：微分公式",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "利用微分公式計算 $\\frac{d}{dx} (19x^3 + 5x)$ 的結果。",
+      "options": [
+        "$57x^2$",
+        "$19x^2 + 5$",
+        "$57x^2 + 5$",
+        "$57x + 5$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "對各項微分得 $57x^2 + 5$。\n\n---",
+      "chapter": "Ch2 2.3節：微分公式",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "求函數 $f(x) = (20x+1)(x+2)$ 的導函數 $f'(x)$。",
+      "options": [
+        "$20x + 21$",
+        "$40x + 41$",
+        "$20x^2 + 1$",
+        "$x + 20$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "展開得 $f(x) = 20x^2 + 41x + 2$，故微分為 $40x + 41$。\n\n---",
+      "chapter": "Ch2 2.3節：微分公式",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "利用微分公式計算 $\\frac{d}{dx} (21x^3 + 5x)$ 的結果。",
+      "options": [
+        "$63x + 5$",
+        "$21x^2 + 5$",
+        "$63x^2$",
+        "$63x^2 + 5$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "對各項微分得 $63x^2 + 5$。\n\n---",
+      "chapter": "Ch2 2.3節：微分公式",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "求 $f(x) = 3x^3 + x^2$ 的導函數在 $x=1$ 的值。",
+      "options": [],
+      "answer": "11",
+      "type": "fill",
+      "solution": "導函數為 $f'(x) = 9x^2 + 2x$。代入 $x=1$ 得 $9(1) + 2(1) = 11$。\n\n---",
+      "chapter": "Ch2 2.3節：微分公式",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "求 $f(x) = 4x^3 + x^2$ 的導函數在 $x=1$ 的值。",
+      "options": [],
+      "answer": "14",
+      "type": "fill",
+      "solution": "導函數為 $f'(x) = 12x^2 + 2x$。代入 $x=1$ 得 $12(1) + 2(1) = 14$。\n\n---",
+      "chapter": "Ch2 2.3節：微分公式",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "求 $f(x) = 5x^3 + x^2$ 的導函數在 $x=1$ 的值。",
+      "options": [],
+      "answer": "17",
+      "type": "fill",
+      "solution": "導函數為 $f'(x) = 15x^2 + 2x$。代入 $x=1$ 得 $15(1) + 2(1) = 17$。\n\n---",
+      "chapter": "Ch2 2.3節：微分公式",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "求 $f(x) = 6x^3 + x^2$ 的導函數在 $x=1$ 的值。",
+      "options": [],
+      "answer": "20",
+      "type": "fill",
+      "solution": "導函數為 $f'(x) = 18x^2 + 2x$。代入 $x=1$ 得 $18(1) + 2(1) = 20$。\n\n---",
+      "chapter": "Ch2 2.3節：微分公式",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "求 $f(x) = 7x^3 + x^2$ 的導函數在 $x=1$ 的值。",
+      "options": [],
+      "answer": "23",
+      "type": "fill",
+      "solution": "導函數為 $f'(x) = 21x^2 + 2x$。代入 $x=1$ 得 $21(1) + 2(1) = 23$。\n\n---",
+      "chapter": "Ch2 2.3節：微分公式",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "求 $f(x) = 8x^3 + x^2$ 的導函數在 $x=1$ 的值。",
+      "options": [],
+      "answer": "26",
+      "type": "fill",
+      "solution": "導函數為 $f'(x) = 24x^2 + 2x$。代入 $x=1$ 得 $24(1) + 2(1) = 26$。\n\n---",
+      "chapter": "Ch2 2.3節：微分公式",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "求 $f(x) = 9x^3 + x^2$ 的導函數在 $x=1$ 的值。",
+      "options": [],
+      "answer": "29",
+      "type": "fill",
+      "solution": "導函數為 $f'(x) = 27x^2 + 2x$。代入 $x=1$ 得 $27(1) + 2(1) = 29$。\n\n---",
+      "chapter": "Ch2 2.3節：微分公式",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "求 $f(x) = 10x^3 + x^2$ 的導函數在 $x=1$ 的值。",
+      "options": [],
+      "answer": "32",
+      "type": "fill",
+      "solution": "導函數為 $f'(x) = 30x^2 + 2x$。代入 $x=1$ 得 $30(1) + 2(1) = 32$。\n\n---",
+      "chapter": "Ch2 2.3節：微分公式",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "求 $f(x) = 11x^3 + x^2$ 的導函數在 $x=1$ 的值。",
+      "options": [],
+      "answer": "35",
+      "type": "fill",
+      "solution": "導函數為 $f'(x) = 33x^2 + 2x$。代入 $x=1$ 得 $33(1) + 2(1) = 35$。\n\n---",
+      "chapter": "Ch2 2.3節：微分公式",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "求 $f(x) = 12x^3 + x^2$ 的導函數在 $x=1$ 的值。",
+      "options": [],
+      "answer": "38",
+      "type": "fill",
+      "solution": "導函數為 $f'(x) = 36x^2 + 2x$。代入 $x=1$ 得 $36(1) + 2(1) = 38$。",
+      "chapter": "Ch2 2.3節：微分公式",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "求函數 $y = \\tan x$ 的導函數為何？",
+      "options": [
+        "$\\sec x \\tan x$",
+        "$\\csc^2 x$",
+        "$\\sec^2 x$",
+        "$\\cos^2 x$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "由三角微分公式，$(\\tan x)' = \\sec^2 x$。\n\n---",
+      "chapter": "Ch2 2.4節：三角函數的導數",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "求 $\\frac{d}{dx} (4\\sin x + \\cos x)$ 的導函數。",
+      "options": [
+        "$4\\cos x - \\sin x$",
+        "$4\\cos x + \\sin x$",
+        "$-4\\cos x - \\sin x$",
+        "$4\\sin x$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "由於 $(\\sin x)' = \\cos x$ 且 $(\\cos x)' = -\\sin x$，故結果為 $4\\cos x - \\sin x$。\n\n---",
+      "chapter": "Ch2 2.4節：三角函數的導數",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "求函數 $y = \\tan x$ 的導函數為何？",
+      "options": [
+        "$\\cos^2 x$",
+        "$\\csc^2 x$",
+        "$\\sec x \\tan x$",
+        "$\\sec^2 x$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "由三角微分公式，$(\\tan x)' = \\sec^2 x$。\n\n---",
+      "chapter": "Ch2 2.4節：三角函數的導數",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "求 $\\frac{d}{dx} (6\\sin x + \\cos x)$ 的導函數。",
+      "options": [
+        "$6\\cos x + \\sin x$",
+        "$6\\cos x - \\sin x$",
+        "$-6\\cos x - \\sin x$",
+        "$6\\sin x$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "由於 $(\\sin x)' = \\cos x$ 且 $(\\cos x)' = -\\sin x$，故結果為 $6\\cos x - \\sin x$。\n\n---",
+      "chapter": "Ch2 2.4節：三角函數的導數",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "求函數 $y = \\tan x$ 的導函數為何？",
+      "options": [
+        "$\\sec x \\tan x$",
+        "$\\csc^2 x$",
+        "$\\sec^2 x$",
+        "$\\cos^2 x$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "由三角微分公式，$(\\tan x)' = \\sec^2 x$。\n\n---",
+      "chapter": "Ch2 2.4節：三角函數的導數",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "求 $\\frac{d}{dx} (8\\sin x + \\cos x)$ 的導函數。",
+      "options": [
+        "$8\\cos x - \\sin x$",
+        "$8\\cos x + \\sin x$",
+        "$-8\\cos x - \\sin x$",
+        "$8\\sin x$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "由於 $(\\sin x)' = \\cos x$ 且 $(\\cos x)' = -\\sin x$，故結果為 $8\\cos x - \\sin x$。\n\n---",
+      "chapter": "Ch2 2.4節：三角函數的導數",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "求函數 $y = \\tan x$ 的導函數為何？",
+      "options": [
+        "$\\cos^2 x$",
+        "$\\csc^2 x$",
+        "$\\sec x \\tan x$",
+        "$\\sec^2 x$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "由三角微分公式，$(\\tan x)' = \\sec^2 x$。\n\n---",
+      "chapter": "Ch2 2.4節：三角函數的導數",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "求 $\\frac{d}{dx} (10\\sin x + \\cos x)$ 的導函數。",
+      "options": [
+        "$10\\cos x + \\sin x$",
+        "$10\\cos x - \\sin x$",
+        "$-10\\cos x - \\sin x$",
+        "$10\\sin x$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "由於 $(\\sin x)' = \\cos x$ 且 $(\\cos x)' = -\\sin x$，故結果為 $10\\cos x - \\sin x$。\n\n---",
+      "chapter": "Ch2 2.4節：三角函數的導數",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "求函數 $y = \\tan x$ 的導函數為何？",
+      "options": [
+        "$\\sec x \\tan x$",
+        "$\\csc^2 x$",
+        "$\\sec^2 x$",
+        "$\\cos^2 x$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "由三角微分公式，$(\\tan x)' = \\sec^2 x$。\n\n---",
+      "chapter": "Ch2 2.4節：三角函數的導數",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "求 $\\frac{d}{dx} (12\\sin x + \\cos x)$ 的導函數。",
+      "options": [
+        "$12\\cos x - \\sin x$",
+        "$12\\cos x + \\sin x$",
+        "$-12\\cos x - \\sin x$",
+        "$12\\sin x$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "由於 $(\\sin x)' = \\cos x$ 且 $(\\cos x)' = -\\sin x$，故結果為 $12\\cos x - \\sin x$。\n\n---",
+      "chapter": "Ch2 2.4節：三角函數的導數",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "求函數 $y = \\tan x$ 的導函數為何？",
+      "options": [
+        "$\\cos^2 x$",
+        "$\\csc^2 x$",
+        "$\\sec x \\tan x$",
+        "$\\sec^2 x$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "由三角微分公式，$(\\tan x)' = \\sec^2 x$。\n\n---",
+      "chapter": "Ch2 2.4節：三角函數的導數",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "求 $\\frac{d}{dx} (14\\sin x + \\cos x)$ 的導函數。",
+      "options": [
+        "$14\\cos x + \\sin x$",
+        "$14\\cos x - \\sin x$",
+        "$-14\\cos x - \\sin x$",
+        "$14\\sin x$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "由於 $(\\sin x)' = \\cos x$ 且 $(\\cos x)' = -\\sin x$，故結果為 $14\\cos x - \\sin x$。\n\n---",
+      "chapter": "Ch2 2.4節：三角函數的導數",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "求函數 $y = \\tan x$ 的導函數為何？",
+      "options": [
+        "$\\sec x \\tan x$",
+        "$\\csc^2 x$",
+        "$\\sec^2 x$",
+        "$\\cos^2 x$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "由三角微分公式，$(\\tan x)' = \\sec^2 x$。\n\n---",
+      "chapter": "Ch2 2.4節：三角函數的導數",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "求 $\\frac{d}{dx} (16\\sin x + \\cos x)$ 的導函數。",
+      "options": [
+        "$16\\cos x - \\sin x$",
+        "$16\\cos x + \\sin x$",
+        "$-16\\cos x - \\sin x$",
+        "$16\\sin x$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "由於 $(\\sin x)' = \\cos x$ 且 $(\\cos x)' = -\\sin x$，故結果為 $16\\cos x - \\sin x$。\n\n---",
+      "chapter": "Ch2 2.4節：三角函數的導數",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "求函數 $y = \\tan x$ 的導函數為何？",
+      "options": [
+        "$\\cos^2 x$",
+        "$\\csc^2 x$",
+        "$\\sec x \\tan x$",
+        "$\\sec^2 x$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "由三角微分公式，$(\\tan x)' = \\sec^2 x$。\n\n---",
+      "chapter": "Ch2 2.4節：三角函數的導數",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "求 $\\frac{d}{dx} (18\\sin x + \\cos x)$ 的導函數。",
+      "options": [
+        "$18\\cos x + \\sin x$",
+        "$18\\cos x - \\sin x$",
+        "$-18\\cos x - \\sin x$",
+        "$18\\sin x$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "由於 $(\\sin x)' = \\cos x$ 且 $(\\cos x)' = -\\sin x$，故結果為 $18\\cos x - \\sin x$。\n\n---",
+      "chapter": "Ch2 2.4節：三角函數的導數",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "求函數 $y = \\tan x$ 的導函數為何？",
+      "options": [
+        "$\\sec x \\tan x$",
+        "$\\csc^2 x$",
+        "$\\sec^2 x$",
+        "$\\cos^2 x$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "由三角微分公式，$(\\tan x)' = \\sec^2 x$。\n\n---",
+      "chapter": "Ch2 2.4節：三角函數的導數",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "求 $\\frac{d}{dx} (20\\sin x + \\cos x)$ 的導函數。",
+      "options": [
+        "$20\\cos x - \\sin x$",
+        "$20\\cos x + \\sin x$",
+        "$-20\\cos x - \\sin x$",
+        "$20\\sin x$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "由於 $(\\sin x)' = \\cos x$ 且 $(\\cos x)' = -\\sin x$，故結果為 $20\\cos x - \\sin x$。\n\n---",
+      "chapter": "Ch2 2.4節：三角函數的導數",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "求函數 $y = \\tan x$ 的導函數為何？",
+      "options": [
+        "$\\cos^2 x$",
+        "$\\csc^2 x$",
+        "$\\sec x \\tan x$",
+        "$\\sec^2 x$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "由三角微分公式，$(\\tan x)' = \\sec^2 x$。\n\n---",
+      "chapter": "Ch2 2.4節：三角函數的導數",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "求 $\\frac{d}{dx} (22\\sin x + \\cos x)$ 的導函數。",
+      "options": [
+        "$22\\cos x + \\sin x$",
+        "$22\\cos x - \\sin x$",
+        "$-22\\cos x - \\sin x$",
+        "$22\\sin x$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "由於 $(\\sin x)' = \\cos x$ 且 $(\\cos x)' = -\\sin x$，故結果為 $22\\cos x - \\sin x$。\n\n---",
+      "chapter": "Ch2 2.4節：三角函數的導數",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "已知 $f(x) = 6\\sin x + 2\\cos x$，求 $f'(0)$ 的精確值。",
+      "options": [],
+      "answer": "6",
+      "type": "fill",
+      "solution": "導函數為 $f'(x) = 6\\cos x - 2\\sin x$。代入 $x=0 \\implies 6\\cos 0 - 2\\sin 0 = 6$。\n\n---",
+      "chapter": "Ch2 2.4節：三角函數的導數",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "已知 $f(x) = 7\\sin x + 2\\cos x$，求 $f'(0)$ 的精確值。",
+      "options": [],
+      "answer": "7",
+      "type": "fill",
+      "solution": "導函數為 $f'(x) = 7\\cos x - 2\\sin x$。代入 $x=0 \\implies 7\\cos 0 - 2\\sin 0 = 7$。\n\n---",
+      "chapter": "Ch2 2.4節：三角函數的導數",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "已知 $f(x) = 8\\sin x + 2\\cos x$，求 $f'(0)$ 的精確值。",
+      "options": [],
+      "answer": "8",
+      "type": "fill",
+      "solution": "導函數為 $f'(x) = 8\\cos x - 2\\sin x$。代入 $x=0 \\implies 8\\cos 0 - 2\\sin 0 = 8$。\n\n---",
+      "chapter": "Ch2 2.4節：三角函數的導數",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "已知 $f(x) = 9\\sin x + 2\\cos x$，求 $f'(0)$ 的精確值。",
+      "options": [],
+      "answer": "9",
+      "type": "fill",
+      "solution": "導函數為 $f'(x) = 9\\cos x - 2\\sin x$。代入 $x=0 \\implies 9\\cos 0 - 2\\sin 0 = 9$。\n\n---",
+      "chapter": "Ch2 2.4節：三角函數的導數",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "已知 $f(x) = 10\\sin x + 2\\cos x$，求 $f'(0)$ 的精確值。",
+      "options": [],
+      "answer": "10",
+      "type": "fill",
+      "solution": "導函數為 $f'(x) = 10\\cos x - 2\\sin x$。代入 $x=0 \\implies 10\\cos 0 - 2\\sin 0 = 10$。\n\n---",
+      "chapter": "Ch2 2.4節：三角函數的導數",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "已知 $f(x) = 11\\sin x + 2\\cos x$，求 $f'(0)$ 的精確值。",
+      "options": [],
+      "answer": "11",
+      "type": "fill",
+      "solution": "導函數為 $f'(x) = 11\\cos x - 2\\sin x$。代入 $x=0 \\implies 11\\cos 0 - 2\\sin 0 = 11$。\n\n---",
+      "chapter": "Ch2 2.4節：三角函數的導數",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "已知 $f(x) = 12\\sin x + 2\\cos x$，求 $f'(0)$ 的精確值。",
+      "options": [],
+      "answer": "12",
+      "type": "fill",
+      "solution": "導函數為 $f'(x) = 12\\cos x - 2\\sin x$。代入 $x=0 \\implies 12\\cos 0 - 2\\sin 0 = 12$。\n\n---",
+      "chapter": "Ch2 2.4節：三角函數的導數",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "已知 $f(x) = 13\\sin x + 2\\cos x$，求 $f'(0)$ 的精確值。",
+      "options": [],
+      "answer": "13",
+      "type": "fill",
+      "solution": "導函數為 $f'(x) = 13\\cos x - 2\\sin x$。代入 $x=0 \\implies 13\\cos 0 - 2\\sin 0 = 13$。\n\n---",
+      "chapter": "Ch2 2.4節：三角函數的導數",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "已知 $f(x) = 14\\sin x + 2\\cos x$，求 $f'(0)$ 的精確值。",
+      "options": [],
+      "answer": "14",
+      "type": "fill",
+      "solution": "導函數為 $f'(x) = 14\\cos x - 2\\sin x$。代入 $x=0 \\implies 14\\cos 0 - 2\\sin 0 = 14$。\n\n---",
+      "chapter": "Ch2 2.4節：三角函數的導數",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "已知 $f(x) = 15\\sin x + 2\\cos x$，求 $f'(0)$ 的精確值。",
+      "options": [],
+      "answer": "15",
+      "type": "fill",
+      "solution": "導函數為 $f'(x) = 15\\cos x - 2\\sin x$。代入 $x=0 \\implies 15\\cos 0 - 2\\sin 0 = 15$。",
+      "chapter": "Ch2 2.4節：三角函數的導數",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "求 $\\frac{d}{dx} (\\sin(2x))$ 的結果。",
+      "options": [
+        "$-2\\cos(2x)$",
+        "$\\cos(2x)$",
+        "$2\\cos(2x)$",
+        "$2\\sin(2x)$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "外層 $(\\sin u)' = \\cos u$，內層 $(2x)' = 2$。故為 $2\\cos(2x)$。\n\n---",
+      "chapter": "Ch2 2.5節：連鎖律",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "利用連鎖律計算 $\\frac{d}{dx} (x^2 + 1)^3$。",
+      "options": [
+        "$3x(x^2 + 1)^2$",
+        "$6x(x^2 + 1)^2$",
+        "$6(x^2 + 1)^3$",
+        "$2x(x^2 + 1)^2$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "外層函數微分為 $3(x^2+1)^2$，內層函數 $x^2+1$ 微分為 $2x$。故為 $6x(x^2+1)^2$。\n\n---",
+      "chapter": "Ch2 2.5節：連鎖律",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "求 $\\frac{d}{dx} (\\sin(4x))$ 的結果。",
+      "options": [
+        "$4\\sin(4x)$",
+        "$\\cos(4x)$",
+        "$-4\\cos(4x)$",
+        "$4\\cos(4x)$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "外層 $(\\sin u)' = \\cos u$，內層 $(4x)' = 4$。故為 $4\\cos(4x)$。\n\n---",
+      "chapter": "Ch2 2.5節：連鎖律",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "利用連鎖律計算 $\\frac{d}{dx} (x^2 + 1)^5$。",
+      "options": [
+        "$10x(x^2 + 1)^4$",
+        "$5x(x^2 + 1)^4$",
+        "$10(x^2 + 1)^5$",
+        "$2x(x^2 + 1)^4$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "外層函數微分為 $5(x^2+1)^4$，內層函數 $x^2+1$ 微分為 $2x$。故為 $10x(x^2+1)^4$。\n\n---",
+      "chapter": "Ch2 2.5節：連鎖律",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "求 $\\frac{d}{dx} (\\sin(6x))$ 的結果。",
+      "options": [
+        "$-6\\cos(6x)$",
+        "$\\cos(6x)$",
+        "$6\\cos(6x)$",
+        "$6\\sin(6x)$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "外層 $(\\sin u)' = \\cos u$，內層 $(6x)' = 6$。故為 $6\\cos(6x)$。\n\n---",
+      "chapter": "Ch2 2.5節：連鎖律",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "利用連鎖律計算 $\\frac{d}{dx} (x^2 + 1)^7$。",
+      "options": [
+        "$7x(x^2 + 1)^6$",
+        "$14x(x^2 + 1)^6$",
+        "$14(x^2 + 1)^7$",
+        "$2x(x^2 + 1)^6$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "外層函數微分為 $7(x^2+1)^6$，內層函數 $x^2+1$ 微分為 $2x$。故為 $14x(x^2+1)^6$。\n\n---",
+      "chapter": "Ch2 2.5節：連鎖律",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "求 $\\frac{d}{dx} (\\sin(8x))$ 的結果。",
+      "options": [
+        "$8\\sin(8x)$",
+        "$\\cos(8x)$",
+        "$-8\\cos(8x)$",
+        "$8\\cos(8x)$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "外層 $(\\sin u)' = \\cos u$，內層 $(8x)' = 8$。故為 $8\\cos(8x)$。\n\n---",
+      "chapter": "Ch2 2.5節：連鎖律",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "利用連鎖律計算 $\\frac{d}{dx} (x^2 + 1)^9$。",
+      "options": [
+        "$18x(x^2 + 1)^8$",
+        "$9x(x^2 + 1)^8$",
+        "$18(x^2 + 1)^9$",
+        "$2x(x^2 + 1)^8$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "外層函數微分為 $9(x^2+1)^8$，內層函數 $x^2+1$ 微分為 $2x$。故為 $18x(x^2+1)^8$。\n\n---",
+      "chapter": "Ch2 2.5節：連鎖律",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "求 $\\frac{d}{dx} (\\sin(10x))$ 的結果。",
+      "options": [
+        "$-10\\cos(10x)$",
+        "$\\cos(10x)$",
+        "$10\\cos(10x)$",
+        "$10\\sin(10x)$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "外層 $(\\sin u)' = \\cos u$，內層 $(10x)' = 10$。故為 $10\\cos(10x)$。\n\n---",
+      "chapter": "Ch2 2.5節：連鎖律",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "利用連鎖律計算 $\\frac{d}{dx} (x^2 + 1)^11$。",
+      "options": [
+        "$11x(x^2 + 1)^10$",
+        "$22x(x^2 + 1)^10$",
+        "$22(x^2 + 1)^11$",
+        "$2x(x^2 + 1)^10$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "外層函數微分為 $11(x^2+1)^10$，內層函數 $x^2+1$ 微分為 $2x$。故為 $22x(x^2+1)^10$。\n\n---",
+      "chapter": "Ch2 2.5節：連鎖律",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "求 $\\frac{d}{dx} (\\sin(12x))$ 的結果。",
+      "options": [
+        "$12\\sin(12x)$",
+        "$\\cos(12x)$",
+        "$-12\\cos(12x)$",
+        "$12\\cos(12x)$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "外層 $(\\sin u)' = \\cos u$，內層 $(12x)' = 12$。故為 $12\\cos(12x)$。\n\n---",
+      "chapter": "Ch2 2.5節：連鎖律",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "利用連鎖律計算 $\\frac{d}{dx} (x^2 + 1)^13$。",
+      "options": [
+        "$26x(x^2 + 1)^12$",
+        "$13x(x^2 + 1)^12$",
+        "$26(x^2 + 1)^13$",
+        "$2x(x^2 + 1)^12$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "外層函數微分為 $13(x^2+1)^12$，內層函數 $x^2+1$ 微分為 $2x$。故為 $26x(x^2+1)^12$。\n\n---",
+      "chapter": "Ch2 2.5節：連鎖律",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "求 $\\frac{d}{dx} (\\sin(14x))$ 的結果。",
+      "options": [
+        "$-14\\cos(14x)$",
+        "$\\cos(14x)$",
+        "$14\\cos(14x)$",
+        "$14\\sin(14x)$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "外層 $(\\sin u)' = \\cos u$，內層 $(14x)' = 14$。故為 $14\\cos(14x)$。\n\n---",
+      "chapter": "Ch2 2.5節：連鎖律",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "利用連鎖律計算 $\\frac{d}{dx} (x^2 + 1)^15$。",
+      "options": [
+        "$15x(x^2 + 1)^14$",
+        "$30x(x^2 + 1)^14$",
+        "$30(x^2 + 1)^15$",
+        "$2x(x^2 + 1)^14$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "外層函數微分為 $15(x^2+1)^14$，內層函數 $x^2+1$ 微分為 $2x$。故為 $30x(x^2+1)^14$。\n\n---",
+      "chapter": "Ch2 2.5節：連鎖律",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "求 $\\frac{d}{dx} (\\sin(16x))$ 的結果。",
+      "options": [
+        "$16\\sin(16x)$",
+        "$\\cos(16x)$",
+        "$-16\\cos(16x)$",
+        "$16\\cos(16x)$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "外層 $(\\sin u)' = \\cos u$，內層 $(16x)' = 16$。故為 $16\\cos(16x)$。\n\n---",
+      "chapter": "Ch2 2.5節：連鎖律",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "利用連鎖律計算 $\\frac{d}{dx} (x^2 + 1)^17$。",
+      "options": [
+        "$34x(x^2 + 1)^16$",
+        "$17x(x^2 + 1)^16$",
+        "$34(x^2 + 1)^17$",
+        "$2x(x^2 + 1)^16$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "外層函數微分為 $17(x^2+1)^16$，內層函數 $x^2+1$ 微分為 $2x$。故為 $34x(x^2+1)^16$。\n\n---",
+      "chapter": "Ch2 2.5節：連鎖律",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "求 $\\frac{d}{dx} (\\sin(18x))$ 的結果。",
+      "options": [
+        "$-18\\cos(18x)$",
+        "$\\cos(18x)$",
+        "$18\\cos(18x)$",
+        "$18\\sin(18x)$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "外層 $(\\sin u)' = \\cos u$，內層 $(18x)' = 18$。故為 $18\\cos(18x)$。\n\n---",
+      "chapter": "Ch2 2.5節：連鎖律",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "利用連鎖律計算 $\\frac{d}{dx} (x^2 + 1)^19$。",
+      "options": [
+        "$19x(x^2 + 1)^18$",
+        "$38x(x^2 + 1)^18$",
+        "$38(x^2 + 1)^19$",
+        "$2x(x^2 + 1)^18$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "外層函數微分為 $19(x^2+1)^18$，內層函數 $x^2+1$ 微分為 $2x$。故為 $38x(x^2+1)^18$。\n\n---",
+      "chapter": "Ch2 2.5節：連鎖律",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "求 $\\frac{d}{dx} (\\sin(20x))$ 的結果。",
+      "options": [
+        "$20\\sin(20x)$",
+        "$\\cos(20x)$",
+        "$-20\\cos(20x)$",
+        "$20\\cos(20x)$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "外層 $(\\sin u)' = \\cos u$，內層 $(20x)' = 20$。故為 $20\\cos(20x)$。\n\n---",
+      "chapter": "Ch2 2.5節：連鎖律",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "利用連鎖律計算 $\\frac{d}{dx} (x^2 + 1)^21$。",
+      "options": [
+        "$42x(x^2 + 1)^20$",
+        "$21x(x^2 + 1)^20$",
+        "$42(x^2 + 1)^21$",
+        "$2x(x^2 + 1)^20$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "外層函數微分為 $21(x^2+1)^20$，內層函數 $x^2+1$ 微分為 $2x$。故為 $42x(x^2+1)^20$。\n\n---",
+      "chapter": "Ch2 2.5節：連鎖律",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "求導函數 $f(x) = (2x+1)^3$ 在 $x=0$ 處的值。",
+      "options": [],
+      "answer": "6",
+      "type": "fill",
+      "solution": "導函數為 $f'(x) = 3 \\cdot (2x+1)^2 \\cdot 2 = 6(2x+1)^2$。代入 $x=0 \\implies 6(1)^2 = 6$。\n\n---",
+      "chapter": "Ch2 2.5節：連鎖律",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "求導函數 $f(x) = (2x+1)^4$ 在 $x=0$ 處的值。",
+      "options": [],
+      "answer": "8",
+      "type": "fill",
+      "solution": "導函數為 $f'(x) = 4 \\cdot (2x+1)^3 \\cdot 2 = 8(2x+1)^3$。代入 $x=0 \\implies 8(1)^3 = 8$。\n\n---",
+      "chapter": "Ch2 2.5節：連鎖律",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "求導函數 $f(x) = (2x+1)^5$ 在 $x=0$ 處的值。",
+      "options": [],
+      "answer": "10",
+      "type": "fill",
+      "solution": "導函數為 $f'(x) = 5 \\cdot (2x+1)^4 \\cdot 2 = 10(2x+1)^4$。代入 $x=0 \\implies 10(1)^4 = 10$。\n\n---",
+      "chapter": "Ch2 2.5節：連鎖律",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "求導函數 $f(x) = (2x+1)^6$ 在 $x=0$ 處的值。",
+      "options": [],
+      "answer": "12",
+      "type": "fill",
+      "solution": "導函數為 $f'(x) = 6 \\cdot (2x+1)^5 \\cdot 2 = 12(2x+1)^5$。代入 $x=0 \\implies 12(1)^5 = 12$。\n\n---",
+      "chapter": "Ch2 2.5節：連鎖律",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "求導函數 $f(x) = (2x+1)^7$ 在 $x=0$ 處的值。",
+      "options": [],
+      "answer": "14",
+      "type": "fill",
+      "solution": "導函數為 $f'(x) = 7 \\cdot (2x+1)^6 \\cdot 2 = 14(2x+1)^6$。代入 $x=0 \\implies 14(1)^6 = 14$。\n\n---",
+      "chapter": "Ch2 2.5節：連鎖律",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "求導函數 $f(x) = (2x+1)^8$ 在 $x=0$ 處的值。",
+      "options": [],
+      "answer": "16",
+      "type": "fill",
+      "solution": "導函數為 $f'(x) = 8 \\cdot (2x+1)^7 \\cdot 2 = 16(2x+1)^7$。代入 $x=0 \\implies 16(1)^7 = 16$。\n\n---",
+      "chapter": "Ch2 2.5節：連鎖律",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "求導函數 $f(x) = (2x+1)^9$ 在 $x=0$ 處的值。",
+      "options": [],
+      "answer": "18",
+      "type": "fill",
+      "solution": "導函數為 $f'(x) = 9 \\cdot (2x+1)^8 \\cdot 2 = 18(2x+1)^8$。代入 $x=0 \\implies 18(1)^8 = 18$。\n\n---",
+      "chapter": "Ch2 2.5節：連鎖律",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "求導函數 $f(x) = (2x+1)^10$ 在 $x=0$ 處的值。",
+      "options": [],
+      "answer": "20",
+      "type": "fill",
+      "solution": "導函數為 $f'(x) = 10 \\cdot (2x+1)^9 \\cdot 2 = 20(2x+1)^9$。代入 $x=0 \\implies 20(1)^9 = 20$。\n\n---",
+      "chapter": "Ch2 2.5節：連鎖律",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "求導函數 $f(x) = (2x+1)^11$ 在 $x=0$ 處的值。",
+      "options": [],
+      "answer": "22",
+      "type": "fill",
+      "solution": "導函數為 $f'(x) = 11 \\cdot (2x+1)^10 \\cdot 2 = 22(2x+1)^10$。代入 $x=0 \\implies 22(1)^10 = 22$。\n\n---",
+      "chapter": "Ch2 2.5節：連鎖律",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "求導函數 $f(x) = (2x+1)^12$ 在 $x=0$ 處的值。",
+      "options": [],
+      "answer": "24",
+      "type": "fill",
+      "solution": "導函數為 $f'(x) = 12 \\cdot (2x+1)^11 \\cdot 2 = 24(2x+1)^11$。代入 $x=0 \\implies 24(1)^11 = 24$。",
+      "chapter": "Ch2 2.5節：連鎖律",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "若 $x^2 + 2y^3 = 10$，試求 $\\frac{dy}{dx}$ 的結果為何？",
+      "options": [
+        "$-\\frac{x}{y}$",
+        "$\\frac{2x}{6y^2}$",
+        "$-\\frac{2x}{y}$",
+        "$-\\frac{2x}{6y^2}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "兩邊對 $x$ 微分得 $2x + 6y^2 \\frac{dy}{dx} = 0 \\implies \\frac{dy}{dx} = -\\frac{2x}{6y^2}$。\n\n---",
+      "chapter": "Ch2 2.6節：隱函數微分",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "若 $x^2 + y^2 = 9$，試求其隱函數導函數 $\\frac{dy}{dx}$。",
+      "options": [
+        "$-\\frac{y}{x}$",
+        "$\\frac{x}{y}$",
+        "$-\\frac{x}{y}$",
+        "$\\frac{y}{x}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "兩邊對 $x$ 微分：$2x + 2y \\frac{dy}{dx} = 0 \\implies \\frac{dy}{dx} = -\\frac{x}{y}$。\n\n---",
+      "chapter": "Ch2 2.6節：隱函數微分",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "若 $x^2 + 4y^3 = 10$，試求 $\\frac{dy}{dx}$ 的結果為何？",
+      "options": [
+        "$-\\frac{2x}{12y^2}$",
+        "$\\frac{2x}{12y^2}$",
+        "$-\\frac{2x}{y}$",
+        "$-\\frac{x}{y}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "兩邊對 $x$ 微分得 $2x + 12y^2 \\frac{dy}{dx} = 0 \\implies \\frac{dy}{dx} = -\\frac{2x}{12y^2}$。\n\n---",
+      "chapter": "Ch2 2.6節：隱函數微分",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "若 $x^2 + y^2 = 25$，試求其隱函數導函數 $\\frac{dy}{dx}$。",
+      "options": [
+        "$\\frac{x}{y}$",
+        "$-\\frac{x}{y}$",
+        "$-\\frac{y}{x}$",
+        "$\\frac{y}{x}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "兩邊對 $x$ 微分：$2x + 2y \\frac{dy}{dx} = 0 \\implies \\frac{dy}{dx} = -\\frac{x}{y}$。\n\n---",
+      "chapter": "Ch2 2.6節：隱函數微分",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "若 $x^2 + 6y^3 = 10$，試求 $\\frac{dy}{dx}$ 的結果為何？",
+      "options": [
+        "$-\\frac{x}{y}$",
+        "$\\frac{2x}{18y^2}$",
+        "$-\\frac{2x}{y}$",
+        "$-\\frac{2x}{18y^2}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "兩邊對 $x$ 微分得 $2x + 18y^2 \\frac{dy}{dx} = 0 \\implies \\frac{dy}{dx} = -\\frac{2x}{18y^2}$。\n\n---",
+      "chapter": "Ch2 2.6節：隱函數微分",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "若 $x^2 + y^2 = 49$，試求其隱函數導函數 $\\frac{dy}{dx}$。",
+      "options": [
+        "$-\\frac{y}{x}$",
+        "$\\frac{x}{y}$",
+        "$-\\frac{x}{y}$",
+        "$\\frac{y}{x}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "兩邊對 $x$ 微分：$2x + 2y \\frac{dy}{dx} = 0 \\implies \\frac{dy}{dx} = -\\frac{x}{y}$。\n\n---",
+      "chapter": "Ch2 2.6節：隱函數微分",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "若 $x^2 + 8y^3 = 10$，試求 $\\frac{dy}{dx}$ 的結果為何？",
+      "options": [
+        "$-\\frac{2x}{24y^2}$",
+        "$\\frac{2x}{24y^2}$",
+        "$-\\frac{2x}{y}$",
+        "$-\\frac{x}{y}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "兩邊對 $x$ 微分得 $2x + 24y^2 \\frac{dy}{dx} = 0 \\implies \\frac{dy}{dx} = -\\frac{2x}{24y^2}$。\n\n---",
+      "chapter": "Ch2 2.6節：隱函數微分",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "若 $x^2 + y^2 = 81$，試求其隱函數導函數 $\\frac{dy}{dx}$。",
+      "options": [
+        "$\\frac{x}{y}$",
+        "$-\\frac{x}{y}$",
+        "$-\\frac{y}{x}$",
+        "$\\frac{y}{x}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "兩邊對 $x$ 微分：$2x + 2y \\frac{dy}{dx} = 0 \\implies \\frac{dy}{dx} = -\\frac{x}{y}$。\n\n---",
+      "chapter": "Ch2 2.6節：隱函數微分",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "若 $x^2 + 10y^3 = 10$，試求 $\\frac{dy}{dx}$ 的結果為何？",
+      "options": [
+        "$-\\frac{x}{y}$",
+        "$\\frac{2x}{30y^2}$",
+        "$-\\frac{2x}{y}$",
+        "$-\\frac{2x}{30y^2}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "兩邊對 $x$ 微分得 $2x + 30y^2 \\frac{dy}{dx} = 0 \\implies \\frac{dy}{dx} = -\\frac{2x}{30y^2}$。\n\n---",
+      "chapter": "Ch2 2.6節：隱函數微分",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "若 $x^2 + y^2 = 121$，試求其隱函數導函數 $\\frac{dy}{dx}$。",
+      "options": [
+        "$-\\frac{y}{x}$",
+        "$\\frac{x}{y}$",
+        "$-\\frac{x}{y}$",
+        "$\\frac{y}{x}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "兩邊對 $x$ 微分：$2x + 2y \\frac{dy}{dx} = 0 \\implies \\frac{dy}{dx} = -\\frac{x}{y}$。\n\n---",
+      "chapter": "Ch2 2.6節：隱函數微分",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "若 $x^2 + 12y^3 = 10$，試求 $\\frac{dy}{dx}$ 的結果為何？",
+      "options": [
+        "$-\\frac{2x}{36y^2}$",
+        "$\\frac{2x}{36y^2}$",
+        "$-\\frac{2x}{y}$",
+        "$-\\frac{x}{y}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "兩邊對 $x$ 微分得 $2x + 36y^2 \\frac{dy}{dx} = 0 \\implies \\frac{dy}{dx} = -\\frac{2x}{36y^2}$。\n\n---",
+      "chapter": "Ch2 2.6節：隱函數微分",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "若 $x^2 + y^2 = 169$，試求其隱函數導函數 $\\frac{dy}{dx}$。",
+      "options": [
+        "$\\frac{x}{y}$",
+        "$-\\frac{x}{y}$",
+        "$-\\frac{y}{x}$",
+        "$\\frac{y}{x}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "兩邊對 $x$ 微分：$2x + 2y \\frac{dy}{dx} = 0 \\implies \\frac{dy}{dx} = -\\frac{x}{y}$。\n\n---",
+      "chapter": "Ch2 2.6節：隱函數微分",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "若 $x^2 + 14y^3 = 10$，試求 $\\frac{dy}{dx}$ 的結果為何？",
+      "options": [
+        "$-\\frac{x}{y}$",
+        "$\\frac{2x}{42y^2}$",
+        "$-\\frac{2x}{y}$",
+        "$-\\frac{2x}{42y^2}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "兩邊對 $x$ 微分得 $2x + 42y^2 \\frac{dy}{dx} = 0 \\implies \\frac{dy}{dx} = -\\frac{2x}{42y^2}$。\n\n---",
+      "chapter": "Ch2 2.6節：隱函數微分",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "若 $x^2 + y^2 = 225$，試求其隱函數導函數 $\\frac{dy}{dx}$。",
+      "options": [
+        "$-\\frac{y}{x}$",
+        "$\\frac{x}{y}$",
+        "$-\\frac{x}{y}$",
+        "$\\frac{y}{x}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "兩邊對 $x$ 微分：$2x + 2y \\frac{dy}{dx} = 0 \\implies \\frac{dy}{dx} = -\\frac{x}{y}$。\n\n---",
+      "chapter": "Ch2 2.6節：隱函數微分",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "若 $x^2 + 16y^3 = 10$，試求 $\\frac{dy}{dx}$ 的結果為何？",
+      "options": [
+        "$-\\frac{2x}{48y^2}$",
+        "$\\frac{2x}{48y^2}$",
+        "$-\\frac{2x}{y}$",
+        "$-\\frac{x}{y}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "兩邊對 $x$ 微分得 $2x + 48y^2 \\frac{dy}{dx} = 0 \\implies \\frac{dy}{dx} = -\\frac{2x}{48y^2}$。\n\n---",
+      "chapter": "Ch2 2.6節：隱函數微分",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "若 $x^2 + y^2 = 289$，試求其隱函數導函數 $\\frac{dy}{dx}$。",
+      "options": [
+        "$\\frac{x}{y}$",
+        "$-\\frac{x}{y}$",
+        "$-\\frac{y}{x}$",
+        "$\\frac{y}{x}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "兩邊對 $x$ 微分：$2x + 2y \\frac{dy}{dx} = 0 \\implies \\frac{dy}{dx} = -\\frac{x}{y}$。\n\n---",
+      "chapter": "Ch2 2.6節：隱函數微分",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "若 $x^2 + 18y^3 = 10$，試求 $\\frac{dy}{dx}$ 的結果為何？",
+      "options": [
+        "$-\\frac{x}{y}$",
+        "$\\frac{2x}{54y^2}$",
+        "$-\\frac{2x}{y}$",
+        "$-\\frac{2x}{54y^2}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "兩邊對 $x$ 微分得 $2x + 54y^2 \\frac{dy}{dx} = 0 \\implies \\frac{dy}{dx} = -\\frac{2x}{54y^2}$。\n\n---",
+      "chapter": "Ch2 2.6節：隱函數微分",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "若 $x^2 + y^2 = 361$，試求其隱函數導函數 $\\frac{dy}{dx}$。",
+      "options": [
+        "$-\\frac{y}{x}$",
+        "$\\frac{x}{y}$",
+        "$-\\frac{x}{y}$",
+        "$\\frac{y}{x}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "兩邊對 $x$ 微分：$2x + 2y \\frac{dy}{dx} = 0 \\implies \\frac{dy}{dx} = -\\frac{x}{y}$。\n\n---",
+      "chapter": "Ch2 2.6節：隱函數微分",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "若 $x^2 + 20y^3 = 10$，試求 $\\frac{dy}{dx}$ 的結果為何？",
+      "options": [
+        "$-\\frac{2x}{60y^2}$",
+        "$\\frac{2x}{60y^2}$",
+        "$-\\frac{2x}{y}$",
+        "$-\\frac{x}{y}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "兩邊對 $x$ 微分得 $2x + 60y^2 \\frac{dy}{dx} = 0 \\implies \\frac{dy}{dx} = -\\frac{2x}{60y^2}$。\n\n---",
+      "chapter": "Ch2 2.6節：隱函數微分",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "若 $x^2 + y^2 = 441$，試求其隱函數導函數 $\\frac{dy}{dx}$。",
+      "options": [
+        "$\\frac{x}{y}$",
+        "$-\\frac{x}{y}$",
+        "$-\\frac{y}{x}$",
+        "$\\frac{y}{x}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "兩邊對 $x$ 微分：$2x + 2y \\frac{dy}{dx} = 0 \\implies \\frac{dy}{dx} = -\\frac{x}{y}$。\n\n---",
+      "chapter": "Ch2 2.6節：隱函數微分",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "已知曲線方程式為 $x^2 + y^2 = 25$，求在 $(0, 5)$ 處切線的斜率為多少？",
+      "options": [],
+      "answer": "0",
+      "type": "fill",
+      "solution": "隱函數微分得 $\\frac{dy}{dx} = -\\frac{x}{y}$。代入 $x=0, y=5 \\implies -\\frac{0}{5} = 0$。\n\n---",
+      "chapter": "Ch2 2.6節：隱函數微分",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "已知曲線方程式為 $x^2 + y^2 = 36$，求在 $(0, 6)$ 處切線的斜率為多少？",
+      "options": [],
+      "answer": "0",
+      "type": "fill",
+      "solution": "隱函數微分得 $\\frac{dy}{dx} = -\\frac{x}{y}$。代入 $x=0, y=6 \\implies -\\frac{0}{6} = 0$。\n\n---",
+      "chapter": "Ch2 2.6節：隱函數微分",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "已知曲線方程式為 $x^2 + y^2 = 49$，求在 $(0, 7)$ 處切線的斜率為多少？",
+      "options": [],
+      "answer": "0",
+      "type": "fill",
+      "solution": "隱函數微分得 $\\frac{dy}{dx} = -\\frac{x}{y}$。代入 $x=0, y=7 \\implies -\\frac{0}{7} = 0$。\n\n---",
+      "chapter": "Ch2 2.6節：隱函數微分",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "已知曲線方程式為 $x^2 + y^2 = 64$，求在 $(0, 8)$ 處切線的斜率為多少？",
+      "options": [],
+      "answer": "0",
+      "type": "fill",
+      "solution": "隱函數微分得 $\\frac{dy}{dx} = -\\frac{x}{y}$。代入 $x=0, y=8 \\implies -\\frac{0}{8} = 0$。\n\n---",
+      "chapter": "Ch2 2.6節：隱函數微分",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "已知曲線方程式為 $x^2 + y^2 = 81$，求在 $(0, 9)$ 處切線的斜率為多少？",
+      "options": [],
+      "answer": "0",
+      "type": "fill",
+      "solution": "隱函數微分得 $\\frac{dy}{dx} = -\\frac{x}{y}$。代入 $x=0, y=9 \\implies -\\frac{0}{9} = 0$。\n\n---",
+      "chapter": "Ch2 2.6節：隱函數微分",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "已知曲線方程式為 $x^2 + y^2 = 100$，求在 $(0, 10)$ 處切線的斜率為多少？",
+      "options": [],
+      "answer": "0",
+      "type": "fill",
+      "solution": "隱函數微分得 $\\frac{dy}{dx} = -\\frac{x}{y}$。代入 $x=0, y=10 \\implies -\\frac{0}{10} = 0$。\n\n---",
+      "chapter": "Ch2 2.6節：隱函數微分",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "已知曲線方程式為 $x^2 + y^2 = 121$，求在 $(0, 11)$ 處切線的斜率為多少？",
+      "options": [],
+      "answer": "0",
+      "type": "fill",
+      "solution": "隱函數微分得 $\\frac{dy}{dx} = -\\frac{x}{y}$。代入 $x=0, y=11 \\implies -\\frac{0}{11} = 0$。\n\n---",
+      "chapter": "Ch2 2.6節：隱函數微分",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "已知曲線方程式為 $x^2 + y^2 = 144$，求在 $(0, 12)$ 處切線的斜率為多少？",
+      "options": [],
+      "answer": "0",
+      "type": "fill",
+      "solution": "隱函數微分得 $\\frac{dy}{dx} = -\\frac{x}{y}$。代入 $x=0, y=12 \\implies -\\frac{0}{12} = 0$。\n\n---",
+      "chapter": "Ch2 2.6節：隱函數微分",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "已知曲線方程式為 $x^2 + y^2 = 169$，求在 $(0, 13)$ 處切線的斜率為多少？",
+      "options": [],
+      "answer": "0",
+      "type": "fill",
+      "solution": "隱函數微分得 $\\frac{dy}{dx} = -\\frac{x}{y}$。代入 $x=0, y=13 \\implies -\\frac{0}{13} = 0$。\n\n---",
+      "chapter": "Ch2 2.6節：隱函數微分",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "已知曲線方程式為 $x^2 + y^2 = 196$，求在 $(0, 14)$ 處切線的斜率為多少？",
+      "options": [],
+      "answer": "0",
+      "type": "fill",
+      "solution": "隱函數微分得 $\\frac{dy}{dx} = -\\frac{x}{y}$。代入 $x=0, y=14 \\implies -\\frac{0}{14} = 0$。",
+      "chapter": "Ch2 2.6節：隱函數微分",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "某化學反應產生的物質量 $M(t) = 3t^2 + t$，求當 $t=1$ 時之反應速率。",
+      "options": [
+        "$4$",
+        "$3$",
+        "$7$",
+        "$2$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "反應速率為 $M'(t) = 6t + 1$。代入 $t=1$ 得 $7$。\n\n---",
+      "chapter": "Ch2 2.7節：自然與社會科學中的變化率",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "某物體受重力作用向下運動，其高度 $h(t) = -4t^2 + 100$，試問在 $t=2$ 秒時的瞬時速率為多少？",
+      "options": [
+        "$8$",
+        "$16$",
+        "$4$",
+        "$100$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "速率為速度的絕對值。$v(t) = h'(t) = -8t$。在 $t=2$ 時，$|v(2)| = |-16| = 16$。\n\n---",
+      "chapter": "Ch2 2.7節：自然與社會科學中的變化率",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "某化學反應產生的物質量 $M(t) = 5t^2 + t$，求當 $t=1$ 時之反應速率。",
+      "options": [
+        "$2$",
+        "$5$",
+        "$6$",
+        "$11$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "反應速率為 $M'(t) = 10t + 1$。代入 $t=1$ 得 $11$。\n\n---",
+      "chapter": "Ch2 2.7節：自然與社會科學中的變化率",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "某物體受重力作用向下運動，其高度 $h(t) = -6t^2 + 100$，試問在 $t=2$ 秒時的瞬時速率為多少？",
+      "options": [
+        "$24$",
+        "$12$",
+        "$4$",
+        "$100$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "速率為速度的絕對值。$v(t) = h'(t) = -12t$。在 $t=2$ 時，$|v(2)| = |-24| = 24$。\n\n---",
+      "chapter": "Ch2 2.7節：自然與社會科學中的變化率",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "某化學反應產生的物質量 $M(t) = 7t^2 + t$，求當 $t=1$ 時之反應速率。",
+      "options": [
+        "$8$",
+        "$7$",
+        "$15$",
+        "$2$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "反應速率為 $M'(t) = 14t + 1$。代入 $t=1$ 得 $15$。\n\n---",
+      "chapter": "Ch2 2.7節：自然與社會科學中的變化率",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "某物體受重力作用向下運動，其高度 $h(t) = -8t^2 + 100$，試問在 $t=2$ 秒時的瞬時速率為多少？",
+      "options": [
+        "$16$",
+        "$32$",
+        "$4$",
+        "$100$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "速率為速度的絕對值。$v(t) = h'(t) = -16t$。在 $t=2$ 時，$|v(2)| = |-32| = 32$。\n\n---",
+      "chapter": "Ch2 2.7節：自然與社會科學中的變化率",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "某化學反應產生的物質量 $M(t) = 9t^2 + t$，求當 $t=1$ 時之反應速率。",
+      "options": [
+        "$2$",
+        "$9$",
+        "$10$",
+        "$19$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "反應速率為 $M'(t) = 18t + 1$。代入 $t=1$ 得 $19$。\n\n---",
+      "chapter": "Ch2 2.7節：自然與社會科學中的變化率",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "某物體受重力作用向下運動，其高度 $h(t) = -10t^2 + 100$，試問在 $t=2$ 秒時的瞬時速率為多少？",
+      "options": [
+        "$40$",
+        "$20$",
+        "$4$",
+        "$100$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "速率為速度的絕對值。$v(t) = h'(t) = -20t$。在 $t=2$ 時，$|v(2)| = |-40| = 40$。\n\n---",
+      "chapter": "Ch2 2.7節：自然與社會科學中的變化率",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "某化學反應產生的物質量 $M(t) = 11t^2 + t$，求當 $t=1$ 時之反應速率。",
+      "options": [
+        "$12$",
+        "$11$",
+        "$23$",
+        "$2$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "反應速率為 $M'(t) = 22t + 1$。代入 $t=1$ 得 $23$。\n\n---",
+      "chapter": "Ch2 2.7節：自然與社會科學中的變化率",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "某物體受重力作用向下運動，其高度 $h(t) = -12t^2 + 100$，試問在 $t=2$ 秒時的瞬時速率為多少？",
+      "options": [
+        "$24$",
+        "$48$",
+        "$4$",
+        "$100$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "速率為速度的絕對值。$v(t) = h'(t) = -24t$。在 $t=2$ 時，$|v(2)| = |-48| = 48$。\n\n---",
+      "chapter": "Ch2 2.7節：自然與社會科學中的變化率",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "某化學反應產生的物質量 $M(t) = 13t^2 + t$，求當 $t=1$ 時之反應速率。",
+      "options": [
+        "$2$",
+        "$13$",
+        "$14$",
+        "$27$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "反應速率為 $M'(t) = 26t + 1$。代入 $t=1$ 得 $27$。\n\n---",
+      "chapter": "Ch2 2.7節：自然與社會科學中的變化率",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "某物體受重力作用向下運動，其高度 $h(t) = -14t^2 + 100$，試問在 $t=2$ 秒時的瞬時速率為多少？",
+      "options": [
+        "$56$",
+        "$28$",
+        "$4$",
+        "$100$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "速率為速度的絕對值。$v(t) = h'(t) = -28t$。在 $t=2$ 時，$|v(2)| = |-56| = 56$。\n\n---",
+      "chapter": "Ch2 2.7節：自然與社會科學中的變化率",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "某化學反應產生的物質量 $M(t) = 15t^2 + t$，求當 $t=1$ 時之反應速率。",
+      "options": [
+        "$16$",
+        "$15$",
+        "$31$",
+        "$2$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "反應速率為 $M'(t) = 30t + 1$。代入 $t=1$ 得 $31$。\n\n---",
+      "chapter": "Ch2 2.7節：自然與社會科學中的變化率",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "某物體受重力作用向下運動，其高度 $h(t) = -16t^2 + 100$，試問在 $t=2$ 秒時的瞬時速率為多少？",
+      "options": [
+        "$32$",
+        "$64$",
+        "$4$",
+        "$100$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "速率為速度的絕對值。$v(t) = h'(t) = -32t$。在 $t=2$ 時，$|v(2)| = |-64| = 64$。\n\n---",
+      "chapter": "Ch2 2.7節：自然與社會科學中的變化率",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "某化學反應產生的物質量 $M(t) = 17t^2 + t$，求當 $t=1$ 時之反應速率。",
+      "options": [
+        "$2$",
+        "$17$",
+        "$18$",
+        "$35$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "反應速率為 $M'(t) = 34t + 1$。代入 $t=1$ 得 $35$。\n\n---",
+      "chapter": "Ch2 2.7節：自然與社會科學中的變化率",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "某物體受重力作用向下運動，其高度 $h(t) = -18t^2 + 100$，試問在 $t=2$ 秒時的瞬時速率為多少？",
+      "options": [
+        "$72$",
+        "$36$",
+        "$4$",
+        "$100$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "速率為速度的絕對值。$v(t) = h'(t) = -36t$。在 $t=2$ 時，$|v(2)| = |-72| = 72$。\n\n---",
+      "chapter": "Ch2 2.7節：自然與社會科學中的變化率",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "某化學反應產生的物質量 $M(t) = 19t^2 + t$，求當 $t=1$ 時之反應速率。",
+      "options": [
+        "$20$",
+        "$19$",
+        "$39$",
+        "$2$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "反應速率為 $M'(t) = 38t + 1$。代入 $t=1$ 得 $39$。\n\n---",
+      "chapter": "Ch2 2.7節：自然與社會科學中的變化率",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "某物體受重力作用向下運動，其高度 $h(t) = -20t^2 + 100$，試問在 $t=2$ 秒時的瞬時速率為多少？",
+      "options": [
+        "$40$",
+        "$80$",
+        "$4$",
+        "$100$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "速率為速度的絕對值。$v(t) = h'(t) = -40t$。在 $t=2$ 時，$|v(2)| = |-80| = 80$。\n\n---",
+      "chapter": "Ch2 2.7節：自然與社會科學中的變化率",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "某化學反應產生的物質量 $M(t) = 21t^2 + t$，求當 $t=1$ 時之反應速率。",
+      "options": [
+        "$2$",
+        "$21$",
+        "$22$",
+        "$43$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "反應速率為 $M'(t) = 42t + 1$。代入 $t=1$ 得 $43$。\n\n---",
+      "chapter": "Ch2 2.7節：自然與社會科學中的變化率",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "某物體受重力作用向下運動，其高度 $h(t) = -22t^2 + 100$，試問在 $t=2$ 秒時的瞬時速率為多少？",
+      "options": [
+        "$88$",
+        "$44$",
+        "$4$",
+        "$100$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "速率為速度的絕對值。$v(t) = h'(t) = -44t$。在 $t=2$ 時，$|v(2)| = |-88| = 88$。\n\n---",
+      "chapter": "Ch2 2.7節：自然與社會科學中的變化率",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "若某成本函數為 $C(x) = 3x^2 + 30x + 100$，試求 $x=2$ 時之邊際成本。",
+      "options": [],
+      "answer": "42",
+      "type": "fill",
+      "solution": "邊際成本即為 $C'(x) = 6x + 30$。代入 $x=2 \\implies 6(2) + 30 = 42$。\n\n---",
+      "chapter": "Ch2 2.7節：自然與社會科學中的變化率",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "若某成本函數為 $C(x) = 4x^2 + 30x + 100$，試求 $x=2$ 時之邊際成本。",
+      "options": [],
+      "answer": "46",
+      "type": "fill",
+      "solution": "邊際成本即為 $C'(x) = 8x + 30$。代入 $x=2 \\implies 8(2) + 30 = 46$。\n\n---",
+      "chapter": "Ch2 2.7節：自然與社會科學中的變化率",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "若某成本函數為 $C(x) = 5x^2 + 30x + 100$，試求 $x=2$ 時之邊際成本。",
+      "options": [],
+      "answer": "50",
+      "type": "fill",
+      "solution": "邊際成本即為 $C'(x) = 10x + 30$。代入 $x=2 \\implies 10(2) + 30 = 50$。\n\n---",
+      "chapter": "Ch2 2.7節：自然與社會科學中的變化率",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "若某成本函數為 $C(x) = 6x^2 + 30x + 100$，試求 $x=2$ 時之邊際成本。",
+      "options": [],
+      "answer": "54",
+      "type": "fill",
+      "solution": "邊際成本即為 $C'(x) = 12x + 30$。代入 $x=2 \\implies 12(2) + 30 = 54$。\n\n---",
+      "chapter": "Ch2 2.7節：自然與社會科學中的變化率",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "若某成本函數為 $C(x) = 7x^2 + 30x + 100$，試求 $x=2$ 時之邊際成本。",
+      "options": [],
+      "answer": "58",
+      "type": "fill",
+      "solution": "邊際成本即為 $C'(x) = 14x + 30$。代入 $x=2 \\implies 14(2) + 30 = 58$。\n\n---",
+      "chapter": "Ch2 2.7節：自然與社會科學中的變化率",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "若某成本函數為 $C(x) = 8x^2 + 30x + 100$，試求 $x=2$ 時之邊際成本。",
+      "options": [],
+      "answer": "62",
+      "type": "fill",
+      "solution": "邊際成本即為 $C'(x) = 16x + 30$。代入 $x=2 \\implies 16(2) + 30 = 62$。\n\n---",
+      "chapter": "Ch2 2.7節：自然與社會科學中的變化率",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "若某成本函數為 $C(x) = 9x^2 + 30x + 100$，試求 $x=2$ 時之邊際成本。",
+      "options": [],
+      "answer": "66",
+      "type": "fill",
+      "solution": "邊際成本即為 $C'(x) = 18x + 30$。代入 $x=2 \\implies 18(2) + 30 = 66$。\n\n---",
+      "chapter": "Ch2 2.7節：自然與社會科學中的變化率",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "若某成本函數為 $C(x) = 10x^2 + 30x + 100$，試求 $x=2$ 時之邊際成本。",
+      "options": [],
+      "answer": "70",
+      "type": "fill",
+      "solution": "邊際成本即為 $C'(x) = 20x + 30$。代入 $x=2 \\implies 20(2) + 30 = 70$。\n\n---",
+      "chapter": "Ch2 2.7節：自然與社會科學中的變化率",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "若某成本函數為 $C(x) = 11x^2 + 30x + 100$，試求 $x=2$ 時之邊際成本。",
+      "options": [],
+      "answer": "74",
+      "type": "fill",
+      "solution": "邊際成本即為 $C'(x) = 22x + 30$。代入 $x=2 \\implies 22(2) + 30 = 74$。\n\n---",
+      "chapter": "Ch2 2.7節：自然與社會科學中的變化率",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "若某成本函數為 $C(x) = 12x^2 + 30x + 100$，試求 $x=2$ 時之邊際成本。",
+      "options": [],
+      "answer": "78",
+      "type": "fill",
+      "solution": "邊際成本即為 $C'(x) = 24x + 30$。代入 $x=2 \\implies 24(2) + 30 = 78$。",
+      "chapter": "Ch2 2.7節：自然與社會科學中的變化率",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "一個圓的半徑以 2 cm/s 的速率增加，當半徑為 2 cm 時，面積的增加速率為何？",
+      "options": [
+        "$2\\pi$",
+        "$4\\pi$",
+        "$8\\pi$",
+        "$4\\pi$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "圓面積為 $A = \\pi r^2$。微分：$\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$。代入 $r=2, \\frac{dr}{dt} = 2 \\implies 2\\pi(2)(2) = 8\\pi$。\n\n---",
+      "chapter": "Ch2 2.8節：相關變率",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "一個正方形的邊長以 3 cm/s 的速率增加，試問當邊長為 10 cm 時，面積的增加速率為多少 $\\text{cm}^2\\text{/s}$？",
+      "options": [
+        "$60$",
+        "$30$",
+        "$6$",
+        "$20$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "正方形面積為 $A = x^2$。兩邊對 $t$ 微分：$\\frac{dA}{dt} = 2x \\frac{dx}{dt}$。代入 $x=10, \\frac{dx}{dt} = 3 \\implies 2 \\times 10 \\times 3 = 60$。\n\n---",
+      "chapter": "Ch2 2.8節：相關變率",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "一個圓的半徑以 4 cm/s 的速率增加，當半徑為 2 cm 時，面積的增加速率為何？",
+      "options": [
+        "$4\\pi$",
+        "$8\\pi$",
+        "$4\\pi$",
+        "$16\\pi$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "圓面積為 $A = \\pi r^2$。微分：$\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$。代入 $r=2, \\frac{dr}{dt} = 4 \\implies 2\\pi(2)(4) = 16\\pi$。\n\n---",
+      "chapter": "Ch2 2.8節：相關變率",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "一個正方形的邊長以 5 cm/s 的速率增加，試問當邊長為 10 cm 時，面積的增加速率為多少 $\\text{cm}^2\\text{/s}$？",
+      "options": [
+        "$50$",
+        "$100$",
+        "$10$",
+        "$20$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "正方形面積為 $A = x^2$。兩邊對 $t$ 微分：$\\frac{dA}{dt} = 2x \\frac{dx}{dt}$。代入 $x=10, \\frac{dx}{dt} = 5 \\implies 2 \\times 10 \\times 5 = 100$。\n\n---",
+      "chapter": "Ch2 2.8節：相關變率",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "一個圓的半徑以 6 cm/s 的速率增加，當半徑為 2 cm 時，面積的增加速率為何？",
+      "options": [
+        "$6\\pi$",
+        "$12\\pi$",
+        "$24\\pi$",
+        "$4\\pi$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "圓面積為 $A = \\pi r^2$。微分：$\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$。代入 $r=2, \\frac{dr}{dt} = 6 \\implies 2\\pi(2)(6) = 24\\pi$。\n\n---",
+      "chapter": "Ch2 2.8節：相關變率",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "一個正方形的邊長以 7 cm/s 的速率增加，試問當邊長為 10 cm 時，面積的增加速率為多少 $\\text{cm}^2\\text{/s}$？",
+      "options": [
+        "$140$",
+        "$70$",
+        "$14$",
+        "$20$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "正方形面積為 $A = x^2$。兩邊對 $t$ 微分：$\\frac{dA}{dt} = 2x \\frac{dx}{dt}$。代入 $x=10, \\frac{dx}{dt} = 7 \\implies 2 \\times 10 \\times 7 = 140$。\n\n---",
+      "chapter": "Ch2 2.8節：相關變率",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "一個圓的半徑以 8 cm/s 的速率增加，當半徑為 2 cm 時，面積的增加速率為何？",
+      "options": [
+        "$4\\pi$",
+        "$16\\pi$",
+        "$8\\pi$",
+        "$32\\pi$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "圓面積為 $A = \\pi r^2$。微分：$\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$。代入 $r=2, \\frac{dr}{dt} = 8 \\implies 2\\pi(2)(8) = 32\\pi$。\n\n---",
+      "chapter": "Ch2 2.8節：相關變率",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "一個正方形的邊長以 9 cm/s 的速率增加，試問當邊長為 10 cm 時，面積的增加速率為多少 $\\text{cm}^2\\text{/s}$？",
+      "options": [
+        "$90$",
+        "$180$",
+        "$18$",
+        "$20$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "正方形面積為 $A = x^2$。兩邊對 $t$ 微分：$\\frac{dA}{dt} = 2x \\frac{dx}{dt}$。代入 $x=10, \\frac{dx}{dt} = 9 \\implies 2 \\times 10 \\times 9 = 180$。\n\n---",
+      "chapter": "Ch2 2.8節：相關變率",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "一個圓的半徑以 10 cm/s 的速率增加，當半徑為 2 cm 時，面積的增加速率為何？",
+      "options": [
+        "$10\\pi$",
+        "$20\\pi$",
+        "$40\\pi$",
+        "$4\\pi$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "圓面積為 $A = \\pi r^2$。微分：$\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$。代入 $r=2, \\frac{dr}{dt} = 10 \\implies 2\\pi(2)(10) = 40\\pi$。\n\n---",
+      "chapter": "Ch2 2.8節：相關變率",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "一個正方形的邊長以 11 cm/s 的速率增加，試問當邊長為 10 cm 時，面積的增加速率為多少 $\\text{cm}^2\\text{/s}$？",
+      "options": [
+        "$220$",
+        "$110$",
+        "$22$",
+        "$20$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "正方形面積為 $A = x^2$。兩邊對 $t$ 微分：$\\frac{dA}{dt} = 2x \\frac{dx}{dt}$。代入 $x=10, \\frac{dx}{dt} = 11 \\implies 2 \\times 10 \\times 11 = 220$。\n\n---",
+      "chapter": "Ch2 2.8節：相關變率",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "一個圓的半徑以 12 cm/s 的速率增加，當半徑為 2 cm 時，面積的增加速率為何？",
+      "options": [
+        "$4\\pi$",
+        "$24\\pi$",
+        "$12\\pi$",
+        "$48\\pi$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "圓面積為 $A = \\pi r^2$。微分：$\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$。代入 $r=2, \\frac{dr}{dt} = 12 \\implies 2\\pi(2)(12) = 48\\pi$。\n\n---",
+      "chapter": "Ch2 2.8節：相關變率",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "一個正方形的邊長以 13 cm/s 的速率增加，試問當邊長為 10 cm 時，面積的增加速率為多少 $\\text{cm}^2\\text{/s}$？",
+      "options": [
+        "$130$",
+        "$260$",
+        "$26$",
+        "$20$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "正方形面積為 $A = x^2$。兩邊對 $t$ 微分：$\\frac{dA}{dt} = 2x \\frac{dx}{dt}$。代入 $x=10, \\frac{dx}{dt} = 13 \\implies 2 \\times 10 \\times 13 = 260$。\n\n---",
+      "chapter": "Ch2 2.8節：相關變率",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "一個圓的半徑以 14 cm/s 的速率增加，當半徑為 2 cm 時，面積的增加速率為何？",
+      "options": [
+        "$14\\pi$",
+        "$28\\pi$",
+        "$56\\pi$",
+        "$4\\pi$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "圓面積為 $A = \\pi r^2$。微分：$\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$。代入 $r=2, \\frac{dr}{dt} = 14 \\implies 2\\pi(2)(14) = 56\\pi$。\n\n---",
+      "chapter": "Ch2 2.8節：相關變率",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "一個正方形的邊長以 15 cm/s 的速率增加，試問當邊長為 10 cm 時，面積的增加速率為多少 $\\text{cm}^2\\text{/s}$？",
+      "options": [
+        "$300$",
+        "$150$",
+        "$30$",
+        "$20$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "正方形面積為 $A = x^2$。兩邊對 $t$ 微分：$\\frac{dA}{dt} = 2x \\frac{dx}{dt}$。代入 $x=10, \\frac{dx}{dt} = 15 \\implies 2 \\times 10 \\times 15 = 300$。\n\n---",
+      "chapter": "Ch2 2.8節：相關變率",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "一個圓的半徑以 16 cm/s 的速率增加，當半徑為 2 cm 時，面積的增加速率為何？",
+      "options": [
+        "$4\\pi$",
+        "$32\\pi$",
+        "$16\\pi$",
+        "$64\\pi$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "圓面積為 $A = \\pi r^2$。微分：$\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$。代入 $r=2, \\frac{dr}{dt} = 16 \\implies 2\\pi(2)(16) = 64\\pi$。\n\n---",
+      "chapter": "Ch2 2.8節：相關變率",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "一個正方形的邊長以 17 cm/s 的速率增加，試問當邊長為 10 cm 時，面積的增加速率為多少 $\\text{cm}^2\\text{/s}$？",
+      "options": [
+        "$170$",
+        "$340$",
+        "$34$",
+        "$20$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "正方形面積為 $A = x^2$。兩邊對 $t$ 微分：$\\frac{dA}{dt} = 2x \\frac{dx}{dt}$。代入 $x=10, \\frac{dx}{dt} = 17 \\implies 2 \\times 10 \\times 17 = 340$。\n\n---",
+      "chapter": "Ch2 2.8節：相關變率",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "一個圓的半徑以 18 cm/s 的速率增加，當半徑為 2 cm 時，面積的增加速率為何？",
+      "options": [
+        "$18\\pi$",
+        "$36\\pi$",
+        "$72\\pi$",
+        "$4\\pi$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "圓面積為 $A = \\pi r^2$。微分：$\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$。代入 $r=2, \\frac{dr}{dt} = 18 \\implies 2\\pi(2)(18) = 72\\pi$。\n\n---",
+      "chapter": "Ch2 2.8節：相關變率",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "一個正方形的邊長以 19 cm/s 的速率增加，試問當邊長為 10 cm 時，面積的增加速率為多少 $\\text{cm}^2\\text{/s}$？",
+      "options": [
+        "$380$",
+        "$190$",
+        "$38$",
+        "$20$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "正方形面積為 $A = x^2$。兩邊對 $t$ 微分：$\\frac{dA}{dt} = 2x \\frac{dx}{dt}$。代入 $x=10, \\frac{dx}{dt} = 19 \\implies 2 \\times 10 \\times 19 = 380$。\n\n---",
+      "chapter": "Ch2 2.8節：相關變率",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "一個圓的半徑以 20 cm/s 的速率增加，當半徑為 2 cm 時，面積的增加速率為何？",
+      "options": [
+        "$4\\pi$",
+        "$40\\pi$",
+        "$20\\pi$",
+        "$80\\pi$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "圓面積為 $A = \\pi r^2$。微分：$\\frac{dA}{dt} = 2\\pi r \\frac{dr}{dt}$。代入 $r=2, \\frac{dr}{dt} = 20 \\implies 2\\pi(2)(20) = 80\\pi$。\n\n---",
+      "chapter": "Ch2 2.8節：相關變率",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "一個正方形的邊長以 21 cm/s 的速率增加，試問當邊長為 10 cm 時，面積的增加速率為多少 $\\text{cm}^2\\text{/s}$？",
+      "options": [
+        "$210$",
+        "$420$",
+        "$42$",
+        "$20$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "正方形面積為 $A = x^2$。兩邊對 $t$ 微分：$\\frac{dA}{dt} = 2x \\frac{dx}{dt}$。代入 $x=10, \\frac{dx}{dt} = 21 \\implies 2 \\times 10 \\times 21 = 420$。\n\n---",
+      "chapter": "Ch2 2.8節：相關變率",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "一個正方形的邊長以 6 cm/s 的速率增加，求當邊長為 5 cm 時，面積的增加速率為何？",
+      "options": [],
+      "answer": "60",
+      "type": "fill",
+      "solution": "面積為 $A=x^2$，因此 $\\frac{dA}{dt} = 2x \\frac{dx}{dt}$。代入 $x=5, \\frac{dx}{dt}=6 \\implies 2(5)(6) = 60$。\n\n---",
+      "chapter": "Ch2 2.8節：相關變率",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "一個正方形的邊長以 7 cm/s 的速率增加，求當邊長為 5 cm 時，面積的增加速率為何？",
+      "options": [],
+      "answer": "70",
+      "type": "fill",
+      "solution": "面積為 $A=x^2$，因此 $\\frac{dA}{dt} = 2x \\frac{dx}{dt}$。代入 $x=5, \\frac{dx}{dt}=7 \\implies 2(5)(7) = 70$。\n\n---",
+      "chapter": "Ch2 2.8節：相關變率",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "一個正方形的邊長以 8 cm/s 的速率增加，求當邊長為 5 cm 時，面積的增加速率為何？",
+      "options": [],
+      "answer": "80",
+      "type": "fill",
+      "solution": "面積為 $A=x^2$，因此 $\\frac{dA}{dt} = 2x \\frac{dx}{dt}$。代入 $x=5, \\frac{dx}{dt}=8 \\implies 2(5)(8) = 80$。\n\n---",
+      "chapter": "Ch2 2.8節：相關變率",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "一個正方形的邊長以 9 cm/s 的速率增加，求當邊長為 5 cm 時，面積的增加速率為何？",
+      "options": [],
+      "answer": "90",
+      "type": "fill",
+      "solution": "面積為 $A=x^2$，因此 $\\frac{dA}{dt} = 2x \\frac{dx}{dt}$。代入 $x=5, \\frac{dx}{dt}=9 \\implies 2(5)(9) = 90$。\n\n---",
+      "chapter": "Ch2 2.8節：相關變率",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "一個正方形的邊長以 10 cm/s 的速率增加，求當邊長為 5 cm 時，面積的增加速率為何？",
+      "options": [],
+      "answer": "100",
+      "type": "fill",
+      "solution": "面積為 $A=x^2$，因此 $\\frac{dA}{dt} = 2x \\frac{dx}{dt}$。代入 $x=5, \\frac{dx}{dt}=10 \\implies 2(5)(10) = 100$。\n\n---",
+      "chapter": "Ch2 2.8節：相關變率",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "一個正方形的邊長以 11 cm/s 的速率增加，求當邊長為 5 cm 時，面積的增加速率為何？",
+      "options": [],
+      "answer": "110",
+      "type": "fill",
+      "solution": "面積為 $A=x^2$，因此 $\\frac{dA}{dt} = 2x \\frac{dx}{dt}$。代入 $x=5, \\frac{dx}{dt}=11 \\implies 2(5)(11) = 110$。\n\n---",
+      "chapter": "Ch2 2.8節：相關變率",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "一個正方形的邊長以 12 cm/s 的速率增加，求當邊長為 5 cm 時，面積的增加速率為何？",
+      "options": [],
+      "answer": "120",
+      "type": "fill",
+      "solution": "面積為 $A=x^2$，因此 $\\frac{dA}{dt} = 2x \\frac{dx}{dt}$。代入 $x=5, \\frac{dx}{dt}=12 \\implies 2(5)(12) = 120$。\n\n---",
+      "chapter": "Ch2 2.8節：相關變率",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "一個正方形的邊長以 13 cm/s 的速率增加，求當邊長為 5 cm 時，面積的增加速率為何？",
+      "options": [],
+      "answer": "130",
+      "type": "fill",
+      "solution": "面積為 $A=x^2$，因此 $\\frac{dA}{dt} = 2x \\frac{dx}{dt}$。代入 $x=5, \\frac{dx}{dt}=13 \\implies 2(5)(13) = 130$。\n\n---",
+      "chapter": "Ch2 2.8節：相關變率",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "一個正方形的邊長以 14 cm/s 的速率增加，求當邊長為 5 cm 時，面積的增加速率為何？",
+      "options": [],
+      "answer": "140",
+      "type": "fill",
+      "solution": "面積為 $A=x^2$，因此 $\\frac{dA}{dt} = 2x \\frac{dx}{dt}$。代入 $x=5, \\frac{dx}{dt}=14 \\implies 2(5)(14) = 140$。\n\n---",
+      "chapter": "Ch2 2.8節：相關變率",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "一個正方形的邊長以 15 cm/s 的速率增加，求當邊長為 5 cm 時，面積的增加速率為何？",
+      "options": [],
+      "answer": "150",
+      "type": "fill",
+      "solution": "面積為 $A=x^2$，因此 $\\frac{dA}{dt} = 2x \\frac{dx}{dt}$。代入 $x=5, \\frac{dx}{dt}=15 \\implies 2(5)(15) = 150$。",
+      "chapter": "Ch2 2.8節：相關變率",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "已知 $y = x^3$，當 $x=2$ 且 $\\Delta x = 0.1$ 時，試問其微分 $dy$ 的值為多少？",
+      "options": [
+        "$1.2$",
+        "$12$",
+        "$0.1$",
+        "$0.4$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "$dy = f'(x)dx = 3x^2 dx$。代入 $x=2, dx=0.1 \\implies 3(2)^2(0.1) = 3(4)(0.1) = 1.2$。\n\n---",
+      "chapter": "Ch2 2.9節：線性逼近與微分",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "求函數 $f(x) = x^2$ 在 $a=2$ 處的線性化（Linearization）$L(x)$。",
+      "options": [
+        "$4x + 4$",
+        "$4x$",
+        "$2x + 4$",
+        "$4x - 4$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "$L(x) = f(a) + f'(a)(x-a)$。$f(2)=4, f'(2)=4 \\implies 4 + 4(x-2) = 4x - 4$。\n\n---",
+      "chapter": "Ch2 2.9節：線性逼近與微分",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "已知 $y = x^3$，當 $x=2$ 且 $\\Delta x = 0.1$ 時，試問其微分 $dy$ 的值為多少？",
+      "options": [
+        "$12$",
+        "$1.2$",
+        "$0.1$",
+        "$0.4$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "$dy = f'(x)dx = 3x^2 dx$。代入 $x=2, dx=0.1 \\implies 3(2)^2(0.1) = 3(4)(0.1) = 1.2$。\n\n---",
+      "chapter": "Ch2 2.9節：線性逼近與微分",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "求函數 $f(x) = x^2$ 在 $a=2$ 處的線性化（Linearization）$L(x)$。",
+      "options": [
+        "$2x + 4$",
+        "$4x$",
+        "$4x - 4$",
+        "$4x + 4$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "$L(x) = f(a) + f'(a)(x-a)$。$f(2)=4, f'(2)=4 \\implies 4 + 4(x-2) = 4x - 4$。\n\n---",
+      "chapter": "Ch2 2.9節：線性逼近與微分",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "已知 $y = x^3$，當 $x=2$ 且 $\\Delta x = 0.1$ 時，試問其微分 $dy$ 的值為多少？",
+      "options": [
+        "$1.2$",
+        "$12$",
+        "$0.1$",
+        "$0.4$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "$dy = f'(x)dx = 3x^2 dx$。代入 $x=2, dx=0.1 \\implies 3(2)^2(0.1) = 3(4)(0.1) = 1.2$。\n\n---",
+      "chapter": "Ch2 2.9節：線性逼近與微分",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "求函數 $f(x) = x^2$ 在 $a=2$ 處的線性化（Linearization）$L(x)$。",
+      "options": [
+        "$4x + 4$",
+        "$4x$",
+        "$2x + 4$",
+        "$4x - 4$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "$L(x) = f(a) + f'(a)(x-a)$。$f(2)=4, f'(2)=4 \\implies 4 + 4(x-2) = 4x - 4$。\n\n---",
+      "chapter": "Ch2 2.9節：線性逼近與微分",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "已知 $y = x^3$，當 $x=2$ 且 $\\Delta x = 0.1$ 時，試問其微分 $dy$ 的值為多少？",
+      "options": [
+        "$12$",
+        "$1.2$",
+        "$0.1$",
+        "$0.4$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "$dy = f'(x)dx = 3x^2 dx$。代入 $x=2, dx=0.1 \\implies 3(2)^2(0.1) = 3(4)(0.1) = 1.2$。\n\n---",
+      "chapter": "Ch2 2.9節：線性逼近與微分",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "求函數 $f(x) = x^2$ 在 $a=2$ 處的線性化（Linearization）$L(x)$。",
+      "options": [
+        "$2x + 4$",
+        "$4x$",
+        "$4x - 4$",
+        "$4x + 4$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "$L(x) = f(a) + f'(a)(x-a)$。$f(2)=4, f'(2)=4 \\implies 4 + 4(x-2) = 4x - 4$。\n\n---",
+      "chapter": "Ch2 2.9節：線性逼近與微分",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "已知 $y = x^3$，當 $x=2$ 且 $\\Delta x = 0.1$ 時，試問其微分 $dy$ 的值為多少？",
+      "options": [
+        "$1.2$",
+        "$12$",
+        "$0.1$",
+        "$0.4$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "$dy = f'(x)dx = 3x^2 dx$。代入 $x=2, dx=0.1 \\implies 3(2)^2(0.1) = 3(4)(0.1) = 1.2$。\n\n---",
+      "chapter": "Ch2 2.9節：線性逼近與微分",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "求函數 $f(x) = x^2$ 在 $a=2$ 處的線性化（Linearization）$L(x)$。",
+      "options": [
+        "$4x + 4$",
+        "$4x$",
+        "$2x + 4$",
+        "$4x - 4$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "$L(x) = f(a) + f'(a)(x-a)$。$f(2)=4, f'(2)=4 \\implies 4 + 4(x-2) = 4x - 4$。\n\n---",
+      "chapter": "Ch2 2.9節：線性逼近與微分",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "已知 $y = x^3$，當 $x=2$ 且 $\\Delta x = 0.1$ 時，試問其微分 $dy$ 的值為多少？",
+      "options": [
+        "$12$",
+        "$1.2$",
+        "$0.1$",
+        "$0.4$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "$dy = f'(x)dx = 3x^2 dx$。代入 $x=2, dx=0.1 \\implies 3(2)^2(0.1) = 3(4)(0.1) = 1.2$。\n\n---",
+      "chapter": "Ch2 2.9節：線性逼近與微分",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "求函數 $f(x) = x^2$ 在 $a=2$ 處的線性化（Linearization）$L(x)$。",
+      "options": [
+        "$2x + 4$",
+        "$4x$",
+        "$4x - 4$",
+        "$4x + 4$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "$L(x) = f(a) + f'(a)(x-a)$。$f(2)=4, f'(2)=4 \\implies 4 + 4(x-2) = 4x - 4$。\n\n---",
+      "chapter": "Ch2 2.9節：線性逼近與微分",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "已知 $y = x^3$，當 $x=2$ 且 $\\Delta x = 0.1$ 時，試問其微分 $dy$ 的值為多少？",
+      "options": [
+        "$1.2$",
+        "$12$",
+        "$0.1$",
+        "$0.4$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "$dy = f'(x)dx = 3x^2 dx$。代入 $x=2, dx=0.1 \\implies 3(2)^2(0.1) = 3(4)(0.1) = 1.2$。\n\n---",
+      "chapter": "Ch2 2.9節：線性逼近與微分",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "求函數 $f(x) = x^2$ 在 $a=2$ 處的線性化（Linearization）$L(x)$。",
+      "options": [
+        "$4x + 4$",
+        "$4x$",
+        "$2x + 4$",
+        "$4x - 4$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "$L(x) = f(a) + f'(a)(x-a)$。$f(2)=4, f'(2)=4 \\implies 4 + 4(x-2) = 4x - 4$。\n\n---",
+      "chapter": "Ch2 2.9節：線性逼近與微分",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "已知 $y = x^3$，當 $x=2$ 且 $\\Delta x = 0.1$ 時，試問其微分 $dy$ 的值為多少？",
+      "options": [
+        "$12$",
+        "$1.2$",
+        "$0.1$",
+        "$0.4$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "$dy = f'(x)dx = 3x^2 dx$。代入 $x=2, dx=0.1 \\implies 3(2)^2(0.1) = 3(4)(0.1) = 1.2$。\n\n---",
+      "chapter": "Ch2 2.9節：線性逼近與微分",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "求函數 $f(x) = x^2$ 在 $a=2$ 處的線性化（Linearization）$L(x)$。",
+      "options": [
+        "$2x + 4$",
+        "$4x$",
+        "$4x - 4$",
+        "$4x + 4$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "$L(x) = f(a) + f'(a)(x-a)$。$f(2)=4, f'(2)=4 \\implies 4 + 4(x-2) = 4x - 4$。\n\n---",
+      "chapter": "Ch2 2.9節：線性逼近與微分",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "已知 $y = x^3$，當 $x=2$ 且 $\\Delta x = 0.1$ 時，試問其微分 $dy$ 的值為多少？",
+      "options": [
+        "$1.2$",
+        "$12$",
+        "$0.1$",
+        "$0.4$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "$dy = f'(x)dx = 3x^2 dx$。代入 $x=2, dx=0.1 \\implies 3(2)^2(0.1) = 3(4)(0.1) = 1.2$。\n\n---",
+      "chapter": "Ch2 2.9節：線性逼近與微分",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "求函數 $f(x) = x^2$ 在 $a=2$ 處的線性化（Linearization）$L(x)$。",
+      "options": [
+        "$4x + 4$",
+        "$4x$",
+        "$2x + 4$",
+        "$4x - 4$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "$L(x) = f(a) + f'(a)(x-a)$。$f(2)=4, f'(2)=4 \\implies 4 + 4(x-2) = 4x - 4$。\n\n---",
+      "chapter": "Ch2 2.9節：線性逼近與微分",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "已知 $y = x^3$，當 $x=2$ 且 $\\Delta x = 0.1$ 時，試問其微分 $dy$ 的值為多少？",
+      "options": [
+        "$12$",
+        "$1.2$",
+        "$0.1$",
+        "$0.4$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "$dy = f'(x)dx = 3x^2 dx$。代入 $x=2, dx=0.1 \\implies 3(2)^2(0.1) = 3(4)(0.1) = 1.2$。\n\n---",
+      "chapter": "Ch2 2.9節：線性逼近與微分",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "求函數 $f(x) = x^2$ 在 $a=2$ 處的線性化（Linearization）$L(x)$。",
+      "options": [
+        "$2x + 4$",
+        "$4x$",
+        "$4x - 4$",
+        "$4x + 4$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "$L(x) = f(a) + f'(a)(x-a)$。$f(2)=4, f'(2)=4 \\implies 4 + 4(x-2) = 4x - 4$。\n\n---",
+      "chapter": "Ch2 2.9節：線性逼近與微分",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "若函數 $f(x) = 5x^2$ 在 $x=1$ 且 $dx=0.1$，試求 $dy$ 的精確值。",
+      "options": [],
+      "answer": "1.0",
+      "type": "fill",
+      "solution": "微分 $dy = 2 \\cdot 5x dx = 10x dx$。代入 $x=1, dx=0.1 \\implies 10(1)(0.1) = 1.0$。\n\n---",
+      "chapter": "Ch2 2.9節：線性逼近與微分",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "若函數 $f(x) = 6x^2$ 在 $x=1$ 且 $dx=0.1$，試求 $dy$ 的精確值。",
+      "options": [],
+      "answer": "1.2",
+      "type": "fill",
+      "solution": "微分 $dy = 2 \\cdot 6x dx = 12x dx$。代入 $x=1, dx=0.1 \\implies 12(1)(0.1) = 1.2$。\n\n---",
+      "chapter": "Ch2 2.9節：線性逼近與微分",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "若函數 $f(x) = 7x^2$ 在 $x=1$ 且 $dx=0.1$，試求 $dy$ 的精確值。",
+      "options": [],
+      "answer": "1.4",
+      "type": "fill",
+      "solution": "微分 $dy = 2 \\cdot 7x dx = 14x dx$。代入 $x=1, dx=0.1 \\implies 14(1)(0.1) = 1.4$。\n\n---",
+      "chapter": "Ch2 2.9節：線性逼近與微分",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "若函數 $f(x) = 8x^2$ 在 $x=1$ 且 $dx=0.1$，試求 $dy$ 的精確值。",
+      "options": [],
+      "answer": "1.6",
+      "type": "fill",
+      "solution": "微分 $dy = 2 \\cdot 8x dx = 16x dx$。代入 $x=1, dx=0.1 \\implies 16(1)(0.1) = 1.6$。\n\n---",
+      "chapter": "Ch2 2.9節：線性逼近與微分",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "若函數 $f(x) = 9x^2$ 在 $x=1$ 且 $dx=0.1$，試求 $dy$ 的精確值。",
+      "options": [],
+      "answer": "1.8",
+      "type": "fill",
+      "solution": "微分 $dy = 2 \\cdot 9x dx = 18x dx$。代入 $x=1, dx=0.1 \\implies 18(1)(0.1) = 1.8$。\n\n---",
+      "chapter": "Ch2 2.9節：線性逼近與微分",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "若函數 $f(x) = 10x^2$ 在 $x=1$ 且 $dx=0.1$，試求 $dy$ 的精確值。",
+      "options": [],
+      "answer": "2.0",
+      "type": "fill",
+      "solution": "微分 $dy = 2 \\cdot 10x dx = 20x dx$。代入 $x=1, dx=0.1 \\implies 20(1)(0.1) = 2.0$。\n\n---",
+      "chapter": "Ch2 2.9節：線性逼近與微分",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "若函數 $f(x) = 11x^2$ 在 $x=1$ 且 $dx=0.1$，試求 $dy$ 的精確值。",
+      "options": [],
+      "answer": "2.2",
+      "type": "fill",
+      "solution": "微分 $dy = 2 \\cdot 11x dx = 22x dx$。代入 $x=1, dx=0.1 \\implies 22(1)(0.1) = 2.2$。\n\n---",
+      "chapter": "Ch2 2.9節：線性逼近與微分",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "若函數 $f(x) = 12x^2$ 在 $x=1$ 且 $dx=0.1$，試求 $dy$ 的精確值。",
+      "options": [],
+      "answer": "2.4",
+      "type": "fill",
+      "solution": "微分 $dy = 2 \\cdot 12x dx = 24x dx$。代入 $x=1, dx=0.1 \\implies 24(1)(0.1) = 2.4$。\n\n---",
+      "chapter": "Ch2 2.9節：線性逼近與微分",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "若函數 $f(x) = 13x^2$ 在 $x=1$ 且 $dx=0.1$，試求 $dy$ 的精確值。",
+      "options": [],
+      "answer": "2.6",
+      "type": "fill",
+      "solution": "微分 $dy = 2 \\cdot 13x dx = 26x dx$。代入 $x=1, dx=0.1 \\implies 26(1)(0.1) = 2.6$。\n\n---",
+      "chapter": "Ch2 2.9節：線性逼近與微分",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "若函數 $f(x) = 14x^2$ 在 $x=1$ 且 $dx=0.1$，試求 $dy$ 的精確值。",
+      "options": [],
+      "answer": "2.8",
+      "type": "fill",
+      "solution": "微分 $dy = 2 \\cdot 14x dx = 28x dx$。代入 $x=1, dx=0.1 \\implies 28(1)(0.1) = 2.8$。",
+      "chapter": "Ch2 2.9節：線性逼近與微分",
+      "score": 10
+    }
+  ]
+}

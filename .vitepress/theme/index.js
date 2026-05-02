@@ -1,5 +1,6 @@
 import DefaultTheme from 'vitepress/theme'
 import Paper from './components/Paper.vue'
+import CalculusQuiz from './components/CalculusQuiz.vue'
 import './custom.css'
 import { onMounted, watch } from 'vue'
 import { useRoute } from 'vitepress'
@@ -8,6 +9,7 @@ export default {
   extends: DefaultTheme,
   enhanceApp({ app }) {
     app.component('Paper', Paper)
+    app.component('CalculusQuiz', CalculusQuiz)
   },
   setup() {
     // Busuanzi integration for SPA — must be in setup() context

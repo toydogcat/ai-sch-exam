@@ -1,6 +1,7 @@
-# 微積分 (Calculus)
+---
+layout: page
+---
 
-施工中！！
-這裡將會收錄，微積分考題。
-
-
+<ClientOnly>
+  <CalculusQuiz />
+</ClientOnly>

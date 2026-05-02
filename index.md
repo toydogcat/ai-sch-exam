@@ -58,6 +58,12 @@ features:
       <p>大學入學指定科目考試</p>
       <div class="badge">收錄 111-113 年</div>
     </a>
+    <a href="./calculus" class="glass-card calculus">
+      <div class="card-icon">🧮</div>
+      <h3>微積分隨機測驗 (Calculus)</h3>
+      <p>高等數學線上模擬測驗</p>
+      <div class="badge">自訂章節題庫抽題</div>
+    </a>
   </div>
 </div>
 
@@ -115,6 +121,10 @@ features:
   background: rgba(245, 158, 11, 0.1);
   border-color: #f59e0b; 
 }
+.glass-card.calculus:hover { 
+  background: rgba(236, 72, 153, 0.1);
+  border-color: #ec4899; 
+}
 
 .card-icon {
   font-size: 3.5rem;
@@ -152,4 +162,5 @@ features:
 .glass-card.cap:hover .badge { background: #3eaf7c; color: #fff; }
 .glass-card.gsat:hover .badge { background: #3b82f6; color: #fff; }
 .glass-card.ast:hover .badge { background: #f59e0b; color: #fff; }
+.glass-card.calculus:hover .badge { background: #ec4899; color: #fff; }
 </style>
