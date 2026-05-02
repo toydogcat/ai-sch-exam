@@ -1,0 +1,3204 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "text": "求 $\\int x \\cos(2x) dx$ 的最一般不定積分。",
+      "options": [
+        "$x\\sin(2x) + C$",
+        "$\\frac{x}{2}\\sin(2x) - \\frac{1}{4}\\cos(2x) + C$",
+        "$\\frac{x}{2}\\sin(2x) + \\frac{1}{4}\\cos(2x) + C$",
+        "$\\frac{1}{2}\\sin(2x) + C$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "令 $u=x, dv=\\cos(2x)dx \\implies du=dx, v=\\frac{1}{2}\\sin(2x)$。故分部積分得 $\\frac{x}{2}\\sin(2x) - \\int \\frac{1}{2}\\sin(2x) dx = \\frac{x}{2}\\sin(2x) + \\frac{1}{4}\\cos(2x) + C$。\n\n---",
+      "chapter": "Ch7 7.1節：分部積分法",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "利用分部積分法（Integration by Parts），求 $\\int x e^{3x} dx$ 的最一般不定積分。",
+      "options": [
+        "$x e^{3x} - e^{3x} + C$",
+        "$\\frac{x}{3}e^{3x} - \\frac{1}{9}e^{3x} + C$",
+        "$\\frac{x}{3}e^{3x} + C$",
+        "$\\frac{1}{9}e^{3x} + C$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "令 $u=x, dv=e^{3x}dx \\implies du=dx, v=\\frac{1}{3}e^{3x}$。故分部積分得 $\\frac{x}{3}e^{3x} - \\int \\frac{1}{3}e^{3x} dx = \\frac{x}{3}e^{3x} - \\frac{1}{9}e^{3x} + C$。\n\n---",
+      "chapter": "Ch7 7.1節：分部積分法",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "求 $\\int x \\cos(4x) dx$ 的最一般不定積分。",
+      "options": [
+        "$\\frac{1}{4}\\sin(4x) + C$",
+        "$\\frac{x}{4}\\sin(4x) - \\frac{1}{16}\\cos(4x) + C$",
+        "$x\\sin(4x) + C$",
+        "$\\frac{x}{4}\\sin(4x) + \\frac{1}{16}\\cos(4x) + C$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "令 $u=x, dv=\\cos(4x)dx \\implies du=dx, v=\\frac{1}{4}\\sin(4x)$。故分部積分得 $\\frac{x}{4}\\sin(4x) - \\int \\frac{1}{4}\\sin(4x) dx = \\frac{x}{4}\\sin(4x) + \\frac{1}{16}\\cos(4x) + C$。\n\n---",
+      "chapter": "Ch7 7.1節：分部積分法",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "利用分部積分法（Integration by Parts），求 $\\int x e^{5x} dx$ 的最一般不定積分。",
+      "options": [
+        "$\\frac{x}{5}e^{5x} - \\frac{1}{25}e^{5x} + C$",
+        "$x e^{5x} - e^{5x} + C$",
+        "$\\frac{x}{5}e^{5x} + C$",
+        "$\\frac{1}{25}e^{5x} + C$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "令 $u=x, dv=e^{5x}dx \\implies du=dx, v=\\frac{1}{5}e^{5x}$。故分部積分得 $\\frac{x}{5}e^{5x} - \\int \\frac{1}{5}e^{5x} dx = \\frac{x}{5}e^{5x} - \\frac{1}{25}e^{5x} + C$。\n\n---",
+      "chapter": "Ch7 7.1節：分部積分法",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "求 $\\int x \\cos(6x) dx$ 的最一般不定積分。",
+      "options": [
+        "$x\\sin(6x) + C$",
+        "$\\frac{x}{6}\\sin(6x) - \\frac{1}{36}\\cos(6x) + C$",
+        "$\\frac{x}{6}\\sin(6x) + \\frac{1}{36}\\cos(6x) + C$",
+        "$\\frac{1}{6}\\sin(6x) + C$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "令 $u=x, dv=\\cos(6x)dx \\implies du=dx, v=\\frac{1}{6}\\sin(6x)$。故分部積分得 $\\frac{x}{6}\\sin(6x) - \\int \\frac{1}{6}\\sin(6x) dx = \\frac{x}{6}\\sin(6x) + \\frac{1}{36}\\cos(6x) + C$。\n\n---",
+      "chapter": "Ch7 7.1節：分部積分法",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "利用分部積分法（Integration by Parts），求 $\\int x e^{7x} dx$ 的最一般不定積分。",
+      "options": [
+        "$x e^{7x} - e^{7x} + C$",
+        "$\\frac{x}{7}e^{7x} - \\frac{1}{49}e^{7x} + C$",
+        "$\\frac{x}{7}e^{7x} + C$",
+        "$\\frac{1}{49}e^{7x} + C$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "令 $u=x, dv=e^{7x}dx \\implies du=dx, v=\\frac{1}{7}e^{7x}$。故分部積分得 $\\frac{x}{7}e^{7x} - \\int \\frac{1}{7}e^{7x} dx = \\frac{x}{7}e^{7x} - \\frac{1}{49}e^{7x} + C$。\n\n---",
+      "chapter": "Ch7 7.1節：分部積分法",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "求 $\\int x \\cos(8x) dx$ 的最一般不定積分。",
+      "options": [
+        "$\\frac{1}{8}\\sin(8x) + C$",
+        "$\\frac{x}{8}\\sin(8x) - \\frac{1}{64}\\cos(8x) + C$",
+        "$x\\sin(8x) + C$",
+        "$\\frac{x}{8}\\sin(8x) + \\frac{1}{64}\\cos(8x) + C$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "令 $u=x, dv=\\cos(8x)dx \\implies du=dx, v=\\frac{1}{8}\\sin(8x)$。故分部積分得 $\\frac{x}{8}\\sin(8x) - \\int \\frac{1}{8}\\sin(8x) dx = \\frac{x}{8}\\sin(8x) + \\frac{1}{64}\\cos(8x) + C$。\n\n---",
+      "chapter": "Ch7 7.1節：分部積分法",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "利用分部積分法（Integration by Parts），求 $\\int x e^{9x} dx$ 的最一般不定積分。",
+      "options": [
+        "$\\frac{x}{9}e^{9x} - \\frac{1}{81}e^{9x} + C$",
+        "$x e^{9x} - e^{9x} + C$",
+        "$\\frac{x}{9}e^{9x} + C$",
+        "$\\frac{1}{81}e^{9x} + C$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "令 $u=x, dv=e^{9x}dx \\implies du=dx, v=\\frac{1}{9}e^{9x}$。故分部積分得 $\\frac{x}{9}e^{9x} - \\int \\frac{1}{9}e^{9x} dx = \\frac{x}{9}e^{9x} - \\frac{1}{81}e^{9x} + C$。\n\n---",
+      "chapter": "Ch7 7.1節：分部積分法",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "求 $\\int x \\cos(10x) dx$ 的最一般不定積分。",
+      "options": [
+        "$x\\sin(10x) + C$",
+        "$\\frac{x}{10}\\sin(10x) - \\frac{1}{100}\\cos(10x) + C$",
+        "$\\frac{x}{10}\\sin(10x) + \\frac{1}{100}\\cos(10x) + C$",
+        "$\\frac{1}{10}\\sin(10x) + C$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "令 $u=x, dv=\\cos(10x)dx \\implies du=dx, v=\\frac{1}{10}\\sin(10x)$。故分部積分得 $\\frac{x}{10}\\sin(10x) - \\int \\frac{1}{10}\\sin(10x) dx = \\frac{x}{10}\\sin(10x) + \\frac{1}{100}\\cos(10x) + C$。\n\n---",
+      "chapter": "Ch7 7.1節：分部積分法",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "利用分部積分法（Integration by Parts），求 $\\int x e^{11x} dx$ 的最一般不定積分。",
+      "options": [
+        "$x e^{11x} - e^{11x} + C$",
+        "$\\frac{x}{11}e^{11x} - \\frac{1}{121}e^{11x} + C$",
+        "$\\frac{x}{11}e^{11x} + C$",
+        "$\\frac{1}{121}e^{11x} + C$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "令 $u=x, dv=e^{11x}dx \\implies du=dx, v=\\frac{1}{11}e^{11x}$。故分部積分得 $\\frac{x}{11}e^{11x} - \\int \\frac{1}{11}e^{11x} dx = \\frac{x}{11}e^{11x} - \\frac{1}{121}e^{11x} + C$。\n\n---",
+      "chapter": "Ch7 7.1節：分部積分法",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "求 $\\int x \\cos(12x) dx$ 的最一般不定積分。",
+      "options": [
+        "$\\frac{1}{12}\\sin(12x) + C$",
+        "$\\frac{x}{12}\\sin(12x) - \\frac{1}{144}\\cos(12x) + C$",
+        "$x\\sin(12x) + C$",
+        "$\\frac{x}{12}\\sin(12x) + \\frac{1}{144}\\cos(12x) + C$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "令 $u=x, dv=\\cos(12x)dx \\implies du=dx, v=\\frac{1}{12}\\sin(12x)$。故分部積分得 $\\frac{x}{12}\\sin(12x) - \\int \\frac{1}{12}\\sin(12x) dx = \\frac{x}{12}\\sin(12x) + \\frac{1}{144}\\cos(12x) + C$。\n\n---",
+      "chapter": "Ch7 7.1節：分部積分法",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "利用分部積分法（Integration by Parts），求 $\\int x e^{13x} dx$ 的最一般不定積分。",
+      "options": [
+        "$\\frac{x}{13}e^{13x} - \\frac{1}{169}e^{13x} + C$",
+        "$x e^{13x} - e^{13x} + C$",
+        "$\\frac{x}{13}e^{13x} + C$",
+        "$\\frac{1}{169}e^{13x} + C$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "令 $u=x, dv=e^{13x}dx \\implies du=dx, v=\\frac{1}{13}e^{13x}$。故分部積分得 $\\frac{x}{13}e^{13x} - \\int \\frac{1}{13}e^{13x} dx = \\frac{x}{13}e^{13x} - \\frac{1}{169}e^{13x} + C$。\n\n---",
+      "chapter": "Ch7 7.1節：分部積分法",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "求 $\\int x \\cos(14x) dx$ 的最一般不定積分。",
+      "options": [
+        "$x\\sin(14x) + C$",
+        "$\\frac{x}{14}\\sin(14x) - \\frac{1}{196}\\cos(14x) + C$",
+        "$\\frac{x}{14}\\sin(14x) + \\frac{1}{196}\\cos(14x) + C$",
+        "$\\frac{1}{14}\\sin(14x) + C$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "令 $u=x, dv=\\cos(14x)dx \\implies du=dx, v=\\frac{1}{14}\\sin(14x)$。故分部積分得 $\\frac{x}{14}\\sin(14x) - \\int \\frac{1}{14}\\sin(14x) dx = \\frac{x}{14}\\sin(14x) + \\frac{1}{196}\\cos(14x) + C$。\n\n---",
+      "chapter": "Ch7 7.1節：分部積分法",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "利用分部積分法（Integration by Parts），求 $\\int x e^{15x} dx$ 的最一般不定積分。",
+      "options": [
+        "$x e^{15x} - e^{15x} + C$",
+        "$\\frac{x}{15}e^{15x} - \\frac{1}{225}e^{15x} + C$",
+        "$\\frac{x}{15}e^{15x} + C$",
+        "$\\frac{1}{225}e^{15x} + C$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "令 $u=x, dv=e^{15x}dx \\implies du=dx, v=\\frac{1}{15}e^{15x}$。故分部積分得 $\\frac{x}{15}e^{15x} - \\int \\frac{1}{15}e^{15x} dx = \\frac{x}{15}e^{15x} - \\frac{1}{225}e^{15x} + C$。\n\n---",
+      "chapter": "Ch7 7.1節：分部積分法",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "求 $\\int x \\cos(16x) dx$ 的最一般不定積分。",
+      "options": [
+        "$\\frac{1}{16}\\sin(16x) + C$",
+        "$\\frac{x}{16}\\sin(16x) - \\frac{1}{256}\\cos(16x) + C$",
+        "$x\\sin(16x) + C$",
+        "$\\frac{x}{16}\\sin(16x) + \\frac{1}{256}\\cos(16x) + C$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "令 $u=x, dv=\\cos(16x)dx \\implies du=dx, v=\\frac{1}{16}\\sin(16x)$。故分部積分得 $\\frac{x}{16}\\sin(16x) - \\int \\frac{1}{16}\\sin(16x) dx = \\frac{x}{16}\\sin(16x) + \\frac{1}{256}\\cos(16x) + C$。\n\n---",
+      "chapter": "Ch7 7.1節：分部積分法",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "利用分部積分法（Integration by Parts），求 $\\int x e^{17x} dx$ 的最一般不定積分。",
+      "options": [
+        "$\\frac{x}{17}e^{17x} - \\frac{1}{289}e^{17x} + C$",
+        "$x e^{17x} - e^{17x} + C$",
+        "$\\frac{x}{17}e^{17x} + C$",
+        "$\\frac{1}{289}e^{17x} + C$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "令 $u=x, dv=e^{17x}dx \\implies du=dx, v=\\frac{1}{17}e^{17x}$。故分部積分得 $\\frac{x}{17}e^{17x} - \\int \\frac{1}{17}e^{17x} dx = \\frac{x}{17}e^{17x} - \\frac{1}{289}e^{17x} + C$。\n\n---",
+      "chapter": "Ch7 7.1節：分部積分法",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "求 $\\int x \\cos(18x) dx$ 的最一般不定積分。",
+      "options": [
+        "$x\\sin(18x) + C$",
+        "$\\frac{x}{18}\\sin(18x) - \\frac{1}{324}\\cos(18x) + C$",
+        "$\\frac{x}{18}\\sin(18x) + \\frac{1}{324}\\cos(18x) + C$",
+        "$\\frac{1}{18}\\sin(18x) + C$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "令 $u=x, dv=\\cos(18x)dx \\implies du=dx, v=\\frac{1}{18}\\sin(18x)$。故分部積分得 $\\frac{x}{18}\\sin(18x) - \\int \\frac{1}{18}\\sin(18x) dx = \\frac{x}{18}\\sin(18x) + \\frac{1}{324}\\cos(18x) + C$。\n\n---",
+      "chapter": "Ch7 7.1節：分部積分法",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "利用分部積分法（Integration by Parts），求 $\\int x e^{19x} dx$ 的最一般不定積分。",
+      "options": [
+        "$x e^{19x} - e^{19x} + C$",
+        "$\\frac{x}{19}e^{19x} - \\frac{1}{361}e^{19x} + C$",
+        "$\\frac{x}{19}e^{19x} + C$",
+        "$\\frac{1}{361}e^{19x} + C$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "令 $u=x, dv=e^{19x}dx \\implies du=dx, v=\\frac{1}{19}e^{19x}$。故分部積分得 $\\frac{x}{19}e^{19x} - \\int \\frac{1}{19}e^{19x} dx = \\frac{x}{19}e^{19x} - \\frac{1}{361}e^{19x} + C$。\n\n---",
+      "chapter": "Ch7 7.1節：分部積分法",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "求 $\\int x \\cos(20x) dx$ 的最一般不定積分。",
+      "options": [
+        "$\\frac{1}{20}\\sin(20x) + C$",
+        "$\\frac{x}{20}\\sin(20x) - \\frac{1}{400}\\cos(20x) + C$",
+        "$x\\sin(20x) + C$",
+        "$\\frac{x}{20}\\sin(20x) + \\frac{1}{400}\\cos(20x) + C$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "令 $u=x, dv=\\cos(20x)dx \\implies du=dx, v=\\frac{1}{20}\\sin(20x)$。故分部積分得 $\\frac{x}{20}\\sin(20x) - \\int \\frac{1}{20}\\sin(20x) dx = \\frac{x}{20}\\sin(20x) + \\frac{1}{400}\\cos(20x) + C$。\n\n---",
+      "chapter": "Ch7 7.1節：分部積分法",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "利用分部積分法（Integration by Parts），求 $\\int x e^{21x} dx$ 的最一般不定積分。",
+      "options": [
+        "$\\frac{x}{21}e^{21x} - \\frac{1}{441}e^{21x} + C$",
+        "$x e^{21x} - e^{21x} + C$",
+        "$\\frac{x}{21}e^{21x} + C$",
+        "$\\frac{1}{441}e^{21x} + C$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "令 $u=x, dv=e^{21x}dx \\implies du=dx, v=\\frac{1}{21}e^{21x}$。故分部積分得 $\\frac{x}{21}e^{21x} - \\int \\frac{1}{21}e^{21x} dx = \\frac{x}{21}e^{21x} - \\frac{1}{441}e^{21x} + C$。\n\n---",
+      "chapter": "Ch7 7.1節：分部積分法",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "求 $\\int_1^2 3x \\ln x dx$ 的定積分之精確值。",
+      "options": [],
+      "answer": "1.91",
+      "type": "fill",
+      "solution": "分部積分：令 $u=\\ln x, dv=3x dx \\implies du=\\frac{1}{x}dx, v=\\frac{3}{2}x^2$。積分為 $[\\frac{3}{2}x^2 \\ln x]_1^2 - \\int_1^2 \\frac{3}{2}x dx = 23\\ln 2 - [\\frac{3}{4}x^2]_1^2 = 23\\ln 2 - \\frac{33}{4}$。結果為 1.91。\n\n---",
+      "chapter": "Ch7 7.1節：分部積分法",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "求 $\\int_1^2 4x \\ln x dx$ 的定積分之精確值。",
+      "options": [],
+      "answer": "2.54",
+      "type": "fill",
+      "solution": "分部積分：令 $u=\\ln x, dv=4x dx \\implies du=\\frac{1}{x}dx, v=\\frac{4}{2}x^2$。積分為 $[\\frac{4}{2}x^2 \\ln x]_1^2 - \\int_1^2 \\frac{4}{2}x dx = 24\\ln 2 - [\\frac{4}{4}x^2]_1^2 = 24\\ln 2 - \\frac{34}{4}$。結果為 2.54。\n\n---",
+      "chapter": "Ch7 7.1節：分部積分法",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "求 $\\int_1^2 5x \\ln x dx$ 的定積分之精確值。",
+      "options": [],
+      "answer": "3.18",
+      "type": "fill",
+      "solution": "分部積分：令 $u=\\ln x, dv=5x dx \\implies du=\\frac{1}{x}dx, v=\\frac{5}{2}x^2$。積分為 $[\\frac{5}{2}x^2 \\ln x]_1^2 - \\int_1^2 \\frac{5}{2}x dx = 25\\ln 2 - [\\frac{5}{4}x^2]_1^2 = 25\\ln 2 - \\frac{35}{4}$。結果為 3.18。\n\n---",
+      "chapter": "Ch7 7.1節：分部積分法",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "求 $\\int_1^2 6x \\ln x dx$ 的定積分之精確值。",
+      "options": [],
+      "answer": "3.82",
+      "type": "fill",
+      "solution": "分部積分：令 $u=\\ln x, dv=6x dx \\implies du=\\frac{1}{x}dx, v=\\frac{6}{2}x^2$。積分為 $[\\frac{6}{2}x^2 \\ln x]_1^2 - \\int_1^2 \\frac{6}{2}x dx = 26\\ln 2 - [\\frac{6}{4}x^2]_1^2 = 26\\ln 2 - \\frac{36}{4}$。結果為 3.82。\n\n---",
+      "chapter": "Ch7 7.1節：分部積分法",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "求 $\\int_1^2 7x \\ln x dx$ 的定積分之精確值。",
+      "options": [],
+      "answer": "4.45",
+      "type": "fill",
+      "solution": "分部積分：令 $u=\\ln x, dv=7x dx \\implies du=\\frac{1}{x}dx, v=\\frac{7}{2}x^2$。積分為 $[\\frac{7}{2}x^2 \\ln x]_1^2 - \\int_1^2 \\frac{7}{2}x dx = 27\\ln 2 - [\\frac{7}{4}x^2]_1^2 = 27\\ln 2 - \\frac{37}{4}$。結果為 4.45。\n\n---",
+      "chapter": "Ch7 7.1節：分部積分法",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "求 $\\int_1^2 8x \\ln x dx$ 的定積分之精確值。",
+      "options": [],
+      "answer": "5.09",
+      "type": "fill",
+      "solution": "分部積分：令 $u=\\ln x, dv=8x dx \\implies du=\\frac{1}{x}dx, v=\\frac{8}{2}x^2$。積分為 $[\\frac{8}{2}x^2 \\ln x]_1^2 - \\int_1^2 \\frac{8}{2}x dx = 28\\ln 2 - [\\frac{8}{4}x^2]_1^2 = 28\\ln 2 - \\frac{38}{4}$。結果為 5.09。\n\n---",
+      "chapter": "Ch7 7.1節：分部積分法",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "求 $\\int_1^2 9x \\ln x dx$ 的定積分之精確值。",
+      "options": [],
+      "answer": "5.73",
+      "type": "fill",
+      "solution": "分部積分：令 $u=\\ln x, dv=9x dx \\implies du=\\frac{1}{x}dx, v=\\frac{9}{2}x^2$。積分為 $[\\frac{9}{2}x^2 \\ln x]_1^2 - \\int_1^2 \\frac{9}{2}x dx = 29\\ln 2 - [\\frac{9}{4}x^2]_1^2 = 29\\ln 2 - \\frac{39}{4}$。結果為 5.73。\n\n---",
+      "chapter": "Ch7 7.1節：分部積分法",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "求 $\\int_1^2 10x \\ln x dx$ 的定積分之精確值。",
+      "options": [],
+      "answer": "6.36",
+      "type": "fill",
+      "solution": "分部積分：令 $u=\\ln x, dv=10x dx \\implies du=\\frac{1}{x}dx, v=\\frac{10}{2}x^2$。積分為 $[\\frac{10}{2}x^2 \\ln x]_1^2 - \\int_1^2 \\frac{10}{2}x dx = 210\\ln 2 - [\\frac{10}{4}x^2]_1^2 = 210\\ln 2 - \\frac{310}{4}$。結果為 6.36。\n\n---",
+      "chapter": "Ch7 7.1節：分部積分法",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "求 $\\int_1^2 11x \\ln x dx$ 的定積分之精確值。",
+      "options": [],
+      "answer": "7.0",
+      "type": "fill",
+      "solution": "分部積分：令 $u=\\ln x, dv=11x dx \\implies du=\\frac{1}{x}dx, v=\\frac{11}{2}x^2$。積分為 $[\\frac{11}{2}x^2 \\ln x]_1^2 - \\int_1^2 \\frac{11}{2}x dx = 211\\ln 2 - [\\frac{11}{4}x^2]_1^2 = 211\\ln 2 - \\frac{311}{4}$。結果為 7.0。\n\n---",
+      "chapter": "Ch7 7.1節：分部積分法",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "求 $\\int_1^2 12x \\ln x dx$ 的定積分之精確值。",
+      "options": [],
+      "answer": "7.63",
+      "type": "fill",
+      "solution": "分部積分：令 $u=\\ln x, dv=12x dx \\implies du=\\frac{1}{x}dx, v=\\frac{12}{2}x^2$。積分為 $[\\frac{12}{2}x^2 \\ln x]_1^2 - \\int_1^2 \\frac{12}{2}x dx = 212\\ln 2 - [\\frac{12}{4}x^2]_1^2 = 212\\ln 2 - \\frac{312}{4}$。結果為 7.63。",
+      "chapter": "Ch7 7.1節：分部積分法",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "求 $\\int \\sin^3(x) \\cos^{2}(x) dx$ 的結果。",
+      "options": [
+        "$\\frac{\\sin^4(x)}{4} + C$",
+        "$\\frac{\\cos^{3}(x)}{3} - \\frac{\\cos^{5}(x)}{5} + C$",
+        "$\\frac{\\cos^{5}(x)}{5} - \\frac{\\cos^{3}(x)}{3} + C$",
+        "$\\frac{\\cos^2(x)}{2} + C$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "令 $u=\\cos x, du=-\\sin x dx$。積分為 $\\int (1 - u^2) u^{2} (-du) = \\int (u^{4} - u^{2}) du = \\frac{u^{5}}{5} - \\frac{u^{3}}{3} + C$。\n\n---",
+      "chapter": "Ch7 7.2節：三角積分",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "利用三角函數積分法，求 $\\int \\sin^2(3x) dx$。",
+      "options": [
+        "$\\frac{x}{2} - \\frac{\\sin(6x)}{12} + C$",
+        "$\\frac{x}{2} + \\frac{\\sin(6x)}{12} + C$",
+        "$\\frac{\\sin^3(3x)}{3} + C$",
+        "$\\frac{\\cos^2(3x)}{2} + C$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "利用半角公式 $\\sin^2(3x) = \\frac{1 - \\cos(6x)}{2}$。故積分為 $\\frac{x}{2} - \\frac{\\sin(6x)}{12} + C$。\n\n---",
+      "chapter": "Ch7 7.2節：三角積分",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "求 $\\int \\sin^3(x) \\cos^{4}(x) dx$ 的結果。",
+      "options": [
+        "$\\frac{\\cos^2(x)}{2} + C$",
+        "$\\frac{\\cos^{5}(x)}{5} - \\frac{\\cos^{7}(x)}{7} + C$",
+        "$\\frac{\\sin^4(x)}{4} + C$",
+        "$\\frac{\\cos^{7}(x)}{7} - \\frac{\\cos^{5}(x)}{5} + C$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "令 $u=\\cos x, du=-\\sin x dx$。積分為 $\\int (1 - u^2) u^{4} (-du) = \\int (u^{6} - u^{4}) du = \\frac{u^{7}}{7} - \\frac{u^{5}}{5} + C$。\n\n---",
+      "chapter": "Ch7 7.2節：三角積分",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "利用三角函數積分法，求 $\\int \\sin^2(5x) dx$。",
+      "options": [
+        "$\\frac{x}{2} + \\frac{\\sin(10x)}{20} + C$",
+        "$\\frac{x}{2} - \\frac{\\sin(10x)}{20} + C$",
+        "$\\frac{\\sin^3(5x)}{3} + C$",
+        "$\\frac{\\cos^2(5x)}{2} + C$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "利用半角公式 $\\sin^2(5x) = \\frac{1 - \\cos(10x)}{2}$。故積分為 $\\frac{x}{2} - \\frac{\\sin(10x)}{20} + C$。\n\n---",
+      "chapter": "Ch7 7.2節：三角積分",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "求 $\\int \\sin^3(x) \\cos^{6}(x) dx$ 的結果。",
+      "options": [
+        "$\\frac{\\sin^4(x)}{4} + C$",
+        "$\\frac{\\cos^{7}(x)}{7} - \\frac{\\cos^{9}(x)}{9} + C$",
+        "$\\frac{\\cos^{9}(x)}{9} - \\frac{\\cos^{7}(x)}{7} + C$",
+        "$\\frac{\\cos^2(x)}{2} + C$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "令 $u=\\cos x, du=-\\sin x dx$。積分為 $\\int (1 - u^2) u^{6} (-du) = \\int (u^{8} - u^{6}) du = \\frac{u^{9}}{9} - \\frac{u^{7}}{7} + C$。\n\n---",
+      "chapter": "Ch7 7.2節：三角積分",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "利用三角函數積分法，求 $\\int \\sin^2(7x) dx$。",
+      "options": [
+        "$\\frac{x}{2} - \\frac{\\sin(14x)}{28} + C$",
+        "$\\frac{x}{2} + \\frac{\\sin(14x)}{28} + C$",
+        "$\\frac{\\sin^3(7x)}{3} + C$",
+        "$\\frac{\\cos^2(7x)}{2} + C$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "利用半角公式 $\\sin^2(7x) = \\frac{1 - \\cos(14x)}{2}$。故積分為 $\\frac{x}{2} - \\frac{\\sin(14x)}{28} + C$。\n\n---",
+      "chapter": "Ch7 7.2節：三角積分",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "求 $\\int \\sin^3(x) \\cos^{8}(x) dx$ 的結果。",
+      "options": [
+        "$\\frac{\\cos^2(x)}{2} + C$",
+        "$\\frac{\\cos^{9}(x)}{9} - \\frac{\\cos^{11}(x)}{11} + C$",
+        "$\\frac{\\sin^4(x)}{4} + C$",
+        "$\\frac{\\cos^{11}(x)}{11} - \\frac{\\cos^{9}(x)}{9} + C$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "令 $u=\\cos x, du=-\\sin x dx$。積分為 $\\int (1 - u^2) u^{8} (-du) = \\int (u^{10} - u^{8}) du = \\frac{u^{11}}{11} - \\frac{u^{9}}{9} + C$。\n\n---",
+      "chapter": "Ch7 7.2節：三角積分",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "利用三角函數積分法，求 $\\int \\sin^2(9x) dx$。",
+      "options": [
+        "$\\frac{x}{2} + \\frac{\\sin(18x)}{36} + C$",
+        "$\\frac{x}{2} - \\frac{\\sin(18x)}{36} + C$",
+        "$\\frac{\\sin^3(9x)}{3} + C$",
+        "$\\frac{\\cos^2(9x)}{2} + C$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "利用半角公式 $\\sin^2(9x) = \\frac{1 - \\cos(18x)}{2}$。故積分為 $\\frac{x}{2} - \\frac{\\sin(18x)}{36} + C$。\n\n---",
+      "chapter": "Ch7 7.2節：三角積分",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "求 $\\int \\sin^3(x) \\cos^{10}(x) dx$ 的結果。",
+      "options": [
+        "$\\frac{\\sin^4(x)}{4} + C$",
+        "$\\frac{\\cos^{11}(x)}{11} - \\frac{\\cos^{13}(x)}{13} + C$",
+        "$\\frac{\\cos^{13}(x)}{13} - \\frac{\\cos^{11}(x)}{11} + C$",
+        "$\\frac{\\cos^2(x)}{2} + C$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "令 $u=\\cos x, du=-\\sin x dx$。積分為 $\\int (1 - u^2) u^{10} (-du) = \\int (u^{12} - u^{10}) du = \\frac{u^{13}}{13} - \\frac{u^{11}}{11} + C$。\n\n---",
+      "chapter": "Ch7 7.2節：三角積分",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "利用三角函數積分法，求 $\\int \\sin^2(11x) dx$。",
+      "options": [
+        "$\\frac{x}{2} - \\frac{\\sin(22x)}{44} + C$",
+        "$\\frac{x}{2} + \\frac{\\sin(22x)}{44} + C$",
+        "$\\frac{\\sin^3(11x)}{3} + C$",
+        "$\\frac{\\cos^2(11x)}{2} + C$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "利用半角公式 $\\sin^2(11x) = \\frac{1 - \\cos(22x)}{2}$。故積分為 $\\frac{x}{2} - \\frac{\\sin(22x)}{44} + C$。\n\n---",
+      "chapter": "Ch7 7.2節：三角積分",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "求 $\\int \\sin^3(x) \\cos^{12}(x) dx$ 的結果。",
+      "options": [
+        "$\\frac{\\cos^2(x)}{2} + C$",
+        "$\\frac{\\cos^{13}(x)}{13} - \\frac{\\cos^{15}(x)}{15} + C$",
+        "$\\frac{\\sin^4(x)}{4} + C$",
+        "$\\frac{\\cos^{15}(x)}{15} - \\frac{\\cos^{13}(x)}{13} + C$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "令 $u=\\cos x, du=-\\sin x dx$。積分為 $\\int (1 - u^2) u^{12} (-du) = \\int (u^{14} - u^{12}) du = \\frac{u^{15}}{15} - \\frac{u^{13}}{13} + C$。\n\n---",
+      "chapter": "Ch7 7.2節：三角積分",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "利用三角函數積分法，求 $\\int \\sin^2(13x) dx$。",
+      "options": [
+        "$\\frac{x}{2} + \\frac{\\sin(26x)}{52} + C$",
+        "$\\frac{x}{2} - \\frac{\\sin(26x)}{52} + C$",
+        "$\\frac{\\sin^3(13x)}{3} + C$",
+        "$\\frac{\\cos^2(13x)}{2} + C$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "利用半角公式 $\\sin^2(13x) = \\frac{1 - \\cos(26x)}{2}$。故積分為 $\\frac{x}{2} - \\frac{\\sin(26x)}{52} + C$。\n\n---",
+      "chapter": "Ch7 7.2節：三角積分",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "求 $\\int \\sin^3(x) \\cos^{14}(x) dx$ 的結果。",
+      "options": [
+        "$\\frac{\\sin^4(x)}{4} + C$",
+        "$\\frac{\\cos^{15}(x)}{15} - \\frac{\\cos^{17}(x)}{17} + C$",
+        "$\\frac{\\cos^{17}(x)}{17} - \\frac{\\cos^{15}(x)}{15} + C$",
+        "$\\frac{\\cos^2(x)}{2} + C$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "令 $u=\\cos x, du=-\\sin x dx$。積分為 $\\int (1 - u^2) u^{14} (-du) = \\int (u^{16} - u^{14}) du = \\frac{u^{17}}{17} - \\frac{u^{15}}{15} + C$。\n\n---",
+      "chapter": "Ch7 7.2節：三角積分",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "利用三角函數積分法，求 $\\int \\sin^2(15x) dx$。",
+      "options": [
+        "$\\frac{x}{2} - \\frac{\\sin(30x)}{60} + C$",
+        "$\\frac{x}{2} + \\frac{\\sin(30x)}{60} + C$",
+        "$\\frac{\\sin^3(15x)}{3} + C$",
+        "$\\frac{\\cos^2(15x)}{2} + C$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "利用半角公式 $\\sin^2(15x) = \\frac{1 - \\cos(30x)}{2}$。故積分為 $\\frac{x}{2} - \\frac{\\sin(30x)}{60} + C$。\n\n---",
+      "chapter": "Ch7 7.2節：三角積分",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "求 $\\int \\sin^3(x) \\cos^{16}(x) dx$ 的結果。",
+      "options": [
+        "$\\frac{\\cos^2(x)}{2} + C$",
+        "$\\frac{\\cos^{17}(x)}{17} - \\frac{\\cos^{19}(x)}{19} + C$",
+        "$\\frac{\\sin^4(x)}{4} + C$",
+        "$\\frac{\\cos^{19}(x)}{19} - \\frac{\\cos^{17}(x)}{17} + C$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "令 $u=\\cos x, du=-\\sin x dx$。積分為 $\\int (1 - u^2) u^{16} (-du) = \\int (u^{18} - u^{16}) du = \\frac{u^{19}}{19} - \\frac{u^{17}}{17} + C$。\n\n---",
+      "chapter": "Ch7 7.2節：三角積分",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "利用三角函數積分法，求 $\\int \\sin^2(17x) dx$。",
+      "options": [
+        "$\\frac{x}{2} + \\frac{\\sin(34x)}{68} + C$",
+        "$\\frac{x}{2} - \\frac{\\sin(34x)}{68} + C$",
+        "$\\frac{\\sin^3(17x)}{3} + C$",
+        "$\\frac{\\cos^2(17x)}{2} + C$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "利用半角公式 $\\sin^2(17x) = \\frac{1 - \\cos(34x)}{2}$。故積分為 $\\frac{x}{2} - \\frac{\\sin(34x)}{68} + C$。\n\n---",
+      "chapter": "Ch7 7.2節：三角積分",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "求 $\\int \\sin^3(x) \\cos^{18}(x) dx$ 的結果。",
+      "options": [
+        "$\\frac{\\sin^4(x)}{4} + C$",
+        "$\\frac{\\cos^{19}(x)}{19} - \\frac{\\cos^{21}(x)}{21} + C$",
+        "$\\frac{\\cos^{21}(x)}{21} - \\frac{\\cos^{19}(x)}{19} + C$",
+        "$\\frac{\\cos^2(x)}{2} + C$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "令 $u=\\cos x, du=-\\sin x dx$。積分為 $\\int (1 - u^2) u^{18} (-du) = \\int (u^{20} - u^{18}) du = \\frac{u^{21}}{21} - \\frac{u^{19}}{19} + C$。\n\n---",
+      "chapter": "Ch7 7.2節：三角積分",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "利用三角函數積分法，求 $\\int \\sin^2(19x) dx$。",
+      "options": [
+        "$\\frac{x}{2} - \\frac{\\sin(38x)}{76} + C$",
+        "$\\frac{x}{2} + \\frac{\\sin(38x)}{76} + C$",
+        "$\\frac{\\sin^3(19x)}{3} + C$",
+        "$\\frac{\\cos^2(19x)}{2} + C$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "利用半角公式 $\\sin^2(19x) = \\frac{1 - \\cos(38x)}{2}$。故積分為 $\\frac{x}{2} - \\frac{\\sin(38x)}{76} + C$。\n\n---",
+      "chapter": "Ch7 7.2節：三角積分",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "求 $\\int \\sin^3(x) \\cos^{20}(x) dx$ 的結果。",
+      "options": [
+        "$\\frac{\\cos^2(x)}{2} + C$",
+        "$\\frac{\\cos^{21}(x)}{21} - \\frac{\\cos^{23}(x)}{23} + C$",
+        "$\\frac{\\sin^4(x)}{4} + C$",
+        "$\\frac{\\cos^{23}(x)}{23} - \\frac{\\cos^{21}(x)}{21} + C$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "令 $u=\\cos x, du=-\\sin x dx$。積分為 $\\int (1 - u^2) u^{20} (-du) = \\int (u^{22} - u^{20}) du = \\frac{u^{23}}{23} - \\frac{u^{21}}{21} + C$。\n\n---",
+      "chapter": "Ch7 7.2節：三角積分",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "利用三角函數積分法，求 $\\int \\sin^2(21x) dx$。",
+      "options": [
+        "$\\frac{x}{2} + \\frac{\\sin(42x)}{84} + C$",
+        "$\\frac{x}{2} - \\frac{\\sin(42x)}{84} + C$",
+        "$\\frac{\\sin^3(21x)}{3} + C$",
+        "$\\frac{\\cos^2(21x)}{2} + C$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "利用半角公式 $\\sin^2(21x) = \\frac{1 - \\cos(42x)}{2}$。故積分為 $\\frac{x}{2} - \\frac{\\sin(42x)}{84} + C$。\n\n---",
+      "chapter": "Ch7 7.2節：三角積分",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "求 $\\int_0^\\pi 3 \\sin^2 x dx$ 的定積分之精確值（以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "1.5",
+      "type": "fill",
+      "solution": "積分為 $\\int_0^\\pi \\frac{3}{2}(1 - \\cos 2x) dx = [\\frac{3}{2}x - \\frac{3}{4}\\sin 2x]_0^\\pi = \\frac{3\\pi}{2}$。結果為 1.5。\n\n---",
+      "chapter": "Ch7 7.2節：三角積分",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "求 $\\int_0^\\pi 4 \\sin^2 x dx$ 的定積分之精確值（以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "2.0",
+      "type": "fill",
+      "solution": "積分為 $\\int_0^\\pi \\frac{4}{2}(1 - \\cos 2x) dx = [\\frac{4}{2}x - \\frac{4}{4}\\sin 2x]_0^\\pi = \\frac{4\\pi}{2}$。結果為 2.0。\n\n---",
+      "chapter": "Ch7 7.2節：三角積分",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "求 $\\int_0^\\pi 5 \\sin^2 x dx$ 的定積分之精確值（以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "2.5",
+      "type": "fill",
+      "solution": "積分為 $\\int_0^\\pi \\frac{5}{2}(1 - \\cos 2x) dx = [\\frac{5}{2}x - \\frac{5}{4}\\sin 2x]_0^\\pi = \\frac{5\\pi}{2}$。結果為 2.5。\n\n---",
+      "chapter": "Ch7 7.2節：三角積分",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "求 $\\int_0^\\pi 6 \\sin^2 x dx$ 的定積分之精確值（以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "3.0",
+      "type": "fill",
+      "solution": "積分為 $\\int_0^\\pi \\frac{6}{2}(1 - \\cos 2x) dx = [\\frac{6}{2}x - \\frac{6}{4}\\sin 2x]_0^\\pi = \\frac{6\\pi}{2}$。結果為 3.0。\n\n---",
+      "chapter": "Ch7 7.2節：三角積分",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "求 $\\int_0^\\pi 7 \\sin^2 x dx$ 的定積分之精確值（以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "3.5",
+      "type": "fill",
+      "solution": "積分為 $\\int_0^\\pi \\frac{7}{2}(1 - \\cos 2x) dx = [\\frac{7}{2}x - \\frac{7}{4}\\sin 2x]_0^\\pi = \\frac{7\\pi}{2}$。結果為 3.5。\n\n---",
+      "chapter": "Ch7 7.2節：三角積分",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "求 $\\int_0^\\pi 8 \\sin^2 x dx$ 的定積分之精確值（以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "4.0",
+      "type": "fill",
+      "solution": "積分為 $\\int_0^\\pi \\frac{8}{2}(1 - \\cos 2x) dx = [\\frac{8}{2}x - \\frac{8}{4}\\sin 2x]_0^\\pi = \\frac{8\\pi}{2}$。結果為 4.0。\n\n---",
+      "chapter": "Ch7 7.2節：三角積分",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "求 $\\int_0^\\pi 9 \\sin^2 x dx$ 的定積分之精確值（以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "4.5",
+      "type": "fill",
+      "solution": "積分為 $\\int_0^\\pi \\frac{9}{2}(1 - \\cos 2x) dx = [\\frac{9}{2}x - \\frac{9}{4}\\sin 2x]_0^\\pi = \\frac{9\\pi}{2}$。結果為 4.5。\n\n---",
+      "chapter": "Ch7 7.2節：三角積分",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "求 $\\int_0^\\pi 10 \\sin^2 x dx$ 的定積分之精確值（以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "5.0",
+      "type": "fill",
+      "solution": "積分為 $\\int_0^\\pi \\frac{10}{2}(1 - \\cos 2x) dx = [\\frac{10}{2}x - \\frac{10}{4}\\sin 2x]_0^\\pi = \\frac{10\\pi}{2}$。結果為 5.0。\n\n---",
+      "chapter": "Ch7 7.2節：三角積分",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "求 $\\int_0^\\pi 11 \\sin^2 x dx$ 的定積分之精確值（以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "5.5",
+      "type": "fill",
+      "solution": "積分為 $\\int_0^\\pi \\frac{11}{2}(1 - \\cos 2x) dx = [\\frac{11}{2}x - \\frac{11}{4}\\sin 2x]_0^\\pi = \\frac{11\\pi}{2}$。結果為 5.5。\n\n---",
+      "chapter": "Ch7 7.2節：三角積分",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "求 $\\int_0^\\pi 12 \\sin^2 x dx$ 的定積分之精確值（以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "6.0",
+      "type": "fill",
+      "solution": "積分為 $\\int_0^\\pi \\frac{12}{2}(1 - \\cos 2x) dx = [\\frac{12}{2}x - \\frac{12}{4}\\sin 2x]_0^\\pi = \\frac{12\\pi}{2}$。結果為 6.0。",
+      "chapter": "Ch7 7.2節：三角積分",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "利用三角代換法，對於 $\\int \\frac{1}{x^2 \\sqrt{x^2 + 4}} dx$，應該進行何種代換？",
+      "options": [
+        "$x = 2\\sin\\theta$",
+        "$x = 2\\tan\\theta$",
+        "$x = 2\\sec\\theta$",
+        "$x = 2\\cos\\theta$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "根據恆等式 $1 + \\tan^2\\theta = \\sec^2\\theta$，遇到 $x^2 + a^2$ 的根號形式應令 $x = a\\tan\\theta$。\n\n---",
+      "chapter": "Ch7 7.3節：三角代換法",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "利用三角代換法，計算 $\\int \\frac{1}{\\sqrt{9 - x^2}} dx$ 的最一般不定積分。",
+      "options": [
+        "$\\frac{1}{3}\\sin^{-1}\\left(\\frac{x}{3}\\right) + C$",
+        "$\\tan^{-1}\\left(\\frac{x}{3}\\right) + C$",
+        "$\\sin^{-1}\\left(\\frac{x}{3}\\right) + C$",
+        "$\\sin^{-1}(x) + C$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "令 $x = 3\\sin\\theta \\implies dx = 3\\cos\\theta d\\theta$。積分為 $\\int \\frac{3\\cos\\theta}{3\\cos\\theta} d\\theta = \\int d\\theta = \\theta + C = \\sin^{-1}\\left(\\frac{x}{3}\\right) + C$。\n\n---",
+      "chapter": "Ch7 7.3節：三角代換法",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "利用三角代換法，對於 $\\int \\frac{1}{x^2 \\sqrt{x^2 + 16}} dx$，應該進行何種代換？",
+      "options": [
+        "$x = 4\\cos\\theta$",
+        "$x = 4\\sin\\theta$",
+        "$x = 4\\sec\\theta$",
+        "$x = 4\\tan\\theta$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據恆等式 $1 + \\tan^2\\theta = \\sec^2\\theta$，遇到 $x^2 + a^2$ 的根號形式應令 $x = a\\tan\\theta$。\n\n---",
+      "chapter": "Ch7 7.3節：三角代換法",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "利用三角代換法，計算 $\\int \\frac{1}{\\sqrt{25 - x^2}} dx$ 的最一般不定積分。",
+      "options": [
+        "$\\sin^{-1}\\left(\\frac{x}{5}\\right) + C$",
+        "$\\tan^{-1}\\left(\\frac{x}{5}\\right) + C$",
+        "$\\frac{1}{5}\\sin^{-1}\\left(\\frac{x}{5}\\right) + C$",
+        "$\\sin^{-1}(x) + C$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "令 $x = 5\\sin\\theta \\implies dx = 5\\cos\\theta d\\theta$。積分為 $\\int \\frac{5\\cos\\theta}{5\\cos\\theta} d\\theta = \\int d\\theta = \\theta + C = \\sin^{-1}\\left(\\frac{x}{5}\\right) + C$。\n\n---",
+      "chapter": "Ch7 7.3節：三角代換法",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "利用三角代換法，對於 $\\int \\frac{1}{x^2 \\sqrt{x^2 + 36}} dx$，應該進行何種代換？",
+      "options": [
+        "$x = 6\\sin\\theta$",
+        "$x = 6\\tan\\theta$",
+        "$x = 6\\sec\\theta$",
+        "$x = 6\\cos\\theta$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "根據恆等式 $1 + \\tan^2\\theta = \\sec^2\\theta$，遇到 $x^2 + a^2$ 的根號形式應令 $x = a\\tan\\theta$。\n\n---",
+      "chapter": "Ch7 7.3節：三角代換法",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "利用三角代換法，計算 $\\int \\frac{1}{\\sqrt{49 - x^2}} dx$ 的最一般不定積分。",
+      "options": [
+        "$\\frac{1}{7}\\sin^{-1}\\left(\\frac{x}{7}\\right) + C$",
+        "$\\tan^{-1}\\left(\\frac{x}{7}\\right) + C$",
+        "$\\sin^{-1}\\left(\\frac{x}{7}\\right) + C$",
+        "$\\sin^{-1}(x) + C$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "令 $x = 7\\sin\\theta \\implies dx = 7\\cos\\theta d\\theta$。積分為 $\\int \\frac{7\\cos\\theta}{7\\cos\\theta} d\\theta = \\int d\\theta = \\theta + C = \\sin^{-1}\\left(\\frac{x}{7}\\right) + C$。\n\n---",
+      "chapter": "Ch7 7.3節：三角代換法",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "利用三角代換法，對於 $\\int \\frac{1}{x^2 \\sqrt{x^2 + 64}} dx$，應該進行何種代換？",
+      "options": [
+        "$x = 8\\cos\\theta$",
+        "$x = 8\\sin\\theta$",
+        "$x = 8\\sec\\theta$",
+        "$x = 8\\tan\\theta$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據恆等式 $1 + \\tan^2\\theta = \\sec^2\\theta$，遇到 $x^2 + a^2$ 的根號形式應令 $x = a\\tan\\theta$。\n\n---",
+      "chapter": "Ch7 7.3節：三角代換法",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "利用三角代換法，計算 $\\int \\frac{1}{\\sqrt{81 - x^2}} dx$ 的最一般不定積分。",
+      "options": [
+        "$\\sin^{-1}\\left(\\frac{x}{9}\\right) + C$",
+        "$\\tan^{-1}\\left(\\frac{x}{9}\\right) + C$",
+        "$\\frac{1}{9}\\sin^{-1}\\left(\\frac{x}{9}\\right) + C$",
+        "$\\sin^{-1}(x) + C$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "令 $x = 9\\sin\\theta \\implies dx = 9\\cos\\theta d\\theta$。積分為 $\\int \\frac{9\\cos\\theta}{9\\cos\\theta} d\\theta = \\int d\\theta = \\theta + C = \\sin^{-1}\\left(\\frac{x}{9}\\right) + C$。\n\n---",
+      "chapter": "Ch7 7.3節：三角代換法",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "利用三角代換法，對於 $\\int \\frac{1}{x^2 \\sqrt{x^2 + 100}} dx$，應該進行何種代換？",
+      "options": [
+        "$x = 10\\sin\\theta$",
+        "$x = 10\\tan\\theta$",
+        "$x = 10\\sec\\theta$",
+        "$x = 10\\cos\\theta$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "根據恆等式 $1 + \\tan^2\\theta = \\sec^2\\theta$，遇到 $x^2 + a^2$ 的根號形式應令 $x = a\\tan\\theta$。\n\n---",
+      "chapter": "Ch7 7.3節：三角代換法",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "利用三角代換法，計算 $\\int \\frac{1}{\\sqrt{121 - x^2}} dx$ 的最一般不定積分。",
+      "options": [
+        "$\\frac{1}{11}\\sin^{-1}\\left(\\frac{x}{11}\\right) + C$",
+        "$\\tan^{-1}\\left(\\frac{x}{11}\\right) + C$",
+        "$\\sin^{-1}\\left(\\frac{x}{11}\\right) + C$",
+        "$\\sin^{-1}(x) + C$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "令 $x = 11\\sin\\theta \\implies dx = 11\\cos\\theta d\\theta$。積分為 $\\int \\frac{11\\cos\\theta}{11\\cos\\theta} d\\theta = \\int d\\theta = \\theta + C = \\sin^{-1}\\left(\\frac{x}{11}\\right) + C$。\n\n---",
+      "chapter": "Ch7 7.3節：三角代換法",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "利用三角代換法，對於 $\\int \\frac{1}{x^2 \\sqrt{x^2 + 144}} dx$，應該進行何種代換？",
+      "options": [
+        "$x = 12\\cos\\theta$",
+        "$x = 12\\sin\\theta$",
+        "$x = 12\\sec\\theta$",
+        "$x = 12\\tan\\theta$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據恆等式 $1 + \\tan^2\\theta = \\sec^2\\theta$，遇到 $x^2 + a^2$ 的根號形式應令 $x = a\\tan\\theta$。\n\n---",
+      "chapter": "Ch7 7.3節：三角代換法",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "利用三角代換法，計算 $\\int \\frac{1}{\\sqrt{169 - x^2}} dx$ 的最一般不定積分。",
+      "options": [
+        "$\\sin^{-1}\\left(\\frac{x}{13}\\right) + C$",
+        "$\\tan^{-1}\\left(\\frac{x}{13}\\right) + C$",
+        "$\\frac{1}{13}\\sin^{-1}\\left(\\frac{x}{13}\\right) + C$",
+        "$\\sin^{-1}(x) + C$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "令 $x = 13\\sin\\theta \\implies dx = 13\\cos\\theta d\\theta$。積分為 $\\int \\frac{13\\cos\\theta}{13\\cos\\theta} d\\theta = \\int d\\theta = \\theta + C = \\sin^{-1}\\left(\\frac{x}{13}\\right) + C$。\n\n---",
+      "chapter": "Ch7 7.3節：三角代換法",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "利用三角代換法，對於 $\\int \\frac{1}{x^2 \\sqrt{x^2 + 196}} dx$，應該進行何種代換？",
+      "options": [
+        "$x = 14\\sin\\theta$",
+        "$x = 14\\tan\\theta$",
+        "$x = 14\\sec\\theta$",
+        "$x = 14\\cos\\theta$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "根據恆等式 $1 + \\tan^2\\theta = \\sec^2\\theta$，遇到 $x^2 + a^2$ 的根號形式應令 $x = a\\tan\\theta$。\n\n---",
+      "chapter": "Ch7 7.3節：三角代換法",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "利用三角代換法，計算 $\\int \\frac{1}{\\sqrt{225 - x^2}} dx$ 的最一般不定積分。",
+      "options": [
+        "$\\frac{1}{15}\\sin^{-1}\\left(\\frac{x}{15}\\right) + C$",
+        "$\\tan^{-1}\\left(\\frac{x}{15}\\right) + C$",
+        "$\\sin^{-1}\\left(\\frac{x}{15}\\right) + C$",
+        "$\\sin^{-1}(x) + C$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "令 $x = 15\\sin\\theta \\implies dx = 15\\cos\\theta d\\theta$。積分為 $\\int \\frac{15\\cos\\theta}{15\\cos\\theta} d\\theta = \\int d\\theta = \\theta + C = \\sin^{-1}\\left(\\frac{x}{15}\\right) + C$。\n\n---",
+      "chapter": "Ch7 7.3節：三角代換法",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "利用三角代換法，對於 $\\int \\frac{1}{x^2 \\sqrt{x^2 + 256}} dx$，應該進行何種代換？",
+      "options": [
+        "$x = 16\\cos\\theta$",
+        "$x = 16\\sin\\theta$",
+        "$x = 16\\sec\\theta$",
+        "$x = 16\\tan\\theta$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據恆等式 $1 + \\tan^2\\theta = \\sec^2\\theta$，遇到 $x^2 + a^2$ 的根號形式應令 $x = a\\tan\\theta$。\n\n---",
+      "chapter": "Ch7 7.3節：三角代換法",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "利用三角代換法，計算 $\\int \\frac{1}{\\sqrt{289 - x^2}} dx$ 的最一般不定積分。",
+      "options": [
+        "$\\sin^{-1}\\left(\\frac{x}{17}\\right) + C$",
+        "$\\tan^{-1}\\left(\\frac{x}{17}\\right) + C$",
+        "$\\frac{1}{17}\\sin^{-1}\\left(\\frac{x}{17}\\right) + C$",
+        "$\\sin^{-1}(x) + C$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "令 $x = 17\\sin\\theta \\implies dx = 17\\cos\\theta d\\theta$。積分為 $\\int \\frac{17\\cos\\theta}{17\\cos\\theta} d\\theta = \\int d\\theta = \\theta + C = \\sin^{-1}\\left(\\frac{x}{17}\\right) + C$。\n\n---",
+      "chapter": "Ch7 7.3節：三角代換法",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "利用三角代換法，對於 $\\int \\frac{1}{x^2 \\sqrt{x^2 + 324}} dx$，應該進行何種代換？",
+      "options": [
+        "$x = 18\\sin\\theta$",
+        "$x = 18\\tan\\theta$",
+        "$x = 18\\sec\\theta$",
+        "$x = 18\\cos\\theta$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "根據恆等式 $1 + \\tan^2\\theta = \\sec^2\\theta$，遇到 $x^2 + a^2$ 的根號形式應令 $x = a\\tan\\theta$。\n\n---",
+      "chapter": "Ch7 7.3節：三角代換法",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "利用三角代換法，計算 $\\int \\frac{1}{\\sqrt{361 - x^2}} dx$ 的最一般不定積分。",
+      "options": [
+        "$\\frac{1}{19}\\sin^{-1}\\left(\\frac{x}{19}\\right) + C$",
+        "$\\tan^{-1}\\left(\\frac{x}{19}\\right) + C$",
+        "$\\sin^{-1}\\left(\\frac{x}{19}\\right) + C$",
+        "$\\sin^{-1}(x) + C$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "令 $x = 19\\sin\\theta \\implies dx = 19\\cos\\theta d\\theta$。積分為 $\\int \\frac{19\\cos\\theta}{19\\cos\\theta} d\\theta = \\int d\\theta = \\theta + C = \\sin^{-1}\\left(\\frac{x}{19}\\right) + C$。\n\n---",
+      "chapter": "Ch7 7.3節：三角代換法",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "利用三角代換法，對於 $\\int \\frac{1}{x^2 \\sqrt{x^2 + 400}} dx$，應該進行何種代換？",
+      "options": [
+        "$x = 20\\cos\\theta$",
+        "$x = 20\\sin\\theta$",
+        "$x = 20\\sec\\theta$",
+        "$x = 20\\tan\\theta$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據恆等式 $1 + \\tan^2\\theta = \\sec^2\\theta$，遇到 $x^2 + a^2$ 的根號形式應令 $x = a\\tan\\theta$。\n\n---",
+      "chapter": "Ch7 7.3節：三角代換法",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "利用三角代換法，計算 $\\int \\frac{1}{\\sqrt{441 - x^2}} dx$ 的最一般不定積分。",
+      "options": [
+        "$\\sin^{-1}\\left(\\frac{x}{21}\\right) + C$",
+        "$\\tan^{-1}\\left(\\frac{x}{21}\\right) + C$",
+        "$\\frac{1}{21}\\sin^{-1}\\left(\\frac{x}{21}\\right) + C$",
+        "$\\sin^{-1}(x) + C$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "令 $x = 21\\sin\\theta \\implies dx = 21\\cos\\theta d\\theta$。積分為 $\\int \\frac{21\\cos\\theta}{21\\cos\\theta} d\\theta = \\int d\\theta = \\theta + C = \\sin^{-1}\\left(\\frac{x}{21}\\right) + C$。\n\n---",
+      "chapter": "Ch7 7.3節：三角代換法",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "利用三角代換法，求 $\\int_0^3 \\frac{1}{\\sqrt{9 - x^2}} dx$ 的定積分之精確值（以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "0.5",
+      "type": "fill",
+      "solution": "利用代換 $x = 3\\sin\\theta$，定積分為 $[\\sin^{-1}(\\frac{x}{3})]_0^3 = \\sin^{-1}(1) - \\sin^{-1}(0) = \\frac{\\pi}{2} = 0.5\\pi$。\n\n---",
+      "chapter": "Ch7 7.3節：三角代換法",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "利用三角代換法，求 $\\int_0^4 \\frac{1}{\\sqrt{16 - x^2}} dx$ 的定積分之精確值（以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "0.5",
+      "type": "fill",
+      "solution": "利用代換 $x = 4\\sin\\theta$，定積分為 $[\\sin^{-1}(\\frac{x}{4})]_0^4 = \\sin^{-1}(1) - \\sin^{-1}(0) = \\frac{\\pi}{2} = 0.5\\pi$。\n\n---",
+      "chapter": "Ch7 7.3節：三角代換法",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "利用三角代換法，求 $\\int_0^5 \\frac{1}{\\sqrt{25 - x^2}} dx$ 的定積分之精確值（以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "0.5",
+      "type": "fill",
+      "solution": "利用代換 $x = 5\\sin\\theta$，定積分為 $[\\sin^{-1}(\\frac{x}{5})]_0^5 = \\sin^{-1}(1) - \\sin^{-1}(0) = \\frac{\\pi}{2} = 0.5\\pi$。\n\n---",
+      "chapter": "Ch7 7.3節：三角代換法",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "利用三角代換法，求 $\\int_0^6 \\frac{1}{\\sqrt{36 - x^2}} dx$ 的定積分之精確值（以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "0.5",
+      "type": "fill",
+      "solution": "利用代換 $x = 6\\sin\\theta$，定積分為 $[\\sin^{-1}(\\frac{x}{6})]_0^6 = \\sin^{-1}(1) - \\sin^{-1}(0) = \\frac{\\pi}{2} = 0.5\\pi$。\n\n---",
+      "chapter": "Ch7 7.3節：三角代換法",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "利用三角代換法，求 $\\int_0^7 \\frac{1}{\\sqrt{49 - x^2}} dx$ 的定積分之精確值（以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "0.5",
+      "type": "fill",
+      "solution": "利用代換 $x = 7\\sin\\theta$，定積分為 $[\\sin^{-1}(\\frac{x}{7})]_0^7 = \\sin^{-1}(1) - \\sin^{-1}(0) = \\frac{\\pi}{2} = 0.5\\pi$。\n\n---",
+      "chapter": "Ch7 7.3節：三角代換法",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "利用三角代換法，求 $\\int_0^8 \\frac{1}{\\sqrt{64 - x^2}} dx$ 的定積分之精確值（以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "0.5",
+      "type": "fill",
+      "solution": "利用代換 $x = 8\\sin\\theta$，定積分為 $[\\sin^{-1}(\\frac{x}{8})]_0^8 = \\sin^{-1}(1) - \\sin^{-1}(0) = \\frac{\\pi}{2} = 0.5\\pi$。\n\n---",
+      "chapter": "Ch7 7.3節：三角代換法",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "利用三角代換法，求 $\\int_0^9 \\frac{1}{\\sqrt{81 - x^2}} dx$ 的定積分之精確值（以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "0.5",
+      "type": "fill",
+      "solution": "利用代換 $x = 9\\sin\\theta$，定積分為 $[\\sin^{-1}(\\frac{x}{9})]_0^9 = \\sin^{-1}(1) - \\sin^{-1}(0) = \\frac{\\pi}{2} = 0.5\\pi$。\n\n---",
+      "chapter": "Ch7 7.3節：三角代換法",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "利用三角代換法，求 $\\int_0^10 \\frac{1}{\\sqrt{100 - x^2}} dx$ 的定積分之精確值（以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "0.5",
+      "type": "fill",
+      "solution": "利用代換 $x = 10\\sin\\theta$，定積分為 $[\\sin^{-1}(\\frac{x}{10})]_0^10 = \\sin^{-1}(1) - \\sin^{-1}(0) = \\frac{\\pi}{2} = 0.5\\pi$。\n\n---",
+      "chapter": "Ch7 7.3節：三角代換法",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "利用三角代換法，求 $\\int_0^11 \\frac{1}{\\sqrt{121 - x^2}} dx$ 的定積分之精確值（以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "0.5",
+      "type": "fill",
+      "solution": "利用代換 $x = 11\\sin\\theta$，定積分為 $[\\sin^{-1}(\\frac{x}{11})]_0^11 = \\sin^{-1}(1) - \\sin^{-1}(0) = \\frac{\\pi}{2} = 0.5\\pi$。\n\n---",
+      "chapter": "Ch7 7.3節：三角代換法",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "利用三角代換法，求 $\\int_0^12 \\frac{1}{\\sqrt{144 - x^2}} dx$ 的定積分之精確值（以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "0.5",
+      "type": "fill",
+      "solution": "利用代換 $x = 12\\sin\\theta$，定積分為 $[\\sin^{-1}(\\frac{x}{12})]_0^12 = \\sin^{-1}(1) - \\sin^{-1}(0) = \\frac{\\pi}{2} = 0.5\\pi$。",
+      "chapter": "Ch7 7.3節：三角代換法",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "求 $\\int \\frac{2x + 2}{x^2 + 2x} dx$ 的最一般不定積分。",
+      "options": [
+        "$2\\ln|x| + C$",
+        "$\\frac{1}{2}\\ln|x^2 + 2x| + C$",
+        "$\\ln|x^2 + 2x| + C$",
+        "$\\ln|x + 2| + C$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "令 $u = x^2 + 2x \\implies du = (2x + 2)dx$。故積分為 $\\int \\frac{1}{u} du = \\ln|u| + C = \\ln|x^2 + 2x| + C$。\n\n---",
+      "chapter": "Ch7 7.4節：部分分式法求有理函數積分",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "利用部分分式法（Partial Fractions），求 $\\int \\frac{1}{x(x + 3)} dx$ 的最一般不定積分。",
+      "options": [
+        "$\\frac{1}{3}(\\ln|x| - \\ln|x + 3|) + C$",
+        "$\\ln|x| - \\ln|x + 3| + C$",
+        "$\\frac{1}{3}(\\ln|x| + \\ln|x + 3|) + C$",
+        "$\\ln|\\frac{x + 3}{x}| + C$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "展開為：$\\frac{1}{x(x + 3)} = \\frac{1}{3x} - \\frac{1}{3(x + 3)}$。故積分為 $\\frac{1}{3}\\ln|x| - \\frac{1}{3}\\ln|x + 3| + C$。\n\n---",
+      "chapter": "Ch7 7.4節：部分分式法求有理函數積分",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "求 $\\int \\frac{2x + 4}{x^2 + 4x} dx$ 的最一般不定積分。",
+      "options": [
+        "$\\ln|x + 4| + C$",
+        "$\\frac{1}{4}\\ln|x^2 + 4x| + C$",
+        "$2\\ln|x| + C$",
+        "$\\ln|x^2 + 4x| + C$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "令 $u = x^2 + 4x \\implies du = (2x + 4)dx$。故積分為 $\\int \\frac{1}{u} du = \\ln|u| + C = \\ln|x^2 + 4x| + C$。\n\n---",
+      "chapter": "Ch7 7.4節：部分分式法求有理函數積分",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "利用部分分式法（Partial Fractions），求 $\\int \\frac{1}{x(x + 5)} dx$ 的最一般不定積分。",
+      "options": [
+        "$\\ln|x| - \\ln|x + 5| + C$",
+        "$\\frac{1}{5}(\\ln|x| - \\ln|x + 5|) + C$",
+        "$\\frac{1}{5}(\\ln|x| + \\ln|x + 5|) + C$",
+        "$\\ln|\\frac{x + 5}{x}| + C$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "展開為：$\\frac{1}{x(x + 5)} = \\frac{1}{5x} - \\frac{1}{5(x + 5)}$。故積分為 $\\frac{1}{5}\\ln|x| - \\frac{1}{5}\\ln|x + 5| + C$。\n\n---",
+      "chapter": "Ch7 7.4節：部分分式法求有理函數積分",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "求 $\\int \\frac{2x + 6}{x^2 + 6x} dx$ 的最一般不定積分。",
+      "options": [
+        "$2\\ln|x| + C$",
+        "$\\frac{1}{6}\\ln|x^2 + 6x| + C$",
+        "$\\ln|x^2 + 6x| + C$",
+        "$\\ln|x + 6| + C$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "令 $u = x^2 + 6x \\implies du = (2x + 6)dx$。故積分為 $\\int \\frac{1}{u} du = \\ln|u| + C = \\ln|x^2 + 6x| + C$。\n\n---",
+      "chapter": "Ch7 7.4節：部分分式法求有理函數積分",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "利用部分分式法（Partial Fractions），求 $\\int \\frac{1}{x(x + 7)} dx$ 的最一般不定積分。",
+      "options": [
+        "$\\frac{1}{7}(\\ln|x| - \\ln|x + 7|) + C$",
+        "$\\ln|x| - \\ln|x + 7| + C$",
+        "$\\frac{1}{7}(\\ln|x| + \\ln|x + 7|) + C$",
+        "$\\ln|\\frac{x + 7}{x}| + C$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "展開為：$\\frac{1}{x(x + 7)} = \\frac{1}{7x} - \\frac{1}{7(x + 7)}$。故積分為 $\\frac{1}{7}\\ln|x| - \\frac{1}{7}\\ln|x + 7| + C$。\n\n---",
+      "chapter": "Ch7 7.4節：部分分式法求有理函數積分",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "求 $\\int \\frac{2x + 8}{x^2 + 8x} dx$ 的最一般不定積分。",
+      "options": [
+        "$\\ln|x + 8| + C$",
+        "$\\frac{1}{8}\\ln|x^2 + 8x| + C$",
+        "$2\\ln|x| + C$",
+        "$\\ln|x^2 + 8x| + C$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "令 $u = x^2 + 8x \\implies du = (2x + 8)dx$。故積分為 $\\int \\frac{1}{u} du = \\ln|u| + C = \\ln|x^2 + 8x| + C$。\n\n---",
+      "chapter": "Ch7 7.4節：部分分式法求有理函數積分",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "利用部分分式法（Partial Fractions），求 $\\int \\frac{1}{x(x + 9)} dx$ 的最一般不定積分。",
+      "options": [
+        "$\\ln|x| - \\ln|x + 9| + C$",
+        "$\\frac{1}{9}(\\ln|x| - \\ln|x + 9|) + C$",
+        "$\\frac{1}{9}(\\ln|x| + \\ln|x + 9|) + C$",
+        "$\\ln|\\frac{x + 9}{x}| + C$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "展開為：$\\frac{1}{x(x + 9)} = \\frac{1}{9x} - \\frac{1}{9(x + 9)}$。故積分為 $\\frac{1}{9}\\ln|x| - \\frac{1}{9}\\ln|x + 9| + C$。\n\n---",
+      "chapter": "Ch7 7.4節：部分分式法求有理函數積分",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "求 $\\int \\frac{2x + 10}{x^2 + 10x} dx$ 的最一般不定積分。",
+      "options": [
+        "$2\\ln|x| + C$",
+        "$\\frac{1}{10}\\ln|x^2 + 10x| + C$",
+        "$\\ln|x^2 + 10x| + C$",
+        "$\\ln|x + 10| + C$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "令 $u = x^2 + 10x \\implies du = (2x + 10)dx$。故積分為 $\\int \\frac{1}{u} du = \\ln|u| + C = \\ln|x^2 + 10x| + C$。\n\n---",
+      "chapter": "Ch7 7.4節：部分分式法求有理函數積分",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "利用部分分式法（Partial Fractions），求 $\\int \\frac{1}{x(x + 11)} dx$ 的最一般不定積分。",
+      "options": [
+        "$\\frac{1}{11}(\\ln|x| - \\ln|x + 11|) + C$",
+        "$\\ln|x| - \\ln|x + 11| + C$",
+        "$\\frac{1}{11}(\\ln|x| + \\ln|x + 11|) + C$",
+        "$\\ln|\\frac{x + 11}{x}| + C$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "展開為：$\\frac{1}{x(x + 11)} = \\frac{1}{11x} - \\frac{1}{11(x + 11)}$。故積分為 $\\frac{1}{11}\\ln|x| - \\frac{1}{11}\\ln|x + 11| + C$。\n\n---",
+      "chapter": "Ch7 7.4節：部分分式法求有理函數積分",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "求 $\\int \\frac{2x + 12}{x^2 + 12x} dx$ 的最一般不定積分。",
+      "options": [
+        "$\\ln|x + 12| + C$",
+        "$\\frac{1}{12}\\ln|x^2 + 12x| + C$",
+        "$2\\ln|x| + C$",
+        "$\\ln|x^2 + 12x| + C$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "令 $u = x^2 + 12x \\implies du = (2x + 12)dx$。故積分為 $\\int \\frac{1}{u} du = \\ln|u| + C = \\ln|x^2 + 12x| + C$。\n\n---",
+      "chapter": "Ch7 7.4節：部分分式法求有理函數積分",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "利用部分分式法（Partial Fractions），求 $\\int \\frac{1}{x(x + 13)} dx$ 的最一般不定積分。",
+      "options": [
+        "$\\ln|x| - \\ln|x + 13| + C$",
+        "$\\frac{1}{13}(\\ln|x| - \\ln|x + 13|) + C$",
+        "$\\frac{1}{13}(\\ln|x| + \\ln|x + 13|) + C$",
+        "$\\ln|\\frac{x + 13}{x}| + C$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "展開為：$\\frac{1}{x(x + 13)} = \\frac{1}{13x} - \\frac{1}{13(x + 13)}$。故積分為 $\\frac{1}{13}\\ln|x| - \\frac{1}{13}\\ln|x + 13| + C$。\n\n---",
+      "chapter": "Ch7 7.4節：部分分式法求有理函數積分",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "求 $\\int \\frac{2x + 14}{x^2 + 14x} dx$ 的最一般不定積分。",
+      "options": [
+        "$2\\ln|x| + C$",
+        "$\\frac{1}{14}\\ln|x^2 + 14x| + C$",
+        "$\\ln|x^2 + 14x| + C$",
+        "$\\ln|x + 14| + C$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "令 $u = x^2 + 14x \\implies du = (2x + 14)dx$。故積分為 $\\int \\frac{1}{u} du = \\ln|u| + C = \\ln|x^2 + 14x| + C$。\n\n---",
+      "chapter": "Ch7 7.4節：部分分式法求有理函數積分",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "利用部分分式法（Partial Fractions），求 $\\int \\frac{1}{x(x + 15)} dx$ 的最一般不定積分。",
+      "options": [
+        "$\\frac{1}{15}(\\ln|x| - \\ln|x + 15|) + C$",
+        "$\\ln|x| - \\ln|x + 15| + C$",
+        "$\\frac{1}{15}(\\ln|x| + \\ln|x + 15|) + C$",
+        "$\\ln|\\frac{x + 15}{x}| + C$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "展開為：$\\frac{1}{x(x + 15)} = \\frac{1}{15x} - \\frac{1}{15(x + 15)}$。故積分為 $\\frac{1}{15}\\ln|x| - \\frac{1}{15}\\ln|x + 15| + C$。\n\n---",
+      "chapter": "Ch7 7.4節：部分分式法求有理函數積分",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "求 $\\int \\frac{2x + 16}{x^2 + 16x} dx$ 的最一般不定積分。",
+      "options": [
+        "$\\ln|x + 16| + C$",
+        "$\\frac{1}{16}\\ln|x^2 + 16x| + C$",
+        "$2\\ln|x| + C$",
+        "$\\ln|x^2 + 16x| + C$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "令 $u = x^2 + 16x \\implies du = (2x + 16)dx$。故積分為 $\\int \\frac{1}{u} du = \\ln|u| + C = \\ln|x^2 + 16x| + C$。\n\n---",
+      "chapter": "Ch7 7.4節：部分分式法求有理函數積分",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "利用部分分式法（Partial Fractions），求 $\\int \\frac{1}{x(x + 17)} dx$ 的最一般不定積分。",
+      "options": [
+        "$\\ln|x| - \\ln|x + 17| + C$",
+        "$\\frac{1}{17}(\\ln|x| - \\ln|x + 17|) + C$",
+        "$\\frac{1}{17}(\\ln|x| + \\ln|x + 17|) + C$",
+        "$\\ln|\\frac{x + 17}{x}| + C$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "展開為：$\\frac{1}{x(x + 17)} = \\frac{1}{17x} - \\frac{1}{17(x + 17)}$。故積分為 $\\frac{1}{17}\\ln|x| - \\frac{1}{17}\\ln|x + 17| + C$。\n\n---",
+      "chapter": "Ch7 7.4節：部分分式法求有理函數積分",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "求 $\\int \\frac{2x + 18}{x^2 + 18x} dx$ 的最一般不定積分。",
+      "options": [
+        "$2\\ln|x| + C$",
+        "$\\frac{1}{18}\\ln|x^2 + 18x| + C$",
+        "$\\ln|x^2 + 18x| + C$",
+        "$\\ln|x + 18| + C$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "令 $u = x^2 + 18x \\implies du = (2x + 18)dx$。故積分為 $\\int \\frac{1}{u} du = \\ln|u| + C = \\ln|x^2 + 18x| + C$。\n\n---",
+      "chapter": "Ch7 7.4節：部分分式法求有理函數積分",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "利用部分分式法（Partial Fractions），求 $\\int \\frac{1}{x(x + 19)} dx$ 的最一般不定積分。",
+      "options": [
+        "$\\frac{1}{19}(\\ln|x| - \\ln|x + 19|) + C$",
+        "$\\ln|x| - \\ln|x + 19| + C$",
+        "$\\frac{1}{19}(\\ln|x| + \\ln|x + 19|) + C$",
+        "$\\ln|\\frac{x + 19}{x}| + C$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "展開為：$\\frac{1}{x(x + 19)} = \\frac{1}{19x} - \\frac{1}{19(x + 19)}$。故積分為 $\\frac{1}{19}\\ln|x| - \\frac{1}{19}\\ln|x + 19| + C$。\n\n---",
+      "chapter": "Ch7 7.4節：部分分式法求有理函數積分",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "求 $\\int \\frac{2x + 20}{x^2 + 20x} dx$ 的最一般不定積分。",
+      "options": [
+        "$\\ln|x + 20| + C$",
+        "$\\frac{1}{20}\\ln|x^2 + 20x| + C$",
+        "$2\\ln|x| + C$",
+        "$\\ln|x^2 + 20x| + C$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "令 $u = x^2 + 20x \\implies du = (2x + 20)dx$。故積分為 $\\int \\frac{1}{u} du = \\ln|u| + C = \\ln|x^2 + 20x| + C$。\n\n---",
+      "chapter": "Ch7 7.4節：部分分式法求有理函數積分",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "利用部分分式法（Partial Fractions），求 $\\int \\frac{1}{x(x + 21)} dx$ 的最一般不定積分。",
+      "options": [
+        "$\\ln|x| - \\ln|x + 21| + C$",
+        "$\\frac{1}{21}(\\ln|x| - \\ln|x + 21|) + C$",
+        "$\\frac{1}{21}(\\ln|x| + \\ln|x + 21|) + C$",
+        "$\\ln|\\frac{x + 21}{x}| + C$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "展開為：$\\frac{1}{x(x + 21)} = \\frac{1}{21x} - \\frac{1}{21(x + 21)}$。故積分為 $\\frac{1}{21}\\ln|x| - \\frac{1}{21}\\ln|x + 21| + C$。\n\n---",
+      "chapter": "Ch7 7.4節：部分分式法求有理函數積分",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "利用部分分式法將 $\\frac{1}{x^2 - 9}$ 拆解為 $\\frac{A}{x - 3} + \\frac{B}{x + 3}$，求 $A$ 之值。",
+      "options": [],
+      "answer": "0.167",
+      "type": "fill",
+      "solution": "設 $\\frac{1}{x^2 - 9} = \\frac{A}{x - 3} + \\frac{B}{x + 3} \\implies A(x + 3) + B(x - 3) = 1$。令 $x=3 \\implies 23A = 1 \\implies A = \\frac{1}{23}$。結果為 0.167。\n\n---",
+      "chapter": "Ch7 7.4節：部分分式法求有理函數積分",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "利用部分分式法將 $\\frac{1}{x^2 - 16}$ 拆解為 $\\frac{A}{x - 4} + \\frac{B}{x + 4}$，求 $A$ 之值。",
+      "options": [],
+      "answer": "0.125",
+      "type": "fill",
+      "solution": "設 $\\frac{1}{x^2 - 16} = \\frac{A}{x - 4} + \\frac{B}{x + 4} \\implies A(x + 4) + B(x - 4) = 1$。令 $x=4 \\implies 24A = 1 \\implies A = \\frac{1}{24}$。結果為 0.125。\n\n---",
+      "chapter": "Ch7 7.4節：部分分式法求有理函數積分",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "利用部分分式法將 $\\frac{1}{x^2 - 25}$ 拆解為 $\\frac{A}{x - 5} + \\frac{B}{x + 5}$，求 $A$ 之值。",
+      "options": [],
+      "answer": "0.1",
+      "type": "fill",
+      "solution": "設 $\\frac{1}{x^2 - 25} = \\frac{A}{x - 5} + \\frac{B}{x + 5} \\implies A(x + 5) + B(x - 5) = 1$。令 $x=5 \\implies 25A = 1 \\implies A = \\frac{1}{25}$。結果為 0.1。\n\n---",
+      "chapter": "Ch7 7.4節：部分分式法求有理函數積分",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "利用部分分式法將 $\\frac{1}{x^2 - 36}$ 拆解為 $\\frac{A}{x - 6} + \\frac{B}{x + 6}$，求 $A$ 之值。",
+      "options": [],
+      "answer": "0.083",
+      "type": "fill",
+      "solution": "設 $\\frac{1}{x^2 - 36} = \\frac{A}{x - 6} + \\frac{B}{x + 6} \\implies A(x + 6) + B(x - 6) = 1$。令 $x=6 \\implies 26A = 1 \\implies A = \\frac{1}{26}$。結果為 0.083。\n\n---",
+      "chapter": "Ch7 7.4節：部分分式法求有理函數積分",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "利用部分分式法將 $\\frac{1}{x^2 - 49}$ 拆解為 $\\frac{A}{x - 7} + \\frac{B}{x + 7}$，求 $A$ 之值。",
+      "options": [],
+      "answer": "0.071",
+      "type": "fill",
+      "solution": "設 $\\frac{1}{x^2 - 49} = \\frac{A}{x - 7} + \\frac{B}{x + 7} \\implies A(x + 7) + B(x - 7) = 1$。令 $x=7 \\implies 27A = 1 \\implies A = \\frac{1}{27}$。結果為 0.071。\n\n---",
+      "chapter": "Ch7 7.4節：部分分式法求有理函數積分",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "利用部分分式法將 $\\frac{1}{x^2 - 64}$ 拆解為 $\\frac{A}{x - 8} + \\frac{B}{x + 8}$，求 $A$ 之值。",
+      "options": [],
+      "answer": "0.062",
+      "type": "fill",
+      "solution": "設 $\\frac{1}{x^2 - 64} = \\frac{A}{x - 8} + \\frac{B}{x + 8} \\implies A(x + 8) + B(x - 8) = 1$。令 $x=8 \\implies 28A = 1 \\implies A = \\frac{1}{28}$。結果為 0.062。\n\n---",
+      "chapter": "Ch7 7.4節：部分分式法求有理函數積分",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "利用部分分式法將 $\\frac{1}{x^2 - 81}$ 拆解為 $\\frac{A}{x - 9} + \\frac{B}{x + 9}$，求 $A$ 之值。",
+      "options": [],
+      "answer": "0.056",
+      "type": "fill",
+      "solution": "設 $\\frac{1}{x^2 - 81} = \\frac{A}{x - 9} + \\frac{B}{x + 9} \\implies A(x + 9) + B(x - 9) = 1$。令 $x=9 \\implies 29A = 1 \\implies A = \\frac{1}{29}$。結果為 0.056。\n\n---",
+      "chapter": "Ch7 7.4節：部分分式法求有理函數積分",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "利用部分分式法將 $\\frac{1}{x^2 - 100}$ 拆解為 $\\frac{A}{x - 10} + \\frac{B}{x + 10}$，求 $A$ 之值。",
+      "options": [],
+      "answer": "0.05",
+      "type": "fill",
+      "solution": "設 $\\frac{1}{x^2 - 100} = \\frac{A}{x - 10} + \\frac{B}{x + 10} \\implies A(x + 10) + B(x - 10) = 1$。令 $x=10 \\implies 210A = 1 \\implies A = \\frac{1}{210}$。結果為 0.05。\n\n---",
+      "chapter": "Ch7 7.4節：部分分式法求有理函數積分",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "利用部分分式法將 $\\frac{1}{x^2 - 121}$ 拆解為 $\\frac{A}{x - 11} + \\frac{B}{x + 11}$，求 $A$ 之值。",
+      "options": [],
+      "answer": "0.045",
+      "type": "fill",
+      "solution": "設 $\\frac{1}{x^2 - 121} = \\frac{A}{x - 11} + \\frac{B}{x + 11} \\implies A(x + 11) + B(x - 11) = 1$。令 $x=11 \\implies 211A = 1 \\implies A = \\frac{1}{211}$。結果為 0.045。\n\n---",
+      "chapter": "Ch7 7.4節：部分分式法求有理函數積分",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "利用部分分式法將 $\\frac{1}{x^2 - 144}$ 拆解為 $\\frac{A}{x - 12} + \\frac{B}{x + 12}$，求 $A$ 之值。",
+      "options": [],
+      "answer": "0.042",
+      "type": "fill",
+      "solution": "設 $\\frac{1}{x^2 - 144} = \\frac{A}{x - 12} + \\frac{B}{x + 12} \\implies A(x + 12) + B(x - 12) = 1$。令 $x=12 \\implies 212A = 1 \\implies A = \\frac{1}{212}$。結果為 0.042。",
+      "chapter": "Ch7 7.4節：部分分式法求有理函數積分",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "對於 $\\int \\frac{\\ln x}{x} dx$，最適合的積分策略為何？",
+      "options": [
+        "分部積分法",
+        "變數變換（令 $u = \\ln x$）",
+        "三角代換法",
+        "查表法"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "令 $u = \\ln x \\implies du = \\frac{1}{x} dx$，積分直接轉換成 $\\int u du$，因此最合適的是變數代換法。\n\n---",
+      "chapter": "Ch7 7.5節：積分策略",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "在求不定積分時，最先應考慮的策略為何？",
+      "options": [
+        "三角代換法",
+        "分部積分法",
+        "簡化被積函數與基本公式代換",
+        "部分分式法"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "在進階技巧之前，應先檢查是否能直接化簡或套用基本公式。\n\n---",
+      "chapter": "Ch7 7.5節：積分策略",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "對於 $\\int \\frac{\\ln x}{x} dx$，最適合的積分策略為何？",
+      "options": [
+        "查表法",
+        "分部積分法",
+        "三角代換法",
+        "變數變換（令 $u = \\ln x$）"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "令 $u = \\ln x \\implies du = \\frac{1}{x} dx$，積分直接轉換成 $\\int u du$，因此最合適的是變數代換法。\n\n---",
+      "chapter": "Ch7 7.5節：積分策略",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "在求不定積分時，最先應考慮的策略為何？",
+      "options": [
+        "簡化被積函數與基本公式代換",
+        "分部積分法",
+        "三角代換法",
+        "部分分式法"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "在進階技巧之前，應先檢查是否能直接化簡或套用基本公式。\n\n---",
+      "chapter": "Ch7 7.5節：積分策略",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "對於 $\\int \\frac{\\ln x}{x} dx$，最適合的積分策略為何？",
+      "options": [
+        "分部積分法",
+        "變數變換（令 $u = \\ln x$）",
+        "三角代換法",
+        "查表法"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "令 $u = \\ln x \\implies du = \\frac{1}{x} dx$，積分直接轉換成 $\\int u du$，因此最合適的是變數代換法。\n\n---",
+      "chapter": "Ch7 7.5節：積分策略",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "在求不定積分時，最先應考慮的策略為何？",
+      "options": [
+        "三角代換法",
+        "分部積分法",
+        "簡化被積函數與基本公式代換",
+        "部分分式法"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "在進階技巧之前，應先檢查是否能直接化簡或套用基本公式。\n\n---",
+      "chapter": "Ch7 7.5節：積分策略",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "對於 $\\int \\frac{\\ln x}{x} dx$，最適合的積分策略為何？",
+      "options": [
+        "查表法",
+        "分部積分法",
+        "三角代換法",
+        "變數變換（令 $u = \\ln x$）"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "令 $u = \\ln x \\implies du = \\frac{1}{x} dx$，積分直接轉換成 $\\int u du$，因此最合適的是變數代換法。\n\n---",
+      "chapter": "Ch7 7.5節：積分策略",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "在求不定積分時，最先應考慮的策略為何？",
+      "options": [
+        "簡化被積函數與基本公式代換",
+        "分部積分法",
+        "三角代換法",
+        "部分分式法"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "在進階技巧之前，應先檢查是否能直接化簡或套用基本公式。\n\n---",
+      "chapter": "Ch7 7.5節：積分策略",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "對於 $\\int \\frac{\\ln x}{x} dx$，最適合的積分策略為何？",
+      "options": [
+        "分部積分法",
+        "變數變換（令 $u = \\ln x$）",
+        "三角代換法",
+        "查表法"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "令 $u = \\ln x \\implies du = \\frac{1}{x} dx$，積分直接轉換成 $\\int u du$，因此最合適的是變數代換法。\n\n---",
+      "chapter": "Ch7 7.5節：積分策略",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "在求不定積分時，最先應考慮的策略為何？",
+      "options": [
+        "三角代換法",
+        "分部積分法",
+        "簡化被積函數與基本公式代換",
+        "部分分式法"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "在進階技巧之前，應先檢查是否能直接化簡或套用基本公式。\n\n---",
+      "chapter": "Ch7 7.5節：積分策略",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "對於 $\\int \\frac{\\ln x}{x} dx$，最適合的積分策略為何？",
+      "options": [
+        "查表法",
+        "分部積分法",
+        "三角代換法",
+        "變數變換（令 $u = \\ln x$）"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "令 $u = \\ln x \\implies du = \\frac{1}{x} dx$，積分直接轉換成 $\\int u du$，因此最合適的是變數代換法。\n\n---",
+      "chapter": "Ch7 7.5節：積分策略",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "在求不定積分時，最先應考慮的策略為何？",
+      "options": [
+        "簡化被積函數與基本公式代換",
+        "分部積分法",
+        "三角代換法",
+        "部分分式法"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "在進階技巧之前，應先檢查是否能直接化簡或套用基本公式。\n\n---",
+      "chapter": "Ch7 7.5節：積分策略",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "對於 $\\int \\frac{\\ln x}{x} dx$，最適合的積分策略為何？",
+      "options": [
+        "分部積分法",
+        "變數變換（令 $u = \\ln x$）",
+        "三角代換法",
+        "查表法"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "令 $u = \\ln x \\implies du = \\frac{1}{x} dx$，積分直接轉換成 $\\int u du$，因此最合適的是變數代換法。\n\n---",
+      "chapter": "Ch7 7.5節：積分策略",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "在求不定積分時，最先應考慮的策略為何？",
+      "options": [
+        "三角代換法",
+        "分部積分法",
+        "簡化被積函數與基本公式代換",
+        "部分分式法"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "在進階技巧之前，應先檢查是否能直接化簡或套用基本公式。\n\n---",
+      "chapter": "Ch7 7.5節：積分策略",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "對於 $\\int \\frac{\\ln x}{x} dx$，最適合的積分策略為何？",
+      "options": [
+        "查表法",
+        "分部積分法",
+        "三角代換法",
+        "變數變換（令 $u = \\ln x$）"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "令 $u = \\ln x \\implies du = \\frac{1}{x} dx$，積分直接轉換成 $\\int u du$，因此最合適的是變數代換法。\n\n---",
+      "chapter": "Ch7 7.5節：積分策略",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "在求不定積分時，最先應考慮的策略為何？",
+      "options": [
+        "簡化被積函數與基本公式代換",
+        "分部積分法",
+        "三角代換法",
+        "部分分式法"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "在進階技巧之前，應先檢查是否能直接化簡或套用基本公式。\n\n---",
+      "chapter": "Ch7 7.5節：積分策略",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "對於 $\\int \\frac{\\ln x}{x} dx$，最適合的積分策略為何？",
+      "options": [
+        "分部積分法",
+        "變數變換（令 $u = \\ln x$）",
+        "三角代換法",
+        "查表法"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "令 $u = \\ln x \\implies du = \\frac{1}{x} dx$，積分直接轉換成 $\\int u du$，因此最合適的是變數代換法。\n\n---",
+      "chapter": "Ch7 7.5節：積分策略",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "在求不定積分時，最先應考慮的策略為何？",
+      "options": [
+        "三角代換法",
+        "分部積分法",
+        "簡化被積函數與基本公式代換",
+        "部分分式法"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "在進階技巧之前，應先檢查是否能直接化簡或套用基本公式。\n\n---",
+      "chapter": "Ch7 7.5節：積分策略",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "對於 $\\int \\frac{\\ln x}{x} dx$，最適合的積分策略為何？",
+      "options": [
+        "查表法",
+        "分部積分法",
+        "三角代換法",
+        "變數變換（令 $u = \\ln x$）"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "令 $u = \\ln x \\implies du = \\frac{1}{x} dx$，積分直接轉換成 $\\int u du$，因此最合適的是變數代換法。\n\n---",
+      "chapter": "Ch7 7.5節：積分策略",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "在求不定積分時，最先應考慮的策略為何？",
+      "options": [
+        "簡化被積函數與基本公式代換",
+        "分部積分法",
+        "三角代換法",
+        "部分分式法"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "在進階技巧之前，應先檢查是否能直接化簡或套用基本公式。\n\n---",
+      "chapter": "Ch7 7.5節：積分策略",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "求 $\\int_1^e \\frac{\\ln x}{x} dx$ 的精確值。",
+      "options": [],
+      "answer": "0.5",
+      "type": "fill",
+      "solution": "變數變換：令 $u=\\ln x$。定積分為 $[\\frac{u^2}{2}]_0^1 = \\frac{1}{2} = 0.5$。\n\n---",
+      "chapter": "Ch7 7.5節：積分策略",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "求 $\\int_1^e \\frac{\\ln x}{x} dx$ 的精確值。",
+      "options": [],
+      "answer": "0.5",
+      "type": "fill",
+      "solution": "變數變換：令 $u=\\ln x$。定積分為 $[\\frac{u^2}{2}]_0^1 = \\frac{1}{2} = 0.5$。\n\n---",
+      "chapter": "Ch7 7.5節：積分策略",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "求 $\\int_1^e \\frac{\\ln x}{x} dx$ 的精確值。",
+      "options": [],
+      "answer": "0.5",
+      "type": "fill",
+      "solution": "變數變換：令 $u=\\ln x$。定積分為 $[\\frac{u^2}{2}]_0^1 = \\frac{1}{2} = 0.5$。\n\n---",
+      "chapter": "Ch7 7.5節：積分策略",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "求 $\\int_1^e \\frac{\\ln x}{x} dx$ 的精確值。",
+      "options": [],
+      "answer": "0.5",
+      "type": "fill",
+      "solution": "變數變換：令 $u=\\ln x$。定積分為 $[\\frac{u^2}{2}]_0^1 = \\frac{1}{2} = 0.5$。\n\n---",
+      "chapter": "Ch7 7.5節：積分策略",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "求 $\\int_1^e \\frac{\\ln x}{x} dx$ 的精確值。",
+      "options": [],
+      "answer": "0.5",
+      "type": "fill",
+      "solution": "變數變換：令 $u=\\ln x$。定積分為 $[\\frac{u^2}{2}]_0^1 = \\frac{1}{2} = 0.5$。\n\n---",
+      "chapter": "Ch7 7.5節：積分策略",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "求 $\\int_1^e \\frac{\\ln x}{x} dx$ 的精確值。",
+      "options": [],
+      "answer": "0.5",
+      "type": "fill",
+      "solution": "變數變換：令 $u=\\ln x$。定積分為 $[\\frac{u^2}{2}]_0^1 = \\frac{1}{2} = 0.5$。\n\n---",
+      "chapter": "Ch7 7.5節：積分策略",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "求 $\\int_1^e \\frac{\\ln x}{x} dx$ 的精確值。",
+      "options": [],
+      "answer": "0.5",
+      "type": "fill",
+      "solution": "變數變換：令 $u=\\ln x$。定積分為 $[\\frac{u^2}{2}]_0^1 = \\frac{1}{2} = 0.5$。\n\n---",
+      "chapter": "Ch7 7.5節：積分策略",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "求 $\\int_1^e \\frac{\\ln x}{x} dx$ 的精確值。",
+      "options": [],
+      "answer": "0.5",
+      "type": "fill",
+      "solution": "變數變換：令 $u=\\ln x$。定積分為 $[\\frac{u^2}{2}]_0^1 = \\frac{1}{2} = 0.5$。\n\n---",
+      "chapter": "Ch7 7.5節：積分策略",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "求 $\\int_1^e \\frac{\\ln x}{x} dx$ 的精確值。",
+      "options": [],
+      "answer": "0.5",
+      "type": "fill",
+      "solution": "變數變換：令 $u=\\ln x$。定積分為 $[\\frac{u^2}{2}]_0^1 = \\frac{1}{2} = 0.5$。\n\n---",
+      "chapter": "Ch7 7.5節：積分策略",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "求 $\\int_1^e \\frac{\\ln x}{x} dx$ 的精確值。",
+      "options": [],
+      "answer": "0.5",
+      "type": "fill",
+      "solution": "變數變換：令 $u=\\ln x$。定積分為 $[\\frac{u^2}{2}]_0^1 = \\frac{1}{2} = 0.5$。",
+      "chapter": "Ch7 7.5節：積分策略",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "使用科技工具處理複雜積分時，電腦代數系統（CAS）通常使用哪種基本算法？",
+      "options": [
+        "辛普森法",
+        "牛頓法",
+        "里斯算法（Risch Algorithm）",
+        "歐拉法"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "里斯算法是一套用於決定不定積分是否可用初等函數表示的決定性演算法。\n\n---",
+      "chapter": "Ch7 7.6節：查表與科技工具積分",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "使用積分表（Integration Tables）查出 $\\int \\frac{1}{x^2 - 9} dx$ 的一般形式。",
+      "options": [
+        "$\\frac{1}{6}\\ln|\\frac{x - 3}{x + 3}| + C$",
+        "$\\frac{1}{3}\\ln|\\frac{x - 3}{x + 3}| + C$",
+        "$\\sin^{-1}\\left(\\frac{x}{3}\\right) + C$",
+        "$\\tan^{-1}(x) + C$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "對應積分表公式：$\\int \\frac{1}{x^2 - a^2} dx = \\frac{1}{2a}\\ln|\\frac{x - a}{x + a}| + C$。\n\n---",
+      "chapter": "Ch7 7.6節：查表與科技工具積分",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "使用科技工具處理複雜積分時，電腦代數系統（CAS）通常使用哪種基本算法？",
+      "options": [
+        "歐拉法",
+        "牛頓法",
+        "辛普森法",
+        "里斯算法（Risch Algorithm）"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "里斯算法是一套用於決定不定積分是否可用初等函數表示的決定性演算法。\n\n---",
+      "chapter": "Ch7 7.6節：查表與科技工具積分",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "使用積分表（Integration Tables）查出 $\\int \\frac{1}{x^2 - 25} dx$ 的一般形式。",
+      "options": [
+        "$\\frac{1}{5}\\ln|\\frac{x - 5}{x + 5}| + C$",
+        "$\\frac{1}{10}\\ln|\\frac{x - 5}{x + 5}| + C$",
+        "$\\sin^{-1}\\left(\\frac{x}{5}\\right) + C$",
+        "$\\tan^{-1}(x) + C$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "對應積分表公式：$\\int \\frac{1}{x^2 - a^2} dx = \\frac{1}{2a}\\ln|\\frac{x - a}{x + a}| + C$。\n\n---",
+      "chapter": "Ch7 7.6節：查表與科技工具積分",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "使用科技工具處理複雜積分時，電腦代數系統（CAS）通常使用哪種基本算法？",
+      "options": [
+        "辛普森法",
+        "牛頓法",
+        "里斯算法（Risch Algorithm）",
+        "歐拉法"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "里斯算法是一套用於決定不定積分是否可用初等函數表示的決定性演算法。\n\n---",
+      "chapter": "Ch7 7.6節：查表與科技工具積分",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "使用積分表（Integration Tables）查出 $\\int \\frac{1}{x^2 - 49} dx$ 的一般形式。",
+      "options": [
+        "$\\frac{1}{14}\\ln|\\frac{x - 7}{x + 7}| + C$",
+        "$\\frac{1}{7}\\ln|\\frac{x - 7}{x + 7}| + C$",
+        "$\\sin^{-1}\\left(\\frac{x}{7}\\right) + C$",
+        "$\\tan^{-1}(x) + C$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "對應積分表公式：$\\int \\frac{1}{x^2 - a^2} dx = \\frac{1}{2a}\\ln|\\frac{x - a}{x + a}| + C$。\n\n---",
+      "chapter": "Ch7 7.6節：查表與科技工具積分",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "使用科技工具處理複雜積分時，電腦代數系統（CAS）通常使用哪種基本算法？",
+      "options": [
+        "歐拉法",
+        "牛頓法",
+        "辛普森法",
+        "里斯算法（Risch Algorithm）"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "里斯算法是一套用於決定不定積分是否可用初等函數表示的決定性演算法。\n\n---",
+      "chapter": "Ch7 7.6節：查表與科技工具積分",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "使用積分表（Integration Tables）查出 $\\int \\frac{1}{x^2 - 81} dx$ 的一般形式。",
+      "options": [
+        "$\\frac{1}{9}\\ln|\\frac{x - 9}{x + 9}| + C$",
+        "$\\frac{1}{18}\\ln|\\frac{x - 9}{x + 9}| + C$",
+        "$\\sin^{-1}\\left(\\frac{x}{9}\\right) + C$",
+        "$\\tan^{-1}(x) + C$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "對應積分表公式：$\\int \\frac{1}{x^2 - a^2} dx = \\frac{1}{2a}\\ln|\\frac{x - a}{x + a}| + C$。\n\n---",
+      "chapter": "Ch7 7.6節：查表與科技工具積分",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "使用科技工具處理複雜積分時，電腦代數系統（CAS）通常使用哪種基本算法？",
+      "options": [
+        "辛普森法",
+        "牛頓法",
+        "里斯算法（Risch Algorithm）",
+        "歐拉法"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "里斯算法是一套用於決定不定積分是否可用初等函數表示的決定性演算法。\n\n---",
+      "chapter": "Ch7 7.6節：查表與科技工具積分",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "使用積分表（Integration Tables）查出 $\\int \\frac{1}{x^2 - 121} dx$ 的一般形式。",
+      "options": [
+        "$\\frac{1}{22}\\ln|\\frac{x - 11}{x + 11}| + C$",
+        "$\\frac{1}{11}\\ln|\\frac{x - 11}{x + 11}| + C$",
+        "$\\sin^{-1}\\left(\\frac{x}{11}\\right) + C$",
+        "$\\tan^{-1}(x) + C$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "對應積分表公式：$\\int \\frac{1}{x^2 - a^2} dx = \\frac{1}{2a}\\ln|\\frac{x - a}{x + a}| + C$。\n\n---",
+      "chapter": "Ch7 7.6節：查表與科技工具積分",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "使用科技工具處理複雜積分時，電腦代數系統（CAS）通常使用哪種基本算法？",
+      "options": [
+        "歐拉法",
+        "牛頓法",
+        "辛普森法",
+        "里斯算法（Risch Algorithm）"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "里斯算法是一套用於決定不定積分是否可用初等函數表示的決定性演算法。\n\n---",
+      "chapter": "Ch7 7.6節：查表與科技工具積分",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "使用積分表（Integration Tables）查出 $\\int \\frac{1}{x^2 - 169} dx$ 的一般形式。",
+      "options": [
+        "$\\frac{1}{13}\\ln|\\frac{x - 13}{x + 13}| + C$",
+        "$\\frac{1}{26}\\ln|\\frac{x - 13}{x + 13}| + C$",
+        "$\\sin^{-1}\\left(\\frac{x}{13}\\right) + C$",
+        "$\\tan^{-1}(x) + C$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "對應積分表公式：$\\int \\frac{1}{x^2 - a^2} dx = \\frac{1}{2a}\\ln|\\frac{x - a}{x + a}| + C$。\n\n---",
+      "chapter": "Ch7 7.6節：查表與科技工具積分",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "使用科技工具處理複雜積分時，電腦代數系統（CAS）通常使用哪種基本算法？",
+      "options": [
+        "辛普森法",
+        "牛頓法",
+        "里斯算法（Risch Algorithm）",
+        "歐拉法"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "里斯算法是一套用於決定不定積分是否可用初等函數表示的決定性演算法。\n\n---",
+      "chapter": "Ch7 7.6節：查表與科技工具積分",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "使用積分表（Integration Tables）查出 $\\int \\frac{1}{x^2 - 225} dx$ 的一般形式。",
+      "options": [
+        "$\\frac{1}{30}\\ln|\\frac{x - 15}{x + 15}| + C$",
+        "$\\frac{1}{15}\\ln|\\frac{x - 15}{x + 15}| + C$",
+        "$\\sin^{-1}\\left(\\frac{x}{15}\\right) + C$",
+        "$\\tan^{-1}(x) + C$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "對應積分表公式：$\\int \\frac{1}{x^2 - a^2} dx = \\frac{1}{2a}\\ln|\\frac{x - a}{x + a}| + C$。\n\n---",
+      "chapter": "Ch7 7.6節：查表與科技工具積分",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "使用科技工具處理複雜積分時，電腦代數系統（CAS）通常使用哪種基本算法？",
+      "options": [
+        "歐拉法",
+        "牛頓法",
+        "辛普森法",
+        "里斯算法（Risch Algorithm）"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "里斯算法是一套用於決定不定積分是否可用初等函數表示的決定性演算法。\n\n---",
+      "chapter": "Ch7 7.6節：查表與科技工具積分",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "使用積分表（Integration Tables）查出 $\\int \\frac{1}{x^2 - 289} dx$ 的一般形式。",
+      "options": [
+        "$\\frac{1}{17}\\ln|\\frac{x - 17}{x + 17}| + C$",
+        "$\\frac{1}{34}\\ln|\\frac{x - 17}{x + 17}| + C$",
+        "$\\sin^{-1}\\left(\\frac{x}{17}\\right) + C$",
+        "$\\tan^{-1}(x) + C$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "對應積分表公式：$\\int \\frac{1}{x^2 - a^2} dx = \\frac{1}{2a}\\ln|\\frac{x - a}{x + a}| + C$。\n\n---",
+      "chapter": "Ch7 7.6節：查表與科技工具積分",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "使用科技工具處理複雜積分時，電腦代數系統（CAS）通常使用哪種基本算法？",
+      "options": [
+        "辛普森法",
+        "牛頓法",
+        "里斯算法（Risch Algorithm）",
+        "歐拉法"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "里斯算法是一套用於決定不定積分是否可用初等函數表示的決定性演算法。\n\n---",
+      "chapter": "Ch7 7.6節：查表與科技工具積分",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "使用積分表（Integration Tables）查出 $\\int \\frac{1}{x^2 - 361} dx$ 的一般形式。",
+      "options": [
+        "$\\frac{1}{38}\\ln|\\frac{x - 19}{x + 19}| + C$",
+        "$\\frac{1}{19}\\ln|\\frac{x - 19}{x + 19}| + C$",
+        "$\\sin^{-1}\\left(\\frac{x}{19}\\right) + C$",
+        "$\\tan^{-1}(x) + C$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "對應積分表公式：$\\int \\frac{1}{x^2 - a^2} dx = \\frac{1}{2a}\\ln|\\frac{x - a}{x + a}| + C$。\n\n---",
+      "chapter": "Ch7 7.6節：查表與科技工具積分",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "使用科技工具處理複雜積分時，電腦代數系統（CAS）通常使用哪種基本算法？",
+      "options": [
+        "歐拉法",
+        "牛頓法",
+        "辛普森法",
+        "里斯算法（Risch Algorithm）"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "里斯算法是一套用於決定不定積分是否可用初等函數表示的決定性演算法。\n\n---",
+      "chapter": "Ch7 7.6節：查表與科技工具積分",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "使用積分表（Integration Tables）查出 $\\int \\frac{1}{x^2 - 441} dx$ 的一般形式。",
+      "options": [
+        "$\\frac{1}{21}\\ln|\\frac{x - 21}{x + 21}| + C$",
+        "$\\frac{1}{42}\\ln|\\frac{x - 21}{x + 21}| + C$",
+        "$\\sin^{-1}\\left(\\frac{x}{21}\\right) + C$",
+        "$\\tan^{-1}(x) + C$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "對應積分表公式：$\\int \\frac{1}{x^2 - a^2} dx = \\frac{1}{2a}\\ln|\\frac{x - a}{x + a}| + C$。\n\n---",
+      "chapter": "Ch7 7.6節：查表與科技工具積分",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "當使用里斯算法判斷 $\\int e^{x^2} dx$ 是否可用初等函數表示時，其答案為初等函數（填1）或非初等函數（填0）？",
+      "options": [],
+      "answer": "0",
+      "type": "fill",
+      "solution": "$\\int e^{x^2} dx$ 屬於非初等積分，無法用初等函數表示。故答案為 0。\n\n---",
+      "chapter": "Ch7 7.6節：查表與科技工具積分",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "當使用里斯算法判斷 $\\int e^{x^2} dx$ 是否可用初等函數表示時，其答案為初等函數（填1）或非初等函數（填0）？",
+      "options": [],
+      "answer": "0",
+      "type": "fill",
+      "solution": "$\\int e^{x^2} dx$ 屬於非初等積分，無法用初等函數表示。故答案為 0。\n\n---",
+      "chapter": "Ch7 7.6節：查表與科技工具積分",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "當使用里斯算法判斷 $\\int e^{x^2} dx$ 是否可用初等函數表示時，其答案為初等函數（填1）或非初等函數（填0）？",
+      "options": [],
+      "answer": "0",
+      "type": "fill",
+      "solution": "$\\int e^{x^2} dx$ 屬於非初等積分，無法用初等函數表示。故答案為 0。\n\n---",
+      "chapter": "Ch7 7.6節：查表與科技工具積分",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "當使用里斯算法判斷 $\\int e^{x^2} dx$ 是否可用初等函數表示時，其答案為初等函數（填1）或非初等函數（填0）？",
+      "options": [],
+      "answer": "0",
+      "type": "fill",
+      "solution": "$\\int e^{x^2} dx$ 屬於非初等積分，無法用初等函數表示。故答案為 0。\n\n---",
+      "chapter": "Ch7 7.6節：查表與科技工具積分",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "當使用里斯算法判斷 $\\int e^{x^2} dx$ 是否可用初等函數表示時，其答案為初等函數（填1）或非初等函數（填0）？",
+      "options": [],
+      "answer": "0",
+      "type": "fill",
+      "solution": "$\\int e^{x^2} dx$ 屬於非初等積分，無法用初等函數表示。故答案為 0。\n\n---",
+      "chapter": "Ch7 7.6節：查表與科技工具積分",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "當使用里斯算法判斷 $\\int e^{x^2} dx$ 是否可用初等函數表示時，其答案為初等函數（填1）或非初等函數（填0）？",
+      "options": [],
+      "answer": "0",
+      "type": "fill",
+      "solution": "$\\int e^{x^2} dx$ 屬於非初等積分，無法用初等函數表示。故答案為 0。\n\n---",
+      "chapter": "Ch7 7.6節：查表與科技工具積分",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "當使用里斯算法判斷 $\\int e^{x^2} dx$ 是否可用初等函數表示時，其答案為初等函數（填1）或非初等函數（填0）？",
+      "options": [],
+      "answer": "0",
+      "type": "fill",
+      "solution": "$\\int e^{x^2} dx$ 屬於非初等積分，無法用初等函數表示。故答案為 0。\n\n---",
+      "chapter": "Ch7 7.6節：查表與科技工具積分",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "當使用里斯算法判斷 $\\int e^{x^2} dx$ 是否可用初等函數表示時，其答案為初等函數（填1）或非初等函數（填0）？",
+      "options": [],
+      "answer": "0",
+      "type": "fill",
+      "solution": "$\\int e^{x^2} dx$ 屬於非初等積分，無法用初等函數表示。故答案為 0。\n\n---",
+      "chapter": "Ch7 7.6節：查表與科技工具積分",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "當使用里斯算法判斷 $\\int e^{x^2} dx$ 是否可用初等函數表示時，其答案為初等函數（填1）或非初等函數（填0）？",
+      "options": [],
+      "answer": "0",
+      "type": "fill",
+      "solution": "$\\int e^{x^2} dx$ 屬於非初等積分，無法用初等函數表示。故答案為 0。\n\n---",
+      "chapter": "Ch7 7.6節：查表與科技工具積分",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "當使用里斯算法判斷 $\\int e^{x^2} dx$ 是否可用初等函數表示時，其答案為初等函數（填1）或非初等函數（填0）？",
+      "options": [],
+      "answer": "0",
+      "type": "fill",
+      "solution": "$\\int e^{x^2} dx$ 屬於非初等積分，無法用初等函數表示。故答案為 0。",
+      "chapter": "Ch7 7.6節：查表與科技工具積分",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "辛普森法（Simpson's Rule）要求區間個數 $n$ 必須滿足什麼條件？",
+      "options": [
+        "必須為奇數",
+        "必須為偶數",
+        "可以為任意整數",
+        "必須是 3 的倍數"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "辛普森法（1/3法）推導基於二次拋物線，要求子區間個數 $n$ 必須為偶數。\n\n---",
+      "chapter": "Ch7 7.7節：近似積分",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "在近似積分法中，使用梯形法（Trapezoidal Rule）估計 $\\int_a^b f(x) dx$，每一項的權重係數除了端點外為何？",
+      "options": [
+        "$1$",
+        "$4$",
+        "$2$",
+        "$3$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "梯形法公式為 $T_n = \\frac{\\Delta x}{2} [f(x_0) + 2f(x_1) + 2f(x_2) + \\dots + f(x_n)]$，中間權重皆為 2。\n\n---",
+      "chapter": "Ch7 7.7節：近似積分",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "辛普森法（Simpson's Rule）要求區間個數 $n$ 必須滿足什麼條件？",
+      "options": [
+        "必須是 3 的倍數",
+        "必須為奇數",
+        "可以為任意整數",
+        "必須為偶數"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "辛普森法（1/3法）推導基於二次拋物線，要求子區間個數 $n$ 必須為偶數。\n\n---",
+      "chapter": "Ch7 7.7節：近似積分",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "在近似積分法中，使用梯形法（Trapezoidal Rule）估計 $\\int_a^b f(x) dx$，每一項的權重係數除了端點外為何？",
+      "options": [
+        "$2$",
+        "$4$",
+        "$1$",
+        "$3$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "梯形法公式為 $T_n = \\frac{\\Delta x}{2} [f(x_0) + 2f(x_1) + 2f(x_2) + \\dots + f(x_n)]$，中間權重皆為 2。\n\n---",
+      "chapter": "Ch7 7.7節：近似積分",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "辛普森法（Simpson's Rule）要求區間個數 $n$ 必須滿足什麼條件？",
+      "options": [
+        "必須為奇數",
+        "必須為偶數",
+        "可以為任意整數",
+        "必須是 3 的倍數"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "辛普森法（1/3法）推導基於二次拋物線，要求子區間個數 $n$ 必須為偶數。\n\n---",
+      "chapter": "Ch7 7.7節：近似積分",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "在近似積分法中，使用梯形法（Trapezoidal Rule）估計 $\\int_a^b f(x) dx$，每一項的權重係數除了端點外為何？",
+      "options": [
+        "$1$",
+        "$4$",
+        "$2$",
+        "$3$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "梯形法公式為 $T_n = \\frac{\\Delta x}{2} [f(x_0) + 2f(x_1) + 2f(x_2) + \\dots + f(x_n)]$，中間權重皆為 2。\n\n---",
+      "chapter": "Ch7 7.7節：近似積分",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "辛普森法（Simpson's Rule）要求區間個數 $n$ 必須滿足什麼條件？",
+      "options": [
+        "必須是 3 的倍數",
+        "必須為奇數",
+        "可以為任意整數",
+        "必須為偶數"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "辛普森法（1/3法）推導基於二次拋物線，要求子區間個數 $n$ 必須為偶數。\n\n---",
+      "chapter": "Ch7 7.7節：近似積分",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "在近似積分法中，使用梯形法（Trapezoidal Rule）估計 $\\int_a^b f(x) dx$，每一項的權重係數除了端點外為何？",
+      "options": [
+        "$2$",
+        "$4$",
+        "$1$",
+        "$3$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "梯形法公式為 $T_n = \\frac{\\Delta x}{2} [f(x_0) + 2f(x_1) + 2f(x_2) + \\dots + f(x_n)]$，中間權重皆為 2。\n\n---",
+      "chapter": "Ch7 7.7節：近似積分",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "辛普森法（Simpson's Rule）要求區間個數 $n$ 必須滿足什麼條件？",
+      "options": [
+        "必須為奇數",
+        "必須為偶數",
+        "可以為任意整數",
+        "必須是 3 的倍數"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "辛普森法（1/3法）推導基於二次拋物線，要求子區間個數 $n$ 必須為偶數。\n\n---",
+      "chapter": "Ch7 7.7節：近似積分",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "在近似積分法中，使用梯形法（Trapezoidal Rule）估計 $\\int_a^b f(x) dx$，每一項的權重係數除了端點外為何？",
+      "options": [
+        "$1$",
+        "$4$",
+        "$2$",
+        "$3$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "梯形法公式為 $T_n = \\frac{\\Delta x}{2} [f(x_0) + 2f(x_1) + 2f(x_2) + \\dots + f(x_n)]$，中間權重皆為 2。\n\n---",
+      "chapter": "Ch7 7.7節：近似積分",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "辛普森法（Simpson's Rule）要求區間個數 $n$ 必須滿足什麼條件？",
+      "options": [
+        "必須是 3 的倍數",
+        "必須為奇數",
+        "可以為任意整數",
+        "必須為偶數"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "辛普森法（1/3法）推導基於二次拋物線，要求子區間個數 $n$ 必須為偶數。\n\n---",
+      "chapter": "Ch7 7.7節：近似積分",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "在近似積分法中，使用梯形法（Trapezoidal Rule）估計 $\\int_a^b f(x) dx$，每一項的權重係數除了端點外為何？",
+      "options": [
+        "$2$",
+        "$4$",
+        "$1$",
+        "$3$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "梯形法公式為 $T_n = \\frac{\\Delta x}{2} [f(x_0) + 2f(x_1) + 2f(x_2) + \\dots + f(x_n)]$，中間權重皆為 2。\n\n---",
+      "chapter": "Ch7 7.7節：近似積分",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "辛普森法（Simpson's Rule）要求區間個數 $n$ 必須滿足什麼條件？",
+      "options": [
+        "必須為奇數",
+        "必須為偶數",
+        "可以為任意整數",
+        "必須是 3 的倍數"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "辛普森法（1/3法）推導基於二次拋物線，要求子區間個數 $n$ 必須為偶數。\n\n---",
+      "chapter": "Ch7 7.7節：近似積分",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "在近似積分法中，使用梯形法（Trapezoidal Rule）估計 $\\int_a^b f(x) dx$，每一項的權重係數除了端點外為何？",
+      "options": [
+        "$1$",
+        "$4$",
+        "$2$",
+        "$3$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "梯形法公式為 $T_n = \\frac{\\Delta x}{2} [f(x_0) + 2f(x_1) + 2f(x_2) + \\dots + f(x_n)]$，中間權重皆為 2。\n\n---",
+      "chapter": "Ch7 7.7節：近似積分",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "辛普森法（Simpson's Rule）要求區間個數 $n$ 必須滿足什麼條件？",
+      "options": [
+        "必須是 3 的倍數",
+        "必須為奇數",
+        "可以為任意整數",
+        "必須為偶數"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "辛普森法（1/3法）推導基於二次拋物線，要求子區間個數 $n$ 必須為偶數。\n\n---",
+      "chapter": "Ch7 7.7節：近似積分",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "在近似積分法中，使用梯形法（Trapezoidal Rule）估計 $\\int_a^b f(x) dx$，每一項的權重係數除了端點外為何？",
+      "options": [
+        "$2$",
+        "$4$",
+        "$1$",
+        "$3$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "梯形法公式為 $T_n = \\frac{\\Delta x}{2} [f(x_0) + 2f(x_1) + 2f(x_2) + \\dots + f(x_n)]$，中間權重皆為 2。\n\n---",
+      "chapter": "Ch7 7.7節：近似積分",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "辛普森法（Simpson's Rule）要求區間個數 $n$ 必須滿足什麼條件？",
+      "options": [
+        "必須為奇數",
+        "必須為偶數",
+        "可以為任意整數",
+        "必須是 3 的倍數"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "辛普森法（1/3法）推導基於二次拋物線，要求子區間個數 $n$ 必須為偶數。\n\n---",
+      "chapter": "Ch7 7.7節：近似積分",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "在近似積分法中，使用梯形法（Trapezoidal Rule）估計 $\\int_a^b f(x) dx$，每一項的權重係數除了端點外為何？",
+      "options": [
+        "$1$",
+        "$4$",
+        "$2$",
+        "$3$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "梯形法公式為 $T_n = \\frac{\\Delta x}{2} [f(x_0) + 2f(x_1) + 2f(x_2) + \\dots + f(x_n)]$，中間權重皆為 2。\n\n---",
+      "chapter": "Ch7 7.7節：近似積分",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "辛普森法（Simpson's Rule）要求區間個數 $n$ 必須滿足什麼條件？",
+      "options": [
+        "必須是 3 的倍數",
+        "必須為奇數",
+        "可以為任意整數",
+        "必須為偶數"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "辛普森法（1/3法）推導基於二次拋物線，要求子區間個數 $n$ 必須為偶數。\n\n---",
+      "chapter": "Ch7 7.7節：近似積分",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "在近似積分法中，使用梯形法（Trapezoidal Rule）估計 $\\int_a^b f(x) dx$，每一項的權重係數除了端點外為何？",
+      "options": [
+        "$2$",
+        "$4$",
+        "$1$",
+        "$3$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "梯形法公式為 $T_n = \\frac{\\Delta x}{2} [f(x_0) + 2f(x_1) + 2f(x_2) + \\dots + f(x_n)]$，中間權重皆為 2。\n\n---",
+      "chapter": "Ch7 7.7節：近似積分",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "利用梯形法，將區間 $[0, 2]$ 分為 $n=2$ 等分，求 $\\int_0^2 3x dx$ 的近似值（精確值）。",
+      "options": [],
+      "answer": "6",
+      "type": "fill",
+      "solution": "梯形寬 $\\Delta x = 1$。$x_0=0, x_1=1, x_2=2$。$T_2 = \\frac{1}{2} [3(0) + 2(3\\cdot 1) + 3\\cdot 2] = \\frac{1}{2} [23 + 23] = 23$。\n\n---",
+      "chapter": "Ch7 7.7節：近似積分",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "利用梯形法，將區間 $[0, 2]$ 分為 $n=2$ 等分，求 $\\int_0^2 4x dx$ 的近似值（精確值）。",
+      "options": [],
+      "answer": "8",
+      "type": "fill",
+      "solution": "梯形寬 $\\Delta x = 1$。$x_0=0, x_1=1, x_2=2$。$T_2 = \\frac{1}{2} [4(0) + 2(4\\cdot 1) + 4\\cdot 2] = \\frac{1}{2} [24 + 24] = 24$。\n\n---",
+      "chapter": "Ch7 7.7節：近似積分",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "利用梯形法，將區間 $[0, 2]$ 分為 $n=2$ 等分，求 $\\int_0^2 5x dx$ 的近似值（精確值）。",
+      "options": [],
+      "answer": "10",
+      "type": "fill",
+      "solution": "梯形寬 $\\Delta x = 1$。$x_0=0, x_1=1, x_2=2$。$T_2 = \\frac{1}{2} [5(0) + 2(5\\cdot 1) + 5\\cdot 2] = \\frac{1}{2} [25 + 25] = 25$。\n\n---",
+      "chapter": "Ch7 7.7節：近似積分",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "利用梯形法，將區間 $[0, 2]$ 分為 $n=2$ 等分，求 $\\int_0^2 6x dx$ 的近似值（精確值）。",
+      "options": [],
+      "answer": "12",
+      "type": "fill",
+      "solution": "梯形寬 $\\Delta x = 1$。$x_0=0, x_1=1, x_2=2$。$T_2 = \\frac{1}{2} [6(0) + 2(6\\cdot 1) + 6\\cdot 2] = \\frac{1}{2} [26 + 26] = 26$。\n\n---",
+      "chapter": "Ch7 7.7節：近似積分",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "利用梯形法，將區間 $[0, 2]$ 分為 $n=2$ 等分，求 $\\int_0^2 7x dx$ 的近似值（精確值）。",
+      "options": [],
+      "answer": "14",
+      "type": "fill",
+      "solution": "梯形寬 $\\Delta x = 1$。$x_0=0, x_1=1, x_2=2$。$T_2 = \\frac{1}{2} [7(0) + 2(7\\cdot 1) + 7\\cdot 2] = \\frac{1}{2} [27 + 27] = 27$。\n\n---",
+      "chapter": "Ch7 7.7節：近似積分",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "利用梯形法，將區間 $[0, 2]$ 分為 $n=2$ 等分，求 $\\int_0^2 8x dx$ 的近似值（精確值）。",
+      "options": [],
+      "answer": "16",
+      "type": "fill",
+      "solution": "梯形寬 $\\Delta x = 1$。$x_0=0, x_1=1, x_2=2$。$T_2 = \\frac{1}{2} [8(0) + 2(8\\cdot 1) + 8\\cdot 2] = \\frac{1}{2} [28 + 28] = 28$。\n\n---",
+      "chapter": "Ch7 7.7節：近似積分",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "利用梯形法，將區間 $[0, 2]$ 分為 $n=2$ 等分，求 $\\int_0^2 9x dx$ 的近似值（精確值）。",
+      "options": [],
+      "answer": "18",
+      "type": "fill",
+      "solution": "梯形寬 $\\Delta x = 1$。$x_0=0, x_1=1, x_2=2$。$T_2 = \\frac{1}{2} [9(0) + 2(9\\cdot 1) + 9\\cdot 2] = \\frac{1}{2} [29 + 29] = 29$。\n\n---",
+      "chapter": "Ch7 7.7節：近似積分",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "利用梯形法，將區間 $[0, 2]$ 分為 $n=2$ 等分，求 $\\int_0^2 10x dx$ 的近似值（精確值）。",
+      "options": [],
+      "answer": "20",
+      "type": "fill",
+      "solution": "梯形寬 $\\Delta x = 1$。$x_0=0, x_1=1, x_2=2$。$T_2 = \\frac{1}{2} [10(0) + 2(10\\cdot 1) + 10\\cdot 2] = \\frac{1}{2} [210 + 210] = 210$。\n\n---",
+      "chapter": "Ch7 7.7節：近似積分",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "利用梯形法，將區間 $[0, 2]$ 分為 $n=2$ 等分，求 $\\int_0^2 11x dx$ 的近似值（精確值）。",
+      "options": [],
+      "answer": "22",
+      "type": "fill",
+      "solution": "梯形寬 $\\Delta x = 1$。$x_0=0, x_1=1, x_2=2$。$T_2 = \\frac{1}{2} [11(0) + 2(11\\cdot 1) + 11\\cdot 2] = \\frac{1}{2} [211 + 211] = 211$。\n\n---",
+      "chapter": "Ch7 7.7節：近似積分",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "利用梯形法，將區間 $[0, 2]$ 分為 $n=2$ 等分，求 $\\int_0^2 12x dx$ 的近似值（精確值）。",
+      "options": [],
+      "answer": "24",
+      "type": "fill",
+      "solution": "梯形寬 $\\Delta x = 1$。$x_0=0, x_1=1, x_2=2$。$T_2 = \\frac{1}{2} [12(0) + 2(12\\cdot 1) + 12\\cdot 2] = \\frac{1}{2} [212 + 212] = 212$。",
+      "chapter": "Ch7 7.7節：近似積分",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "求瑕積分 $\\int_1^\\infty \\frac{1}{x} dx$ 的斂散性。",
+      "options": [
+        "發散",
+        "收斂",
+        "振盪散開",
+        "極限為 1"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "$\\lim_{t \\to \\infty} [\\ln x]_1^t = \\lim_{t \\to \\infty} \\ln t = \\infty$，故發散。\n\n---",
+      "chapter": "Ch7 7.8節：瑕積分",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "求瑕積分（Improper Integral） $\\int_1^\\infty \\frac{1}{x^3} dx$ 的斂散性。",
+      "options": [
+        "不確定",
+        "發散",
+        "收斂",
+        "無解"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據 $p$-級數積分判別法：在 $[1, \\infty)$，$\\int_1^\\infty \\frac{1}{x^p} dx$ 在 $p = 3 > 1$ 時收斂。\n\n---",
+      "chapter": "Ch7 7.8節：瑕積分",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "求瑕積分 $\\int_1^\\infty \\frac{1}{x} dx$ 的斂散性。",
+      "options": [
+        "收斂",
+        "發散",
+        "振盪散開",
+        "極限為 1"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "$\\lim_{t \\to \\infty} [\\ln x]_1^t = \\lim_{t \\to \\infty} \\ln t = \\infty$，故發散。\n\n---",
+      "chapter": "Ch7 7.8節：瑕積分",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "求瑕積分（Improper Integral） $\\int_1^\\infty \\frac{1}{x^5} dx$ 的斂散性。",
+      "options": [
+        "發散",
+        "收斂",
+        "不確定",
+        "無解"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "根據 $p$-級數積分判別法：在 $[1, \\infty)$，$\\int_1^\\infty \\frac{1}{x^p} dx$ 在 $p = 5 > 1$ 時收斂。\n\n---",
+      "chapter": "Ch7 7.8節：瑕積分",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "求瑕積分 $\\int_1^\\infty \\frac{1}{x} dx$ 的斂散性。",
+      "options": [
+        "發散",
+        "收斂",
+        "振盪散開",
+        "極限為 1"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "$\\lim_{t \\to \\infty} [\\ln x]_1^t = \\lim_{t \\to \\infty} \\ln t = \\infty$，故發散。\n\n---",
+      "chapter": "Ch7 7.8節：瑕積分",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "求瑕積分（Improper Integral） $\\int_1^\\infty \\frac{1}{x^7} dx$ 的斂散性。",
+      "options": [
+        "不確定",
+        "發散",
+        "收斂",
+        "無解"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據 $p$-級數積分判別法：在 $[1, \\infty)$，$\\int_1^\\infty \\frac{1}{x^p} dx$ 在 $p = 7 > 1$ 時收斂。\n\n---",
+      "chapter": "Ch7 7.8節：瑕積分",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "求瑕積分 $\\int_1^\\infty \\frac{1}{x} dx$ 的斂散性。",
+      "options": [
+        "收斂",
+        "發散",
+        "振盪散開",
+        "極限為 1"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "$\\lim_{t \\to \\infty} [\\ln x]_1^t = \\lim_{t \\to \\infty} \\ln t = \\infty$，故發散。\n\n---",
+      "chapter": "Ch7 7.8節：瑕積分",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "求瑕積分（Improper Integral） $\\int_1^\\infty \\frac{1}{x^9} dx$ 的斂散性。",
+      "options": [
+        "發散",
+        "收斂",
+        "不確定",
+        "無解"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "根據 $p$-級數積分判別法：在 $[1, \\infty)$，$\\int_1^\\infty \\frac{1}{x^p} dx$ 在 $p = 9 > 1$ 時收斂。\n\n---",
+      "chapter": "Ch7 7.8節：瑕積分",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "求瑕積分 $\\int_1^\\infty \\frac{1}{x} dx$ 的斂散性。",
+      "options": [
+        "發散",
+        "收斂",
+        "振盪散開",
+        "極限為 1"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "$\\lim_{t \\to \\infty} [\\ln x]_1^t = \\lim_{t \\to \\infty} \\ln t = \\infty$，故發散。\n\n---",
+      "chapter": "Ch7 7.8節：瑕積分",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "求瑕積分（Improper Integral） $\\int_1^\\infty \\frac{1}{x^11} dx$ 的斂散性。",
+      "options": [
+        "不確定",
+        "發散",
+        "收斂",
+        "無解"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據 $p$-級數積分判別法：在 $[1, \\infty)$，$\\int_1^\\infty \\frac{1}{x^p} dx$ 在 $p = 11 > 1$ 時收斂。\n\n---",
+      "chapter": "Ch7 7.8節：瑕積分",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "求瑕積分 $\\int_1^\\infty \\frac{1}{x} dx$ 的斂散性。",
+      "options": [
+        "收斂",
+        "發散",
+        "振盪散開",
+        "極限為 1"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "$\\lim_{t \\to \\infty} [\\ln x]_1^t = \\lim_{t \\to \\infty} \\ln t = \\infty$，故發散。\n\n---",
+      "chapter": "Ch7 7.8節：瑕積分",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "求瑕積分（Improper Integral） $\\int_1^\\infty \\frac{1}{x^13} dx$ 的斂散性。",
+      "options": [
+        "發散",
+        "收斂",
+        "不確定",
+        "無解"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "根據 $p$-級數積分判別法：在 $[1, \\infty)$，$\\int_1^\\infty \\frac{1}{x^p} dx$ 在 $p = 13 > 1$ 時收斂。\n\n---",
+      "chapter": "Ch7 7.8節：瑕積分",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "求瑕積分 $\\int_1^\\infty \\frac{1}{x} dx$ 的斂散性。",
+      "options": [
+        "發散",
+        "收斂",
+        "振盪散開",
+        "極限為 1"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "$\\lim_{t \\to \\infty} [\\ln x]_1^t = \\lim_{t \\to \\infty} \\ln t = \\infty$，故發散。\n\n---",
+      "chapter": "Ch7 7.8節：瑕積分",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "求瑕積分（Improper Integral） $\\int_1^\\infty \\frac{1}{x^15} dx$ 的斂散性。",
+      "options": [
+        "不確定",
+        "發散",
+        "收斂",
+        "無解"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據 $p$-級數積分判別法：在 $[1, \\infty)$，$\\int_1^\\infty \\frac{1}{x^p} dx$ 在 $p = 15 > 1$ 時收斂。\n\n---",
+      "chapter": "Ch7 7.8節：瑕積分",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "求瑕積分 $\\int_1^\\infty \\frac{1}{x} dx$ 的斂散性。",
+      "options": [
+        "收斂",
+        "發散",
+        "振盪散開",
+        "極限為 1"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "$\\lim_{t \\to \\infty} [\\ln x]_1^t = \\lim_{t \\to \\infty} \\ln t = \\infty$，故發散。\n\n---",
+      "chapter": "Ch7 7.8節：瑕積分",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "求瑕積分（Improper Integral） $\\int_1^\\infty \\frac{1}{x^17} dx$ 的斂散性。",
+      "options": [
+        "發散",
+        "收斂",
+        "不確定",
+        "無解"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "根據 $p$-級數積分判別法：在 $[1, \\infty)$，$\\int_1^\\infty \\frac{1}{x^p} dx$ 在 $p = 17 > 1$ 時收斂。\n\n---",
+      "chapter": "Ch7 7.8節：瑕積分",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "求瑕積分 $\\int_1^\\infty \\frac{1}{x} dx$ 的斂散性。",
+      "options": [
+        "發散",
+        "收斂",
+        "振盪散開",
+        "極限為 1"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "$\\lim_{t \\to \\infty} [\\ln x]_1^t = \\lim_{t \\to \\infty} \\ln t = \\infty$，故發散。\n\n---",
+      "chapter": "Ch7 7.8節：瑕積分",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "求瑕積分（Improper Integral） $\\int_1^\\infty \\frac{1}{x^19} dx$ 的斂散性。",
+      "options": [
+        "不確定",
+        "發散",
+        "收斂",
+        "無解"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據 $p$-級數積分判別法：在 $[1, \\infty)$，$\\int_1^\\infty \\frac{1}{x^p} dx$ 在 $p = 19 > 1$ 時收斂。\n\n---",
+      "chapter": "Ch7 7.8節：瑕積分",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "求瑕積分 $\\int_1^\\infty \\frac{1}{x} dx$ 的斂散性。",
+      "options": [
+        "收斂",
+        "發散",
+        "振盪散開",
+        "極限為 1"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "$\\lim_{t \\to \\infty} [\\ln x]_1^t = \\lim_{t \\to \\infty} \\ln t = \\infty$，故發散。\n\n---",
+      "chapter": "Ch7 7.8節：瑕積分",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "求瑕積分（Improper Integral） $\\int_1^\\infty \\frac{1}{x^21} dx$ 的斂散性。",
+      "options": [
+        "發散",
+        "收斂",
+        "不確定",
+        "無解"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "根據 $p$-級數積分判別法：在 $[1, \\infty)$，$\\int_1^\\infty \\frac{1}{x^p} dx$ 在 $p = 21 > 1$ 時收斂。\n\n---",
+      "chapter": "Ch7 7.8節：瑕積分",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "求瑕積分 $\\int_1^\\infty \\frac{3}{x^2} dx$ 之精確收斂值。",
+      "options": [],
+      "answer": "3",
+      "type": "fill",
+      "solution": "積分為 $\\lim_{t \\to \\infty} [- \\frac{3}{x}]_1^t = \\lim_{t \\to \\infty} (- \\frac{3}{t} + 3) = 3$。\n\n---",
+      "chapter": "Ch7 7.8節：瑕積分",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "求瑕積分 $\\int_1^\\infty \\frac{4}{x^2} dx$ 之精確收斂值。",
+      "options": [],
+      "answer": "4",
+      "type": "fill",
+      "solution": "積分為 $\\lim_{t \\to \\infty} [- \\frac{4}{x}]_1^t = \\lim_{t \\to \\infty} (- \\frac{4}{t} + 4) = 4$。\n\n---",
+      "chapter": "Ch7 7.8節：瑕積分",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "求瑕積分 $\\int_1^\\infty \\frac{5}{x^2} dx$ 之精確收斂值。",
+      "options": [],
+      "answer": "5",
+      "type": "fill",
+      "solution": "積分為 $\\lim_{t \\to \\infty} [- \\frac{5}{x}]_1^t = \\lim_{t \\to \\infty} (- \\frac{5}{t} + 5) = 5$。\n\n---",
+      "chapter": "Ch7 7.8節：瑕積分",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "求瑕積分 $\\int_1^\\infty \\frac{6}{x^2} dx$ 之精確收斂值。",
+      "options": [],
+      "answer": "6",
+      "type": "fill",
+      "solution": "積分為 $\\lim_{t \\to \\infty} [- \\frac{6}{x}]_1^t = \\lim_{t \\to \\infty} (- \\frac{6}{t} + 6) = 6$。\n\n---",
+      "chapter": "Ch7 7.8節：瑕積分",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "求瑕積分 $\\int_1^\\infty \\frac{7}{x^2} dx$ 之精確收斂值。",
+      "options": [],
+      "answer": "7",
+      "type": "fill",
+      "solution": "積分為 $\\lim_{t \\to \\infty} [- \\frac{7}{x}]_1^t = \\lim_{t \\to \\infty} (- \\frac{7}{t} + 7) = 7$。\n\n---",
+      "chapter": "Ch7 7.8節：瑕積分",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "求瑕積分 $\\int_1^\\infty \\frac{8}{x^2} dx$ 之精確收斂值。",
+      "options": [],
+      "answer": "8",
+      "type": "fill",
+      "solution": "積分為 $\\lim_{t \\to \\infty} [- \\frac{8}{x}]_1^t = \\lim_{t \\to \\infty} (- \\frac{8}{t} + 8) = 8$。\n\n---",
+      "chapter": "Ch7 7.8節：瑕積分",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "求瑕積分 $\\int_1^\\infty \\frac{9}{x^2} dx$ 之精確收斂值。",
+      "options": [],
+      "answer": "9",
+      "type": "fill",
+      "solution": "積分為 $\\lim_{t \\to \\infty} [- \\frac{9}{x}]_1^t = \\lim_{t \\to \\infty} (- \\frac{9}{t} + 9) = 9$。\n\n---",
+      "chapter": "Ch7 7.8節：瑕積分",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "求瑕積分 $\\int_1^\\infty \\frac{10}{x^2} dx$ 之精確收斂值。",
+      "options": [],
+      "answer": "10",
+      "type": "fill",
+      "solution": "積分為 $\\lim_{t \\to \\infty} [- \\frac{10}{x}]_1^t = \\lim_{t \\to \\infty} (- \\frac{10}{t} + 10) = 10$。\n\n---",
+      "chapter": "Ch7 7.8節：瑕積分",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "求瑕積分 $\\int_1^\\infty \\frac{11}{x^2} dx$ 之精確收斂值。",
+      "options": [],
+      "answer": "11",
+      "type": "fill",
+      "solution": "積分為 $\\lim_{t \\to \\infty} [- \\frac{11}{x}]_1^t = \\lim_{t \\to \\infty} (- \\frac{11}{t} + 11) = 11$。\n\n---",
+      "chapter": "Ch7 7.8節：瑕積分",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "求瑕積分 $\\int_1^\\infty \\frac{12}{x^2} dx$ 之精確收斂值。",
+      "options": [],
+      "answer": "12",
+      "type": "fill",
+      "solution": "積分為 $\\lim_{t \\to \\infty} [- \\frac{12}{x}]_1^t = \\lim_{t \\to \\infty} (- \\frac{12}{t} + 12) = 12$。",
+      "chapter": "Ch7 7.8節：瑕積分",
+      "score": 10
+    }
+  ]
+}

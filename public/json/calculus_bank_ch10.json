@@ -1,0 +1,2404 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "text": "已知參數方程 $x = 2\\cos t$, $y = 2\\sin t$（$0 \\le t \\le 2\\pi$），此參數曲線所代表的幾何圖形為何？",
+      "options": [
+        "雙曲線",
+        "橢圓",
+        "圓",
+        "拋物線"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "因為 $x^2 + y^2 = (2\\cos t)^2 + (2\\sin t)^2 = 4(\\cos^2 t + \\sin^2 t) = 4$，其為一圓方程。\n\n---",
+      "chapter": "Ch10 10.1節：參數方程定義的曲線",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "對於一條參數曲線 $x = t^2$, $y = t^3 - 3t$，求此曲線在 $t=1$ 處的點坐標 $(x, y)$。",
+      "options": [
+        "$(1, 1)$",
+        "$(1, -2)$",
+        "$(1, 3)$",
+        "$(0, 0)$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $t=1$ 進入參數方程得 $x = 1^2 = 1$，$y = 1^3 - a(1) = 1 - a$。\n\n---",
+      "chapter": "Ch10 10.1節：參數方程定義的曲線",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "已知參數方程 $x = 4\\cos t$, $y = 4\\sin t$（$0 \\le t \\le 2\\pi$），此參數曲線所代表的幾何圖形為何？",
+      "options": [
+        "拋物線",
+        "橢圓",
+        "雙曲線",
+        "圓"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "因為 $x^2 + y^2 = (4\\cos t)^2 + (4\\sin t)^2 = 16(\\cos^2 t + \\sin^2 t) = 16$，其為一圓方程。\n\n---",
+      "chapter": "Ch10 10.1節：參數方程定義的曲線",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "對於一條參數曲線 $x = t^2$, $y = t^3 - 5t$，求此曲線在 $t=1$ 處的點坐標 $(x, y)$。",
+      "options": [
+        "$(1, -4)$",
+        "$(1, 1)$",
+        "$(1, 5)$",
+        "$(0, 0)$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $t=1$ 進入參數方程得 $x = 1^2 = 1$，$y = 1^3 - a(1) = 1 - a$。\n\n---",
+      "chapter": "Ch10 10.1節：參數方程定義的曲線",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "已知參數方程 $x = 6\\cos t$, $y = 6\\sin t$（$0 \\le t \\le 2\\pi$），此參數曲線所代表的幾何圖形為何？",
+      "options": [
+        "雙曲線",
+        "橢圓",
+        "圓",
+        "拋物線"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "因為 $x^2 + y^2 = (6\\cos t)^2 + (6\\sin t)^2 = 36(\\cos^2 t + \\sin^2 t) = 36$，其為一圓方程。\n\n---",
+      "chapter": "Ch10 10.1節：參數方程定義的曲線",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "對於一條參數曲線 $x = t^2$, $y = t^3 - 7t$，求此曲線在 $t=1$ 處的點坐標 $(x, y)$。",
+      "options": [
+        "$(1, 1)$",
+        "$(1, -6)$",
+        "$(1, 7)$",
+        "$(0, 0)$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $t=1$ 進入參數方程得 $x = 1^2 = 1$，$y = 1^3 - a(1) = 1 - a$。\n\n---",
+      "chapter": "Ch10 10.1節：參數方程定義的曲線",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "已知參數方程 $x = 8\\cos t$, $y = 8\\sin t$（$0 \\le t \\le 2\\pi$），此參數曲線所代表的幾何圖形為何？",
+      "options": [
+        "拋物線",
+        "橢圓",
+        "雙曲線",
+        "圓"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "因為 $x^2 + y^2 = (8\\cos t)^2 + (8\\sin t)^2 = 64(\\cos^2 t + \\sin^2 t) = 64$，其為一圓方程。\n\n---",
+      "chapter": "Ch10 10.1節：參數方程定義的曲線",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "對於一條參數曲線 $x = t^2$, $y = t^3 - 9t$，求此曲線在 $t=1$ 處的點坐標 $(x, y)$。",
+      "options": [
+        "$(1, -8)$",
+        "$(1, 1)$",
+        "$(1, 9)$",
+        "$(0, 0)$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $t=1$ 進入參數方程得 $x = 1^2 = 1$，$y = 1^3 - a(1) = 1 - a$。\n\n---",
+      "chapter": "Ch10 10.1節：參數方程定義的曲線",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "已知參數方程 $x = 10\\cos t$, $y = 10\\sin t$（$0 \\le t \\le 2\\pi$），此參數曲線所代表的幾何圖形為何？",
+      "options": [
+        "雙曲線",
+        "橢圓",
+        "圓",
+        "拋物線"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "因為 $x^2 + y^2 = (10\\cos t)^2 + (10\\sin t)^2 = 100(\\cos^2 t + \\sin^2 t) = 100$，其為一圓方程。\n\n---",
+      "chapter": "Ch10 10.1節：參數方程定義的曲線",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "對於一條參數曲線 $x = t^2$, $y = t^3 - 11t$，求此曲線在 $t=1$ 處的點坐標 $(x, y)$。",
+      "options": [
+        "$(1, 1)$",
+        "$(1, -10)$",
+        "$(1, 11)$",
+        "$(0, 0)$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $t=1$ 進入參數方程得 $x = 1^2 = 1$，$y = 1^3 - a(1) = 1 - a$。\n\n---",
+      "chapter": "Ch10 10.1節：參數方程定義的曲線",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "已知參數方程 $x = 12\\cos t$, $y = 12\\sin t$（$0 \\le t \\le 2\\pi$），此參數曲線所代表的幾何圖形為何？",
+      "options": [
+        "拋物線",
+        "橢圓",
+        "雙曲線",
+        "圓"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "因為 $x^2 + y^2 = (12\\cos t)^2 + (12\\sin t)^2 = 144(\\cos^2 t + \\sin^2 t) = 144$，其為一圓方程。\n\n---",
+      "chapter": "Ch10 10.1節：參數方程定義的曲線",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "對於一條參數曲線 $x = t^2$, $y = t^3 - 13t$，求此曲線在 $t=1$ 處的點坐標 $(x, y)$。",
+      "options": [
+        "$(1, -12)$",
+        "$(1, 1)$",
+        "$(1, 13)$",
+        "$(0, 0)$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $t=1$ 進入參數方程得 $x = 1^2 = 1$，$y = 1^3 - a(1) = 1 - a$。\n\n---",
+      "chapter": "Ch10 10.1節：參數方程定義的曲線",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "已知參數方程 $x = 14\\cos t$, $y = 14\\sin t$（$0 \\le t \\le 2\\pi$），此參數曲線所代表的幾何圖形為何？",
+      "options": [
+        "雙曲線",
+        "橢圓",
+        "圓",
+        "拋物線"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "因為 $x^2 + y^2 = (14\\cos t)^2 + (14\\sin t)^2 = 196(\\cos^2 t + \\sin^2 t) = 196$，其為一圓方程。\n\n---",
+      "chapter": "Ch10 10.1節：參數方程定義的曲線",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "對於一條參數曲線 $x = t^2$, $y = t^3 - 15t$，求此曲線在 $t=1$ 處的點坐標 $(x, y)$。",
+      "options": [
+        "$(1, 1)$",
+        "$(1, -14)$",
+        "$(1, 15)$",
+        "$(0, 0)$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $t=1$ 進入參數方程得 $x = 1^2 = 1$，$y = 1^3 - a(1) = 1 - a$。\n\n---",
+      "chapter": "Ch10 10.1節：參數方程定義的曲線",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "已知參數方程 $x = 16\\cos t$, $y = 16\\sin t$（$0 \\le t \\le 2\\pi$），此參數曲線所代表的幾何圖形為何？",
+      "options": [
+        "拋物線",
+        "橢圓",
+        "雙曲線",
+        "圓"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "因為 $x^2 + y^2 = (16\\cos t)^2 + (16\\sin t)^2 = 256(\\cos^2 t + \\sin^2 t) = 256$，其為一圓方程。\n\n---",
+      "chapter": "Ch10 10.1節：參數方程定義的曲線",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "對於一條參數曲線 $x = t^2$, $y = t^3 - 17t$，求此曲線在 $t=1$ 處的點坐標 $(x, y)$。",
+      "options": [
+        "$(1, -16)$",
+        "$(1, 1)$",
+        "$(1, 17)$",
+        "$(0, 0)$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $t=1$ 進入參數方程得 $x = 1^2 = 1$，$y = 1^3 - a(1) = 1 - a$。\n\n---",
+      "chapter": "Ch10 10.1節：參數方程定義的曲線",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "已知參數方程 $x = 18\\cos t$, $y = 18\\sin t$（$0 \\le t \\le 2\\pi$），此參數曲線所代表的幾何圖形為何？",
+      "options": [
+        "雙曲線",
+        "橢圓",
+        "圓",
+        "拋物線"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "因為 $x^2 + y^2 = (18\\cos t)^2 + (18\\sin t)^2 = 324(\\cos^2 t + \\sin^2 t) = 324$，其為一圓方程。\n\n---",
+      "chapter": "Ch10 10.1節：參數方程定義的曲線",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "對於一條參數曲線 $x = t^2$, $y = t^3 - 19t$，求此曲線在 $t=1$ 處的點坐標 $(x, y)$。",
+      "options": [
+        "$(1, 1)$",
+        "$(1, -18)$",
+        "$(1, 19)$",
+        "$(0, 0)$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $t=1$ 進入參數方程得 $x = 1^2 = 1$，$y = 1^3 - a(1) = 1 - a$。\n\n---",
+      "chapter": "Ch10 10.1節：參數方程定義的曲線",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "已知參數方程 $x = 20\\cos t$, $y = 20\\sin t$（$0 \\le t \\le 2\\pi$），此參數曲線所代表的幾何圖形為何？",
+      "options": [
+        "拋物線",
+        "橢圓",
+        "雙曲線",
+        "圓"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "因為 $x^2 + y^2 = (20\\cos t)^2 + (20\\sin t)^2 = 400(\\cos^2 t + \\sin^2 t) = 400$，其為一圓方程。\n\n---",
+      "chapter": "Ch10 10.1節：參數方程定義的曲線",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "對於一條參數曲線 $x = t^2$, $y = t^3 - 21t$，求此曲線在 $t=1$ 處的點坐標 $(x, y)$。",
+      "options": [
+        "$(1, -20)$",
+        "$(1, 1)$",
+        "$(1, 21)$",
+        "$(0, 0)$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $t=1$ 進入參數方程得 $x = 1^2 = 1$，$y = 1^3 - a(1) = 1 - a$。\n\n---",
+      "chapter": "Ch10 10.1節：參數方程定義的曲線",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "設參數曲線 $x = t + 3$, $y = 2t + 1$，將其消去參數 $t$ 得到直角坐標方程 $y = mx + b$，求斜率 $m$ 的值。",
+      "options": [],
+      "answer": "2",
+      "type": "fill",
+      "solution": "由 $x = t + 3 \\implies t = x - 3$。代入 $y = 2(x - 3) + 1 = 2x - 5$。斜率 $m=2$。\n\n---",
+      "chapter": "Ch10 10.1節：參數方程定義的曲線",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "設參數曲線 $x = t + 4$, $y = 2t + 1$，將其消去參數 $t$ 得到直角坐標方程 $y = mx + b$，求斜率 $m$ 的值。",
+      "options": [],
+      "answer": "2",
+      "type": "fill",
+      "solution": "由 $x = t + 4 \\implies t = x - 4$。代入 $y = 2(x - 4) + 1 = 2x - 7$。斜率 $m=2$。\n\n---",
+      "chapter": "Ch10 10.1節：參數方程定義的曲線",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "設參數曲線 $x = t + 5$, $y = 2t + 1$，將其消去參數 $t$ 得到直角坐標方程 $y = mx + b$，求斜率 $m$ 的值。",
+      "options": [],
+      "answer": "2",
+      "type": "fill",
+      "solution": "由 $x = t + 5 \\implies t = x - 5$。代入 $y = 2(x - 5) + 1 = 2x - 9$。斜率 $m=2$。\n\n---",
+      "chapter": "Ch10 10.1節：參數方程定義的曲線",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "設參數曲線 $x = t + 6$, $y = 2t + 1$，將其消去參數 $t$ 得到直角坐標方程 $y = mx + b$，求斜率 $m$ 的值。",
+      "options": [],
+      "answer": "2",
+      "type": "fill",
+      "solution": "由 $x = t + 6 \\implies t = x - 6$。代入 $y = 2(x - 6) + 1 = 2x - 11$。斜率 $m=2$。\n\n---",
+      "chapter": "Ch10 10.1節：參數方程定義的曲線",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "設參數曲線 $x = t + 7$, $y = 2t + 1$，將其消去參數 $t$ 得到直角坐標方程 $y = mx + b$，求斜率 $m$ 的值。",
+      "options": [],
+      "answer": "2",
+      "type": "fill",
+      "solution": "由 $x = t + 7 \\implies t = x - 7$。代入 $y = 2(x - 7) + 1 = 2x - 13$。斜率 $m=2$。\n\n---",
+      "chapter": "Ch10 10.1節：參數方程定義的曲線",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "設參數曲線 $x = t + 8$, $y = 2t + 1$，將其消去參數 $t$ 得到直角坐標方程 $y = mx + b$，求斜率 $m$ 的值。",
+      "options": [],
+      "answer": "2",
+      "type": "fill",
+      "solution": "由 $x = t + 8 \\implies t = x - 8$。代入 $y = 2(x - 8) + 1 = 2x - 15$。斜率 $m=2$。\n\n---",
+      "chapter": "Ch10 10.1節：參數方程定義的曲線",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "設參數曲線 $x = t + 9$, $y = 2t + 1$，將其消去參數 $t$ 得到直角坐標方程 $y = mx + b$，求斜率 $m$ 的值。",
+      "options": [],
+      "answer": "2",
+      "type": "fill",
+      "solution": "由 $x = t + 9 \\implies t = x - 9$。代入 $y = 2(x - 9) + 1 = 2x - 17$。斜率 $m=2$。\n\n---",
+      "chapter": "Ch10 10.1節：參數方程定義的曲線",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "設參數曲線 $x = t + 10$, $y = 2t + 1$，將其消去參數 $t$ 得到直角坐標方程 $y = mx + b$，求斜率 $m$ 的值。",
+      "options": [],
+      "answer": "2",
+      "type": "fill",
+      "solution": "由 $x = t + 10 \\implies t = x - 10$。代入 $y = 2(x - 10) + 1 = 2x - 19$。斜率 $m=2$。\n\n---",
+      "chapter": "Ch10 10.1節：參數方程定義的曲線",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "設參數曲線 $x = t + 11$, $y = 2t + 1$，將其消去參數 $t$ 得到直角坐標方程 $y = mx + b$，求斜率 $m$ 的值。",
+      "options": [],
+      "answer": "2",
+      "type": "fill",
+      "solution": "由 $x = t + 11 \\implies t = x - 11$。代入 $y = 2(x - 11) + 1 = 2x - 21$。斜率 $m=2$。\n\n---",
+      "chapter": "Ch10 10.1節：參數方程定義的曲線",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "設參數曲線 $x = t + 12$, $y = 2t + 1$，將其消去參數 $t$ 得到直角坐標方程 $y = mx + b$，求斜率 $m$ 的值。",
+      "options": [],
+      "answer": "2",
+      "type": "fill",
+      "solution": "由 $x = t + 12 \\implies t = x - 12$。代入 $y = 2(x - 12) + 1 = 2x - 23$。斜率 $m=2$。",
+      "chapter": "Ch10 10.1節：參數方程定義的曲線",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "參數曲線的第二階導數 $\\frac{d^2y}{dx^2}$ 的正確計算公式為何？",
+      "options": [
+        "$\\frac{dy/dt}{dx/dt}$",
+        "$\\frac{d^2y/dt^2}{d^2x/dt^2}$",
+        "$\\frac{\\frac{d}{dt}(\\frac{dy}{dx})}{dx/dt}$",
+        "$\\frac{dy}{dx}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "參數方程二階導數公式為 $\\frac{d}{dt}(\\frac{dy}{dx}) / \\frac{dx}{dt}$。\n\n---",
+      "chapter": "Ch10 10.2節：參數曲線的微積分",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "一條參數曲線由 $x = 3t^2$, $y = t^3$ 所定義，求其切線斜率 $\\frac{dy}{dx}$ 的一般表達式。",
+      "options": [
+        "$\\frac{3t}{6}$",
+        "$\\frac{2t}{3}$",
+        "$\\frac{t}{3}$",
+        "$3t$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "切線斜率公式 $\\frac{dy}{dx} = \\frac{dy/dt}{dx/dt} = \\frac{3t^2}{2at} = \\frac{3t}{2a}$。\n\n---",
+      "chapter": "Ch10 10.2節：參數曲線的微積分",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "參數曲線的第二階導數 $\\frac{d^2y}{dx^2}$ 的正確計算公式為何？",
+      "options": [
+        "$\\frac{dy}{dx}$",
+        "$\\frac{d^2y/dt^2}{d^2x/dt^2}$",
+        "$\\frac{dy/dt}{dx/dt}$",
+        "$\\frac{\\frac{d}{dt}(\\frac{dy}{dx})}{dx/dt}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "參數方程二階導數公式為 $\\frac{d}{dt}(\\frac{dy}{dx}) / \\frac{dx}{dt}$。\n\n---",
+      "chapter": "Ch10 10.2節：參數曲線的微積分",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "一條參數曲線由 $x = 5t^2$, $y = t^3$ 所定義，求其切線斜率 $\\frac{dy}{dx}$ 的一般表達式。",
+      "options": [
+        "$\\frac{2t}{5}$",
+        "$\\frac{3t}{10}$",
+        "$\\frac{t}{5}$",
+        "$5t$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "切線斜率公式 $\\frac{dy}{dx} = \\frac{dy/dt}{dx/dt} = \\frac{3t^2}{2at} = \\frac{3t}{2a}$。\n\n---",
+      "chapter": "Ch10 10.2節：參數曲線的微積分",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "參數曲線的第二階導數 $\\frac{d^2y}{dx^2}$ 的正確計算公式為何？",
+      "options": [
+        "$\\frac{dy/dt}{dx/dt}$",
+        "$\\frac{d^2y/dt^2}{d^2x/dt^2}$",
+        "$\\frac{\\frac{d}{dt}(\\frac{dy}{dx})}{dx/dt}$",
+        "$\\frac{dy}{dx}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "參數方程二階導數公式為 $\\frac{d}{dt}(\\frac{dy}{dx}) / \\frac{dx}{dt}$。\n\n---",
+      "chapter": "Ch10 10.2節：參數曲線的微積分",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "一條參數曲線由 $x = 7t^2$, $y = t^3$ 所定義，求其切線斜率 $\\frac{dy}{dx}$ 的一般表達式。",
+      "options": [
+        "$\\frac{3t}{14}$",
+        "$\\frac{2t}{7}$",
+        "$\\frac{t}{7}$",
+        "$7t$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "切線斜率公式 $\\frac{dy}{dx} = \\frac{dy/dt}{dx/dt} = \\frac{3t^2}{2at} = \\frac{3t}{2a}$。\n\n---",
+      "chapter": "Ch10 10.2節：參數曲線的微積分",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "參數曲線的第二階導數 $\\frac{d^2y}{dx^2}$ 的正確計算公式為何？",
+      "options": [
+        "$\\frac{dy}{dx}$",
+        "$\\frac{d^2y/dt^2}{d^2x/dt^2}$",
+        "$\\frac{dy/dt}{dx/dt}$",
+        "$\\frac{\\frac{d}{dt}(\\frac{dy}{dx})}{dx/dt}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "參數方程二階導數公式為 $\\frac{d}{dt}(\\frac{dy}{dx}) / \\frac{dx}{dt}$。\n\n---",
+      "chapter": "Ch10 10.2節：參數曲線的微積分",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "一條參數曲線由 $x = 9t^2$, $y = t^3$ 所定義，求其切線斜率 $\\frac{dy}{dx}$ 的一般表達式。",
+      "options": [
+        "$\\frac{2t}{9}$",
+        "$\\frac{3t}{18}$",
+        "$\\frac{t}{9}$",
+        "$9t$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "切線斜率公式 $\\frac{dy}{dx} = \\frac{dy/dt}{dx/dt} = \\frac{3t^2}{2at} = \\frac{3t}{2a}$。\n\n---",
+      "chapter": "Ch10 10.2節：參數曲線的微積分",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "參數曲線的第二階導數 $\\frac{d^2y}{dx^2}$ 的正確計算公式為何？",
+      "options": [
+        "$\\frac{dy/dt}{dx/dt}$",
+        "$\\frac{d^2y/dt^2}{d^2x/dt^2}$",
+        "$\\frac{\\frac{d}{dt}(\\frac{dy}{dx})}{dx/dt}$",
+        "$\\frac{dy}{dx}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "參數方程二階導數公式為 $\\frac{d}{dt}(\\frac{dy}{dx}) / \\frac{dx}{dt}$。\n\n---",
+      "chapter": "Ch10 10.2節：參數曲線的微積分",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "一條參數曲線由 $x = 11t^2$, $y = t^3$ 所定義，求其切線斜率 $\\frac{dy}{dx}$ 的一般表達式。",
+      "options": [
+        "$\\frac{3t}{22}$",
+        "$\\frac{2t}{11}$",
+        "$\\frac{t}{11}$",
+        "$11t$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "切線斜率公式 $\\frac{dy}{dx} = \\frac{dy/dt}{dx/dt} = \\frac{3t^2}{2at} = \\frac{3t}{2a}$。\n\n---",
+      "chapter": "Ch10 10.2節：參數曲線的微積分",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "參數曲線的第二階導數 $\\frac{d^2y}{dx^2}$ 的正確計算公式為何？",
+      "options": [
+        "$\\frac{dy}{dx}$",
+        "$\\frac{d^2y/dt^2}{d^2x/dt^2}$",
+        "$\\frac{dy/dt}{dx/dt}$",
+        "$\\frac{\\frac{d}{dt}(\\frac{dy}{dx})}{dx/dt}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "參數方程二階導數公式為 $\\frac{d}{dt}(\\frac{dy}{dx}) / \\frac{dx}{dt}$。\n\n---",
+      "chapter": "Ch10 10.2節：參數曲線的微積分",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "一條參數曲線由 $x = 13t^2$, $y = t^3$ 所定義，求其切線斜率 $\\frac{dy}{dx}$ 的一般表達式。",
+      "options": [
+        "$\\frac{2t}{13}$",
+        "$\\frac{3t}{26}$",
+        "$\\frac{t}{13}$",
+        "$13t$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "切線斜率公式 $\\frac{dy}{dx} = \\frac{dy/dt}{dx/dt} = \\frac{3t^2}{2at} = \\frac{3t}{2a}$。\n\n---",
+      "chapter": "Ch10 10.2節：參數曲線的微積分",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "參數曲線的第二階導數 $\\frac{d^2y}{dx^2}$ 的正確計算公式為何？",
+      "options": [
+        "$\\frac{dy/dt}{dx/dt}$",
+        "$\\frac{d^2y/dt^2}{d^2x/dt^2}$",
+        "$\\frac{\\frac{d}{dt}(\\frac{dy}{dx})}{dx/dt}$",
+        "$\\frac{dy}{dx}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "參數方程二階導數公式為 $\\frac{d}{dt}(\\frac{dy}{dx}) / \\frac{dx}{dt}$。\n\n---",
+      "chapter": "Ch10 10.2節：參數曲線的微積分",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "一條參數曲線由 $x = 15t^2$, $y = t^3$ 所定義，求其切線斜率 $\\frac{dy}{dx}$ 的一般表達式。",
+      "options": [
+        "$\\frac{3t}{30}$",
+        "$\\frac{2t}{15}$",
+        "$\\frac{t}{15}$",
+        "$15t$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "切線斜率公式 $\\frac{dy}{dx} = \\frac{dy/dt}{dx/dt} = \\frac{3t^2}{2at} = \\frac{3t}{2a}$。\n\n---",
+      "chapter": "Ch10 10.2節：參數曲線的微積分",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "參數曲線的第二階導數 $\\frac{d^2y}{dx^2}$ 的正確計算公式為何？",
+      "options": [
+        "$\\frac{dy}{dx}$",
+        "$\\frac{d^2y/dt^2}{d^2x/dt^2}$",
+        "$\\frac{dy/dt}{dx/dt}$",
+        "$\\frac{\\frac{d}{dt}(\\frac{dy}{dx})}{dx/dt}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "參數方程二階導數公式為 $\\frac{d}{dt}(\\frac{dy}{dx}) / \\frac{dx}{dt}$。\n\n---",
+      "chapter": "Ch10 10.2節：參數曲線的微積分",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "一條參數曲線由 $x = 17t^2$, $y = t^3$ 所定義，求其切線斜率 $\\frac{dy}{dx}$ 的一般表達式。",
+      "options": [
+        "$\\frac{2t}{17}$",
+        "$\\frac{3t}{34}$",
+        "$\\frac{t}{17}$",
+        "$17t$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "切線斜率公式 $\\frac{dy}{dx} = \\frac{dy/dt}{dx/dt} = \\frac{3t^2}{2at} = \\frac{3t}{2a}$。\n\n---",
+      "chapter": "Ch10 10.2節：參數曲線的微積分",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "參數曲線的第二階導數 $\\frac{d^2y}{dx^2}$ 的正確計算公式為何？",
+      "options": [
+        "$\\frac{dy/dt}{dx/dt}$",
+        "$\\frac{d^2y/dt^2}{d^2x/dt^2}$",
+        "$\\frac{\\frac{d}{dt}(\\frac{dy}{dx})}{dx/dt}$",
+        "$\\frac{dy}{dx}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "參數方程二階導數公式為 $\\frac{d}{dt}(\\frac{dy}{dx}) / \\frac{dx}{dt}$。\n\n---",
+      "chapter": "Ch10 10.2節：參數曲線的微積分",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "一條參數曲線由 $x = 19t^2$, $y = t^3$ 所定義，求其切線斜率 $\\frac{dy}{dx}$ 的一般表達式。",
+      "options": [
+        "$\\frac{3t}{38}$",
+        "$\\frac{2t}{19}$",
+        "$\\frac{t}{19}$",
+        "$19t$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "切線斜率公式 $\\frac{dy}{dx} = \\frac{dy/dt}{dx/dt} = \\frac{3t^2}{2at} = \\frac{3t}{2a}$。\n\n---",
+      "chapter": "Ch10 10.2節：參數曲線的微積分",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "參數曲線的第二階導數 $\\frac{d^2y}{dx^2}$ 的正確計算公式為何？",
+      "options": [
+        "$\\frac{dy}{dx}$",
+        "$\\frac{d^2y/dt^2}{d^2x/dt^2}$",
+        "$\\frac{dy/dt}{dx/dt}$",
+        "$\\frac{\\frac{d}{dt}(\\frac{dy}{dx})}{dx/dt}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "參數方程二階導數公式為 $\\frac{d}{dt}(\\frac{dy}{dx}) / \\frac{dx}{dt}$。\n\n---",
+      "chapter": "Ch10 10.2節：參數曲線的微積分",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "一條參數曲線由 $x = 21t^2$, $y = t^3$ 所定義，求其切線斜率 $\\frac{dy}{dx}$ 的一般表達式。",
+      "options": [
+        "$\\frac{2t}{21}$",
+        "$\\frac{3t}{42}$",
+        "$\\frac{t}{21}$",
+        "$21t$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "切線斜率公式 $\\frac{dy}{dx} = \\frac{dy/dt}{dx/dt} = \\frac{3t^2}{2at} = \\frac{3t}{2a}$。\n\n---",
+      "chapter": "Ch10 10.2節：參數曲線的微積分",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "一條參數曲線為 $x = t^2 + 1$, $y = 3t^3$，求當 $t=1$ 時切線斜率 $\\frac{dy}{dx}$ 的值。",
+      "options": [],
+      "answer": "4.5",
+      "type": "fill",
+      "solution": "$\\frac{dy}{dx} = \\frac{dy/dt}{dx/dt} = \\frac{33t^2}{2t} = \\frac{33t}{2}$。代入 $t=1 \\implies \\frac{33}{2}$。結果為 4.5。\n\n---",
+      "chapter": "Ch10 10.2節：參數曲線的微積分",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "一條參數曲線為 $x = t^2 + 1$, $y = 4t^3$，求當 $t=1$ 時切線斜率 $\\frac{dy}{dx}$ 的值。",
+      "options": [],
+      "answer": "6.0",
+      "type": "fill",
+      "solution": "$\\frac{dy}{dx} = \\frac{dy/dt}{dx/dt} = \\frac{34t^2}{2t} = \\frac{34t}{2}$。代入 $t=1 \\implies \\frac{34}{2}$。結果為 6.0。\n\n---",
+      "chapter": "Ch10 10.2節：參數曲線的微積分",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "一條參數曲線為 $x = t^2 + 1$, $y = 5t^3$，求當 $t=1$ 時切線斜率 $\\frac{dy}{dx}$ 的值。",
+      "options": [],
+      "answer": "7.5",
+      "type": "fill",
+      "solution": "$\\frac{dy}{dx} = \\frac{dy/dt}{dx/dt} = \\frac{35t^2}{2t} = \\frac{35t}{2}$。代入 $t=1 \\implies \\frac{35}{2}$。結果為 7.5。\n\n---",
+      "chapter": "Ch10 10.2節：參數曲線的微積分",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "一條參數曲線為 $x = t^2 + 1$, $y = 6t^3$，求當 $t=1$ 時切線斜率 $\\frac{dy}{dx}$ 的值。",
+      "options": [],
+      "answer": "9.0",
+      "type": "fill",
+      "solution": "$\\frac{dy}{dx} = \\frac{dy/dt}{dx/dt} = \\frac{36t^2}{2t} = \\frac{36t}{2}$。代入 $t=1 \\implies \\frac{36}{2}$。結果為 9.0。\n\n---",
+      "chapter": "Ch10 10.2節：參數曲線的微積分",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "一條參數曲線為 $x = t^2 + 1$, $y = 7t^3$，求當 $t=1$ 時切線斜率 $\\frac{dy}{dx}$ 的值。",
+      "options": [],
+      "answer": "10.5",
+      "type": "fill",
+      "solution": "$\\frac{dy}{dx} = \\frac{dy/dt}{dx/dt} = \\frac{37t^2}{2t} = \\frac{37t}{2}$。代入 $t=1 \\implies \\frac{37}{2}$。結果為 10.5。\n\n---",
+      "chapter": "Ch10 10.2節：參數曲線的微積分",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "一條參數曲線為 $x = t^2 + 1$, $y = 8t^3$，求當 $t=1$ 時切線斜率 $\\frac{dy}{dx}$ 的值。",
+      "options": [],
+      "answer": "12.0",
+      "type": "fill",
+      "solution": "$\\frac{dy}{dx} = \\frac{dy/dt}{dx/dt} = \\frac{38t^2}{2t} = \\frac{38t}{2}$。代入 $t=1 \\implies \\frac{38}{2}$。結果為 12.0。\n\n---",
+      "chapter": "Ch10 10.2節：參數曲線的微積分",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "一條參數曲線為 $x = t^2 + 1$, $y = 9t^3$，求當 $t=1$ 時切線斜率 $\\frac{dy}{dx}$ 的值。",
+      "options": [],
+      "answer": "13.5",
+      "type": "fill",
+      "solution": "$\\frac{dy}{dx} = \\frac{dy/dt}{dx/dt} = \\frac{39t^2}{2t} = \\frac{39t}{2}$。代入 $t=1 \\implies \\frac{39}{2}$。結果為 13.5。\n\n---",
+      "chapter": "Ch10 10.2節：參數曲線的微積分",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "一條參數曲線為 $x = t^2 + 1$, $y = 10t^3$，求當 $t=1$ 時切線斜率 $\\frac{dy}{dx}$ 的值。",
+      "options": [],
+      "answer": "15.0",
+      "type": "fill",
+      "solution": "$\\frac{dy}{dx} = \\frac{dy/dt}{dx/dt} = \\frac{310t^2}{2t} = \\frac{310t}{2}$。代入 $t=1 \\implies \\frac{310}{2}$。結果為 15.0。\n\n---",
+      "chapter": "Ch10 10.2節：參數曲線的微積分",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "一條參數曲線為 $x = t^2 + 1$, $y = 11t^3$，求當 $t=1$ 時切線斜率 $\\frac{dy}{dx}$ 的值。",
+      "options": [],
+      "answer": "16.5",
+      "type": "fill",
+      "solution": "$\\frac{dy}{dx} = \\frac{dy/dt}{dx/dt} = \\frac{311t^2}{2t} = \\frac{311t}{2}$。代入 $t=1 \\implies \\frac{311}{2}$。結果為 16.5。\n\n---",
+      "chapter": "Ch10 10.2節：參數曲線的微積分",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "一條參數曲線為 $x = t^2 + 1$, $y = 12t^3$，求當 $t=1$ 時切線斜率 $\\frac{dy}{dx}$ 的值。",
+      "options": [],
+      "answer": "18.0",
+      "type": "fill",
+      "solution": "$\\frac{dy}{dx} = \\frac{dy/dt}{dx/dt} = \\frac{312t^2}{2t} = \\frac{312t}{2}$。代入 $t=1 \\implies \\frac{312}{2}$。結果為 18.0。",
+      "chapter": "Ch10 10.2節：參數曲線的微積分",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "極坐標方程 $r = 2\\cos\\theta$ 在直角坐標下所代表的圖形為何？",
+      "options": [
+        "直線",
+        "圓",
+        "橢圓",
+        "雙曲線"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "乘以 $r$ 得 $r^2 = 2r\\cos\\theta \\implies x^2 + y^2 = 2x$，移項後代表一個圓心在 $(1.0, 0)$ 的圓。\n\n---",
+      "chapter": "Ch10 10.3節：極坐標",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "若某點的極坐標為 $(r, \\theta) = (3, \\frac{\\pi}{2})$，將其轉換為直角坐標 $(x, y)$。",
+      "options": [
+        "$(0, -3)$",
+        "$(3, 0)$",
+        "$(0, 3)$",
+        "$(1, 3)$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "直角坐標：$x = 3\\cos(\\frac{\\pi}{2}) = 0$，$y = 3\\sin(\\frac{\\pi}{2}) = 3$。\n\n---",
+      "chapter": "Ch10 10.3節：極坐標",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "極坐標方程 $r = 4\\cos\\theta$ 在直角坐標下所代表的圖形為何？",
+      "options": [
+        "雙曲線",
+        "直線",
+        "橢圓",
+        "圓"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "乘以 $r$ 得 $r^2 = 4r\\cos\\theta \\implies x^2 + y^2 = 4x$，移項後代表一個圓心在 $(2.0, 0)$ 的圓。\n\n---",
+      "chapter": "Ch10 10.3節：極坐標",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "若某點的極坐標為 $(r, \\theta) = (5, \\frac{\\pi}{2})$，將其轉換為直角坐標 $(x, y)$。",
+      "options": [
+        "$(0, 5)$",
+        "$(5, 0)$",
+        "$(0, -5)$",
+        "$(1, 5)$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "直角坐標：$x = 5\\cos(\\frac{\\pi}{2}) = 0$，$y = 5\\sin(\\frac{\\pi}{2}) = 5$。\n\n---",
+      "chapter": "Ch10 10.3節：極坐標",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "極坐標方程 $r = 6\\cos\\theta$ 在直角坐標下所代表的圖形為何？",
+      "options": [
+        "直線",
+        "圓",
+        "橢圓",
+        "雙曲線"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "乘以 $r$ 得 $r^2 = 6r\\cos\\theta \\implies x^2 + y^2 = 6x$，移項後代表一個圓心在 $(3.0, 0)$ 的圓。\n\n---",
+      "chapter": "Ch10 10.3節：極坐標",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "若某點的極坐標為 $(r, \\theta) = (7, \\frac{\\pi}{2})$，將其轉換為直角坐標 $(x, y)$。",
+      "options": [
+        "$(0, -7)$",
+        "$(7, 0)$",
+        "$(0, 7)$",
+        "$(1, 7)$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "直角坐標：$x = 7\\cos(\\frac{\\pi}{2}) = 0$，$y = 7\\sin(\\frac{\\pi}{2}) = 7$。\n\n---",
+      "chapter": "Ch10 10.3節：極坐標",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "極坐標方程 $r = 8\\cos\\theta$ 在直角坐標下所代表的圖形為何？",
+      "options": [
+        "雙曲線",
+        "直線",
+        "橢圓",
+        "圓"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "乘以 $r$ 得 $r^2 = 8r\\cos\\theta \\implies x^2 + y^2 = 8x$，移項後代表一個圓心在 $(4.0, 0)$ 的圓。\n\n---",
+      "chapter": "Ch10 10.3節：極坐標",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "若某點的極坐標為 $(r, \\theta) = (9, \\frac{\\pi}{2})$，將其轉換為直角坐標 $(x, y)$。",
+      "options": [
+        "$(0, 9)$",
+        "$(9, 0)$",
+        "$(0, -9)$",
+        "$(1, 9)$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "直角坐標：$x = 9\\cos(\\frac{\\pi}{2}) = 0$，$y = 9\\sin(\\frac{\\pi}{2}) = 9$。\n\n---",
+      "chapter": "Ch10 10.3節：極坐標",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "極坐標方程 $r = 10\\cos\\theta$ 在直角坐標下所代表的圖形為何？",
+      "options": [
+        "直線",
+        "圓",
+        "橢圓",
+        "雙曲線"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "乘以 $r$ 得 $r^2 = 10r\\cos\\theta \\implies x^2 + y^2 = 10x$，移項後代表一個圓心在 $(5.0, 0)$ 的圓。\n\n---",
+      "chapter": "Ch10 10.3節：極坐標",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "若某點的極坐標為 $(r, \\theta) = (11, \\frac{\\pi}{2})$，將其轉換為直角坐標 $(x, y)$。",
+      "options": [
+        "$(0, -11)$",
+        "$(11, 0)$",
+        "$(0, 11)$",
+        "$(1, 11)$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "直角坐標：$x = 11\\cos(\\frac{\\pi}{2}) = 0$，$y = 11\\sin(\\frac{\\pi}{2}) = 11$。\n\n---",
+      "chapter": "Ch10 10.3節：極坐標",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "極坐標方程 $r = 12\\cos\\theta$ 在直角坐標下所代表的圖形為何？",
+      "options": [
+        "雙曲線",
+        "直線",
+        "橢圓",
+        "圓"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "乘以 $r$ 得 $r^2 = 12r\\cos\\theta \\implies x^2 + y^2 = 12x$，移項後代表一個圓心在 $(6.0, 0)$ 的圓。\n\n---",
+      "chapter": "Ch10 10.3節：極坐標",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "若某點的極坐標為 $(r, \\theta) = (13, \\frac{\\pi}{2})$，將其轉換為直角坐標 $(x, y)$。",
+      "options": [
+        "$(0, 13)$",
+        "$(13, 0)$",
+        "$(0, -13)$",
+        "$(1, 13)$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "直角坐標：$x = 13\\cos(\\frac{\\pi}{2}) = 0$，$y = 13\\sin(\\frac{\\pi}{2}) = 13$。\n\n---",
+      "chapter": "Ch10 10.3節：極坐標",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "極坐標方程 $r = 14\\cos\\theta$ 在直角坐標下所代表的圖形為何？",
+      "options": [
+        "直線",
+        "圓",
+        "橢圓",
+        "雙曲線"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "乘以 $r$ 得 $r^2 = 14r\\cos\\theta \\implies x^2 + y^2 = 14x$，移項後代表一個圓心在 $(7.0, 0)$ 的圓。\n\n---",
+      "chapter": "Ch10 10.3節：極坐標",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "若某點的極坐標為 $(r, \\theta) = (15, \\frac{\\pi}{2})$，將其轉換為直角坐標 $(x, y)$。",
+      "options": [
+        "$(0, -15)$",
+        "$(15, 0)$",
+        "$(0, 15)$",
+        "$(1, 15)$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "直角坐標：$x = 15\\cos(\\frac{\\pi}{2}) = 0$，$y = 15\\sin(\\frac{\\pi}{2}) = 15$。\n\n---",
+      "chapter": "Ch10 10.3節：極坐標",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "極坐標方程 $r = 16\\cos\\theta$ 在直角坐標下所代表的圖形為何？",
+      "options": [
+        "雙曲線",
+        "直線",
+        "橢圓",
+        "圓"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "乘以 $r$ 得 $r^2 = 16r\\cos\\theta \\implies x^2 + y^2 = 16x$，移項後代表一個圓心在 $(8.0, 0)$ 的圓。\n\n---",
+      "chapter": "Ch10 10.3節：極坐標",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "若某點的極坐標為 $(r, \\theta) = (17, \\frac{\\pi}{2})$，將其轉換為直角坐標 $(x, y)$。",
+      "options": [
+        "$(0, 17)$",
+        "$(17, 0)$",
+        "$(0, -17)$",
+        "$(1, 17)$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "直角坐標：$x = 17\\cos(\\frac{\\pi}{2}) = 0$，$y = 17\\sin(\\frac{\\pi}{2}) = 17$。\n\n---",
+      "chapter": "Ch10 10.3節：極坐標",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "極坐標方程 $r = 18\\cos\\theta$ 在直角坐標下所代表的圖形為何？",
+      "options": [
+        "直線",
+        "圓",
+        "橢圓",
+        "雙曲線"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "乘以 $r$ 得 $r^2 = 18r\\cos\\theta \\implies x^2 + y^2 = 18x$，移項後代表一個圓心在 $(9.0, 0)$ 的圓。\n\n---",
+      "chapter": "Ch10 10.3節：極坐標",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "若某點的極坐標為 $(r, \\theta) = (19, \\frac{\\pi}{2})$，將其轉換為直角坐標 $(x, y)$。",
+      "options": [
+        "$(0, -19)$",
+        "$(19, 0)$",
+        "$(0, 19)$",
+        "$(1, 19)$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "直角坐標：$x = 19\\cos(\\frac{\\pi}{2}) = 0$，$y = 19\\sin(\\frac{\\pi}{2}) = 19$。\n\n---",
+      "chapter": "Ch10 10.3節：極坐標",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "極坐標方程 $r = 20\\cos\\theta$ 在直角坐標下所代表的圖形為何？",
+      "options": [
+        "雙曲線",
+        "直線",
+        "橢圓",
+        "圓"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "乘以 $r$ 得 $r^2 = 20r\\cos\\theta \\implies x^2 + y^2 = 20x$，移項後代表一個圓心在 $(10.0, 0)$ 的圓。\n\n---",
+      "chapter": "Ch10 10.3節：極坐標",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "若某點的極坐標為 $(r, \\theta) = (21, \\frac{\\pi}{2})$，將其轉換為直角坐標 $(x, y)$。",
+      "options": [
+        "$(0, 21)$",
+        "$(21, 0)$",
+        "$(0, -21)$",
+        "$(1, 21)$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "直角坐標：$x = 21\\cos(\\frac{\\pi}{2}) = 0$，$y = 21\\sin(\\frac{\\pi}{2}) = 21$。\n\n---",
+      "chapter": "Ch10 10.3節：極坐標",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "已知一點在直角坐標為 $(3, 0)$，求其對應的極半徑 $r$ 的值。",
+      "options": [],
+      "answer": "3",
+      "type": "fill",
+      "solution": "極半徑 $r = \\sqrt{x^2 + y^2} = \\sqrt{3^2 + 0} = 3$。\n\n---",
+      "chapter": "Ch10 10.3節：極坐標",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "已知一點在直角坐標為 $(4, 0)$，求其對應的極半徑 $r$ 的值。",
+      "options": [],
+      "answer": "4",
+      "type": "fill",
+      "solution": "極半徑 $r = \\sqrt{x^2 + y^2} = \\sqrt{4^2 + 0} = 4$。\n\n---",
+      "chapter": "Ch10 10.3節：極坐標",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "已知一點在直角坐標為 $(5, 0)$，求其對應的極半徑 $r$ 的值。",
+      "options": [],
+      "answer": "5",
+      "type": "fill",
+      "solution": "極半徑 $r = \\sqrt{x^2 + y^2} = \\sqrt{5^2 + 0} = 5$。\n\n---",
+      "chapter": "Ch10 10.3節：極坐標",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "已知一點在直角坐標為 $(6, 0)$，求其對應的極半徑 $r$ 的值。",
+      "options": [],
+      "answer": "6",
+      "type": "fill",
+      "solution": "極半徑 $r = \\sqrt{x^2 + y^2} = \\sqrt{6^2 + 0} = 6$。\n\n---",
+      "chapter": "Ch10 10.3節：極坐標",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "已知一點在直角坐標為 $(7, 0)$，求其對應的極半徑 $r$ 的值。",
+      "options": [],
+      "answer": "7",
+      "type": "fill",
+      "solution": "極半徑 $r = \\sqrt{x^2 + y^2} = \\sqrt{7^2 + 0} = 7$。\n\n---",
+      "chapter": "Ch10 10.3節：極坐標",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "已知一點在直角坐標為 $(8, 0)$，求其對應的極半徑 $r$ 的值。",
+      "options": [],
+      "answer": "8",
+      "type": "fill",
+      "solution": "極半徑 $r = \\sqrt{x^2 + y^2} = \\sqrt{8^2 + 0} = 8$。\n\n---",
+      "chapter": "Ch10 10.3節：極坐標",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "已知一點在直角坐標為 $(9, 0)$，求其對應的極半徑 $r$ 的值。",
+      "options": [],
+      "answer": "9",
+      "type": "fill",
+      "solution": "極半徑 $r = \\sqrt{x^2 + y^2} = \\sqrt{9^2 + 0} = 9$。\n\n---",
+      "chapter": "Ch10 10.3節：極坐標",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "已知一點在直角坐標為 $(10, 0)$，求其對應的極半徑 $r$ 的值。",
+      "options": [],
+      "answer": "10",
+      "type": "fill",
+      "solution": "極半徑 $r = \\sqrt{x^2 + y^2} = \\sqrt{10^2 + 0} = 10$。\n\n---",
+      "chapter": "Ch10 10.3節：極坐標",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "已知一點在直角坐標為 $(11, 0)$，求其對應的極半徑 $r$ 的值。",
+      "options": [],
+      "answer": "11",
+      "type": "fill",
+      "solution": "極半徑 $r = \\sqrt{x^2 + y^2} = \\sqrt{11^2 + 0} = 11$。\n\n---",
+      "chapter": "Ch10 10.3節：極坐標",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "已知一點在直角坐標為 $(12, 0)$，求其對應的極半徑 $r$ 的值。",
+      "options": [],
+      "answer": "12",
+      "type": "fill",
+      "solution": "極半徑 $r = \\sqrt{x^2 + y^2} = \\sqrt{12^2 + 0} = 12$。",
+      "chapter": "Ch10 10.3節：極坐標",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "極坐標曲線 $r = f(\\theta)$ 在 $a \\le \\theta \\le b$ 的弧長公式為何？",
+      "options": [
+        "$\\int_a^b r d\\theta$",
+        "$\\int_a^b \\sqrt{1 + (\\frac{dr}{d\\theta})^2} d\\theta$",
+        "$\\int_a^b \\sqrt{r^2 + (\\frac{dr}{d\\theta})^2} d\\theta$",
+        "$\\int_a^b \\frac{1}{2}r^2 d\\theta$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "極坐標下的弧長公式為 $\\int_a^b \\sqrt{r^2 + (dr/d\\theta)^2} d\\theta$。\n\n---",
+      "chapter": "Ch10 10.4節：極坐標下的面積與長度",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "求極坐標曲線 $r = 3\\theta$ 在 $0 \\le \\theta \\le 2$ 範圍內圍成的面積。",
+      "options": [
+        "$\\frac{9}{3}$",
+        "$9$",
+        "$\\frac{3}{2}$",
+        "$6$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "極坐標面積公式：$A = \\int_a^b \\frac{1}{2} r^2 d\\theta$。故 $A = \\int_0^2 \\frac{1}{2} (a\\theta)^2 d\\theta = \\frac{a^2}{2} [\\frac{\\theta^3}{3}]_0^2 = \\frac{a^2}{2} \\cdot \\frac{8}{3} = \\frac{4a^2}{3}$。\n\n---",
+      "chapter": "Ch10 10.4節：極坐標下的面積與長度",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "極坐標曲線 $r = f(\\theta)$ 在 $a \\le \\theta \\le b$ 的弧長公式為何？",
+      "options": [
+        "$\\int_a^b \\frac{1}{2}r^2 d\\theta$",
+        "$\\int_a^b \\sqrt{1 + (\\frac{dr}{d\\theta})^2} d\\theta$",
+        "$\\int_a^b r d\\theta$",
+        "$\\int_a^b \\sqrt{r^2 + (\\frac{dr}{d\\theta})^2} d\\theta$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "極坐標下的弧長公式為 $\\int_a^b \\sqrt{r^2 + (dr/d\\theta)^2} d\\theta$。\n\n---",
+      "chapter": "Ch10 10.4節：極坐標下的面積與長度",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "求極坐標曲線 $r = 5\\theta$ 在 $0 \\le \\theta \\le 2$ 範圍內圍成的面積。",
+      "options": [
+        "$25$",
+        "$\\frac{25}{3}$",
+        "$\\frac{5}{2}$",
+        "$10$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "極坐標面積公式：$A = \\int_a^b \\frac{1}{2} r^2 d\\theta$。故 $A = \\int_0^2 \\frac{1}{2} (a\\theta)^2 d\\theta = \\frac{a^2}{2} [\\frac{\\theta^3}{3}]_0^2 = \\frac{a^2}{2} \\cdot \\frac{8}{3} = \\frac{4a^2}{3}$。\n\n---",
+      "chapter": "Ch10 10.4節：極坐標下的面積與長度",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "極坐標曲線 $r = f(\\theta)$ 在 $a \\le \\theta \\le b$ 的弧長公式為何？",
+      "options": [
+        "$\\int_a^b r d\\theta$",
+        "$\\int_a^b \\sqrt{1 + (\\frac{dr}{d\\theta})^2} d\\theta$",
+        "$\\int_a^b \\sqrt{r^2 + (\\frac{dr}{d\\theta})^2} d\\theta$",
+        "$\\int_a^b \\frac{1}{2}r^2 d\\theta$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "極坐標下的弧長公式為 $\\int_a^b \\sqrt{r^2 + (dr/d\\theta)^2} d\\theta$。\n\n---",
+      "chapter": "Ch10 10.4節：極坐標下的面積與長度",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "求極坐標曲線 $r = 7\\theta$ 在 $0 \\le \\theta \\le 2$ 範圍內圍成的面積。",
+      "options": [
+        "$\\frac{49}{3}$",
+        "$49$",
+        "$\\frac{7}{2}$",
+        "$14$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "極坐標面積公式：$A = \\int_a^b \\frac{1}{2} r^2 d\\theta$。故 $A = \\int_0^2 \\frac{1}{2} (a\\theta)^2 d\\theta = \\frac{a^2}{2} [\\frac{\\theta^3}{3}]_0^2 = \\frac{a^2}{2} \\cdot \\frac{8}{3} = \\frac{4a^2}{3}$。\n\n---",
+      "chapter": "Ch10 10.4節：極坐標下的面積與長度",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "極坐標曲線 $r = f(\\theta)$ 在 $a \\le \\theta \\le b$ 的弧長公式為何？",
+      "options": [
+        "$\\int_a^b \\frac{1}{2}r^2 d\\theta$",
+        "$\\int_a^b \\sqrt{1 + (\\frac{dr}{d\\theta})^2} d\\theta$",
+        "$\\int_a^b r d\\theta$",
+        "$\\int_a^b \\sqrt{r^2 + (\\frac{dr}{d\\theta})^2} d\\theta$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "極坐標下的弧長公式為 $\\int_a^b \\sqrt{r^2 + (dr/d\\theta)^2} d\\theta$。\n\n---",
+      "chapter": "Ch10 10.4節：極坐標下的面積與長度",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "求極坐標曲線 $r = 9\\theta$ 在 $0 \\le \\theta \\le 2$ 範圍內圍成的面積。",
+      "options": [
+        "$81$",
+        "$\\frac{81}{3}$",
+        "$\\frac{9}{2}$",
+        "$18$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "極坐標面積公式：$A = \\int_a^b \\frac{1}{2} r^2 d\\theta$。故 $A = \\int_0^2 \\frac{1}{2} (a\\theta)^2 d\\theta = \\frac{a^2}{2} [\\frac{\\theta^3}{3}]_0^2 = \\frac{a^2}{2} \\cdot \\frac{8}{3} = \\frac{4a^2}{3}$。\n\n---",
+      "chapter": "Ch10 10.4節：極坐標下的面積與長度",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "極坐標曲線 $r = f(\\theta)$ 在 $a \\le \\theta \\le b$ 的弧長公式為何？",
+      "options": [
+        "$\\int_a^b r d\\theta$",
+        "$\\int_a^b \\sqrt{1 + (\\frac{dr}{d\\theta})^2} d\\theta$",
+        "$\\int_a^b \\sqrt{r^2 + (\\frac{dr}{d\\theta})^2} d\\theta$",
+        "$\\int_a^b \\frac{1}{2}r^2 d\\theta$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "極坐標下的弧長公式為 $\\int_a^b \\sqrt{r^2 + (dr/d\\theta)^2} d\\theta$。\n\n---",
+      "chapter": "Ch10 10.4節：極坐標下的面積與長度",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "求極坐標曲線 $r = 11\\theta$ 在 $0 \\le \\theta \\le 2$ 範圍內圍成的面積。",
+      "options": [
+        "$\\frac{121}{3}$",
+        "$121$",
+        "$\\frac{11}{2}$",
+        "$22$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "極坐標面積公式：$A = \\int_a^b \\frac{1}{2} r^2 d\\theta$。故 $A = \\int_0^2 \\frac{1}{2} (a\\theta)^2 d\\theta = \\frac{a^2}{2} [\\frac{\\theta^3}{3}]_0^2 = \\frac{a^2}{2} \\cdot \\frac{8}{3} = \\frac{4a^2}{3}$。\n\n---",
+      "chapter": "Ch10 10.4節：極坐標下的面積與長度",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "極坐標曲線 $r = f(\\theta)$ 在 $a \\le \\theta \\le b$ 的弧長公式為何？",
+      "options": [
+        "$\\int_a^b \\frac{1}{2}r^2 d\\theta$",
+        "$\\int_a^b \\sqrt{1 + (\\frac{dr}{d\\theta})^2} d\\theta$",
+        "$\\int_a^b r d\\theta$",
+        "$\\int_a^b \\sqrt{r^2 + (\\frac{dr}{d\\theta})^2} d\\theta$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "極坐標下的弧長公式為 $\\int_a^b \\sqrt{r^2 + (dr/d\\theta)^2} d\\theta$。\n\n---",
+      "chapter": "Ch10 10.4節：極坐標下的面積與長度",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "求極坐標曲線 $r = 13\\theta$ 在 $0 \\le \\theta \\le 2$ 範圍內圍成的面積。",
+      "options": [
+        "$169$",
+        "$\\frac{169}{3}$",
+        "$\\frac{13}{2}$",
+        "$26$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "極坐標面積公式：$A = \\int_a^b \\frac{1}{2} r^2 d\\theta$。故 $A = \\int_0^2 \\frac{1}{2} (a\\theta)^2 d\\theta = \\frac{a^2}{2} [\\frac{\\theta^3}{3}]_0^2 = \\frac{a^2}{2} \\cdot \\frac{8}{3} = \\frac{4a^2}{3}$。\n\n---",
+      "chapter": "Ch10 10.4節：極坐標下的面積與長度",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "極坐標曲線 $r = f(\\theta)$ 在 $a \\le \\theta \\le b$ 的弧長公式為何？",
+      "options": [
+        "$\\int_a^b r d\\theta$",
+        "$\\int_a^b \\sqrt{1 + (\\frac{dr}{d\\theta})^2} d\\theta$",
+        "$\\int_a^b \\sqrt{r^2 + (\\frac{dr}{d\\theta})^2} d\\theta$",
+        "$\\int_a^b \\frac{1}{2}r^2 d\\theta$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "極坐標下的弧長公式為 $\\int_a^b \\sqrt{r^2 + (dr/d\\theta)^2} d\\theta$。\n\n---",
+      "chapter": "Ch10 10.4節：極坐標下的面積與長度",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "求極坐標曲線 $r = 15\\theta$ 在 $0 \\le \\theta \\le 2$ 範圍內圍成的面積。",
+      "options": [
+        "$\\frac{225}{3}$",
+        "$225$",
+        "$\\frac{15}{2}$",
+        "$30$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "極坐標面積公式：$A = \\int_a^b \\frac{1}{2} r^2 d\\theta$。故 $A = \\int_0^2 \\frac{1}{2} (a\\theta)^2 d\\theta = \\frac{a^2}{2} [\\frac{\\theta^3}{3}]_0^2 = \\frac{a^2}{2} \\cdot \\frac{8}{3} = \\frac{4a^2}{3}$。\n\n---",
+      "chapter": "Ch10 10.4節：極坐標下的面積與長度",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "極坐標曲線 $r = f(\\theta)$ 在 $a \\le \\theta \\le b$ 的弧長公式為何？",
+      "options": [
+        "$\\int_a^b \\frac{1}{2}r^2 d\\theta$",
+        "$\\int_a^b \\sqrt{1 + (\\frac{dr}{d\\theta})^2} d\\theta$",
+        "$\\int_a^b r d\\theta$",
+        "$\\int_a^b \\sqrt{r^2 + (\\frac{dr}{d\\theta})^2} d\\theta$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "極坐標下的弧長公式為 $\\int_a^b \\sqrt{r^2 + (dr/d\\theta)^2} d\\theta$。\n\n---",
+      "chapter": "Ch10 10.4節：極坐標下的面積與長度",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "求極坐標曲線 $r = 17\\theta$ 在 $0 \\le \\theta \\le 2$ 範圍內圍成的面積。",
+      "options": [
+        "$289$",
+        "$\\frac{289}{3}$",
+        "$\\frac{17}{2}$",
+        "$34$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "極坐標面積公式：$A = \\int_a^b \\frac{1}{2} r^2 d\\theta$。故 $A = \\int_0^2 \\frac{1}{2} (a\\theta)^2 d\\theta = \\frac{a^2}{2} [\\frac{\\theta^3}{3}]_0^2 = \\frac{a^2}{2} \\cdot \\frac{8}{3} = \\frac{4a^2}{3}$。\n\n---",
+      "chapter": "Ch10 10.4節：極坐標下的面積與長度",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "極坐標曲線 $r = f(\\theta)$ 在 $a \\le \\theta \\le b$ 的弧長公式為何？",
+      "options": [
+        "$\\int_a^b r d\\theta$",
+        "$\\int_a^b \\sqrt{1 + (\\frac{dr}{d\\theta})^2} d\\theta$",
+        "$\\int_a^b \\sqrt{r^2 + (\\frac{dr}{d\\theta})^2} d\\theta$",
+        "$\\int_a^b \\frac{1}{2}r^2 d\\theta$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "極坐標下的弧長公式為 $\\int_a^b \\sqrt{r^2 + (dr/d\\theta)^2} d\\theta$。\n\n---",
+      "chapter": "Ch10 10.4節：極坐標下的面積與長度",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "求極坐標曲線 $r = 19\\theta$ 在 $0 \\le \\theta \\le 2$ 範圍內圍成的面積。",
+      "options": [
+        "$\\frac{361}{3}$",
+        "$361$",
+        "$\\frac{19}{2}$",
+        "$38$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "極坐標面積公式：$A = \\int_a^b \\frac{1}{2} r^2 d\\theta$。故 $A = \\int_0^2 \\frac{1}{2} (a\\theta)^2 d\\theta = \\frac{a^2}{2} [\\frac{\\theta^3}{3}]_0^2 = \\frac{a^2}{2} \\cdot \\frac{8}{3} = \\frac{4a^2}{3}$。\n\n---",
+      "chapter": "Ch10 10.4節：極坐標下的面積與長度",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "極坐標曲線 $r = f(\\theta)$ 在 $a \\le \\theta \\le b$ 的弧長公式為何？",
+      "options": [
+        "$\\int_a^b \\frac{1}{2}r^2 d\\theta$",
+        "$\\int_a^b \\sqrt{1 + (\\frac{dr}{d\\theta})^2} d\\theta$",
+        "$\\int_a^b r d\\theta$",
+        "$\\int_a^b \\sqrt{r^2 + (\\frac{dr}{d\\theta})^2} d\\theta$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "極坐標下的弧長公式為 $\\int_a^b \\sqrt{r^2 + (dr/d\\theta)^2} d\\theta$。\n\n---",
+      "chapter": "Ch10 10.4節：極坐標下的面積與長度",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "求極坐標曲線 $r = 21\\theta$ 在 $0 \\le \\theta \\le 2$ 範圍內圍成的面積。",
+      "options": [
+        "$441$",
+        "$\\frac{441}{3}$",
+        "$\\frac{21}{2}$",
+        "$42$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "極坐標面積公式：$A = \\int_a^b \\frac{1}{2} r^2 d\\theta$。故 $A = \\int_0^2 \\frac{1}{2} (a\\theta)^2 d\\theta = \\frac{a^2}{2} [\\frac{\\theta^3}{3}]_0^2 = \\frac{a^2}{2} \\cdot \\frac{8}{3} = \\frac{4a^2}{3}$。\n\n---",
+      "chapter": "Ch10 10.4節：極坐標下的面積與長度",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "求圓 $r = 3$ 在 $0 \\le \\theta \\le 2\\pi$ 的定積分求出的總面積（以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "9",
+      "type": "fill",
+      "solution": "公式 $A = \\int_0^{2\\pi} \\frac{1}{2} r^2 d\\theta = \\frac{1}{2} 9 (2\\pi) = 9\\pi$。結果為 9。\n\n---",
+      "chapter": "Ch10 10.4節：極坐標下的面積與長度",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "求圓 $r = 4$ 在 $0 \\le \\theta \\le 2\\pi$ 的定積分求出的總面積（以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "16",
+      "type": "fill",
+      "solution": "公式 $A = \\int_0^{2\\pi} \\frac{1}{2} r^2 d\\theta = \\frac{1}{2} 16 (2\\pi) = 16\\pi$。結果為 16。\n\n---",
+      "chapter": "Ch10 10.4節：極坐標下的面積與長度",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "求圓 $r = 5$ 在 $0 \\le \\theta \\le 2\\pi$ 的定積分求出的總面積（以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "25",
+      "type": "fill",
+      "solution": "公式 $A = \\int_0^{2\\pi} \\frac{1}{2} r^2 d\\theta = \\frac{1}{2} 25 (2\\pi) = 25\\pi$。結果為 25。\n\n---",
+      "chapter": "Ch10 10.4節：極坐標下的面積與長度",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "求圓 $r = 6$ 在 $0 \\le \\theta \\le 2\\pi$ 的定積分求出的總面積（以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "36",
+      "type": "fill",
+      "solution": "公式 $A = \\int_0^{2\\pi} \\frac{1}{2} r^2 d\\theta = \\frac{1}{2} 36 (2\\pi) = 36\\pi$。結果為 36。\n\n---",
+      "chapter": "Ch10 10.4節：極坐標下的面積與長度",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "求圓 $r = 7$ 在 $0 \\le \\theta \\le 2\\pi$ 的定積分求出的總面積（以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "49",
+      "type": "fill",
+      "solution": "公式 $A = \\int_0^{2\\pi} \\frac{1}{2} r^2 d\\theta = \\frac{1}{2} 49 (2\\pi) = 49\\pi$。結果為 49。\n\n---",
+      "chapter": "Ch10 10.4節：極坐標下的面積與長度",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "求圓 $r = 8$ 在 $0 \\le \\theta \\le 2\\pi$ 的定積分求出的總面積（以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "64",
+      "type": "fill",
+      "solution": "公式 $A = \\int_0^{2\\pi} \\frac{1}{2} r^2 d\\theta = \\frac{1}{2} 64 (2\\pi) = 64\\pi$。結果為 64。\n\n---",
+      "chapter": "Ch10 10.4節：極坐標下的面積與長度",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "求圓 $r = 9$ 在 $0 \\le \\theta \\le 2\\pi$ 的定積分求出的總面積（以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "81",
+      "type": "fill",
+      "solution": "公式 $A = \\int_0^{2\\pi} \\frac{1}{2} r^2 d\\theta = \\frac{1}{2} 81 (2\\pi) = 81\\pi$。結果為 81。\n\n---",
+      "chapter": "Ch10 10.4節：極坐標下的面積與長度",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "求圓 $r = 10$ 在 $0 \\le \\theta \\le 2\\pi$ 的定積分求出的總面積（以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "100",
+      "type": "fill",
+      "solution": "公式 $A = \\int_0^{2\\pi} \\frac{1}{2} r^2 d\\theta = \\frac{1}{2} 100 (2\\pi) = 100\\pi$。結果為 100。\n\n---",
+      "chapter": "Ch10 10.4節：極坐標下的面積與長度",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "求圓 $r = 11$ 在 $0 \\le \\theta \\le 2\\pi$ 的定積分求出的總面積（以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "121",
+      "type": "fill",
+      "solution": "公式 $A = \\int_0^{2\\pi} \\frac{1}{2} r^2 d\\theta = \\frac{1}{2} 121 (2\\pi) = 121\\pi$。結果為 121。\n\n---",
+      "chapter": "Ch10 10.4節：極坐標下的面積與長度",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "求圓 $r = 12$ 在 $0 \\le \\theta \\le 2\\pi$ 的定積分求出的總面積（以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "144",
+      "type": "fill",
+      "solution": "公式 $A = \\int_0^{2\\pi} \\frac{1}{2} r^2 d\\theta = \\frac{1}{2} 144 (2\\pi) = 144\\pi$。結果為 144。",
+      "chapter": "Ch10 10.4節：極坐標下的面積與長度",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "橢圓 $\\frac{x^2}{4} + \\frac{y^2}{1} = 1$ 當 $2 > 1$ 時的離心率 $e$ 為何？",
+      "options": [
+        "$\\frac{1}{2}$",
+        "$\\frac{\\sqrt{4 - 1}}{2}$",
+        "$\\frac{\\sqrt{4 + 1}}{2}$",
+        "$1$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "橢圓中 $c = \\sqrt{a^2 - b^2} = \\sqrt{a^2 - 1}$，離心率 $e = \\frac{c}{a} = \\frac{\\sqrt{4 - 1}}{2}$。\n\n---",
+      "chapter": "Ch10 10.5節：圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "拋物線 $y^2 = 12x$ 的焦點坐標為何？",
+      "options": [
+        "$(-3, 0)$",
+        "$(0, 3)$",
+        "$(3, 0)$",
+        "$(1, 3)$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "標準拋物線形式為 $y^2 = 4px$，此處 $4p = 12 \\implies p = 3$。故焦點為 $(3, 0)$。\n\n---",
+      "chapter": "Ch10 10.5節：圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "橢圓 $\\frac{x^2}{16} + \\frac{y^2}{1} = 1$ 當 $4 > 1$ 時的離心率 $e$ 為何？",
+      "options": [
+        "$1$",
+        "$\\frac{1}{4}$",
+        "$\\frac{\\sqrt{16 + 1}}{4}$",
+        "$\\frac{\\sqrt{16 - 1}}{4}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "橢圓中 $c = \\sqrt{a^2 - b^2} = \\sqrt{a^2 - 1}$，離心率 $e = \\frac{c}{a} = \\frac{\\sqrt{16 - 1}}{4}$。\n\n---",
+      "chapter": "Ch10 10.5節：圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "拋物線 $y^2 = 20x$ 的焦點坐標為何？",
+      "options": [
+        "$(5, 0)$",
+        "$(0, 5)$",
+        "$(-5, 0)$",
+        "$(1, 5)$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "標準拋物線形式為 $y^2 = 4px$，此處 $4p = 20 \\implies p = 5$。故焦點為 $(5, 0)$。\n\n---",
+      "chapter": "Ch10 10.5節：圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "橢圓 $\\frac{x^2}{36} + \\frac{y^2}{1} = 1$ 當 $6 > 1$ 時的離心率 $e$ 為何？",
+      "options": [
+        "$\\frac{1}{6}$",
+        "$\\frac{\\sqrt{36 - 1}}{6}$",
+        "$\\frac{\\sqrt{36 + 1}}{6}$",
+        "$1$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "橢圓中 $c = \\sqrt{a^2 - b^2} = \\sqrt{a^2 - 1}$，離心率 $e = \\frac{c}{a} = \\frac{\\sqrt{36 - 1}}{6}$。\n\n---",
+      "chapter": "Ch10 10.5節：圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "拋物線 $y^2 = 28x$ 的焦點坐標為何？",
+      "options": [
+        "$(-7, 0)$",
+        "$(0, 7)$",
+        "$(7, 0)$",
+        "$(1, 7)$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "標準拋物線形式為 $y^2 = 4px$，此處 $4p = 28 \\implies p = 7$。故焦點為 $(7, 0)$。\n\n---",
+      "chapter": "Ch10 10.5節：圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "橢圓 $\\frac{x^2}{64} + \\frac{y^2}{1} = 1$ 當 $8 > 1$ 時的離心率 $e$ 為何？",
+      "options": [
+        "$1$",
+        "$\\frac{1}{8}$",
+        "$\\frac{\\sqrt{64 + 1}}{8}$",
+        "$\\frac{\\sqrt{64 - 1}}{8}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "橢圓中 $c = \\sqrt{a^2 - b^2} = \\sqrt{a^2 - 1}$，離心率 $e = \\frac{c}{a} = \\frac{\\sqrt{64 - 1}}{8}$。\n\n---",
+      "chapter": "Ch10 10.5節：圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "拋物線 $y^2 = 36x$ 的焦點坐標為何？",
+      "options": [
+        "$(9, 0)$",
+        "$(0, 9)$",
+        "$(-9, 0)$",
+        "$(1, 9)$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "標準拋物線形式為 $y^2 = 4px$，此處 $4p = 36 \\implies p = 9$。故焦點為 $(9, 0)$。\n\n---",
+      "chapter": "Ch10 10.5節：圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "橢圓 $\\frac{x^2}{100} + \\frac{y^2}{1} = 1$ 當 $10 > 1$ 時的離心率 $e$ 為何？",
+      "options": [
+        "$\\frac{1}{10}$",
+        "$\\frac{\\sqrt{100 - 1}}{10}$",
+        "$\\frac{\\sqrt{100 + 1}}{10}$",
+        "$1$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "橢圓中 $c = \\sqrt{a^2 - b^2} = \\sqrt{a^2 - 1}$，離心率 $e = \\frac{c}{a} = \\frac{\\sqrt{100 - 1}}{10}$。\n\n---",
+      "chapter": "Ch10 10.5節：圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "拋物線 $y^2 = 44x$ 的焦點坐標為何？",
+      "options": [
+        "$(-11, 0)$",
+        "$(0, 11)$",
+        "$(11, 0)$",
+        "$(1, 11)$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "標準拋物線形式為 $y^2 = 4px$，此處 $4p = 44 \\implies p = 11$。故焦點為 $(11, 0)$。\n\n---",
+      "chapter": "Ch10 10.5節：圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "橢圓 $\\frac{x^2}{144} + \\frac{y^2}{1} = 1$ 當 $12 > 1$ 時的離心率 $e$ 為何？",
+      "options": [
+        "$1$",
+        "$\\frac{1}{12}$",
+        "$\\frac{\\sqrt{144 + 1}}{12}$",
+        "$\\frac{\\sqrt{144 - 1}}{12}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "橢圓中 $c = \\sqrt{a^2 - b^2} = \\sqrt{a^2 - 1}$，離心率 $e = \\frac{c}{a} = \\frac{\\sqrt{144 - 1}}{12}$。\n\n---",
+      "chapter": "Ch10 10.5節：圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "拋物線 $y^2 = 52x$ 的焦點坐標為何？",
+      "options": [
+        "$(13, 0)$",
+        "$(0, 13)$",
+        "$(-13, 0)$",
+        "$(1, 13)$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "標準拋物線形式為 $y^2 = 4px$，此處 $4p = 52 \\implies p = 13$。故焦點為 $(13, 0)$。\n\n---",
+      "chapter": "Ch10 10.5節：圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "橢圓 $\\frac{x^2}{196} + \\frac{y^2}{1} = 1$ 當 $14 > 1$ 時的離心率 $e$ 為何？",
+      "options": [
+        "$\\frac{1}{14}$",
+        "$\\frac{\\sqrt{196 - 1}}{14}$",
+        "$\\frac{\\sqrt{196 + 1}}{14}$",
+        "$1$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "橢圓中 $c = \\sqrt{a^2 - b^2} = \\sqrt{a^2 - 1}$，離心率 $e = \\frac{c}{a} = \\frac{\\sqrt{196 - 1}}{14}$。\n\n---",
+      "chapter": "Ch10 10.5節：圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "拋物線 $y^2 = 60x$ 的焦點坐標為何？",
+      "options": [
+        "$(-15, 0)$",
+        "$(0, 15)$",
+        "$(15, 0)$",
+        "$(1, 15)$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "標準拋物線形式為 $y^2 = 4px$，此處 $4p = 60 \\implies p = 15$。故焦點為 $(15, 0)$。\n\n---",
+      "chapter": "Ch10 10.5節：圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "橢圓 $\\frac{x^2}{256} + \\frac{y^2}{1} = 1$ 當 $16 > 1$ 時的離心率 $e$ 為何？",
+      "options": [
+        "$1$",
+        "$\\frac{1}{16}$",
+        "$\\frac{\\sqrt{256 + 1}}{16}$",
+        "$\\frac{\\sqrt{256 - 1}}{16}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "橢圓中 $c = \\sqrt{a^2 - b^2} = \\sqrt{a^2 - 1}$，離心率 $e = \\frac{c}{a} = \\frac{\\sqrt{256 - 1}}{16}$。\n\n---",
+      "chapter": "Ch10 10.5節：圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "拋物線 $y^2 = 68x$ 的焦點坐標為何？",
+      "options": [
+        "$(17, 0)$",
+        "$(0, 17)$",
+        "$(-17, 0)$",
+        "$(1, 17)$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "標準拋物線形式為 $y^2 = 4px$，此處 $4p = 68 \\implies p = 17$。故焦點為 $(17, 0)$。\n\n---",
+      "chapter": "Ch10 10.5節：圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "橢圓 $\\frac{x^2}{324} + \\frac{y^2}{1} = 1$ 當 $18 > 1$ 時的離心率 $e$ 為何？",
+      "options": [
+        "$\\frac{1}{18}$",
+        "$\\frac{\\sqrt{324 - 1}}{18}$",
+        "$\\frac{\\sqrt{324 + 1}}{18}$",
+        "$1$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "橢圓中 $c = \\sqrt{a^2 - b^2} = \\sqrt{a^2 - 1}$，離心率 $e = \\frac{c}{a} = \\frac{\\sqrt{324 - 1}}{18}$。\n\n---",
+      "chapter": "Ch10 10.5節：圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "拋物線 $y^2 = 76x$ 的焦點坐標為何？",
+      "options": [
+        "$(-19, 0)$",
+        "$(0, 19)$",
+        "$(19, 0)$",
+        "$(1, 19)$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "標準拋物線形式為 $y^2 = 4px$，此處 $4p = 76 \\implies p = 19$。故焦點為 $(19, 0)$。\n\n---",
+      "chapter": "Ch10 10.5節：圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "橢圓 $\\frac{x^2}{400} + \\frac{y^2}{1} = 1$ 當 $20 > 1$ 時的離心率 $e$ 為何？",
+      "options": [
+        "$1$",
+        "$\\frac{1}{20}$",
+        "$\\frac{\\sqrt{400 + 1}}{20}$",
+        "$\\frac{\\sqrt{400 - 1}}{20}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "橢圓中 $c = \\sqrt{a^2 - b^2} = \\sqrt{a^2 - 1}$，離心率 $e = \\frac{c}{a} = \\frac{\\sqrt{400 - 1}}{20}$。\n\n---",
+      "chapter": "Ch10 10.5節：圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "拋物線 $y^2 = 84x$ 的焦點坐標為何？",
+      "options": [
+        "$(21, 0)$",
+        "$(0, 21)$",
+        "$(-21, 0)$",
+        "$(1, 21)$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "標準拋物線形式為 $y^2 = 4px$，此處 $4p = 84 \\implies p = 21$。故焦點為 $(21, 0)$。\n\n---",
+      "chapter": "Ch10 10.5節：圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "設拋物線方程為 $y^2 = 12x$，求準線（Directrix）方程 $x = k$ 的 $k$ 值。",
+      "options": [],
+      "answer": "-3",
+      "type": "fill",
+      "solution": "準線為 $x = -p$。因 $4p = 12 \\implies p = 3$。故準線為 $x = -3$。\n\n---",
+      "chapter": "Ch10 10.5節：圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "設拋物線方程為 $y^2 = 16x$，求準線（Directrix）方程 $x = k$ 的 $k$ 值。",
+      "options": [],
+      "answer": "-4",
+      "type": "fill",
+      "solution": "準線為 $x = -p$。因 $4p = 16 \\implies p = 4$。故準線為 $x = -4$。\n\n---",
+      "chapter": "Ch10 10.5節：圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "設拋物線方程為 $y^2 = 20x$，求準線（Directrix）方程 $x = k$ 的 $k$ 值。",
+      "options": [],
+      "answer": "-5",
+      "type": "fill",
+      "solution": "準線為 $x = -p$。因 $4p = 20 \\implies p = 5$。故準線為 $x = -5$。\n\n---",
+      "chapter": "Ch10 10.5節：圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "設拋物線方程為 $y^2 = 24x$，求準線（Directrix）方程 $x = k$ 的 $k$ 值。",
+      "options": [],
+      "answer": "-6",
+      "type": "fill",
+      "solution": "準線為 $x = -p$。因 $4p = 24 \\implies p = 6$。故準線為 $x = -6$。\n\n---",
+      "chapter": "Ch10 10.5節：圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "設拋物線方程為 $y^2 = 28x$，求準線（Directrix）方程 $x = k$ 的 $k$ 值。",
+      "options": [],
+      "answer": "-7",
+      "type": "fill",
+      "solution": "準線為 $x = -p$。因 $4p = 28 \\implies p = 7$。故準線為 $x = -7$。\n\n---",
+      "chapter": "Ch10 10.5節：圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "設拋物線方程為 $y^2 = 32x$，求準線（Directrix）方程 $x = k$ 的 $k$ 值。",
+      "options": [],
+      "answer": "-8",
+      "type": "fill",
+      "solution": "準線為 $x = -p$。因 $4p = 32 \\implies p = 8$。故準線為 $x = -8$。\n\n---",
+      "chapter": "Ch10 10.5節：圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "設拋物線方程為 $y^2 = 36x$，求準線（Directrix）方程 $x = k$ 的 $k$ 值。",
+      "options": [],
+      "answer": "-9",
+      "type": "fill",
+      "solution": "準線為 $x = -p$。因 $4p = 36 \\implies p = 9$。故準線為 $x = -9$。\n\n---",
+      "chapter": "Ch10 10.5節：圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "設拋物線方程為 $y^2 = 40x$，求準線（Directrix）方程 $x = k$ 的 $k$ 值。",
+      "options": [],
+      "answer": "-10",
+      "type": "fill",
+      "solution": "準線為 $x = -p$。因 $4p = 40 \\implies p = 10$。故準線為 $x = -10$。\n\n---",
+      "chapter": "Ch10 10.5節：圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "設拋物線方程為 $y^2 = 44x$，求準線（Directrix）方程 $x = k$ 的 $k$ 值。",
+      "options": [],
+      "answer": "-11",
+      "type": "fill",
+      "solution": "準線為 $x = -p$。因 $4p = 44 \\implies p = 11$。故準線為 $x = -11$。\n\n---",
+      "chapter": "Ch10 10.5節：圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "設拋物線方程為 $y^2 = 48x$，求準線（Directrix）方程 $x = k$ 的 $k$ 值。",
+      "options": [],
+      "answer": "-12",
+      "type": "fill",
+      "solution": "準線為 $x = -p$。因 $4p = 48 \\implies p = 12$。故準線為 $x = -12$。",
+      "chapter": "Ch10 10.5節：圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "若圓錐曲線極坐標方程中，離心率 $e = \\frac{1}{2}$ 且 $2 > 1$，則此曲線為何種圖形？",
+      "options": [
+        "雙曲線",
+        "拋物線",
+        "橢圓",
+        "圓"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "因為 $e = \\frac12 < 1$，故此圓錐曲線為橢圓。\n\n---",
+      "chapter": "Ch10 10.6節：極坐標下的圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "若圓錐曲線極坐標方程為 $r = \\frac{3}{1 + e\\cos\\theta}$，當 $e=1$ 時，此圓錐曲線屬於何種幾何圖形？",
+      "options": [
+        "拋物線",
+        "橢圓",
+        "雙曲線",
+        "圓"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "圓錐曲線分類依據離心率 $e$ 的大小。當 $e=1$ 時為拋物線，當 $e < 1$ 時為橢圓，當 $e > 1$ 時為雙曲線。\n\n---",
+      "chapter": "Ch10 10.6節：極坐標下的圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "若圓錐曲線極坐標方程中，離心率 $e = \\frac{1}{4}$ 且 $4 > 1$，則此曲線為何種圖形？",
+      "options": [
+        "圓",
+        "拋物線",
+        "雙曲線",
+        "橢圓"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "因為 $e = \\frac14 < 1$，故此圓錐曲線為橢圓。\n\n---",
+      "chapter": "Ch10 10.6節：極坐標下的圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "若圓錐曲線極坐標方程為 $r = \\frac{5}{1 + e\\cos\\theta}$，當 $e=1$ 時，此圓錐曲線屬於何種幾何圖形？",
+      "options": [
+        "橢圓",
+        "拋物線",
+        "雙曲線",
+        "圓"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "圓錐曲線分類依據離心率 $e$ 的大小。當 $e=1$ 時為拋物線，當 $e < 1$ 時為橢圓，當 $e > 1$ 時為雙曲線。\n\n---",
+      "chapter": "Ch10 10.6節：極坐標下的圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "若圓錐曲線極坐標方程中，離心率 $e = \\frac{1}{6}$ 且 $6 > 1$，則此曲線為何種圖形？",
+      "options": [
+        "雙曲線",
+        "拋物線",
+        "橢圓",
+        "圓"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "因為 $e = \\frac16 < 1$，故此圓錐曲線為橢圓。\n\n---",
+      "chapter": "Ch10 10.6節：極坐標下的圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "若圓錐曲線極坐標方程為 $r = \\frac{7}{1 + e\\cos\\theta}$，當 $e=1$ 時，此圓錐曲線屬於何種幾何圖形？",
+      "options": [
+        "拋物線",
+        "橢圓",
+        "雙曲線",
+        "圓"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "圓錐曲線分類依據離心率 $e$ 的大小。當 $e=1$ 時為拋物線，當 $e < 1$ 時為橢圓，當 $e > 1$ 時為雙曲線。\n\n---",
+      "chapter": "Ch10 10.6節：極坐標下的圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "若圓錐曲線極坐標方程中，離心率 $e = \\frac{1}{8}$ 且 $8 > 1$，則此曲線為何種圖形？",
+      "options": [
+        "圓",
+        "拋物線",
+        "雙曲線",
+        "橢圓"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "因為 $e = \\frac18 < 1$，故此圓錐曲線為橢圓。\n\n---",
+      "chapter": "Ch10 10.6節：極坐標下的圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "若圓錐曲線極坐標方程為 $r = \\frac{9}{1 + e\\cos\\theta}$，當 $e=1$ 時，此圓錐曲線屬於何種幾何圖形？",
+      "options": [
+        "橢圓",
+        "拋物線",
+        "雙曲線",
+        "圓"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "圓錐曲線分類依據離心率 $e$ 的大小。當 $e=1$ 時為拋物線，當 $e < 1$ 時為橢圓，當 $e > 1$ 時為雙曲線。\n\n---",
+      "chapter": "Ch10 10.6節：極坐標下的圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "若圓錐曲線極坐標方程中，離心率 $e = \\frac{1}{10}$ 且 $10 > 1$，則此曲線為何種圖形？",
+      "options": [
+        "雙曲線",
+        "拋物線",
+        "橢圓",
+        "圓"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "因為 $e = \\frac110 < 1$，故此圓錐曲線為橢圓。\n\n---",
+      "chapter": "Ch10 10.6節：極坐標下的圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "若圓錐曲線極坐標方程為 $r = \\frac{11}{1 + e\\cos\\theta}$，當 $e=1$ 時，此圓錐曲線屬於何種幾何圖形？",
+      "options": [
+        "拋物線",
+        "橢圓",
+        "雙曲線",
+        "圓"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "圓錐曲線分類依據離心率 $e$ 的大小。當 $e=1$ 時為拋物線，當 $e < 1$ 時為橢圓，當 $e > 1$ 時為雙曲線。\n\n---",
+      "chapter": "Ch10 10.6節：極坐標下的圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "若圓錐曲線極坐標方程中，離心率 $e = \\frac{1}{12}$ 且 $12 > 1$，則此曲線為何種圖形？",
+      "options": [
+        "圓",
+        "拋物線",
+        "雙曲線",
+        "橢圓"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "因為 $e = \\frac112 < 1$，故此圓錐曲線為橢圓。\n\n---",
+      "chapter": "Ch10 10.6節：極坐標下的圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "若圓錐曲線極坐標方程為 $r = \\frac{13}{1 + e\\cos\\theta}$，當 $e=1$ 時，此圓錐曲線屬於何種幾何圖形？",
+      "options": [
+        "橢圓",
+        "拋物線",
+        "雙曲線",
+        "圓"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "圓錐曲線分類依據離心率 $e$ 的大小。當 $e=1$ 時為拋物線，當 $e < 1$ 時為橢圓，當 $e > 1$ 時為雙曲線。\n\n---",
+      "chapter": "Ch10 10.6節：極坐標下的圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "若圓錐曲線極坐標方程中，離心率 $e = \\frac{1}{14}$ 且 $14 > 1$，則此曲線為何種圖形？",
+      "options": [
+        "雙曲線",
+        "拋物線",
+        "橢圓",
+        "圓"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "因為 $e = \\frac114 < 1$，故此圓錐曲線為橢圓。\n\n---",
+      "chapter": "Ch10 10.6節：極坐標下的圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "若圓錐曲線極坐標方程為 $r = \\frac{15}{1 + e\\cos\\theta}$，當 $e=1$ 時，此圓錐曲線屬於何種幾何圖形？",
+      "options": [
+        "拋物線",
+        "橢圓",
+        "雙曲線",
+        "圓"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "圓錐曲線分類依據離心率 $e$ 的大小。當 $e=1$ 時為拋物線，當 $e < 1$ 時為橢圓，當 $e > 1$ 時為雙曲線。\n\n---",
+      "chapter": "Ch10 10.6節：極坐標下的圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "若圓錐曲線極坐標方程中，離心率 $e = \\frac{1}{16}$ 且 $16 > 1$，則此曲線為何種圖形？",
+      "options": [
+        "圓",
+        "拋物線",
+        "雙曲線",
+        "橢圓"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "因為 $e = \\frac116 < 1$，故此圓錐曲線為橢圓。\n\n---",
+      "chapter": "Ch10 10.6節：極坐標下的圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "若圓錐曲線極坐標方程為 $r = \\frac{17}{1 + e\\cos\\theta}$，當 $e=1$ 時，此圓錐曲線屬於何種幾何圖形？",
+      "options": [
+        "橢圓",
+        "拋物線",
+        "雙曲線",
+        "圓"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "圓錐曲線分類依據離心率 $e$ 的大小。當 $e=1$ 時為拋物線，當 $e < 1$ 時為橢圓，當 $e > 1$ 時為雙曲線。\n\n---",
+      "chapter": "Ch10 10.6節：極坐標下的圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "若圓錐曲線極坐標方程中，離心率 $e = \\frac{1}{18}$ 且 $18 > 1$，則此曲線為何種圖形？",
+      "options": [
+        "雙曲線",
+        "拋物線",
+        "橢圓",
+        "圓"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "因為 $e = \\frac118 < 1$，故此圓錐曲線為橢圓。\n\n---",
+      "chapter": "Ch10 10.6節：極坐標下的圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "若圓錐曲線極坐標方程為 $r = \\frac{19}{1 + e\\cos\\theta}$，當 $e=1$ 時，此圓錐曲線屬於何種幾何圖形？",
+      "options": [
+        "拋物線",
+        "橢圓",
+        "雙曲線",
+        "圓"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "圓錐曲線分類依據離心率 $e$ 的大小。當 $e=1$ 時為拋物線，當 $e < 1$ 時為橢圓，當 $e > 1$ 時為雙曲線。\n\n---",
+      "chapter": "Ch10 10.6節：極坐標下的圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "若圓錐曲線極坐標方程中，離心率 $e = \\frac{1}{20}$ 且 $20 > 1$，則此曲線為何種圖形？",
+      "options": [
+        "圓",
+        "拋物線",
+        "雙曲線",
+        "橢圓"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "因為 $e = \\frac120 < 1$，故此圓錐曲線為橢圓。\n\n---",
+      "chapter": "Ch10 10.6節：極坐標下的圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "若圓錐曲線極坐標方程為 $r = \\frac{21}{1 + e\\cos\\theta}$，當 $e=1$ 時，此圓錐曲線屬於何種幾何圖形？",
+      "options": [
+        "橢圓",
+        "拋物線",
+        "雙曲線",
+        "圓"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "圓錐曲線分類依據離心率 $e$ 的大小。當 $e=1$ 時為拋物線，當 $e < 1$ 時為橢圓，當 $e > 1$ 時為雙曲線。\n\n---",
+      "chapter": "Ch10 10.6節：極坐標下的圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "若圓錐曲線之極坐標方程為 $r = \\frac{3}{1 + e\\cos\\theta}$，離心率 $e=0$，求此極坐標方程所化簡出之圓半徑。",
+      "options": [],
+      "answer": "3",
+      "type": "fill",
+      "solution": "當 $e=0$ 時，方程式簡化為 $r = 3$，這正是一個圓心在極點、半徑為 3 的圓。\n\n---",
+      "chapter": "Ch10 10.6節：極坐標下的圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "若圓錐曲線之極坐標方程為 $r = \\frac{4}{1 + e\\cos\\theta}$，離心率 $e=0$，求此極坐標方程所化簡出之圓半徑。",
+      "options": [],
+      "answer": "4",
+      "type": "fill",
+      "solution": "當 $e=0$ 時，方程式簡化為 $r = 4$，這正是一個圓心在極點、半徑為 4 的圓。\n\n---",
+      "chapter": "Ch10 10.6節：極坐標下的圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "若圓錐曲線之極坐標方程為 $r = \\frac{5}{1 + e\\cos\\theta}$，離心率 $e=0$，求此極坐標方程所化簡出之圓半徑。",
+      "options": [],
+      "answer": "5",
+      "type": "fill",
+      "solution": "當 $e=0$ 時，方程式簡化為 $r = 5$，這正是一個圓心在極點、半徑為 5 的圓。\n\n---",
+      "chapter": "Ch10 10.6節：極坐標下的圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "若圓錐曲線之極坐標方程為 $r = \\frac{6}{1 + e\\cos\\theta}$，離心率 $e=0$，求此極坐標方程所化簡出之圓半徑。",
+      "options": [],
+      "answer": "6",
+      "type": "fill",
+      "solution": "當 $e=0$ 時，方程式簡化為 $r = 6$，這正是一個圓心在極點、半徑為 6 的圓。\n\n---",
+      "chapter": "Ch10 10.6節：極坐標下的圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "若圓錐曲線之極坐標方程為 $r = \\frac{7}{1 + e\\cos\\theta}$，離心率 $e=0$，求此極坐標方程所化簡出之圓半徑。",
+      "options": [],
+      "answer": "7",
+      "type": "fill",
+      "solution": "當 $e=0$ 時，方程式簡化為 $r = 7$，這正是一個圓心在極點、半徑為 7 的圓。\n\n---",
+      "chapter": "Ch10 10.6節：極坐標下的圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "若圓錐曲線之極坐標方程為 $r = \\frac{8}{1 + e\\cos\\theta}$，離心率 $e=0$，求此極坐標方程所化簡出之圓半徑。",
+      "options": [],
+      "answer": "8",
+      "type": "fill",
+      "solution": "當 $e=0$ 時，方程式簡化為 $r = 8$，這正是一個圓心在極點、半徑為 8 的圓。\n\n---",
+      "chapter": "Ch10 10.6節：極坐標下的圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "若圓錐曲線之極坐標方程為 $r = \\frac{9}{1 + e\\cos\\theta}$，離心率 $e=0$，求此極坐標方程所化簡出之圓半徑。",
+      "options": [],
+      "answer": "9",
+      "type": "fill",
+      "solution": "當 $e=0$ 時，方程式簡化為 $r = 9$，這正是一個圓心在極點、半徑為 9 的圓。\n\n---",
+      "chapter": "Ch10 10.6節：極坐標下的圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "若圓錐曲線之極坐標方程為 $r = \\frac{10}{1 + e\\cos\\theta}$，離心率 $e=0$，求此極坐標方程所化簡出之圓半徑。",
+      "options": [],
+      "answer": "10",
+      "type": "fill",
+      "solution": "當 $e=0$ 時，方程式簡化為 $r = 10$，這正是一個圓心在極點、半徑為 10 的圓。\n\n---",
+      "chapter": "Ch10 10.6節：極坐標下的圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "若圓錐曲線之極坐標方程為 $r = \\frac{11}{1 + e\\cos\\theta}$，離心率 $e=0$，求此極坐標方程所化簡出之圓半徑。",
+      "options": [],
+      "answer": "11",
+      "type": "fill",
+      "solution": "當 $e=0$ 時，方程式簡化為 $r = 11$，這正是一個圓心在極點、半徑為 11 的圓。\n\n---",
+      "chapter": "Ch10 10.6節：極坐標下的圓錐曲線",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "若圓錐曲線之極坐標方程為 $r = \\frac{12}{1 + e\\cos\\theta}$，離心率 $e=0$，求此極坐標方程所化簡出之圓半徑。",
+      "options": [],
+      "answer": "12",
+      "type": "fill",
+      "solution": "當 $e=0$ 時，方程式簡化為 $r = 12$，這正是一個圓心在極點、半徑為 12 的圓。",
+      "chapter": "Ch10 10.6節：極坐標下的圓錐曲線",
+      "score": 10
+    }
+  ]
+}

@@ -82,6 +82,106 @@ def parse_calculus_bank(bank_dir, output_path):
             chapter_name = 'Ch4 4.4節：不定積分與淨變化定理'
         elif stem == 'ch4_sec5':
             chapter_name = 'Ch4 4.5節：代換法'
+        elif stem == 'ch5_sec1':
+            chapter_name = 'Ch5 5.1節：兩曲線間的面積'
+        elif stem == 'ch5_sec2':
+            chapter_name = 'Ch5 5.2節：體積'
+        elif stem == 'ch5_sec3':
+            chapter_name = 'Ch5 5.3節：圓柱殼層法求體積'
+        elif stem == 'ch5_sec4':
+            chapter_name = 'Ch5 5.4節：功'
+        elif stem == 'ch5_sec5':
+            chapter_name = 'Ch5 5.5節：函數的平均值'
+        elif stem == 'ch6_sec1':
+            chapter_name = 'Ch6 6.1節：反函數與其導數'
+        elif stem == 'ch6_sec2':
+            chapter_name = 'Ch6 6.2節：指數函數與其導數'
+        elif stem == 'ch6_sec3':
+            chapter_name = 'Ch6 6.3節：對數函數'
+        elif stem == 'ch6_sec4':
+            chapter_name = 'Ch6 6.4節：對數函數的導數'
+        elif stem == 'ch6_sec2_star':
+            chapter_name = 'Ch6 6.2*節：自然對數函數'
+        elif stem == 'ch6_sec3_star':
+            chapter_name = 'Ch6 6.3*節：自然指數函數'
+        elif stem == 'ch6_sec4_star':
+            chapter_name = 'Ch6 6.4*節：一般對數與指數函數'
+        elif stem == 'ch6_sec5':
+            chapter_name = 'Ch6 6.5節：指數增長與衰退'
+        elif stem == 'ch6_sec6':
+            chapter_name = 'Ch6 6.6節：反三角函數'
+        elif stem == 'ch6_sec7':
+            chapter_name = 'Ch6 6.7節：雙曲函數'
+        elif stem == 'ch6_sec8':
+            chapter_name = 'Ch6 6.8節：不定型與洛必達法則'
+        elif stem == 'ch7_sec1':
+            chapter_name = 'Ch7 7.1節：分部積分法'
+        elif stem == 'ch7_sec2':
+            chapter_name = 'Ch7 7.2節：三角積分'
+        elif stem == 'ch7_sec3':
+            chapter_name = 'Ch7 7.3節：三角代換法'
+        elif stem == 'ch7_sec4':
+            chapter_name = 'Ch7 7.4節：部分分式法求有理函數積分'
+        elif stem == 'ch7_sec5':
+            chapter_name = 'Ch7 7.5節：積分策略'
+        elif stem == 'ch7_sec6':
+            chapter_name = 'Ch7 7.6節：查表與科技工具積分'
+        elif stem == 'ch7_sec7':
+            chapter_name = 'Ch7 7.7節：近似積分'
+        elif stem == 'ch7_sec8':
+            chapter_name = 'Ch7 7.8節：瑕積分'
+        elif stem == 'ch8_sec1':
+            chapter_name = 'Ch8 8.1節：弧長'
+        elif stem == 'ch8_sec2':
+            chapter_name = 'Ch8 8.2節：旋轉體的表面積'
+        elif stem == 'ch8_sec3':
+            chapter_name = 'Ch8 8.3節：物理與工程應用'
+        elif stem == 'ch8_sec4':
+            chapter_name = 'Ch8 8.4節：經濟與生物應用'
+        elif stem == 'ch8_sec5':
+            chapter_name = 'Ch8 8.5節：機率'
+        elif stem == 'ch9_sec1':
+            chapter_name = 'Ch9 9.1節：微分方程建模'
+        elif stem == 'ch9_sec2':
+            chapter_name = 'Ch9 9.2節：方向場與歐拉方法'
+        elif stem == 'ch9_sec3':
+            chapter_name = 'Ch9 9.3節：可分離變數方程'
+        elif stem == 'ch9_sec4':
+            chapter_name = 'Ch9 9.4節：人口增長模型'
+        elif stem == 'ch9_sec5':
+            chapter_name = 'Ch9 9.5節：線性微分方程'
+        elif stem == 'ch9_sec6':
+            chapter_name = 'Ch9 9.6節：掠食者與獵物系統'
+        elif stem == 'ch10_sec1':
+            chapter_name = 'Ch10 10.1節：參數方程定義的曲線'
+        elif stem == 'ch10_sec2':
+            chapter_name = 'Ch10 10.2節：參數曲線的微積分'
+        elif stem == 'ch10_sec3':
+            chapter_name = 'Ch10 10.3節：極坐標'
+        elif stem == 'ch10_sec4':
+            chapter_name = 'Ch10 10.4節：極坐標下的面積與長度'
+        elif stem == 'ch10_sec5':
+            chapter_name = 'Ch10 10.5節：圓錐曲線'
+        elif stem == 'ch10_sec6':
+            chapter_name = 'Ch10 10.6節：極坐標下的圓錐曲線'
+        elif stem.startswith('ch11_sec'):
+            sec_num = stem.split('sec')[1]
+            chapter_name = f'Ch11 11.{sec_num}節：無窮序列與級數'
+        elif stem.startswith('ch12_sec'):
+            sec_num = stem.split('sec')[1]
+            chapter_name = f'Ch12 12.{sec_num}節：向量與空間幾何'
+        elif stem.startswith('ch13_sec'):
+            sec_num = stem.split('sec')[1]
+            chapter_name = f'Ch13 13.{sec_num}節：向量函數'
+        elif stem.startswith('ch14_sec'):
+            sec_num = stem.split('sec')[1]
+            chapter_name = f'Ch14 14.{sec_num}節：偏導數'
+        elif stem.startswith('ch15_sec'):
+            sec_num = stem.split('sec')[1]
+            chapter_name = f'Ch15 15.{sec_num}節：重積分'
+        elif stem.startswith('ch16_sec'):
+            sec_num = stem.split('sec')[1]
+            chapter_name = f'Ch16 16.{sec_num}節：向量微積分'
         else:
             chapter_name = md_file.stem.replace("_", " ").title()
 

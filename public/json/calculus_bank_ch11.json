@@ -1,0 +1,4404 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "text": "在 Chapter 11 第 1 節中，已知 $k=2$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$2$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $2$。\n\n---",
+      "chapter": "Ch11 11.1節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "在 Chapter 11 第 1 節中，已知 $a=3$，求極限或值。",
+      "options": [
+        "$4$",
+        "$3$",
+        "$6$",
+        "$9$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=3$ 計算，結果為 3。\n\n---",
+      "chapter": "Ch11 11.1節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "在 Chapter 11 第 1 節中，已知 $k=4$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$4$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $4$。\n\n---",
+      "chapter": "Ch11 11.1節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "在 Chapter 11 第 1 節中，已知 $a=5$，求極限或值。",
+      "options": [
+        "$5$",
+        "$6$",
+        "$10$",
+        "$15$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=5$ 計算，結果為 5。\n\n---",
+      "chapter": "Ch11 11.1節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "在 Chapter 11 第 1 節中，已知 $k=6$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$6$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $6$。\n\n---",
+      "chapter": "Ch11 11.1節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "在 Chapter 11 第 1 節中，已知 $a=7$，求極限或值。",
+      "options": [
+        "$8$",
+        "$7$",
+        "$14$",
+        "$21$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=7$ 計算，結果為 7。\n\n---",
+      "chapter": "Ch11 11.1節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "在 Chapter 11 第 1 節中，已知 $k=8$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$8$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $8$。\n\n---",
+      "chapter": "Ch11 11.1節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "在 Chapter 11 第 1 節中，已知 $a=9$，求極限或值。",
+      "options": [
+        "$9$",
+        "$10$",
+        "$18$",
+        "$27$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=9$ 計算，結果為 9。\n\n---",
+      "chapter": "Ch11 11.1節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "在 Chapter 11 第 1 節中，已知 $k=10$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$10$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $10$。\n\n---",
+      "chapter": "Ch11 11.1節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "在 Chapter 11 第 1 節中，已知 $a=11$，求極限或值。",
+      "options": [
+        "$12$",
+        "$11$",
+        "$22$",
+        "$33$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=11$ 計算，結果為 11。\n\n---",
+      "chapter": "Ch11 11.1節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "在 Chapter 11 第 1 節中，已知 $k=12$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$12$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $12$。\n\n---",
+      "chapter": "Ch11 11.1節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "在 Chapter 11 第 1 節中，已知 $a=13$，求極限或值。",
+      "options": [
+        "$13$",
+        "$14$",
+        "$26$",
+        "$39$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=13$ 計算，結果為 13。\n\n---",
+      "chapter": "Ch11 11.1節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "在 Chapter 11 第 1 節中，已知 $k=14$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$14$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $14$。\n\n---",
+      "chapter": "Ch11 11.1節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "在 Chapter 11 第 1 節中，已知 $a=15$，求極限或值。",
+      "options": [
+        "$16$",
+        "$15$",
+        "$30$",
+        "$45$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=15$ 計算，結果為 15。\n\n---",
+      "chapter": "Ch11 11.1節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "在 Chapter 11 第 1 節中，已知 $k=16$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$16$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $16$。\n\n---",
+      "chapter": "Ch11 11.1節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "在 Chapter 11 第 1 節中，已知 $a=17$，求極限或值。",
+      "options": [
+        "$17$",
+        "$18$",
+        "$34$",
+        "$51$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=17$ 計算，結果為 17。\n\n---",
+      "chapter": "Ch11 11.1節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "在 Chapter 11 第 1 節中，已知 $k=18$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$18$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $18$。\n\n---",
+      "chapter": "Ch11 11.1節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "在 Chapter 11 第 1 節中，已知 $a=19$，求極限或值。",
+      "options": [
+        "$20$",
+        "$19$",
+        "$38$",
+        "$57$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=19$ 計算，結果為 19。\n\n---",
+      "chapter": "Ch11 11.1節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "在 Chapter 11 第 1 節中，已知 $k=20$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$20$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $20$。\n\n---",
+      "chapter": "Ch11 11.1節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "在 Chapter 11 第 1 節中，已知 $a=21$，求極限或值。",
+      "options": [
+        "$21$",
+        "$22$",
+        "$42$",
+        "$63$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=21$ 計算，結果為 21。\n\n---",
+      "chapter": "Ch11 11.1節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "在 Chapter 11 第 1 節中，若 $x=3$，求函數之精確值。",
+      "options": [],
+      "answer": "6",
+      "type": "fill",
+      "solution": "代入 $x=3$ 得出結果為 6。\n\n---",
+      "chapter": "Ch11 11.1節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "在 Chapter 11 第 1 節中，若 $x=4$，求函數之精確值。",
+      "options": [],
+      "answer": "8",
+      "type": "fill",
+      "solution": "代入 $x=4$ 得出結果為 8。\n\n---",
+      "chapter": "Ch11 11.1節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "在 Chapter 11 第 1 節中，若 $x=5$，求函數之精確值。",
+      "options": [],
+      "answer": "10",
+      "type": "fill",
+      "solution": "代入 $x=5$ 得出結果為 10。\n\n---",
+      "chapter": "Ch11 11.1節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "在 Chapter 11 第 1 節中，若 $x=6$，求函數之精確值。",
+      "options": [],
+      "answer": "12",
+      "type": "fill",
+      "solution": "代入 $x=6$ 得出結果為 12。\n\n---",
+      "chapter": "Ch11 11.1節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "在 Chapter 11 第 1 節中，若 $x=7$，求函數之精確值。",
+      "options": [],
+      "answer": "14",
+      "type": "fill",
+      "solution": "代入 $x=7$ 得出結果為 14。\n\n---",
+      "chapter": "Ch11 11.1節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "在 Chapter 11 第 1 節中，若 $x=8$，求函數之精確值。",
+      "options": [],
+      "answer": "16",
+      "type": "fill",
+      "solution": "代入 $x=8$ 得出結果為 16。\n\n---",
+      "chapter": "Ch11 11.1節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "在 Chapter 11 第 1 節中，若 $x=9$，求函數之精確值。",
+      "options": [],
+      "answer": "18",
+      "type": "fill",
+      "solution": "代入 $x=9$ 得出結果為 18。\n\n---",
+      "chapter": "Ch11 11.1節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "在 Chapter 11 第 1 節中，若 $x=10$，求函數之精確值。",
+      "options": [],
+      "answer": "20",
+      "type": "fill",
+      "solution": "代入 $x=10$ 得出結果為 20。\n\n---",
+      "chapter": "Ch11 11.1節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "在 Chapter 11 第 1 節中，若 $x=11$，求函數之精確值。",
+      "options": [],
+      "answer": "22",
+      "type": "fill",
+      "solution": "代入 $x=11$ 得出結果為 22。\n\n---",
+      "chapter": "Ch11 11.1節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "在 Chapter 11 第 1 節中，若 $x=12$，求函數之精確值。",
+      "options": [],
+      "answer": "24",
+      "type": "fill",
+      "solution": "代入 $x=12$ 得出結果為 24。",
+      "chapter": "Ch11 11.1節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "在 Chapter 11 第 10 節中，已知 $k=2$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$2$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $2$。\n\n---",
+      "chapter": "Ch11 11.10節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "在 Chapter 11 第 10 節中，已知 $a=3$，求極限或值。",
+      "options": [
+        "$4$",
+        "$3$",
+        "$6$",
+        "$9$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=3$ 計算，結果為 3。\n\n---",
+      "chapter": "Ch11 11.10節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "在 Chapter 11 第 10 節中，已知 $k=4$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$4$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $4$。\n\n---",
+      "chapter": "Ch11 11.10節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "在 Chapter 11 第 10 節中，已知 $a=5$，求極限或值。",
+      "options": [
+        "$5$",
+        "$6$",
+        "$10$",
+        "$15$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=5$ 計算，結果為 5。\n\n---",
+      "chapter": "Ch11 11.10節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "在 Chapter 11 第 10 節中，已知 $k=6$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$6$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $6$。\n\n---",
+      "chapter": "Ch11 11.10節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "在 Chapter 11 第 10 節中，已知 $a=7$，求極限或值。",
+      "options": [
+        "$8$",
+        "$7$",
+        "$14$",
+        "$21$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=7$ 計算，結果為 7。\n\n---",
+      "chapter": "Ch11 11.10節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "在 Chapter 11 第 10 節中，已知 $k=8$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$8$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $8$。\n\n---",
+      "chapter": "Ch11 11.10節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "在 Chapter 11 第 10 節中，已知 $a=9$，求極限或值。",
+      "options": [
+        "$9$",
+        "$10$",
+        "$18$",
+        "$27$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=9$ 計算，結果為 9。\n\n---",
+      "chapter": "Ch11 11.10節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "在 Chapter 11 第 10 節中，已知 $k=10$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$10$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $10$。\n\n---",
+      "chapter": "Ch11 11.10節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "在 Chapter 11 第 10 節中，已知 $a=11$，求極限或值。",
+      "options": [
+        "$12$",
+        "$11$",
+        "$22$",
+        "$33$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=11$ 計算，結果為 11。\n\n---",
+      "chapter": "Ch11 11.10節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "在 Chapter 11 第 10 節中，已知 $k=12$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$12$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $12$。\n\n---",
+      "chapter": "Ch11 11.10節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "在 Chapter 11 第 10 節中，已知 $a=13$，求極限或值。",
+      "options": [
+        "$13$",
+        "$14$",
+        "$26$",
+        "$39$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=13$ 計算，結果為 13。\n\n---",
+      "chapter": "Ch11 11.10節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "在 Chapter 11 第 10 節中，已知 $k=14$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$14$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $14$。\n\n---",
+      "chapter": "Ch11 11.10節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "在 Chapter 11 第 10 節中，已知 $a=15$，求極限或值。",
+      "options": [
+        "$16$",
+        "$15$",
+        "$30$",
+        "$45$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=15$ 計算，結果為 15。\n\n---",
+      "chapter": "Ch11 11.10節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "在 Chapter 11 第 10 節中，已知 $k=16$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$16$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $16$。\n\n---",
+      "chapter": "Ch11 11.10節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "在 Chapter 11 第 10 節中，已知 $a=17$，求極限或值。",
+      "options": [
+        "$17$",
+        "$18$",
+        "$34$",
+        "$51$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=17$ 計算，結果為 17。\n\n---",
+      "chapter": "Ch11 11.10節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "在 Chapter 11 第 10 節中，已知 $k=18$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$18$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $18$。\n\n---",
+      "chapter": "Ch11 11.10節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "在 Chapter 11 第 10 節中，已知 $a=19$，求極限或值。",
+      "options": [
+        "$20$",
+        "$19$",
+        "$38$",
+        "$57$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=19$ 計算，結果為 19。\n\n---",
+      "chapter": "Ch11 11.10節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "在 Chapter 11 第 10 節中，已知 $k=20$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$20$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $20$。\n\n---",
+      "chapter": "Ch11 11.10節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "在 Chapter 11 第 10 節中，已知 $a=21$，求極限或值。",
+      "options": [
+        "$21$",
+        "$22$",
+        "$42$",
+        "$63$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=21$ 計算，結果為 21。\n\n---",
+      "chapter": "Ch11 11.10節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "在 Chapter 11 第 10 節中，若 $x=3$，求函數之精確值。",
+      "options": [],
+      "answer": "6",
+      "type": "fill",
+      "solution": "代入 $x=3$ 得出結果為 6。\n\n---",
+      "chapter": "Ch11 11.10節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "在 Chapter 11 第 10 節中，若 $x=4$，求函數之精確值。",
+      "options": [],
+      "answer": "8",
+      "type": "fill",
+      "solution": "代入 $x=4$ 得出結果為 8。\n\n---",
+      "chapter": "Ch11 11.10節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "在 Chapter 11 第 10 節中，若 $x=5$，求函數之精確值。",
+      "options": [],
+      "answer": "10",
+      "type": "fill",
+      "solution": "代入 $x=5$ 得出結果為 10。\n\n---",
+      "chapter": "Ch11 11.10節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "在 Chapter 11 第 10 節中，若 $x=6$，求函數之精確值。",
+      "options": [],
+      "answer": "12",
+      "type": "fill",
+      "solution": "代入 $x=6$ 得出結果為 12。\n\n---",
+      "chapter": "Ch11 11.10節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "在 Chapter 11 第 10 節中，若 $x=7$，求函數之精確值。",
+      "options": [],
+      "answer": "14",
+      "type": "fill",
+      "solution": "代入 $x=7$ 得出結果為 14。\n\n---",
+      "chapter": "Ch11 11.10節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "在 Chapter 11 第 10 節中，若 $x=8$，求函數之精確值。",
+      "options": [],
+      "answer": "16",
+      "type": "fill",
+      "solution": "代入 $x=8$ 得出結果為 16。\n\n---",
+      "chapter": "Ch11 11.10節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "在 Chapter 11 第 10 節中，若 $x=9$，求函數之精確值。",
+      "options": [],
+      "answer": "18",
+      "type": "fill",
+      "solution": "代入 $x=9$ 得出結果為 18。\n\n---",
+      "chapter": "Ch11 11.10節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "在 Chapter 11 第 10 節中，若 $x=10$，求函數之精確值。",
+      "options": [],
+      "answer": "20",
+      "type": "fill",
+      "solution": "代入 $x=10$ 得出結果為 20。\n\n---",
+      "chapter": "Ch11 11.10節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "在 Chapter 11 第 10 節中，若 $x=11$，求函數之精確值。",
+      "options": [],
+      "answer": "22",
+      "type": "fill",
+      "solution": "代入 $x=11$ 得出結果為 22。\n\n---",
+      "chapter": "Ch11 11.10節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "在 Chapter 11 第 10 節中，若 $x=12$，求函數之精確值。",
+      "options": [],
+      "answer": "24",
+      "type": "fill",
+      "solution": "代入 $x=12$ 得出結果為 24。",
+      "chapter": "Ch11 11.10節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "在 Chapter 11 第 11 節中，已知 $k=2$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$2$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $2$。\n\n---",
+      "chapter": "Ch11 11.11節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "在 Chapter 11 第 11 節中，已知 $a=3$，求極限或值。",
+      "options": [
+        "$4$",
+        "$3$",
+        "$6$",
+        "$9$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=3$ 計算，結果為 3。\n\n---",
+      "chapter": "Ch11 11.11節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "在 Chapter 11 第 11 節中，已知 $k=4$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$4$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $4$。\n\n---",
+      "chapter": "Ch11 11.11節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "在 Chapter 11 第 11 節中，已知 $a=5$，求極限或值。",
+      "options": [
+        "$5$",
+        "$6$",
+        "$10$",
+        "$15$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=5$ 計算，結果為 5。\n\n---",
+      "chapter": "Ch11 11.11節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "在 Chapter 11 第 11 節中，已知 $k=6$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$6$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $6$。\n\n---",
+      "chapter": "Ch11 11.11節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "在 Chapter 11 第 11 節中，已知 $a=7$，求極限或值。",
+      "options": [
+        "$8$",
+        "$7$",
+        "$14$",
+        "$21$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=7$ 計算，結果為 7。\n\n---",
+      "chapter": "Ch11 11.11節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "在 Chapter 11 第 11 節中，已知 $k=8$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$8$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $8$。\n\n---",
+      "chapter": "Ch11 11.11節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "在 Chapter 11 第 11 節中，已知 $a=9$，求極限或值。",
+      "options": [
+        "$9$",
+        "$10$",
+        "$18$",
+        "$27$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=9$ 計算，結果為 9。\n\n---",
+      "chapter": "Ch11 11.11節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "在 Chapter 11 第 11 節中，已知 $k=10$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$10$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $10$。\n\n---",
+      "chapter": "Ch11 11.11節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "在 Chapter 11 第 11 節中，已知 $a=11$，求極限或值。",
+      "options": [
+        "$12$",
+        "$11$",
+        "$22$",
+        "$33$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=11$ 計算，結果為 11。\n\n---",
+      "chapter": "Ch11 11.11節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "在 Chapter 11 第 11 節中，已知 $k=12$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$12$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $12$。\n\n---",
+      "chapter": "Ch11 11.11節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "在 Chapter 11 第 11 節中，已知 $a=13$，求極限或值。",
+      "options": [
+        "$13$",
+        "$14$",
+        "$26$",
+        "$39$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=13$ 計算，結果為 13。\n\n---",
+      "chapter": "Ch11 11.11節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "在 Chapter 11 第 11 節中，已知 $k=14$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$14$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $14$。\n\n---",
+      "chapter": "Ch11 11.11節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "在 Chapter 11 第 11 節中，已知 $a=15$，求極限或值。",
+      "options": [
+        "$16$",
+        "$15$",
+        "$30$",
+        "$45$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=15$ 計算，結果為 15。\n\n---",
+      "chapter": "Ch11 11.11節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "在 Chapter 11 第 11 節中，已知 $k=16$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$16$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $16$。\n\n---",
+      "chapter": "Ch11 11.11節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "在 Chapter 11 第 11 節中，已知 $a=17$，求極限或值。",
+      "options": [
+        "$17$",
+        "$18$",
+        "$34$",
+        "$51$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=17$ 計算，結果為 17。\n\n---",
+      "chapter": "Ch11 11.11節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "在 Chapter 11 第 11 節中，已知 $k=18$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$18$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $18$。\n\n---",
+      "chapter": "Ch11 11.11節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "在 Chapter 11 第 11 節中，已知 $a=19$，求極限或值。",
+      "options": [
+        "$20$",
+        "$19$",
+        "$38$",
+        "$57$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=19$ 計算，結果為 19。\n\n---",
+      "chapter": "Ch11 11.11節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "在 Chapter 11 第 11 節中，已知 $k=20$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$20$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $20$。\n\n---",
+      "chapter": "Ch11 11.11節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "在 Chapter 11 第 11 節中，已知 $a=21$，求極限或值。",
+      "options": [
+        "$21$",
+        "$22$",
+        "$42$",
+        "$63$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=21$ 計算，結果為 21。\n\n---",
+      "chapter": "Ch11 11.11節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "在 Chapter 11 第 11 節中，若 $x=3$，求函數之精確值。",
+      "options": [],
+      "answer": "6",
+      "type": "fill",
+      "solution": "代入 $x=3$ 得出結果為 6。\n\n---",
+      "chapter": "Ch11 11.11節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "在 Chapter 11 第 11 節中，若 $x=4$，求函數之精確值。",
+      "options": [],
+      "answer": "8",
+      "type": "fill",
+      "solution": "代入 $x=4$ 得出結果為 8。\n\n---",
+      "chapter": "Ch11 11.11節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "在 Chapter 11 第 11 節中，若 $x=5$，求函數之精確值。",
+      "options": [],
+      "answer": "10",
+      "type": "fill",
+      "solution": "代入 $x=5$ 得出結果為 10。\n\n---",
+      "chapter": "Ch11 11.11節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "在 Chapter 11 第 11 節中，若 $x=6$，求函數之精確值。",
+      "options": [],
+      "answer": "12",
+      "type": "fill",
+      "solution": "代入 $x=6$ 得出結果為 12。\n\n---",
+      "chapter": "Ch11 11.11節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "在 Chapter 11 第 11 節中，若 $x=7$，求函數之精確值。",
+      "options": [],
+      "answer": "14",
+      "type": "fill",
+      "solution": "代入 $x=7$ 得出結果為 14。\n\n---",
+      "chapter": "Ch11 11.11節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "在 Chapter 11 第 11 節中，若 $x=8$，求函數之精確值。",
+      "options": [],
+      "answer": "16",
+      "type": "fill",
+      "solution": "代入 $x=8$ 得出結果為 16。\n\n---",
+      "chapter": "Ch11 11.11節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "在 Chapter 11 第 11 節中，若 $x=9$，求函數之精確值。",
+      "options": [],
+      "answer": "18",
+      "type": "fill",
+      "solution": "代入 $x=9$ 得出結果為 18。\n\n---",
+      "chapter": "Ch11 11.11節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "在 Chapter 11 第 11 節中，若 $x=10$，求函數之精確值。",
+      "options": [],
+      "answer": "20",
+      "type": "fill",
+      "solution": "代入 $x=10$ 得出結果為 20。\n\n---",
+      "chapter": "Ch11 11.11節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "在 Chapter 11 第 11 節中，若 $x=11$，求函數之精確值。",
+      "options": [],
+      "answer": "22",
+      "type": "fill",
+      "solution": "代入 $x=11$ 得出結果為 22。\n\n---",
+      "chapter": "Ch11 11.11節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "在 Chapter 11 第 11 節中，若 $x=12$，求函數之精確值。",
+      "options": [],
+      "answer": "24",
+      "type": "fill",
+      "solution": "代入 $x=12$ 得出結果為 24。",
+      "chapter": "Ch11 11.11節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "在 Chapter 11 第 2 節中，已知 $k=2$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$2$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $2$。\n\n---",
+      "chapter": "Ch11 11.2節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "在 Chapter 11 第 2 節中，已知 $a=3$，求極限或值。",
+      "options": [
+        "$4$",
+        "$3$",
+        "$6$",
+        "$9$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=3$ 計算，結果為 3。\n\n---",
+      "chapter": "Ch11 11.2節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "在 Chapter 11 第 2 節中，已知 $k=4$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$4$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $4$。\n\n---",
+      "chapter": "Ch11 11.2節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "在 Chapter 11 第 2 節中，已知 $a=5$，求極限或值。",
+      "options": [
+        "$5$",
+        "$6$",
+        "$10$",
+        "$15$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=5$ 計算，結果為 5。\n\n---",
+      "chapter": "Ch11 11.2節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "在 Chapter 11 第 2 節中，已知 $k=6$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$6$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $6$。\n\n---",
+      "chapter": "Ch11 11.2節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "在 Chapter 11 第 2 節中，已知 $a=7$，求極限或值。",
+      "options": [
+        "$8$",
+        "$7$",
+        "$14$",
+        "$21$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=7$ 計算，結果為 7。\n\n---",
+      "chapter": "Ch11 11.2節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "在 Chapter 11 第 2 節中，已知 $k=8$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$8$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $8$。\n\n---",
+      "chapter": "Ch11 11.2節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "在 Chapter 11 第 2 節中，已知 $a=9$，求極限或值。",
+      "options": [
+        "$9$",
+        "$10$",
+        "$18$",
+        "$27$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=9$ 計算，結果為 9。\n\n---",
+      "chapter": "Ch11 11.2節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "在 Chapter 11 第 2 節中，已知 $k=10$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$10$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $10$。\n\n---",
+      "chapter": "Ch11 11.2節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "在 Chapter 11 第 2 節中，已知 $a=11$，求極限或值。",
+      "options": [
+        "$12$",
+        "$11$",
+        "$22$",
+        "$33$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=11$ 計算，結果為 11。\n\n---",
+      "chapter": "Ch11 11.2節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "在 Chapter 11 第 2 節中，已知 $k=12$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$12$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $12$。\n\n---",
+      "chapter": "Ch11 11.2節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "在 Chapter 11 第 2 節中，已知 $a=13$，求極限或值。",
+      "options": [
+        "$13$",
+        "$14$",
+        "$26$",
+        "$39$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=13$ 計算，結果為 13。\n\n---",
+      "chapter": "Ch11 11.2節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "在 Chapter 11 第 2 節中，已知 $k=14$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$14$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $14$。\n\n---",
+      "chapter": "Ch11 11.2節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "在 Chapter 11 第 2 節中，已知 $a=15$，求極限或值。",
+      "options": [
+        "$16$",
+        "$15$",
+        "$30$",
+        "$45$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=15$ 計算，結果為 15。\n\n---",
+      "chapter": "Ch11 11.2節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "在 Chapter 11 第 2 節中，已知 $k=16$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$16$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $16$。\n\n---",
+      "chapter": "Ch11 11.2節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "在 Chapter 11 第 2 節中，已知 $a=17$，求極限或值。",
+      "options": [
+        "$17$",
+        "$18$",
+        "$34$",
+        "$51$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=17$ 計算，結果為 17。\n\n---",
+      "chapter": "Ch11 11.2節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "在 Chapter 11 第 2 節中，已知 $k=18$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$18$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $18$。\n\n---",
+      "chapter": "Ch11 11.2節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "在 Chapter 11 第 2 節中，已知 $a=19$，求極限或值。",
+      "options": [
+        "$20$",
+        "$19$",
+        "$38$",
+        "$57$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=19$ 計算，結果為 19。\n\n---",
+      "chapter": "Ch11 11.2節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "在 Chapter 11 第 2 節中，已知 $k=20$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$20$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $20$。\n\n---",
+      "chapter": "Ch11 11.2節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "在 Chapter 11 第 2 節中，已知 $a=21$，求極限或值。",
+      "options": [
+        "$21$",
+        "$22$",
+        "$42$",
+        "$63$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=21$ 計算，結果為 21。\n\n---",
+      "chapter": "Ch11 11.2節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "在 Chapter 11 第 2 節中，若 $x=3$，求函數之精確值。",
+      "options": [],
+      "answer": "6",
+      "type": "fill",
+      "solution": "代入 $x=3$ 得出結果為 6。\n\n---",
+      "chapter": "Ch11 11.2節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "在 Chapter 11 第 2 節中，若 $x=4$，求函數之精確值。",
+      "options": [],
+      "answer": "8",
+      "type": "fill",
+      "solution": "代入 $x=4$ 得出結果為 8。\n\n---",
+      "chapter": "Ch11 11.2節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "在 Chapter 11 第 2 節中，若 $x=5$，求函數之精確值。",
+      "options": [],
+      "answer": "10",
+      "type": "fill",
+      "solution": "代入 $x=5$ 得出結果為 10。\n\n---",
+      "chapter": "Ch11 11.2節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "在 Chapter 11 第 2 節中，若 $x=6$，求函數之精確值。",
+      "options": [],
+      "answer": "12",
+      "type": "fill",
+      "solution": "代入 $x=6$ 得出結果為 12。\n\n---",
+      "chapter": "Ch11 11.2節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "在 Chapter 11 第 2 節中，若 $x=7$，求函數之精確值。",
+      "options": [],
+      "answer": "14",
+      "type": "fill",
+      "solution": "代入 $x=7$ 得出結果為 14。\n\n---",
+      "chapter": "Ch11 11.2節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "在 Chapter 11 第 2 節中，若 $x=8$，求函數之精確值。",
+      "options": [],
+      "answer": "16",
+      "type": "fill",
+      "solution": "代入 $x=8$ 得出結果為 16。\n\n---",
+      "chapter": "Ch11 11.2節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "在 Chapter 11 第 2 節中，若 $x=9$，求函數之精確值。",
+      "options": [],
+      "answer": "18",
+      "type": "fill",
+      "solution": "代入 $x=9$ 得出結果為 18。\n\n---",
+      "chapter": "Ch11 11.2節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "在 Chapter 11 第 2 節中，若 $x=10$，求函數之精確值。",
+      "options": [],
+      "answer": "20",
+      "type": "fill",
+      "solution": "代入 $x=10$ 得出結果為 20。\n\n---",
+      "chapter": "Ch11 11.2節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "在 Chapter 11 第 2 節中，若 $x=11$，求函數之精確值。",
+      "options": [],
+      "answer": "22",
+      "type": "fill",
+      "solution": "代入 $x=11$ 得出結果為 22。\n\n---",
+      "chapter": "Ch11 11.2節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "在 Chapter 11 第 2 節中，若 $x=12$，求函數之精確值。",
+      "options": [],
+      "answer": "24",
+      "type": "fill",
+      "solution": "代入 $x=12$ 得出結果為 24。",
+      "chapter": "Ch11 11.2節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "在 Chapter 11 第 3 節中，已知 $k=2$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$2$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $2$。\n\n---",
+      "chapter": "Ch11 11.3節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "在 Chapter 11 第 3 節中，已知 $a=3$，求極限或值。",
+      "options": [
+        "$4$",
+        "$3$",
+        "$6$",
+        "$9$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=3$ 計算，結果為 3。\n\n---",
+      "chapter": "Ch11 11.3節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "在 Chapter 11 第 3 節中，已知 $k=4$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$4$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $4$。\n\n---",
+      "chapter": "Ch11 11.3節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "在 Chapter 11 第 3 節中，已知 $a=5$，求極限或值。",
+      "options": [
+        "$5$",
+        "$6$",
+        "$10$",
+        "$15$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=5$ 計算，結果為 5。\n\n---",
+      "chapter": "Ch11 11.3節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "在 Chapter 11 第 3 節中，已知 $k=6$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$6$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $6$。\n\n---",
+      "chapter": "Ch11 11.3節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "在 Chapter 11 第 3 節中，已知 $a=7$，求極限或值。",
+      "options": [
+        "$8$",
+        "$7$",
+        "$14$",
+        "$21$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=7$ 計算，結果為 7。\n\n---",
+      "chapter": "Ch11 11.3節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "在 Chapter 11 第 3 節中，已知 $k=8$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$8$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $8$。\n\n---",
+      "chapter": "Ch11 11.3節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "在 Chapter 11 第 3 節中，已知 $a=9$，求極限或值。",
+      "options": [
+        "$9$",
+        "$10$",
+        "$18$",
+        "$27$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=9$ 計算，結果為 9。\n\n---",
+      "chapter": "Ch11 11.3節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "在 Chapter 11 第 3 節中，已知 $k=10$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$10$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $10$。\n\n---",
+      "chapter": "Ch11 11.3節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "在 Chapter 11 第 3 節中，已知 $a=11$，求極限或值。",
+      "options": [
+        "$12$",
+        "$11$",
+        "$22$",
+        "$33$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=11$ 計算，結果為 11。\n\n---",
+      "chapter": "Ch11 11.3節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "在 Chapter 11 第 3 節中，已知 $k=12$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$12$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $12$。\n\n---",
+      "chapter": "Ch11 11.3節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "在 Chapter 11 第 3 節中，已知 $a=13$，求極限或值。",
+      "options": [
+        "$13$",
+        "$14$",
+        "$26$",
+        "$39$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=13$ 計算，結果為 13。\n\n---",
+      "chapter": "Ch11 11.3節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "在 Chapter 11 第 3 節中，已知 $k=14$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$14$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $14$。\n\n---",
+      "chapter": "Ch11 11.3節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "在 Chapter 11 第 3 節中，已知 $a=15$，求極限或值。",
+      "options": [
+        "$16$",
+        "$15$",
+        "$30$",
+        "$45$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=15$ 計算，結果為 15。\n\n---",
+      "chapter": "Ch11 11.3節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "在 Chapter 11 第 3 節中，已知 $k=16$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$16$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $16$。\n\n---",
+      "chapter": "Ch11 11.3節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "在 Chapter 11 第 3 節中，已知 $a=17$，求極限或值。",
+      "options": [
+        "$17$",
+        "$18$",
+        "$34$",
+        "$51$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=17$ 計算，結果為 17。\n\n---",
+      "chapter": "Ch11 11.3節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "在 Chapter 11 第 3 節中，已知 $k=18$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$18$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $18$。\n\n---",
+      "chapter": "Ch11 11.3節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "在 Chapter 11 第 3 節中，已知 $a=19$，求極限或值。",
+      "options": [
+        "$20$",
+        "$19$",
+        "$38$",
+        "$57$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=19$ 計算，結果為 19。\n\n---",
+      "chapter": "Ch11 11.3節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "在 Chapter 11 第 3 節中，已知 $k=20$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$20$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $20$。\n\n---",
+      "chapter": "Ch11 11.3節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "在 Chapter 11 第 3 節中，已知 $a=21$，求極限或值。",
+      "options": [
+        "$21$",
+        "$22$",
+        "$42$",
+        "$63$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=21$ 計算，結果為 21。\n\n---",
+      "chapter": "Ch11 11.3節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "在 Chapter 11 第 3 節中，若 $x=3$，求函數之精確值。",
+      "options": [],
+      "answer": "6",
+      "type": "fill",
+      "solution": "代入 $x=3$ 得出結果為 6。\n\n---",
+      "chapter": "Ch11 11.3節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "在 Chapter 11 第 3 節中，若 $x=4$，求函數之精確值。",
+      "options": [],
+      "answer": "8",
+      "type": "fill",
+      "solution": "代入 $x=4$ 得出結果為 8。\n\n---",
+      "chapter": "Ch11 11.3節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "在 Chapter 11 第 3 節中，若 $x=5$，求函數之精確值。",
+      "options": [],
+      "answer": "10",
+      "type": "fill",
+      "solution": "代入 $x=5$ 得出結果為 10。\n\n---",
+      "chapter": "Ch11 11.3節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "在 Chapter 11 第 3 節中，若 $x=6$，求函數之精確值。",
+      "options": [],
+      "answer": "12",
+      "type": "fill",
+      "solution": "代入 $x=6$ 得出結果為 12。\n\n---",
+      "chapter": "Ch11 11.3節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "在 Chapter 11 第 3 節中，若 $x=7$，求函數之精確值。",
+      "options": [],
+      "answer": "14",
+      "type": "fill",
+      "solution": "代入 $x=7$ 得出結果為 14。\n\n---",
+      "chapter": "Ch11 11.3節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "在 Chapter 11 第 3 節中，若 $x=8$，求函數之精確值。",
+      "options": [],
+      "answer": "16",
+      "type": "fill",
+      "solution": "代入 $x=8$ 得出結果為 16。\n\n---",
+      "chapter": "Ch11 11.3節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "在 Chapter 11 第 3 節中，若 $x=9$，求函數之精確值。",
+      "options": [],
+      "answer": "18",
+      "type": "fill",
+      "solution": "代入 $x=9$ 得出結果為 18。\n\n---",
+      "chapter": "Ch11 11.3節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "在 Chapter 11 第 3 節中，若 $x=10$，求函數之精確值。",
+      "options": [],
+      "answer": "20",
+      "type": "fill",
+      "solution": "代入 $x=10$ 得出結果為 20。\n\n---",
+      "chapter": "Ch11 11.3節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "在 Chapter 11 第 3 節中，若 $x=11$，求函數之精確值。",
+      "options": [],
+      "answer": "22",
+      "type": "fill",
+      "solution": "代入 $x=11$ 得出結果為 22。\n\n---",
+      "chapter": "Ch11 11.3節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "在 Chapter 11 第 3 節中，若 $x=12$，求函數之精確值。",
+      "options": [],
+      "answer": "24",
+      "type": "fill",
+      "solution": "代入 $x=12$ 得出結果為 24。",
+      "chapter": "Ch11 11.3節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "在 Chapter 11 第 4 節中，已知 $k=2$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$2$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $2$。\n\n---",
+      "chapter": "Ch11 11.4節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "在 Chapter 11 第 4 節中，已知 $a=3$，求極限或值。",
+      "options": [
+        "$4$",
+        "$3$",
+        "$6$",
+        "$9$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=3$ 計算，結果為 3。\n\n---",
+      "chapter": "Ch11 11.4節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "在 Chapter 11 第 4 節中，已知 $k=4$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$4$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $4$。\n\n---",
+      "chapter": "Ch11 11.4節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "在 Chapter 11 第 4 節中，已知 $a=5$，求極限或值。",
+      "options": [
+        "$5$",
+        "$6$",
+        "$10$",
+        "$15$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=5$ 計算，結果為 5。\n\n---",
+      "chapter": "Ch11 11.4節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "在 Chapter 11 第 4 節中，已知 $k=6$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$6$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $6$。\n\n---",
+      "chapter": "Ch11 11.4節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "在 Chapter 11 第 4 節中，已知 $a=7$，求極限或值。",
+      "options": [
+        "$8$",
+        "$7$",
+        "$14$",
+        "$21$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=7$ 計算，結果為 7。\n\n---",
+      "chapter": "Ch11 11.4節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "在 Chapter 11 第 4 節中，已知 $k=8$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$8$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $8$。\n\n---",
+      "chapter": "Ch11 11.4節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "在 Chapter 11 第 4 節中，已知 $a=9$，求極限或值。",
+      "options": [
+        "$9$",
+        "$10$",
+        "$18$",
+        "$27$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=9$ 計算，結果為 9。\n\n---",
+      "chapter": "Ch11 11.4節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "在 Chapter 11 第 4 節中，已知 $k=10$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$10$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $10$。\n\n---",
+      "chapter": "Ch11 11.4節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "在 Chapter 11 第 4 節中，已知 $a=11$，求極限或值。",
+      "options": [
+        "$12$",
+        "$11$",
+        "$22$",
+        "$33$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=11$ 計算，結果為 11。\n\n---",
+      "chapter": "Ch11 11.4節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "在 Chapter 11 第 4 節中，已知 $k=12$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$12$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $12$。\n\n---",
+      "chapter": "Ch11 11.4節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "在 Chapter 11 第 4 節中，已知 $a=13$，求極限或值。",
+      "options": [
+        "$13$",
+        "$14$",
+        "$26$",
+        "$39$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=13$ 計算，結果為 13。\n\n---",
+      "chapter": "Ch11 11.4節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "在 Chapter 11 第 4 節中，已知 $k=14$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$14$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $14$。\n\n---",
+      "chapter": "Ch11 11.4節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "在 Chapter 11 第 4 節中，已知 $a=15$，求極限或值。",
+      "options": [
+        "$16$",
+        "$15$",
+        "$30$",
+        "$45$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=15$ 計算，結果為 15。\n\n---",
+      "chapter": "Ch11 11.4節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "在 Chapter 11 第 4 節中，已知 $k=16$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$16$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $16$。\n\n---",
+      "chapter": "Ch11 11.4節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "在 Chapter 11 第 4 節中，已知 $a=17$，求極限或值。",
+      "options": [
+        "$17$",
+        "$18$",
+        "$34$",
+        "$51$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=17$ 計算，結果為 17。\n\n---",
+      "chapter": "Ch11 11.4節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "在 Chapter 11 第 4 節中，已知 $k=18$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$18$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $18$。\n\n---",
+      "chapter": "Ch11 11.4節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "在 Chapter 11 第 4 節中，已知 $a=19$，求極限或值。",
+      "options": [
+        "$20$",
+        "$19$",
+        "$38$",
+        "$57$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=19$ 計算，結果為 19。\n\n---",
+      "chapter": "Ch11 11.4節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "在 Chapter 11 第 4 節中，已知 $k=20$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$20$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $20$。\n\n---",
+      "chapter": "Ch11 11.4節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "在 Chapter 11 第 4 節中，已知 $a=21$，求極限或值。",
+      "options": [
+        "$21$",
+        "$22$",
+        "$42$",
+        "$63$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=21$ 計算，結果為 21。\n\n---",
+      "chapter": "Ch11 11.4節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "在 Chapter 11 第 4 節中，若 $x=3$，求函數之精確值。",
+      "options": [],
+      "answer": "6",
+      "type": "fill",
+      "solution": "代入 $x=3$ 得出結果為 6。\n\n---",
+      "chapter": "Ch11 11.4節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "在 Chapter 11 第 4 節中，若 $x=4$，求函數之精確值。",
+      "options": [],
+      "answer": "8",
+      "type": "fill",
+      "solution": "代入 $x=4$ 得出結果為 8。\n\n---",
+      "chapter": "Ch11 11.4節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "在 Chapter 11 第 4 節中，若 $x=5$，求函數之精確值。",
+      "options": [],
+      "answer": "10",
+      "type": "fill",
+      "solution": "代入 $x=5$ 得出結果為 10。\n\n---",
+      "chapter": "Ch11 11.4節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "在 Chapter 11 第 4 節中，若 $x=6$，求函數之精確值。",
+      "options": [],
+      "answer": "12",
+      "type": "fill",
+      "solution": "代入 $x=6$ 得出結果為 12。\n\n---",
+      "chapter": "Ch11 11.4節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "在 Chapter 11 第 4 節中，若 $x=7$，求函數之精確值。",
+      "options": [],
+      "answer": "14",
+      "type": "fill",
+      "solution": "代入 $x=7$ 得出結果為 14。\n\n---",
+      "chapter": "Ch11 11.4節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "在 Chapter 11 第 4 節中，若 $x=8$，求函數之精確值。",
+      "options": [],
+      "answer": "16",
+      "type": "fill",
+      "solution": "代入 $x=8$ 得出結果為 16。\n\n---",
+      "chapter": "Ch11 11.4節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "在 Chapter 11 第 4 節中，若 $x=9$，求函數之精確值。",
+      "options": [],
+      "answer": "18",
+      "type": "fill",
+      "solution": "代入 $x=9$ 得出結果為 18。\n\n---",
+      "chapter": "Ch11 11.4節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "在 Chapter 11 第 4 節中，若 $x=10$，求函數之精確值。",
+      "options": [],
+      "answer": "20",
+      "type": "fill",
+      "solution": "代入 $x=10$ 得出結果為 20。\n\n---",
+      "chapter": "Ch11 11.4節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "在 Chapter 11 第 4 節中，若 $x=11$，求函數之精確值。",
+      "options": [],
+      "answer": "22",
+      "type": "fill",
+      "solution": "代入 $x=11$ 得出結果為 22。\n\n---",
+      "chapter": "Ch11 11.4節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "在 Chapter 11 第 4 節中，若 $x=12$，求函數之精確值。",
+      "options": [],
+      "answer": "24",
+      "type": "fill",
+      "solution": "代入 $x=12$ 得出結果為 24。",
+      "chapter": "Ch11 11.4節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "在 Chapter 11 第 5 節中，已知 $k=2$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$2$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $2$。\n\n---",
+      "chapter": "Ch11 11.5節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "在 Chapter 11 第 5 節中，已知 $a=3$，求極限或值。",
+      "options": [
+        "$4$",
+        "$3$",
+        "$6$",
+        "$9$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=3$ 計算，結果為 3。\n\n---",
+      "chapter": "Ch11 11.5節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "在 Chapter 11 第 5 節中，已知 $k=4$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$4$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $4$。\n\n---",
+      "chapter": "Ch11 11.5節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "在 Chapter 11 第 5 節中，已知 $a=5$，求極限或值。",
+      "options": [
+        "$5$",
+        "$6$",
+        "$10$",
+        "$15$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=5$ 計算，結果為 5。\n\n---",
+      "chapter": "Ch11 11.5節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "在 Chapter 11 第 5 節中，已知 $k=6$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$6$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $6$。\n\n---",
+      "chapter": "Ch11 11.5節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "在 Chapter 11 第 5 節中，已知 $a=7$，求極限或值。",
+      "options": [
+        "$8$",
+        "$7$",
+        "$14$",
+        "$21$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=7$ 計算，結果為 7。\n\n---",
+      "chapter": "Ch11 11.5節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "在 Chapter 11 第 5 節中，已知 $k=8$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$8$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $8$。\n\n---",
+      "chapter": "Ch11 11.5節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "在 Chapter 11 第 5 節中，已知 $a=9$，求極限或值。",
+      "options": [
+        "$9$",
+        "$10$",
+        "$18$",
+        "$27$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=9$ 計算，結果為 9。\n\n---",
+      "chapter": "Ch11 11.5節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "在 Chapter 11 第 5 節中，已知 $k=10$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$10$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $10$。\n\n---",
+      "chapter": "Ch11 11.5節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "在 Chapter 11 第 5 節中，已知 $a=11$，求極限或值。",
+      "options": [
+        "$12$",
+        "$11$",
+        "$22$",
+        "$33$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=11$ 計算，結果為 11。\n\n---",
+      "chapter": "Ch11 11.5節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "在 Chapter 11 第 5 節中，已知 $k=12$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$12$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $12$。\n\n---",
+      "chapter": "Ch11 11.5節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "在 Chapter 11 第 5 節中，已知 $a=13$，求極限或值。",
+      "options": [
+        "$13$",
+        "$14$",
+        "$26$",
+        "$39$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=13$ 計算，結果為 13。\n\n---",
+      "chapter": "Ch11 11.5節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "在 Chapter 11 第 5 節中，已知 $k=14$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$14$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $14$。\n\n---",
+      "chapter": "Ch11 11.5節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "在 Chapter 11 第 5 節中，已知 $a=15$，求極限或值。",
+      "options": [
+        "$16$",
+        "$15$",
+        "$30$",
+        "$45$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=15$ 計算，結果為 15。\n\n---",
+      "chapter": "Ch11 11.5節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "在 Chapter 11 第 5 節中，已知 $k=16$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$16$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $16$。\n\n---",
+      "chapter": "Ch11 11.5節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "在 Chapter 11 第 5 節中，已知 $a=17$，求極限或值。",
+      "options": [
+        "$17$",
+        "$18$",
+        "$34$",
+        "$51$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=17$ 計算，結果為 17。\n\n---",
+      "chapter": "Ch11 11.5節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "在 Chapter 11 第 5 節中，已知 $k=18$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$18$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $18$。\n\n---",
+      "chapter": "Ch11 11.5節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "在 Chapter 11 第 5 節中，已知 $a=19$，求極限或值。",
+      "options": [
+        "$20$",
+        "$19$",
+        "$38$",
+        "$57$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=19$ 計算，結果為 19。\n\n---",
+      "chapter": "Ch11 11.5節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "在 Chapter 11 第 5 節中，已知 $k=20$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$20$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $20$。\n\n---",
+      "chapter": "Ch11 11.5節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "在 Chapter 11 第 5 節中，已知 $a=21$，求極限或值。",
+      "options": [
+        "$21$",
+        "$22$",
+        "$42$",
+        "$63$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=21$ 計算，結果為 21。\n\n---",
+      "chapter": "Ch11 11.5節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "在 Chapter 11 第 5 節中，若 $x=3$，求函數之精確值。",
+      "options": [],
+      "answer": "6",
+      "type": "fill",
+      "solution": "代入 $x=3$ 得出結果為 6。\n\n---",
+      "chapter": "Ch11 11.5節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "在 Chapter 11 第 5 節中，若 $x=4$，求函數之精確值。",
+      "options": [],
+      "answer": "8",
+      "type": "fill",
+      "solution": "代入 $x=4$ 得出結果為 8。\n\n---",
+      "chapter": "Ch11 11.5節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "在 Chapter 11 第 5 節中，若 $x=5$，求函數之精確值。",
+      "options": [],
+      "answer": "10",
+      "type": "fill",
+      "solution": "代入 $x=5$ 得出結果為 10。\n\n---",
+      "chapter": "Ch11 11.5節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "在 Chapter 11 第 5 節中，若 $x=6$，求函數之精確值。",
+      "options": [],
+      "answer": "12",
+      "type": "fill",
+      "solution": "代入 $x=6$ 得出結果為 12。\n\n---",
+      "chapter": "Ch11 11.5節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "在 Chapter 11 第 5 節中，若 $x=7$，求函數之精確值。",
+      "options": [],
+      "answer": "14",
+      "type": "fill",
+      "solution": "代入 $x=7$ 得出結果為 14。\n\n---",
+      "chapter": "Ch11 11.5節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "在 Chapter 11 第 5 節中，若 $x=8$，求函數之精確值。",
+      "options": [],
+      "answer": "16",
+      "type": "fill",
+      "solution": "代入 $x=8$ 得出結果為 16。\n\n---",
+      "chapter": "Ch11 11.5節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "在 Chapter 11 第 5 節中，若 $x=9$，求函數之精確值。",
+      "options": [],
+      "answer": "18",
+      "type": "fill",
+      "solution": "代入 $x=9$ 得出結果為 18。\n\n---",
+      "chapter": "Ch11 11.5節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "在 Chapter 11 第 5 節中，若 $x=10$，求函數之精確值。",
+      "options": [],
+      "answer": "20",
+      "type": "fill",
+      "solution": "代入 $x=10$ 得出結果為 20。\n\n---",
+      "chapter": "Ch11 11.5節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "在 Chapter 11 第 5 節中，若 $x=11$，求函數之精確值。",
+      "options": [],
+      "answer": "22",
+      "type": "fill",
+      "solution": "代入 $x=11$ 得出結果為 22。\n\n---",
+      "chapter": "Ch11 11.5節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "在 Chapter 11 第 5 節中，若 $x=12$，求函數之精確值。",
+      "options": [],
+      "answer": "24",
+      "type": "fill",
+      "solution": "代入 $x=12$ 得出結果為 24。",
+      "chapter": "Ch11 11.5節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "在 Chapter 11 第 6 節中，已知 $k=2$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$2$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $2$。\n\n---",
+      "chapter": "Ch11 11.6節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "在 Chapter 11 第 6 節中，已知 $a=3$，求極限或值。",
+      "options": [
+        "$4$",
+        "$3$",
+        "$6$",
+        "$9$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=3$ 計算，結果為 3。\n\n---",
+      "chapter": "Ch11 11.6節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "在 Chapter 11 第 6 節中，已知 $k=4$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$4$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $4$。\n\n---",
+      "chapter": "Ch11 11.6節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "在 Chapter 11 第 6 節中，已知 $a=5$，求極限或值。",
+      "options": [
+        "$5$",
+        "$6$",
+        "$10$",
+        "$15$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=5$ 計算，結果為 5。\n\n---",
+      "chapter": "Ch11 11.6節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "在 Chapter 11 第 6 節中，已知 $k=6$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$6$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $6$。\n\n---",
+      "chapter": "Ch11 11.6節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "在 Chapter 11 第 6 節中，已知 $a=7$，求極限或值。",
+      "options": [
+        "$8$",
+        "$7$",
+        "$14$",
+        "$21$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=7$ 計算，結果為 7。\n\n---",
+      "chapter": "Ch11 11.6節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "在 Chapter 11 第 6 節中，已知 $k=8$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$8$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $8$。\n\n---",
+      "chapter": "Ch11 11.6節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "在 Chapter 11 第 6 節中，已知 $a=9$，求極限或值。",
+      "options": [
+        "$9$",
+        "$10$",
+        "$18$",
+        "$27$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=9$ 計算，結果為 9。\n\n---",
+      "chapter": "Ch11 11.6節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "在 Chapter 11 第 6 節中，已知 $k=10$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$10$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $10$。\n\n---",
+      "chapter": "Ch11 11.6節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "在 Chapter 11 第 6 節中，已知 $a=11$，求極限或值。",
+      "options": [
+        "$12$",
+        "$11$",
+        "$22$",
+        "$33$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=11$ 計算，結果為 11。\n\n---",
+      "chapter": "Ch11 11.6節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "在 Chapter 11 第 6 節中，已知 $k=12$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$12$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $12$。\n\n---",
+      "chapter": "Ch11 11.6節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "在 Chapter 11 第 6 節中，已知 $a=13$，求極限或值。",
+      "options": [
+        "$13$",
+        "$14$",
+        "$26$",
+        "$39$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=13$ 計算，結果為 13。\n\n---",
+      "chapter": "Ch11 11.6節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "在 Chapter 11 第 6 節中，已知 $k=14$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$14$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $14$。\n\n---",
+      "chapter": "Ch11 11.6節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "在 Chapter 11 第 6 節中，已知 $a=15$，求極限或值。",
+      "options": [
+        "$16$",
+        "$15$",
+        "$30$",
+        "$45$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=15$ 計算，結果為 15。\n\n---",
+      "chapter": "Ch11 11.6節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "在 Chapter 11 第 6 節中，已知 $k=16$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$16$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $16$。\n\n---",
+      "chapter": "Ch11 11.6節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "在 Chapter 11 第 6 節中，已知 $a=17$，求極限或值。",
+      "options": [
+        "$17$",
+        "$18$",
+        "$34$",
+        "$51$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=17$ 計算，結果為 17。\n\n---",
+      "chapter": "Ch11 11.6節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "在 Chapter 11 第 6 節中，已知 $k=18$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$18$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $18$。\n\n---",
+      "chapter": "Ch11 11.6節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "在 Chapter 11 第 6 節中，已知 $a=19$，求極限或值。",
+      "options": [
+        "$20$",
+        "$19$",
+        "$38$",
+        "$57$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=19$ 計算，結果為 19。\n\n---",
+      "chapter": "Ch11 11.6節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "在 Chapter 11 第 6 節中，已知 $k=20$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$20$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $20$。\n\n---",
+      "chapter": "Ch11 11.6節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "在 Chapter 11 第 6 節中，已知 $a=21$，求極限或值。",
+      "options": [
+        "$21$",
+        "$22$",
+        "$42$",
+        "$63$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=21$ 計算，結果為 21。\n\n---",
+      "chapter": "Ch11 11.6節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "在 Chapter 11 第 6 節中，若 $x=3$，求函數之精確值。",
+      "options": [],
+      "answer": "6",
+      "type": "fill",
+      "solution": "代入 $x=3$ 得出結果為 6。\n\n---",
+      "chapter": "Ch11 11.6節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "在 Chapter 11 第 6 節中，若 $x=4$，求函數之精確值。",
+      "options": [],
+      "answer": "8",
+      "type": "fill",
+      "solution": "代入 $x=4$ 得出結果為 8。\n\n---",
+      "chapter": "Ch11 11.6節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "在 Chapter 11 第 6 節中，若 $x=5$，求函數之精確值。",
+      "options": [],
+      "answer": "10",
+      "type": "fill",
+      "solution": "代入 $x=5$ 得出結果為 10。\n\n---",
+      "chapter": "Ch11 11.6節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "在 Chapter 11 第 6 節中，若 $x=6$，求函數之精確值。",
+      "options": [],
+      "answer": "12",
+      "type": "fill",
+      "solution": "代入 $x=6$ 得出結果為 12。\n\n---",
+      "chapter": "Ch11 11.6節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "在 Chapter 11 第 6 節中，若 $x=7$，求函數之精確值。",
+      "options": [],
+      "answer": "14",
+      "type": "fill",
+      "solution": "代入 $x=7$ 得出結果為 14。\n\n---",
+      "chapter": "Ch11 11.6節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "在 Chapter 11 第 6 節中，若 $x=8$，求函數之精確值。",
+      "options": [],
+      "answer": "16",
+      "type": "fill",
+      "solution": "代入 $x=8$ 得出結果為 16。\n\n---",
+      "chapter": "Ch11 11.6節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "在 Chapter 11 第 6 節中，若 $x=9$，求函數之精確值。",
+      "options": [],
+      "answer": "18",
+      "type": "fill",
+      "solution": "代入 $x=9$ 得出結果為 18。\n\n---",
+      "chapter": "Ch11 11.6節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "在 Chapter 11 第 6 節中，若 $x=10$，求函數之精確值。",
+      "options": [],
+      "answer": "20",
+      "type": "fill",
+      "solution": "代入 $x=10$ 得出結果為 20。\n\n---",
+      "chapter": "Ch11 11.6節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "在 Chapter 11 第 6 節中，若 $x=11$，求函數之精確值。",
+      "options": [],
+      "answer": "22",
+      "type": "fill",
+      "solution": "代入 $x=11$ 得出結果為 22。\n\n---",
+      "chapter": "Ch11 11.6節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "在 Chapter 11 第 6 節中，若 $x=12$，求函數之精確值。",
+      "options": [],
+      "answer": "24",
+      "type": "fill",
+      "solution": "代入 $x=12$ 得出結果為 24。",
+      "chapter": "Ch11 11.6節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "在 Chapter 11 第 7 節中，已知 $k=2$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$2$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $2$。\n\n---",
+      "chapter": "Ch11 11.7節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "在 Chapter 11 第 7 節中，已知 $a=3$，求極限或值。",
+      "options": [
+        "$4$",
+        "$3$",
+        "$6$",
+        "$9$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=3$ 計算，結果為 3。\n\n---",
+      "chapter": "Ch11 11.7節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "在 Chapter 11 第 7 節中，已知 $k=4$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$4$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $4$。\n\n---",
+      "chapter": "Ch11 11.7節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "在 Chapter 11 第 7 節中，已知 $a=5$，求極限或值。",
+      "options": [
+        "$5$",
+        "$6$",
+        "$10$",
+        "$15$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=5$ 計算，結果為 5。\n\n---",
+      "chapter": "Ch11 11.7節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "在 Chapter 11 第 7 節中，已知 $k=6$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$6$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $6$。\n\n---",
+      "chapter": "Ch11 11.7節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "在 Chapter 11 第 7 節中，已知 $a=7$，求極限或值。",
+      "options": [
+        "$8$",
+        "$7$",
+        "$14$",
+        "$21$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=7$ 計算，結果為 7。\n\n---",
+      "chapter": "Ch11 11.7節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "在 Chapter 11 第 7 節中，已知 $k=8$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$8$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $8$。\n\n---",
+      "chapter": "Ch11 11.7節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "在 Chapter 11 第 7 節中，已知 $a=9$，求極限或值。",
+      "options": [
+        "$9$",
+        "$10$",
+        "$18$",
+        "$27$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=9$ 計算，結果為 9。\n\n---",
+      "chapter": "Ch11 11.7節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "在 Chapter 11 第 7 節中，已知 $k=10$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$10$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $10$。\n\n---",
+      "chapter": "Ch11 11.7節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "在 Chapter 11 第 7 節中，已知 $a=11$，求極限或值。",
+      "options": [
+        "$12$",
+        "$11$",
+        "$22$",
+        "$33$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=11$ 計算，結果為 11。\n\n---",
+      "chapter": "Ch11 11.7節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "在 Chapter 11 第 7 節中，已知 $k=12$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$12$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $12$。\n\n---",
+      "chapter": "Ch11 11.7節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "在 Chapter 11 第 7 節中，已知 $a=13$，求極限或值。",
+      "options": [
+        "$13$",
+        "$14$",
+        "$26$",
+        "$39$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=13$ 計算，結果為 13。\n\n---",
+      "chapter": "Ch11 11.7節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "在 Chapter 11 第 7 節中，已知 $k=14$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$14$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $14$。\n\n---",
+      "chapter": "Ch11 11.7節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "在 Chapter 11 第 7 節中，已知 $a=15$，求極限或值。",
+      "options": [
+        "$16$",
+        "$15$",
+        "$30$",
+        "$45$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=15$ 計算，結果為 15。\n\n---",
+      "chapter": "Ch11 11.7節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "在 Chapter 11 第 7 節中，已知 $k=16$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$16$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $16$。\n\n---",
+      "chapter": "Ch11 11.7節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "在 Chapter 11 第 7 節中，已知 $a=17$，求極限或值。",
+      "options": [
+        "$17$",
+        "$18$",
+        "$34$",
+        "$51$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=17$ 計算，結果為 17。\n\n---",
+      "chapter": "Ch11 11.7節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "在 Chapter 11 第 7 節中，已知 $k=18$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$18$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $18$。\n\n---",
+      "chapter": "Ch11 11.7節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "在 Chapter 11 第 7 節中，已知 $a=19$，求極限或值。",
+      "options": [
+        "$20$",
+        "$19$",
+        "$38$",
+        "$57$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=19$ 計算，結果為 19。\n\n---",
+      "chapter": "Ch11 11.7節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "在 Chapter 11 第 7 節中，已知 $k=20$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$20$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $20$。\n\n---",
+      "chapter": "Ch11 11.7節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "在 Chapter 11 第 7 節中，已知 $a=21$，求極限或值。",
+      "options": [
+        "$21$",
+        "$22$",
+        "$42$",
+        "$63$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=21$ 計算，結果為 21。\n\n---",
+      "chapter": "Ch11 11.7節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "在 Chapter 11 第 7 節中，若 $x=3$，求函數之精確值。",
+      "options": [],
+      "answer": "6",
+      "type": "fill",
+      "solution": "代入 $x=3$ 得出結果為 6。\n\n---",
+      "chapter": "Ch11 11.7節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "在 Chapter 11 第 7 節中，若 $x=4$，求函數之精確值。",
+      "options": [],
+      "answer": "8",
+      "type": "fill",
+      "solution": "代入 $x=4$ 得出結果為 8。\n\n---",
+      "chapter": "Ch11 11.7節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "在 Chapter 11 第 7 節中，若 $x=5$，求函數之精確值。",
+      "options": [],
+      "answer": "10",
+      "type": "fill",
+      "solution": "代入 $x=5$ 得出結果為 10。\n\n---",
+      "chapter": "Ch11 11.7節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "在 Chapter 11 第 7 節中，若 $x=6$，求函數之精確值。",
+      "options": [],
+      "answer": "12",
+      "type": "fill",
+      "solution": "代入 $x=6$ 得出結果為 12。\n\n---",
+      "chapter": "Ch11 11.7節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "在 Chapter 11 第 7 節中，若 $x=7$，求函數之精確值。",
+      "options": [],
+      "answer": "14",
+      "type": "fill",
+      "solution": "代入 $x=7$ 得出結果為 14。\n\n---",
+      "chapter": "Ch11 11.7節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "在 Chapter 11 第 7 節中，若 $x=8$，求函數之精確值。",
+      "options": [],
+      "answer": "16",
+      "type": "fill",
+      "solution": "代入 $x=8$ 得出結果為 16。\n\n---",
+      "chapter": "Ch11 11.7節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "在 Chapter 11 第 7 節中，若 $x=9$，求函數之精確值。",
+      "options": [],
+      "answer": "18",
+      "type": "fill",
+      "solution": "代入 $x=9$ 得出結果為 18。\n\n---",
+      "chapter": "Ch11 11.7節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "在 Chapter 11 第 7 節中，若 $x=10$，求函數之精確值。",
+      "options": [],
+      "answer": "20",
+      "type": "fill",
+      "solution": "代入 $x=10$ 得出結果為 20。\n\n---",
+      "chapter": "Ch11 11.7節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "在 Chapter 11 第 7 節中，若 $x=11$，求函數之精確值。",
+      "options": [],
+      "answer": "22",
+      "type": "fill",
+      "solution": "代入 $x=11$ 得出結果為 22。\n\n---",
+      "chapter": "Ch11 11.7節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "在 Chapter 11 第 7 節中，若 $x=12$，求函數之精確值。",
+      "options": [],
+      "answer": "24",
+      "type": "fill",
+      "solution": "代入 $x=12$ 得出結果為 24。",
+      "chapter": "Ch11 11.7節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "在 Chapter 11 第 8 節中，已知 $k=2$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$2$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $2$。\n\n---",
+      "chapter": "Ch11 11.8節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "在 Chapter 11 第 8 節中，已知 $a=3$，求極限或值。",
+      "options": [
+        "$4$",
+        "$3$",
+        "$6$",
+        "$9$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=3$ 計算，結果為 3。\n\n---",
+      "chapter": "Ch11 11.8節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "在 Chapter 11 第 8 節中，已知 $k=4$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$4$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $4$。\n\n---",
+      "chapter": "Ch11 11.8節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "在 Chapter 11 第 8 節中，已知 $a=5$，求極限或值。",
+      "options": [
+        "$5$",
+        "$6$",
+        "$10$",
+        "$15$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=5$ 計算，結果為 5。\n\n---",
+      "chapter": "Ch11 11.8節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "在 Chapter 11 第 8 節中，已知 $k=6$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$6$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $6$。\n\n---",
+      "chapter": "Ch11 11.8節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "在 Chapter 11 第 8 節中，已知 $a=7$，求極限或值。",
+      "options": [
+        "$8$",
+        "$7$",
+        "$14$",
+        "$21$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=7$ 計算，結果為 7。\n\n---",
+      "chapter": "Ch11 11.8節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "在 Chapter 11 第 8 節中，已知 $k=8$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$8$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $8$。\n\n---",
+      "chapter": "Ch11 11.8節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "在 Chapter 11 第 8 節中，已知 $a=9$，求極限或值。",
+      "options": [
+        "$9$",
+        "$10$",
+        "$18$",
+        "$27$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=9$ 計算，結果為 9。\n\n---",
+      "chapter": "Ch11 11.8節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "在 Chapter 11 第 8 節中，已知 $k=10$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$10$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $10$。\n\n---",
+      "chapter": "Ch11 11.8節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "在 Chapter 11 第 8 節中，已知 $a=11$，求極限或值。",
+      "options": [
+        "$12$",
+        "$11$",
+        "$22$",
+        "$33$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=11$ 計算，結果為 11。\n\n---",
+      "chapter": "Ch11 11.8節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "在 Chapter 11 第 8 節中，已知 $k=12$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$12$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $12$。\n\n---",
+      "chapter": "Ch11 11.8節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "在 Chapter 11 第 8 節中，已知 $a=13$，求極限或值。",
+      "options": [
+        "$13$",
+        "$14$",
+        "$26$",
+        "$39$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=13$ 計算，結果為 13。\n\n---",
+      "chapter": "Ch11 11.8節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "在 Chapter 11 第 8 節中，已知 $k=14$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$14$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $14$。\n\n---",
+      "chapter": "Ch11 11.8節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "在 Chapter 11 第 8 節中，已知 $a=15$，求極限或值。",
+      "options": [
+        "$16$",
+        "$15$",
+        "$30$",
+        "$45$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=15$ 計算，結果為 15。\n\n---",
+      "chapter": "Ch11 11.8節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "在 Chapter 11 第 8 節中，已知 $k=16$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$16$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $16$。\n\n---",
+      "chapter": "Ch11 11.8節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "在 Chapter 11 第 8 節中，已知 $a=17$，求極限或值。",
+      "options": [
+        "$17$",
+        "$18$",
+        "$34$",
+        "$51$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=17$ 計算，結果為 17。\n\n---",
+      "chapter": "Ch11 11.8節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "在 Chapter 11 第 8 節中，已知 $k=18$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$18$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $18$。\n\n---",
+      "chapter": "Ch11 11.8節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "在 Chapter 11 第 8 節中，已知 $a=19$，求極限或值。",
+      "options": [
+        "$20$",
+        "$19$",
+        "$38$",
+        "$57$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=19$ 計算，結果為 19。\n\n---",
+      "chapter": "Ch11 11.8節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "在 Chapter 11 第 8 節中，已知 $k=20$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$20$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $20$。\n\n---",
+      "chapter": "Ch11 11.8節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "在 Chapter 11 第 8 節中，已知 $a=21$，求極限或值。",
+      "options": [
+        "$21$",
+        "$22$",
+        "$42$",
+        "$63$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=21$ 計算，結果為 21。\n\n---",
+      "chapter": "Ch11 11.8節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "在 Chapter 11 第 8 節中，若 $x=3$，求函數之精確值。",
+      "options": [],
+      "answer": "6",
+      "type": "fill",
+      "solution": "代入 $x=3$ 得出結果為 6。\n\n---",
+      "chapter": "Ch11 11.8節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "在 Chapter 11 第 8 節中，若 $x=4$，求函數之精確值。",
+      "options": [],
+      "answer": "8",
+      "type": "fill",
+      "solution": "代入 $x=4$ 得出結果為 8。\n\n---",
+      "chapter": "Ch11 11.8節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "在 Chapter 11 第 8 節中，若 $x=5$，求函數之精確值。",
+      "options": [],
+      "answer": "10",
+      "type": "fill",
+      "solution": "代入 $x=5$ 得出結果為 10。\n\n---",
+      "chapter": "Ch11 11.8節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "在 Chapter 11 第 8 節中，若 $x=6$，求函數之精確值。",
+      "options": [],
+      "answer": "12",
+      "type": "fill",
+      "solution": "代入 $x=6$ 得出結果為 12。\n\n---",
+      "chapter": "Ch11 11.8節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "在 Chapter 11 第 8 節中，若 $x=7$，求函數之精確值。",
+      "options": [],
+      "answer": "14",
+      "type": "fill",
+      "solution": "代入 $x=7$ 得出結果為 14。\n\n---",
+      "chapter": "Ch11 11.8節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "在 Chapter 11 第 8 節中，若 $x=8$，求函數之精確值。",
+      "options": [],
+      "answer": "16",
+      "type": "fill",
+      "solution": "代入 $x=8$ 得出結果為 16。\n\n---",
+      "chapter": "Ch11 11.8節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "在 Chapter 11 第 8 節中，若 $x=9$，求函數之精確值。",
+      "options": [],
+      "answer": "18",
+      "type": "fill",
+      "solution": "代入 $x=9$ 得出結果為 18。\n\n---",
+      "chapter": "Ch11 11.8節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "在 Chapter 11 第 8 節中，若 $x=10$，求函數之精確值。",
+      "options": [],
+      "answer": "20",
+      "type": "fill",
+      "solution": "代入 $x=10$ 得出結果為 20。\n\n---",
+      "chapter": "Ch11 11.8節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "在 Chapter 11 第 8 節中，若 $x=11$，求函數之精確值。",
+      "options": [],
+      "answer": "22",
+      "type": "fill",
+      "solution": "代入 $x=11$ 得出結果為 22。\n\n---",
+      "chapter": "Ch11 11.8節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "在 Chapter 11 第 8 節中，若 $x=12$，求函數之精確值。",
+      "options": [],
+      "answer": "24",
+      "type": "fill",
+      "solution": "代入 $x=12$ 得出結果為 24。",
+      "chapter": "Ch11 11.8節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "在 Chapter 11 第 9 節中，已知 $k=2$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$2$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $2$。\n\n---",
+      "chapter": "Ch11 11.9節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "在 Chapter 11 第 9 節中，已知 $a=3$，求極限或值。",
+      "options": [
+        "$4$",
+        "$3$",
+        "$6$",
+        "$9$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=3$ 計算，結果為 3。\n\n---",
+      "chapter": "Ch11 11.9節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "在 Chapter 11 第 9 節中，已知 $k=4$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$4$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $4$。\n\n---",
+      "chapter": "Ch11 11.9節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "在 Chapter 11 第 9 節中，已知 $a=5$，求極限或值。",
+      "options": [
+        "$5$",
+        "$6$",
+        "$10$",
+        "$15$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=5$ 計算，結果為 5。\n\n---",
+      "chapter": "Ch11 11.9節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "在 Chapter 11 第 9 節中，已知 $k=6$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$6$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $6$。\n\n---",
+      "chapter": "Ch11 11.9節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "在 Chapter 11 第 9 節中，已知 $a=7$，求極限或值。",
+      "options": [
+        "$8$",
+        "$7$",
+        "$14$",
+        "$21$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=7$ 計算，結果為 7。\n\n---",
+      "chapter": "Ch11 11.9節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "在 Chapter 11 第 9 節中，已知 $k=8$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$8$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $8$。\n\n---",
+      "chapter": "Ch11 11.9節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "在 Chapter 11 第 9 節中，已知 $a=9$，求極限或值。",
+      "options": [
+        "$9$",
+        "$10$",
+        "$18$",
+        "$27$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=9$ 計算，結果為 9。\n\n---",
+      "chapter": "Ch11 11.9節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "在 Chapter 11 第 9 節中，已知 $k=10$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$10$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $10$。\n\n---",
+      "chapter": "Ch11 11.9節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "在 Chapter 11 第 9 節中，已知 $a=11$，求極限或值。",
+      "options": [
+        "$12$",
+        "$11$",
+        "$22$",
+        "$33$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=11$ 計算，結果為 11。\n\n---",
+      "chapter": "Ch11 11.9節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "在 Chapter 11 第 9 節中，已知 $k=12$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$12$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $12$。\n\n---",
+      "chapter": "Ch11 11.9節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "在 Chapter 11 第 9 節中，已知 $a=13$，求極限或值。",
+      "options": [
+        "$13$",
+        "$14$",
+        "$26$",
+        "$39$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=13$ 計算，結果為 13。\n\n---",
+      "chapter": "Ch11 11.9節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "在 Chapter 11 第 9 節中，已知 $k=14$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$14$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $14$。\n\n---",
+      "chapter": "Ch11 11.9節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "在 Chapter 11 第 9 節中，已知 $a=15$，求極限或值。",
+      "options": [
+        "$16$",
+        "$15$",
+        "$30$",
+        "$45$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=15$ 計算，結果為 15。\n\n---",
+      "chapter": "Ch11 11.9節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "在 Chapter 11 第 9 節中，已知 $k=16$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$16$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $16$。\n\n---",
+      "chapter": "Ch11 11.9節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "在 Chapter 11 第 9 節中，已知 $a=17$，求極限或值。",
+      "options": [
+        "$17$",
+        "$18$",
+        "$34$",
+        "$51$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=17$ 計算，結果為 17。\n\n---",
+      "chapter": "Ch11 11.9節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "在 Chapter 11 第 9 節中，已知 $k=18$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "$18$",
+        "發散",
+        "收斂",
+        "條件收斂"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $18$。\n\n---",
+      "chapter": "Ch11 11.9節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "在 Chapter 11 第 9 節中，已知 $a=19$，求極限或值。",
+      "options": [
+        "$20$",
+        "$19$",
+        "$38$",
+        "$57$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $a=19$ 計算，結果為 19。\n\n---",
+      "chapter": "Ch11 11.9節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "在 Chapter 11 第 9 節中，已知 $k=20$，判斷級數收斂性或求向量、導數結果。",
+      "options": [
+        "條件收斂",
+        "發散",
+        "$20$",
+        "收斂"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據相關審斂法或定義，可知答案為 收斂 或 $20$。\n\n---",
+      "chapter": "Ch11 11.9節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "在 Chapter 11 第 9 節中，已知 $a=21$，求極限或值。",
+      "options": [
+        "$21$",
+        "$22$",
+        "$42$",
+        "$63$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $a=21$ 計算，結果為 21。\n\n---",
+      "chapter": "Ch11 11.9節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "在 Chapter 11 第 9 節中，若 $x=3$，求函數之精確值。",
+      "options": [],
+      "answer": "6",
+      "type": "fill",
+      "solution": "代入 $x=3$ 得出結果為 6。\n\n---",
+      "chapter": "Ch11 11.9節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "在 Chapter 11 第 9 節中，若 $x=4$，求函數之精確值。",
+      "options": [],
+      "answer": "8",
+      "type": "fill",
+      "solution": "代入 $x=4$ 得出結果為 8。\n\n---",
+      "chapter": "Ch11 11.9節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "在 Chapter 11 第 9 節中，若 $x=5$，求函數之精確值。",
+      "options": [],
+      "answer": "10",
+      "type": "fill",
+      "solution": "代入 $x=5$ 得出結果為 10。\n\n---",
+      "chapter": "Ch11 11.9節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "在 Chapter 11 第 9 節中，若 $x=6$，求函數之精確值。",
+      "options": [],
+      "answer": "12",
+      "type": "fill",
+      "solution": "代入 $x=6$ 得出結果為 12。\n\n---",
+      "chapter": "Ch11 11.9節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "在 Chapter 11 第 9 節中，若 $x=7$，求函數之精確值。",
+      "options": [],
+      "answer": "14",
+      "type": "fill",
+      "solution": "代入 $x=7$ 得出結果為 14。\n\n---",
+      "chapter": "Ch11 11.9節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "在 Chapter 11 第 9 節中，若 $x=8$，求函數之精確值。",
+      "options": [],
+      "answer": "16",
+      "type": "fill",
+      "solution": "代入 $x=8$ 得出結果為 16。\n\n---",
+      "chapter": "Ch11 11.9節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "在 Chapter 11 第 9 節中，若 $x=9$，求函數之精確值。",
+      "options": [],
+      "answer": "18",
+      "type": "fill",
+      "solution": "代入 $x=9$ 得出結果為 18。\n\n---",
+      "chapter": "Ch11 11.9節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "在 Chapter 11 第 9 節中，若 $x=10$，求函數之精確值。",
+      "options": [],
+      "answer": "20",
+      "type": "fill",
+      "solution": "代入 $x=10$ 得出結果為 20。\n\n---",
+      "chapter": "Ch11 11.9節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "在 Chapter 11 第 9 節中，若 $x=11$，求函數之精確值。",
+      "options": [],
+      "answer": "22",
+      "type": "fill",
+      "solution": "代入 $x=11$ 得出結果為 22。\n\n---",
+      "chapter": "Ch11 11.9節：無窮序列與級數",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "在 Chapter 11 第 9 節中，若 $x=12$，求函數之精確值。",
+      "options": [],
+      "answer": "24",
+      "type": "fill",
+      "solution": "代入 $x=12$ 得出結果為 24。",
+      "chapter": "Ch11 11.9節：無窮序列與級數",
+      "score": 10
+    }
+  ]
+}

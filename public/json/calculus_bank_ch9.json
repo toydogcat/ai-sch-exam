@@ -1,0 +1,2404 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "text": "判斷下列哪一個函數是 $\\frac{d^2y}{dx^2} + 4y = 0$ 的解？",
+      "options": [
+        "$e^{2x}$",
+        "$\\sin(2x)$",
+        "$\\cos(2x)$",
+        "$x^{2}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "對 $y = \\cos(2x)$ 求二次導數得 $y'' = -4\\cos(2x)$。代入原微分方程滿足 $y'' + 4y = 0$。\n\n---",
+      "chapter": "Ch9 9.1節：微分方程建模",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "對於一階常微分方程 $\\frac{dy}{dt} = 3y$，其最一般的通解形式為何？",
+      "options": [
+        "$y(t) = C e^{-3t}$",
+        "$y(t) = C e^{3t}$",
+        "$y(t) = 3t + C$",
+        "$y(t) = C e^{t/3}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "分離變數積分：$\\int \\frac{1}{y} dy = \\int a dt \\implies \\ln|y| = at + C_1 \\implies y(t) = C e^{at}$。\n\n---",
+      "chapter": "Ch9 9.1節：微分方程建模",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "判斷下列哪一個函數是 $\\frac{d^2y}{dx^2} + 16y = 0$ 的解？",
+      "options": [
+        "$x^{4}$",
+        "$\\sin(4x)$",
+        "$e^{4x}$",
+        "$\\cos(4x)$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "對 $y = \\cos(4x)$ 求二次導數得 $y'' = -16\\cos(4x)$。代入原微分方程滿足 $y'' + 16y = 0$。\n\n---",
+      "chapter": "Ch9 9.1節：微分方程建模",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "對於一階常微分方程 $\\frac{dy}{dt} = 5y$，其最一般的通解形式為何？",
+      "options": [
+        "$y(t) = C e^{5t}$",
+        "$y(t) = C e^{-5t}$",
+        "$y(t) = 5t + C$",
+        "$y(t) = C e^{t/5}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "分離變數積分：$\\int \\frac{1}{y} dy = \\int a dt \\implies \\ln|y| = at + C_1 \\implies y(t) = C e^{at}$。\n\n---",
+      "chapter": "Ch9 9.1節：微分方程建模",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "判斷下列哪一個函數是 $\\frac{d^2y}{dx^2} + 36y = 0$ 的解？",
+      "options": [
+        "$e^{6x}$",
+        "$\\sin(6x)$",
+        "$\\cos(6x)$",
+        "$x^{6}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "對 $y = \\cos(6x)$ 求二次導數得 $y'' = -36\\cos(6x)$。代入原微分方程滿足 $y'' + 36y = 0$。\n\n---",
+      "chapter": "Ch9 9.1節：微分方程建模",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "對於一階常微分方程 $\\frac{dy}{dt} = 7y$，其最一般的通解形式為何？",
+      "options": [
+        "$y(t) = C e^{-7t}$",
+        "$y(t) = C e^{7t}$",
+        "$y(t) = 7t + C$",
+        "$y(t) = C e^{t/7}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "分離變數積分：$\\int \\frac{1}{y} dy = \\int a dt \\implies \\ln|y| = at + C_1 \\implies y(t) = C e^{at}$。\n\n---",
+      "chapter": "Ch9 9.1節：微分方程建模",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "判斷下列哪一個函數是 $\\frac{d^2y}{dx^2} + 64y = 0$ 的解？",
+      "options": [
+        "$x^{8}$",
+        "$\\sin(8x)$",
+        "$e^{8x}$",
+        "$\\cos(8x)$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "對 $y = \\cos(8x)$ 求二次導數得 $y'' = -64\\cos(8x)$。代入原微分方程滿足 $y'' + 64y = 0$。\n\n---",
+      "chapter": "Ch9 9.1節：微分方程建模",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "對於一階常微分方程 $\\frac{dy}{dt} = 9y$，其最一般的通解形式為何？",
+      "options": [
+        "$y(t) = C e^{9t}$",
+        "$y(t) = C e^{-9t}$",
+        "$y(t) = 9t + C$",
+        "$y(t) = C e^{t/9}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "分離變數積分：$\\int \\frac{1}{y} dy = \\int a dt \\implies \\ln|y| = at + C_1 \\implies y(t) = C e^{at}$。\n\n---",
+      "chapter": "Ch9 9.1節：微分方程建模",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "判斷下列哪一個函數是 $\\frac{d^2y}{dx^2} + 100y = 0$ 的解？",
+      "options": [
+        "$e^{10x}$",
+        "$\\sin(10x)$",
+        "$\\cos(10x)$",
+        "$x^{10}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "對 $y = \\cos(10x)$ 求二次導數得 $y'' = -100\\cos(10x)$。代入原微分方程滿足 $y'' + 100y = 0$。\n\n---",
+      "chapter": "Ch9 9.1節：微分方程建模",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "對於一階常微分方程 $\\frac{dy}{dt} = 11y$，其最一般的通解形式為何？",
+      "options": [
+        "$y(t) = C e^{-11t}$",
+        "$y(t) = C e^{11t}$",
+        "$y(t) = 11t + C$",
+        "$y(t) = C e^{t/11}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "分離變數積分：$\\int \\frac{1}{y} dy = \\int a dt \\implies \\ln|y| = at + C_1 \\implies y(t) = C e^{at}$。\n\n---",
+      "chapter": "Ch9 9.1節：微分方程建模",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "判斷下列哪一個函數是 $\\frac{d^2y}{dx^2} + 144y = 0$ 的解？",
+      "options": [
+        "$x^{12}$",
+        "$\\sin(12x)$",
+        "$e^{12x}$",
+        "$\\cos(12x)$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "對 $y = \\cos(12x)$ 求二次導數得 $y'' = -144\\cos(12x)$。代入原微分方程滿足 $y'' + 144y = 0$。\n\n---",
+      "chapter": "Ch9 9.1節：微分方程建模",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "對於一階常微分方程 $\\frac{dy}{dt} = 13y$，其最一般的通解形式為何？",
+      "options": [
+        "$y(t) = C e^{13t}$",
+        "$y(t) = C e^{-13t}$",
+        "$y(t) = 13t + C$",
+        "$y(t) = C e^{t/13}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "分離變數積分：$\\int \\frac{1}{y} dy = \\int a dt \\implies \\ln|y| = at + C_1 \\implies y(t) = C e^{at}$。\n\n---",
+      "chapter": "Ch9 9.1節：微分方程建模",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "判斷下列哪一個函數是 $\\frac{d^2y}{dx^2} + 196y = 0$ 的解？",
+      "options": [
+        "$e^{14x}$",
+        "$\\sin(14x)$",
+        "$\\cos(14x)$",
+        "$x^{14}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "對 $y = \\cos(14x)$ 求二次導數得 $y'' = -196\\cos(14x)$。代入原微分方程滿足 $y'' + 196y = 0$。\n\n---",
+      "chapter": "Ch9 9.1節：微分方程建模",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "對於一階常微分方程 $\\frac{dy}{dt} = 15y$，其最一般的通解形式為何？",
+      "options": [
+        "$y(t) = C e^{-15t}$",
+        "$y(t) = C e^{15t}$",
+        "$y(t) = 15t + C$",
+        "$y(t) = C e^{t/15}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "分離變數積分：$\\int \\frac{1}{y} dy = \\int a dt \\implies \\ln|y| = at + C_1 \\implies y(t) = C e^{at}$。\n\n---",
+      "chapter": "Ch9 9.1節：微分方程建模",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "判斷下列哪一個函數是 $\\frac{d^2y}{dx^2} + 256y = 0$ 的解？",
+      "options": [
+        "$x^{16}$",
+        "$\\sin(16x)$",
+        "$e^{16x}$",
+        "$\\cos(16x)$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "對 $y = \\cos(16x)$ 求二次導數得 $y'' = -256\\cos(16x)$。代入原微分方程滿足 $y'' + 256y = 0$。\n\n---",
+      "chapter": "Ch9 9.1節：微分方程建模",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "對於一階常微分方程 $\\frac{dy}{dt} = 17y$，其最一般的通解形式為何？",
+      "options": [
+        "$y(t) = C e^{17t}$",
+        "$y(t) = C e^{-17t}$",
+        "$y(t) = 17t + C$",
+        "$y(t) = C e^{t/17}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "分離變數積分：$\\int \\frac{1}{y} dy = \\int a dt \\implies \\ln|y| = at + C_1 \\implies y(t) = C e^{at}$。\n\n---",
+      "chapter": "Ch9 9.1節：微分方程建模",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "判斷下列哪一個函數是 $\\frac{d^2y}{dx^2} + 324y = 0$ 的解？",
+      "options": [
+        "$e^{18x}$",
+        "$\\sin(18x)$",
+        "$\\cos(18x)$",
+        "$x^{18}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "對 $y = \\cos(18x)$ 求二次導數得 $y'' = -324\\cos(18x)$。代入原微分方程滿足 $y'' + 324y = 0$。\n\n---",
+      "chapter": "Ch9 9.1節：微分方程建模",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "對於一階常微分方程 $\\frac{dy}{dt} = 19y$，其最一般的通解形式為何？",
+      "options": [
+        "$y(t) = C e^{-19t}$",
+        "$y(t) = C e^{19t}$",
+        "$y(t) = 19t + C$",
+        "$y(t) = C e^{t/19}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "分離變數積分：$\\int \\frac{1}{y} dy = \\int a dt \\implies \\ln|y| = at + C_1 \\implies y(t) = C e^{at}$。\n\n---",
+      "chapter": "Ch9 9.1節：微分方程建模",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "判斷下列哪一個函數是 $\\frac{d^2y}{dx^2} + 400y = 0$ 的解？",
+      "options": [
+        "$x^{20}$",
+        "$\\sin(20x)$",
+        "$e^{20x}$",
+        "$\\cos(20x)$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "對 $y = \\cos(20x)$ 求二次導數得 $y'' = -400\\cos(20x)$。代入原微分方程滿足 $y'' + 400y = 0$。\n\n---",
+      "chapter": "Ch9 9.1節：微分方程建模",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "對於一階常微分方程 $\\frac{dy}{dt} = 21y$，其最一般的通解形式為何？",
+      "options": [
+        "$y(t) = C e^{21t}$",
+        "$y(t) = C e^{-21t}$",
+        "$y(t) = 21t + C$",
+        "$y(t) = C e^{t/21}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "分離變數積分：$\\int \\frac{1}{y} dy = \\int a dt \\implies \\ln|y| = at + C_1 \\implies y(t) = C e^{at}$。\n\n---",
+      "chapter": "Ch9 9.1節：微分方程建模",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "已知一函數滿足 $\\frac{dy}{dx} = 3x$，且 $y(0) = 5$，求 $y(2)$ 之精確值。",
+      "options": [],
+      "answer": "11",
+      "type": "fill",
+      "solution": "積分為 $y(x) = \\frac{3}{2}x^2 + C$。代入 $y(0)=5 \\implies C=5$。故 $y(x) = \\frac{3}{2}x^2 + 5$。代入 $x=2 \\implies y(2) = \\frac{3}{2}(4) + 5 = 23 + 5$。\n\n---",
+      "chapter": "Ch9 9.1節：微分方程建模",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "已知一函數滿足 $\\frac{dy}{dx} = 4x$，且 $y(0) = 5$，求 $y(2)$ 之精確值。",
+      "options": [],
+      "answer": "13",
+      "type": "fill",
+      "solution": "積分為 $y(x) = \\frac{4}{2}x^2 + C$。代入 $y(0)=5 \\implies C=5$。故 $y(x) = \\frac{4}{2}x^2 + 5$。代入 $x=2 \\implies y(2) = \\frac{4}{2}(4) + 5 = 24 + 5$。\n\n---",
+      "chapter": "Ch9 9.1節：微分方程建模",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "已知一函數滿足 $\\frac{dy}{dx} = 5x$，且 $y(0) = 5$，求 $y(2)$ 之精確值。",
+      "options": [],
+      "answer": "15",
+      "type": "fill",
+      "solution": "積分為 $y(x) = \\frac{5}{2}x^2 + C$。代入 $y(0)=5 \\implies C=5$。故 $y(x) = \\frac{5}{2}x^2 + 5$。代入 $x=2 \\implies y(2) = \\frac{5}{2}(4) + 5 = 25 + 5$。\n\n---",
+      "chapter": "Ch9 9.1節：微分方程建模",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "已知一函數滿足 $\\frac{dy}{dx} = 6x$，且 $y(0) = 5$，求 $y(2)$ 之精確值。",
+      "options": [],
+      "answer": "17",
+      "type": "fill",
+      "solution": "積分為 $y(x) = \\frac{6}{2}x^2 + C$。代入 $y(0)=5 \\implies C=5$。故 $y(x) = \\frac{6}{2}x^2 + 5$。代入 $x=2 \\implies y(2) = \\frac{6}{2}(4) + 5 = 26 + 5$。\n\n---",
+      "chapter": "Ch9 9.1節：微分方程建模",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "已知一函數滿足 $\\frac{dy}{dx} = 7x$，且 $y(0) = 5$，求 $y(2)$ 之精確值。",
+      "options": [],
+      "answer": "19",
+      "type": "fill",
+      "solution": "積分為 $y(x) = \\frac{7}{2}x^2 + C$。代入 $y(0)=5 \\implies C=5$。故 $y(x) = \\frac{7}{2}x^2 + 5$。代入 $x=2 \\implies y(2) = \\frac{7}{2}(4) + 5 = 27 + 5$。\n\n---",
+      "chapter": "Ch9 9.1節：微分方程建模",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "已知一函數滿足 $\\frac{dy}{dx} = 8x$，且 $y(0) = 5$，求 $y(2)$ 之精確值。",
+      "options": [],
+      "answer": "21",
+      "type": "fill",
+      "solution": "積分為 $y(x) = \\frac{8}{2}x^2 + C$。代入 $y(0)=5 \\implies C=5$。故 $y(x) = \\frac{8}{2}x^2 + 5$。代入 $x=2 \\implies y(2) = \\frac{8}{2}(4) + 5 = 28 + 5$。\n\n---",
+      "chapter": "Ch9 9.1節：微分方程建模",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "已知一函數滿足 $\\frac{dy}{dx} = 9x$，且 $y(0) = 5$，求 $y(2)$ 之精確值。",
+      "options": [],
+      "answer": "23",
+      "type": "fill",
+      "solution": "積分為 $y(x) = \\frac{9}{2}x^2 + C$。代入 $y(0)=5 \\implies C=5$。故 $y(x) = \\frac{9}{2}x^2 + 5$。代入 $x=2 \\implies y(2) = \\frac{9}{2}(4) + 5 = 29 + 5$。\n\n---",
+      "chapter": "Ch9 9.1節：微分方程建模",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "已知一函數滿足 $\\frac{dy}{dx} = 10x$，且 $y(0) = 5$，求 $y(2)$ 之精確值。",
+      "options": [],
+      "answer": "25",
+      "type": "fill",
+      "solution": "積分為 $y(x) = \\frac{10}{2}x^2 + C$。代入 $y(0)=5 \\implies C=5$。故 $y(x) = \\frac{10}{2}x^2 + 5$。代入 $x=2 \\implies y(2) = \\frac{10}{2}(4) + 5 = 210 + 5$。\n\n---",
+      "chapter": "Ch9 9.1節：微分方程建模",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "已知一函數滿足 $\\frac{dy}{dx} = 11x$，且 $y(0) = 5$，求 $y(2)$ 之精確值。",
+      "options": [],
+      "answer": "27",
+      "type": "fill",
+      "solution": "積分為 $y(x) = \\frac{11}{2}x^2 + C$。代入 $y(0)=5 \\implies C=5$。故 $y(x) = \\frac{11}{2}x^2 + 5$。代入 $x=2 \\implies y(2) = \\frac{11}{2}(4) + 5 = 211 + 5$。\n\n---",
+      "chapter": "Ch9 9.1節：微分方程建模",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "已知一函數滿足 $\\frac{dy}{dx} = 12x$，且 $y(0) = 5$，求 $y(2)$ 之精確值。",
+      "options": [],
+      "answer": "29",
+      "type": "fill",
+      "solution": "積分為 $y(x) = \\frac{12}{2}x^2 + C$。代入 $y(0)=5 \\implies C=5$。故 $y(x) = \\frac{12}{2}x^2 + 5$。代入 $x=2 \\implies y(2) = \\frac{12}{2}(4) + 5 = 212 + 5$。",
+      "chapter": "Ch9 9.1節：微分方程建模",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "使用歐拉方法（Euler's Method）估算 $\\frac{dy}{dx} = f(x, y)$，其疊代公式為何？",
+      "options": [
+        "$y_{n+1} = y_n + h x_n$",
+        "$y_{n+1} = y_n + f(x_n, y_n)$",
+        "$y_{n+1} = y_n + h f(x_n, y_n)$",
+        "$y_{n+1} = y_n + \\frac{h}{2} f(x_n, y_n)$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "歐拉方法疊代公式為 $y_{n+1} = y_n + h f(x_n, y_n)$，其中 $h$ 為步長。\n\n---",
+      "chapter": "Ch9 9.2節：方向場與歐拉方法",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "利用方向場（Direction Fields），若在點 $(x, y)$ 處的斜率為 $x + 3y$，則當 $x=1, y=0$ 時的切線斜率為何？",
+      "options": [
+        "$1$",
+        "$3$",
+        "$4$",
+        "$0$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $(1, 0)$ 到公式 $x + 3y$ 中得 $1 + 3(0) = 1$。\n\n---",
+      "chapter": "Ch9 9.2節：方向場與歐拉方法",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "使用歐拉方法（Euler's Method）估算 $\\frac{dy}{dx} = f(x, y)$，其疊代公式為何？",
+      "options": [
+        "$y_{n+1} = y_n + \\frac{h}{2} f(x_n, y_n)$",
+        "$y_{n+1} = y_n + f(x_n, y_n)$",
+        "$y_{n+1} = y_n + h x_n$",
+        "$y_{n+1} = y_n + h f(x_n, y_n)$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "歐拉方法疊代公式為 $y_{n+1} = y_n + h f(x_n, y_n)$，其中 $h$ 為步長。\n\n---",
+      "chapter": "Ch9 9.2節：方向場與歐拉方法",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "利用方向場（Direction Fields），若在點 $(x, y)$ 處的斜率為 $x + 5y$，則當 $x=1, y=0$ 時的切線斜率為何？",
+      "options": [
+        "$5$",
+        "$1$",
+        "$6$",
+        "$0$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $(1, 0)$ 到公式 $x + 5y$ 中得 $1 + 5(0) = 1$。\n\n---",
+      "chapter": "Ch9 9.2節：方向場與歐拉方法",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "使用歐拉方法（Euler's Method）估算 $\\frac{dy}{dx} = f(x, y)$，其疊代公式為何？",
+      "options": [
+        "$y_{n+1} = y_n + h x_n$",
+        "$y_{n+1} = y_n + f(x_n, y_n)$",
+        "$y_{n+1} = y_n + h f(x_n, y_n)$",
+        "$y_{n+1} = y_n + \\frac{h}{2} f(x_n, y_n)$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "歐拉方法疊代公式為 $y_{n+1} = y_n + h f(x_n, y_n)$，其中 $h$ 為步長。\n\n---",
+      "chapter": "Ch9 9.2節：方向場與歐拉方法",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "利用方向場（Direction Fields），若在點 $(x, y)$ 處的斜率為 $x + 7y$，則當 $x=1, y=0$ 時的切線斜率為何？",
+      "options": [
+        "$1$",
+        "$7$",
+        "$8$",
+        "$0$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $(1, 0)$ 到公式 $x + 7y$ 中得 $1 + 7(0) = 1$。\n\n---",
+      "chapter": "Ch9 9.2節：方向場與歐拉方法",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "使用歐拉方法（Euler's Method）估算 $\\frac{dy}{dx} = f(x, y)$，其疊代公式為何？",
+      "options": [
+        "$y_{n+1} = y_n + \\frac{h}{2} f(x_n, y_n)$",
+        "$y_{n+1} = y_n + f(x_n, y_n)$",
+        "$y_{n+1} = y_n + h x_n$",
+        "$y_{n+1} = y_n + h f(x_n, y_n)$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "歐拉方法疊代公式為 $y_{n+1} = y_n + h f(x_n, y_n)$，其中 $h$ 為步長。\n\n---",
+      "chapter": "Ch9 9.2節：方向場與歐拉方法",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "利用方向場（Direction Fields），若在點 $(x, y)$ 處的斜率為 $x + 9y$，則當 $x=1, y=0$ 時的切線斜率為何？",
+      "options": [
+        "$9$",
+        "$1$",
+        "$10$",
+        "$0$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $(1, 0)$ 到公式 $x + 9y$ 中得 $1 + 9(0) = 1$。\n\n---",
+      "chapter": "Ch9 9.2節：方向場與歐拉方法",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "使用歐拉方法（Euler's Method）估算 $\\frac{dy}{dx} = f(x, y)$，其疊代公式為何？",
+      "options": [
+        "$y_{n+1} = y_n + h x_n$",
+        "$y_{n+1} = y_n + f(x_n, y_n)$",
+        "$y_{n+1} = y_n + h f(x_n, y_n)$",
+        "$y_{n+1} = y_n + \\frac{h}{2} f(x_n, y_n)$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "歐拉方法疊代公式為 $y_{n+1} = y_n + h f(x_n, y_n)$，其中 $h$ 為步長。\n\n---",
+      "chapter": "Ch9 9.2節：方向場與歐拉方法",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "利用方向場（Direction Fields），若在點 $(x, y)$ 處的斜率為 $x + 11y$，則當 $x=1, y=0$ 時的切線斜率為何？",
+      "options": [
+        "$1$",
+        "$11$",
+        "$12$",
+        "$0$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $(1, 0)$ 到公式 $x + 11y$ 中得 $1 + 11(0) = 1$。\n\n---",
+      "chapter": "Ch9 9.2節：方向場與歐拉方法",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "使用歐拉方法（Euler's Method）估算 $\\frac{dy}{dx} = f(x, y)$，其疊代公式為何？",
+      "options": [
+        "$y_{n+1} = y_n + \\frac{h}{2} f(x_n, y_n)$",
+        "$y_{n+1} = y_n + f(x_n, y_n)$",
+        "$y_{n+1} = y_n + h x_n$",
+        "$y_{n+1} = y_n + h f(x_n, y_n)$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "歐拉方法疊代公式為 $y_{n+1} = y_n + h f(x_n, y_n)$，其中 $h$ 為步長。\n\n---",
+      "chapter": "Ch9 9.2節：方向場與歐拉方法",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "利用方向場（Direction Fields），若在點 $(x, y)$ 處的斜率為 $x + 13y$，則當 $x=1, y=0$ 時的切線斜率為何？",
+      "options": [
+        "$13$",
+        "$1$",
+        "$14$",
+        "$0$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $(1, 0)$ 到公式 $x + 13y$ 中得 $1 + 13(0) = 1$。\n\n---",
+      "chapter": "Ch9 9.2節：方向場與歐拉方法",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "使用歐拉方法（Euler's Method）估算 $\\frac{dy}{dx} = f(x, y)$，其疊代公式為何？",
+      "options": [
+        "$y_{n+1} = y_n + h x_n$",
+        "$y_{n+1} = y_n + f(x_n, y_n)$",
+        "$y_{n+1} = y_n + h f(x_n, y_n)$",
+        "$y_{n+1} = y_n + \\frac{h}{2} f(x_n, y_n)$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "歐拉方法疊代公式為 $y_{n+1} = y_n + h f(x_n, y_n)$，其中 $h$ 為步長。\n\n---",
+      "chapter": "Ch9 9.2節：方向場與歐拉方法",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "利用方向場（Direction Fields），若在點 $(x, y)$ 處的斜率為 $x + 15y$，則當 $x=1, y=0$ 時的切線斜率為何？",
+      "options": [
+        "$1$",
+        "$15$",
+        "$16$",
+        "$0$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $(1, 0)$ 到公式 $x + 15y$ 中得 $1 + 15(0) = 1$。\n\n---",
+      "chapter": "Ch9 9.2節：方向場與歐拉方法",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "使用歐拉方法（Euler's Method）估算 $\\frac{dy}{dx} = f(x, y)$，其疊代公式為何？",
+      "options": [
+        "$y_{n+1} = y_n + \\frac{h}{2} f(x_n, y_n)$",
+        "$y_{n+1} = y_n + f(x_n, y_n)$",
+        "$y_{n+1} = y_n + h x_n$",
+        "$y_{n+1} = y_n + h f(x_n, y_n)$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "歐拉方法疊代公式為 $y_{n+1} = y_n + h f(x_n, y_n)$，其中 $h$ 為步長。\n\n---",
+      "chapter": "Ch9 9.2節：方向場與歐拉方法",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "利用方向場（Direction Fields），若在點 $(x, y)$ 處的斜率為 $x + 17y$，則當 $x=1, y=0$ 時的切線斜率為何？",
+      "options": [
+        "$17$",
+        "$1$",
+        "$18$",
+        "$0$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $(1, 0)$ 到公式 $x + 17y$ 中得 $1 + 17(0) = 1$。\n\n---",
+      "chapter": "Ch9 9.2節：方向場與歐拉方法",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "使用歐拉方法（Euler's Method）估算 $\\frac{dy}{dx} = f(x, y)$，其疊代公式為何？",
+      "options": [
+        "$y_{n+1} = y_n + h x_n$",
+        "$y_{n+1} = y_n + f(x_n, y_n)$",
+        "$y_{n+1} = y_n + h f(x_n, y_n)$",
+        "$y_{n+1} = y_n + \\frac{h}{2} f(x_n, y_n)$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "歐拉方法疊代公式為 $y_{n+1} = y_n + h f(x_n, y_n)$，其中 $h$ 為步長。\n\n---",
+      "chapter": "Ch9 9.2節：方向場與歐拉方法",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "利用方向場（Direction Fields），若在點 $(x, y)$ 處的斜率為 $x + 19y$，則當 $x=1, y=0$ 時的切線斜率為何？",
+      "options": [
+        "$1$",
+        "$19$",
+        "$20$",
+        "$0$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入 $(1, 0)$ 到公式 $x + 19y$ 中得 $1 + 19(0) = 1$。\n\n---",
+      "chapter": "Ch9 9.2節：方向場與歐拉方法",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "使用歐拉方法（Euler's Method）估算 $\\frac{dy}{dx} = f(x, y)$，其疊代公式為何？",
+      "options": [
+        "$y_{n+1} = y_n + \\frac{h}{2} f(x_n, y_n)$",
+        "$y_{n+1} = y_n + f(x_n, y_n)$",
+        "$y_{n+1} = y_n + h x_n$",
+        "$y_{n+1} = y_n + h f(x_n, y_n)$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "歐拉方法疊代公式為 $y_{n+1} = y_n + h f(x_n, y_n)$，其中 $h$ 為步長。\n\n---",
+      "chapter": "Ch9 9.2節：方向場與歐拉方法",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "利用方向場（Direction Fields），若在點 $(x, y)$ 處的斜率為 $x + 21y$，則當 $x=1, y=0$ 時的切線斜率為何？",
+      "options": [
+        "$21$",
+        "$1$",
+        "$22$",
+        "$0$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "代入 $(1, 0)$ 到公式 $x + 21y$ 中得 $1 + 21(0) = 1$。\n\n---",
+      "chapter": "Ch9 9.2節：方向場與歐拉方法",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "設 $\\frac{dy}{dx} = 3$，初始值 $y(0) = 1$，利用歐拉方法以步長 $h=1$ 估計 $y(1)$ 的值。",
+      "options": [],
+      "answer": "4",
+      "type": "fill",
+      "solution": "歐拉疊代：$y_1 = y_0 + h f(x_0, y_0) = 1 + 1\\cdot 3 = 1 + 3$。\n\n---",
+      "chapter": "Ch9 9.2節：方向場與歐拉方法",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "設 $\\frac{dy}{dx} = 4$，初始值 $y(0) = 1$，利用歐拉方法以步長 $h=1$ 估計 $y(1)$ 的值。",
+      "options": [],
+      "answer": "5",
+      "type": "fill",
+      "solution": "歐拉疊代：$y_1 = y_0 + h f(x_0, y_0) = 1 + 1\\cdot 4 = 1 + 4$。\n\n---",
+      "chapter": "Ch9 9.2節：方向場與歐拉方法",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "設 $\\frac{dy}{dx} = 5$，初始值 $y(0) = 1$，利用歐拉方法以步長 $h=1$ 估計 $y(1)$ 的值。",
+      "options": [],
+      "answer": "6",
+      "type": "fill",
+      "solution": "歐拉疊代：$y_1 = y_0 + h f(x_0, y_0) = 1 + 1\\cdot 5 = 1 + 5$。\n\n---",
+      "chapter": "Ch9 9.2節：方向場與歐拉方法",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "設 $\\frac{dy}{dx} = 6$，初始值 $y(0) = 1$，利用歐拉方法以步長 $h=1$ 估計 $y(1)$ 的值。",
+      "options": [],
+      "answer": "7",
+      "type": "fill",
+      "solution": "歐拉疊代：$y_1 = y_0 + h f(x_0, y_0) = 1 + 1\\cdot 6 = 1 + 6$。\n\n---",
+      "chapter": "Ch9 9.2節：方向場與歐拉方法",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "設 $\\frac{dy}{dx} = 7$，初始值 $y(0) = 1$，利用歐拉方法以步長 $h=1$ 估計 $y(1)$ 的值。",
+      "options": [],
+      "answer": "8",
+      "type": "fill",
+      "solution": "歐拉疊代：$y_1 = y_0 + h f(x_0, y_0) = 1 + 1\\cdot 7 = 1 + 7$。\n\n---",
+      "chapter": "Ch9 9.2節：方向場與歐拉方法",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "設 $\\frac{dy}{dx} = 8$，初始值 $y(0) = 1$，利用歐拉方法以步長 $h=1$ 估計 $y(1)$ 的值。",
+      "options": [],
+      "answer": "9",
+      "type": "fill",
+      "solution": "歐拉疊代：$y_1 = y_0 + h f(x_0, y_0) = 1 + 1\\cdot 8 = 1 + 8$。\n\n---",
+      "chapter": "Ch9 9.2節：方向場與歐拉方法",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "設 $\\frac{dy}{dx} = 9$，初始值 $y(0) = 1$，利用歐拉方法以步長 $h=1$ 估計 $y(1)$ 的值。",
+      "options": [],
+      "answer": "10",
+      "type": "fill",
+      "solution": "歐拉疊代：$y_1 = y_0 + h f(x_0, y_0) = 1 + 1\\cdot 9 = 1 + 9$。\n\n---",
+      "chapter": "Ch9 9.2節：方向場與歐拉方法",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "設 $\\frac{dy}{dx} = 10$，初始值 $y(0) = 1$，利用歐拉方法以步長 $h=1$ 估計 $y(1)$ 的值。",
+      "options": [],
+      "answer": "11",
+      "type": "fill",
+      "solution": "歐拉疊代：$y_1 = y_0 + h f(x_0, y_0) = 1 + 1\\cdot 10 = 1 + 10$。\n\n---",
+      "chapter": "Ch9 9.2節：方向場與歐拉方法",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "設 $\\frac{dy}{dx} = 11$，初始值 $y(0) = 1$，利用歐拉方法以步長 $h=1$ 估計 $y(1)$ 的值。",
+      "options": [],
+      "answer": "12",
+      "type": "fill",
+      "solution": "歐拉疊代：$y_1 = y_0 + h f(x_0, y_0) = 1 + 1\\cdot 11 = 1 + 11$。\n\n---",
+      "chapter": "Ch9 9.2節：方向場與歐拉方法",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "設 $\\frac{dy}{dx} = 12$，初始值 $y(0) = 1$，利用歐拉方法以步長 $h=1$ 估計 $y(1)$ 的值。",
+      "options": [],
+      "answer": "13",
+      "type": "fill",
+      "solution": "歐拉疊代：$y_1 = y_0 + h f(x_0, y_0) = 1 + 1\\cdot 12 = 1 + 12$。",
+      "chapter": "Ch9 9.2節：方向場與歐拉方法",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "對於 $\\frac{dy}{dx} = \\frac{y}{x}$，其最一般通解為何？",
+      "options": [
+        "$y = C e^x$",
+        "$y = C x$",
+        "$y = x + C$",
+        "$y = C x^2$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "分離變數得 $\\int \\frac{1}{y} dy = \\int \\frac{1}{x} dx \\implies \\ln|y| = \\ln|x| + C_1 \\implies y = C x$。\n\n---",
+      "chapter": "Ch9 9.3節：可分離變數方程",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "求可分離變數方程 $\\frac{dy}{dx} = 3xy$ 的最一般通解。",
+      "options": [
+        "$y = \\frac{3}{2}x^2 + C$",
+        "$y = C e^{3x}$",
+        "$y = C e^{\\frac{3}{2}x^2}$",
+        "$y = C e^{x^2}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "分離變數得 $\\int \\frac{1}{y} dy = \\int 3x dx \\implies \\ln|y| = \\frac{3}{2}x^2 + C_1 \\implies y = C e^{\\frac{3}{2}x^2}$。\n\n---",
+      "chapter": "Ch9 9.3節：可分離變數方程",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "對於 $\\frac{dy}{dx} = \\frac{y}{x}$，其最一般通解為何？",
+      "options": [
+        "$y = C x^2$",
+        "$y = C e^x$",
+        "$y = x + C$",
+        "$y = C x$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "分離變數得 $\\int \\frac{1}{y} dy = \\int \\frac{1}{x} dx \\implies \\ln|y| = \\ln|x| + C_1 \\implies y = C x$。\n\n---",
+      "chapter": "Ch9 9.3節：可分離變數方程",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "求可分離變數方程 $\\frac{dy}{dx} = 5xy$ 的最一般通解。",
+      "options": [
+        "$y = C e^{\\frac{5}{2}x^2}$",
+        "$y = C e^{5x}$",
+        "$y = \\frac{5}{2}x^2 + C$",
+        "$y = C e^{x^2}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "分離變數得 $\\int \\frac{1}{y} dy = \\int 5x dx \\implies \\ln|y| = \\frac{5}{2}x^2 + C_1 \\implies y = C e^{\\frac{5}{2}x^2}$。\n\n---",
+      "chapter": "Ch9 9.3節：可分離變數方程",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "對於 $\\frac{dy}{dx} = \\frac{y}{x}$，其最一般通解為何？",
+      "options": [
+        "$y = C e^x$",
+        "$y = C x$",
+        "$y = x + C$",
+        "$y = C x^2$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "分離變數得 $\\int \\frac{1}{y} dy = \\int \\frac{1}{x} dx \\implies \\ln|y| = \\ln|x| + C_1 \\implies y = C x$。\n\n---",
+      "chapter": "Ch9 9.3節：可分離變數方程",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "求可分離變數方程 $\\frac{dy}{dx} = 7xy$ 的最一般通解。",
+      "options": [
+        "$y = \\frac{7}{2}x^2 + C$",
+        "$y = C e^{7x}$",
+        "$y = C e^{\\frac{7}{2}x^2}$",
+        "$y = C e^{x^2}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "分離變數得 $\\int \\frac{1}{y} dy = \\int 7x dx \\implies \\ln|y| = \\frac{7}{2}x^2 + C_1 \\implies y = C e^{\\frac{7}{2}x^2}$。\n\n---",
+      "chapter": "Ch9 9.3節：可分離變數方程",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "對於 $\\frac{dy}{dx} = \\frac{y}{x}$，其最一般通解為何？",
+      "options": [
+        "$y = C x^2$",
+        "$y = C e^x$",
+        "$y = x + C$",
+        "$y = C x$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "分離變數得 $\\int \\frac{1}{y} dy = \\int \\frac{1}{x} dx \\implies \\ln|y| = \\ln|x| + C_1 \\implies y = C x$。\n\n---",
+      "chapter": "Ch9 9.3節：可分離變數方程",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "求可分離變數方程 $\\frac{dy}{dx} = 9xy$ 的最一般通解。",
+      "options": [
+        "$y = C e^{\\frac{9}{2}x^2}$",
+        "$y = C e^{9x}$",
+        "$y = \\frac{9}{2}x^2 + C$",
+        "$y = C e^{x^2}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "分離變數得 $\\int \\frac{1}{y} dy = \\int 9x dx \\implies \\ln|y| = \\frac{9}{2}x^2 + C_1 \\implies y = C e^{\\frac{9}{2}x^2}$。\n\n---",
+      "chapter": "Ch9 9.3節：可分離變數方程",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "對於 $\\frac{dy}{dx} = \\frac{y}{x}$，其最一般通解為何？",
+      "options": [
+        "$y = C e^x$",
+        "$y = C x$",
+        "$y = x + C$",
+        "$y = C x^2$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "分離變數得 $\\int \\frac{1}{y} dy = \\int \\frac{1}{x} dx \\implies \\ln|y| = \\ln|x| + C_1 \\implies y = C x$。\n\n---",
+      "chapter": "Ch9 9.3節：可分離變數方程",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "求可分離變數方程 $\\frac{dy}{dx} = 11xy$ 的最一般通解。",
+      "options": [
+        "$y = \\frac{11}{2}x^2 + C$",
+        "$y = C e^{11x}$",
+        "$y = C e^{\\frac{11}{2}x^2}$",
+        "$y = C e^{x^2}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "分離變數得 $\\int \\frac{1}{y} dy = \\int 11x dx \\implies \\ln|y| = \\frac{11}{2}x^2 + C_1 \\implies y = C e^{\\frac{11}{2}x^2}$。\n\n---",
+      "chapter": "Ch9 9.3節：可分離變數方程",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "對於 $\\frac{dy}{dx} = \\frac{y}{x}$，其最一般通解為何？",
+      "options": [
+        "$y = C x^2$",
+        "$y = C e^x$",
+        "$y = x + C$",
+        "$y = C x$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "分離變數得 $\\int \\frac{1}{y} dy = \\int \\frac{1}{x} dx \\implies \\ln|y| = \\ln|x| + C_1 \\implies y = C x$。\n\n---",
+      "chapter": "Ch9 9.3節：可分離變數方程",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "求可分離變數方程 $\\frac{dy}{dx} = 13xy$ 的最一般通解。",
+      "options": [
+        "$y = C e^{\\frac{13}{2}x^2}$",
+        "$y = C e^{13x}$",
+        "$y = \\frac{13}{2}x^2 + C$",
+        "$y = C e^{x^2}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "分離變數得 $\\int \\frac{1}{y} dy = \\int 13x dx \\implies \\ln|y| = \\frac{13}{2}x^2 + C_1 \\implies y = C e^{\\frac{13}{2}x^2}$。\n\n---",
+      "chapter": "Ch9 9.3節：可分離變數方程",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "對於 $\\frac{dy}{dx} = \\frac{y}{x}$，其最一般通解為何？",
+      "options": [
+        "$y = C e^x$",
+        "$y = C x$",
+        "$y = x + C$",
+        "$y = C x^2$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "分離變數得 $\\int \\frac{1}{y} dy = \\int \\frac{1}{x} dx \\implies \\ln|y| = \\ln|x| + C_1 \\implies y = C x$。\n\n---",
+      "chapter": "Ch9 9.3節：可分離變數方程",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "求可分離變數方程 $\\frac{dy}{dx} = 15xy$ 的最一般通解。",
+      "options": [
+        "$y = \\frac{15}{2}x^2 + C$",
+        "$y = C e^{15x}$",
+        "$y = C e^{\\frac{15}{2}x^2}$",
+        "$y = C e^{x^2}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "分離變數得 $\\int \\frac{1}{y} dy = \\int 15x dx \\implies \\ln|y| = \\frac{15}{2}x^2 + C_1 \\implies y = C e^{\\frac{15}{2}x^2}$。\n\n---",
+      "chapter": "Ch9 9.3節：可分離變數方程",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "對於 $\\frac{dy}{dx} = \\frac{y}{x}$，其最一般通解為何？",
+      "options": [
+        "$y = C x^2$",
+        "$y = C e^x$",
+        "$y = x + C$",
+        "$y = C x$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "分離變數得 $\\int \\frac{1}{y} dy = \\int \\frac{1}{x} dx \\implies \\ln|y| = \\ln|x| + C_1 \\implies y = C x$。\n\n---",
+      "chapter": "Ch9 9.3節：可分離變數方程",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "求可分離變數方程 $\\frac{dy}{dx} = 17xy$ 的最一般通解。",
+      "options": [
+        "$y = C e^{\\frac{17}{2}x^2}$",
+        "$y = C e^{17x}$",
+        "$y = \\frac{17}{2}x^2 + C$",
+        "$y = C e^{x^2}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "分離變數得 $\\int \\frac{1}{y} dy = \\int 17x dx \\implies \\ln|y| = \\frac{17}{2}x^2 + C_1 \\implies y = C e^{\\frac{17}{2}x^2}$。\n\n---",
+      "chapter": "Ch9 9.3節：可分離變數方程",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "對於 $\\frac{dy}{dx} = \\frac{y}{x}$，其最一般通解為何？",
+      "options": [
+        "$y = C e^x$",
+        "$y = C x$",
+        "$y = x + C$",
+        "$y = C x^2$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "分離變數得 $\\int \\frac{1}{y} dy = \\int \\frac{1}{x} dx \\implies \\ln|y| = \\ln|x| + C_1 \\implies y = C x$。\n\n---",
+      "chapter": "Ch9 9.3節：可分離變數方程",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "求可分離變數方程 $\\frac{dy}{dx} = 19xy$ 的最一般通解。",
+      "options": [
+        "$y = \\frac{19}{2}x^2 + C$",
+        "$y = C e^{19x}$",
+        "$y = C e^{\\frac{19}{2}x^2}$",
+        "$y = C e^{x^2}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "分離變數得 $\\int \\frac{1}{y} dy = \\int 19x dx \\implies \\ln|y| = \\frac{19}{2}x^2 + C_1 \\implies y = C e^{\\frac{19}{2}x^2}$。\n\n---",
+      "chapter": "Ch9 9.3節：可分離變數方程",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "對於 $\\frac{dy}{dx} = \\frac{y}{x}$，其最一般通解為何？",
+      "options": [
+        "$y = C x^2$",
+        "$y = C e^x$",
+        "$y = x + C$",
+        "$y = C x$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "分離變數得 $\\int \\frac{1}{y} dy = \\int \\frac{1}{x} dx \\implies \\ln|y| = \\ln|x| + C_1 \\implies y = C x$。\n\n---",
+      "chapter": "Ch9 9.3節：可分離變數方程",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "求可分離變數方程 $\\frac{dy}{dx} = 21xy$ 的最一般通解。",
+      "options": [
+        "$y = C e^{\\frac{21}{2}x^2}$",
+        "$y = C e^{21x}$",
+        "$y = \\frac{21}{2}x^2 + C$",
+        "$y = C e^{x^2}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "分離變數得 $\\int \\frac{1}{y} dy = \\int 21x dx \\implies \\ln|y| = \\frac{21}{2}x^2 + C_1 \\implies y = C e^{\\frac{21}{2}x^2}$。\n\n---",
+      "chapter": "Ch9 9.3節：可分離變數方程",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "解微分方程 $\\frac{dy}{dx} = 3y$，若 $y(0) = 2$，求 $y(1)$ 之精確值（以 $e$ 的倍數表示，保留2位小數）。",
+      "options": [],
+      "answer": "40.17",
+      "type": "fill",
+      "solution": "通解為 $y(x) = C e^{3x}$。代入 $y(0)=2 \\implies C=2$。故 $y(1) = 2 e^{3}$。結果為 40.17。\n\n---",
+      "chapter": "Ch9 9.3節：可分離變數方程",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "解微分方程 $\\frac{dy}{dx} = 4y$，若 $y(0) = 2$，求 $y(1)$ 之精確值（以 $e$ 的倍數表示，保留2位小數）。",
+      "options": [],
+      "answer": "109.2",
+      "type": "fill",
+      "solution": "通解為 $y(x) = C e^{4x}$。代入 $y(0)=2 \\implies C=2$。故 $y(1) = 2 e^{4}$。結果為 109.2。\n\n---",
+      "chapter": "Ch9 9.3節：可分離變數方程",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "解微分方程 $\\frac{dy}{dx} = 5y$，若 $y(0) = 2$，求 $y(1)$ 之精確值（以 $e$ 的倍數表示，保留2位小數）。",
+      "options": [],
+      "answer": "296.83",
+      "type": "fill",
+      "solution": "通解為 $y(x) = C e^{5x}$。代入 $y(0)=2 \\implies C=2$。故 $y(1) = 2 e^{5}$。結果為 296.83。\n\n---",
+      "chapter": "Ch9 9.3節：可分離變數方程",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "解微分方程 $\\frac{dy}{dx} = 6y$，若 $y(0) = 2$，求 $y(1)$ 之精確值（以 $e$ 的倍數表示，保留2位小數）。",
+      "options": [],
+      "answer": "806.85",
+      "type": "fill",
+      "solution": "通解為 $y(x) = C e^{6x}$。代入 $y(0)=2 \\implies C=2$。故 $y(1) = 2 e^{6}$。結果為 806.85。\n\n---",
+      "chapter": "Ch9 9.3節：可分離變數方程",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "解微分方程 $\\frac{dy}{dx} = 7y$，若 $y(0) = 2$，求 $y(1)$ 之精確值（以 $e$ 的倍數表示，保留2位小數）。",
+      "options": [],
+      "answer": "2193.26",
+      "type": "fill",
+      "solution": "通解為 $y(x) = C e^{7x}$。代入 $y(0)=2 \\implies C=2$。故 $y(1) = 2 e^{7}$。結果為 2193.26。\n\n---",
+      "chapter": "Ch9 9.3節：可分離變數方程",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "解微分方程 $\\frac{dy}{dx} = 8y$，若 $y(0) = 2$，求 $y(1)$ 之精確值（以 $e$ 的倍數表示，保留2位小數）。",
+      "options": [],
+      "answer": "5961.88",
+      "type": "fill",
+      "solution": "通解為 $y(x) = C e^{8x}$。代入 $y(0)=2 \\implies C=2$。故 $y(1) = 2 e^{8}$。結果為 5961.88。\n\n---",
+      "chapter": "Ch9 9.3節：可分離變數方程",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "解微分方程 $\\frac{dy}{dx} = 9y$，若 $y(0) = 2$，求 $y(1)$ 之精確值（以 $e$ 的倍數表示，保留2位小數）。",
+      "options": [],
+      "answer": "16206.07",
+      "type": "fill",
+      "solution": "通解為 $y(x) = C e^{9x}$。代入 $y(0)=2 \\implies C=2$。故 $y(1) = 2 e^{9}$。結果為 16206.07。\n\n---",
+      "chapter": "Ch9 9.3節：可分離變數方程",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "解微分方程 $\\frac{dy}{dx} = 10y$，若 $y(0) = 2$，求 $y(1)$ 之精確值（以 $e$ 的倍數表示，保留2位小數）。",
+      "options": [],
+      "answer": "44052.64",
+      "type": "fill",
+      "solution": "通解為 $y(x) = C e^{10x}$。代入 $y(0)=2 \\implies C=2$。故 $y(1) = 2 e^{10}$。結果為 44052.64。\n\n---",
+      "chapter": "Ch9 9.3節：可分離變數方程",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "解微分方程 $\\frac{dy}{dx} = 11y$，若 $y(0) = 2$，求 $y(1)$ 之精確值（以 $e$ 的倍數表示，保留2位小數）。",
+      "options": [],
+      "answer": "119747.4",
+      "type": "fill",
+      "solution": "通解為 $y(x) = C e^{11x}$。代入 $y(0)=2 \\implies C=2$。故 $y(1) = 2 e^{11}$。結果為 119747.4。\n\n---",
+      "chapter": "Ch9 9.3節：可分離變數方程",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "解微分方程 $\\frac{dy}{dx} = 12y$，若 $y(0) = 2$，求 $y(1)$ 之精確值（以 $e$ 的倍數表示，保留2位小數）。",
+      "options": [],
+      "answer": "325506.96",
+      "type": "fill",
+      "solution": "通解為 $y(x) = C e^{12x}$。代入 $y(0)=2 \\implies C=2$。故 $y(1) = 2 e^{12}$。結果為 325506.96。",
+      "chapter": "Ch9 9.3節：可分離變數方程",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "邏輯斯增長模型（Logistic Growth Model）的微分方程形式為何？",
+      "options": [
+        "$\\frac{dP}{dt} = k P^2$",
+        "$\\frac{dP}{dt} = k P$",
+        "$\\frac{dP}{dt} = k P (1 - \\frac{P}{K})$",
+        "$\\frac{dP}{dt} = k (K - P)$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "邏輯斯模型的標準微分方程形式為 $\\frac{dP}{dt} = k P (1 - \\frac{P}{K})$。\n\n---",
+      "chapter": "Ch9 9.4節：人口增長模型",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "在邏輯斯增長模型中，當族群大小 $P(t)$ 遠小於環境承載量 $K$ 時，族群增長最接近哪種增長？",
+      "options": [
+        "指數增長",
+        "線性增長",
+        "對數增長",
+        "恆定不變"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "當 $P(t) \\ll K$ 時，邏輯斯微分方程 $\\frac{dP}{dt} = kP(1 - \\frac{P}{K})$ 中的 $(1 - \\frac{P}{K})$ 趨近於 1，故最接近指數增長。\n\n---",
+      "chapter": "Ch9 9.4節：人口增長模型",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "邏輯斯增長模型（Logistic Growth Model）的微分方程形式為何？",
+      "options": [
+        "$\\frac{dP}{dt} = k (K - P)$",
+        "$\\frac{dP}{dt} = k P$",
+        "$\\frac{dP}{dt} = k P^2$",
+        "$\\frac{dP}{dt} = k P (1 - \\frac{P}{K})$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "邏輯斯模型的標準微分方程形式為 $\\frac{dP}{dt} = k P (1 - \\frac{P}{K})$。\n\n---",
+      "chapter": "Ch9 9.4節：人口增長模型",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "在邏輯斯增長模型中，當族群大小 $P(t)$ 遠小於環境承載量 $K$ 時，族群增長最接近哪種增長？",
+      "options": [
+        "線性增長",
+        "指數增長",
+        "對數增長",
+        "恆定不變"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "當 $P(t) \\ll K$ 時，邏輯斯微分方程 $\\frac{dP}{dt} = kP(1 - \\frac{P}{K})$ 中的 $(1 - \\frac{P}{K})$ 趨近於 1，故最接近指數增長。\n\n---",
+      "chapter": "Ch9 9.4節：人口增長模型",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "邏輯斯增長模型（Logistic Growth Model）的微分方程形式為何？",
+      "options": [
+        "$\\frac{dP}{dt} = k P^2$",
+        "$\\frac{dP}{dt} = k P$",
+        "$\\frac{dP}{dt} = k P (1 - \\frac{P}{K})$",
+        "$\\frac{dP}{dt} = k (K - P)$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "邏輯斯模型的標準微分方程形式為 $\\frac{dP}{dt} = k P (1 - \\frac{P}{K})$。\n\n---",
+      "chapter": "Ch9 9.4節：人口增長模型",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "在邏輯斯增長模型中，當族群大小 $P(t)$ 遠小於環境承載量 $K$ 時，族群增長最接近哪種增長？",
+      "options": [
+        "指數增長",
+        "線性增長",
+        "對數增長",
+        "恆定不變"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "當 $P(t) \\ll K$ 時，邏輯斯微分方程 $\\frac{dP}{dt} = kP(1 - \\frac{P}{K})$ 中的 $(1 - \\frac{P}{K})$ 趨近於 1，故最接近指數增長。\n\n---",
+      "chapter": "Ch9 9.4節：人口增長模型",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "邏輯斯增長模型（Logistic Growth Model）的微分方程形式為何？",
+      "options": [
+        "$\\frac{dP}{dt} = k (K - P)$",
+        "$\\frac{dP}{dt} = k P$",
+        "$\\frac{dP}{dt} = k P^2$",
+        "$\\frac{dP}{dt} = k P (1 - \\frac{P}{K})$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "邏輯斯模型的標準微分方程形式為 $\\frac{dP}{dt} = k P (1 - \\frac{P}{K})$。\n\n---",
+      "chapter": "Ch9 9.4節：人口增長模型",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "在邏輯斯增長模型中，當族群大小 $P(t)$ 遠小於環境承載量 $K$ 時，族群增長最接近哪種增長？",
+      "options": [
+        "線性增長",
+        "指數增長",
+        "對數增長",
+        "恆定不變"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "當 $P(t) \\ll K$ 時，邏輯斯微分方程 $\\frac{dP}{dt} = kP(1 - \\frac{P}{K})$ 中的 $(1 - \\frac{P}{K})$ 趨近於 1，故最接近指數增長。\n\n---",
+      "chapter": "Ch9 9.4節：人口增長模型",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "邏輯斯增長模型（Logistic Growth Model）的微分方程形式為何？",
+      "options": [
+        "$\\frac{dP}{dt} = k P^2$",
+        "$\\frac{dP}{dt} = k P$",
+        "$\\frac{dP}{dt} = k P (1 - \\frac{P}{K})$",
+        "$\\frac{dP}{dt} = k (K - P)$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "邏輯斯模型的標準微分方程形式為 $\\frac{dP}{dt} = k P (1 - \\frac{P}{K})$。\n\n---",
+      "chapter": "Ch9 9.4節：人口增長模型",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "在邏輯斯增長模型中，當族群大小 $P(t)$ 遠小於環境承載量 $K$ 時，族群增長最接近哪種增長？",
+      "options": [
+        "指數增長",
+        "線性增長",
+        "對數增長",
+        "恆定不變"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "當 $P(t) \\ll K$ 時，邏輯斯微分方程 $\\frac{dP}{dt} = kP(1 - \\frac{P}{K})$ 中的 $(1 - \\frac{P}{K})$ 趨近於 1，故最接近指數增長。\n\n---",
+      "chapter": "Ch9 9.4節：人口增長模型",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "邏輯斯增長模型（Logistic Growth Model）的微分方程形式為何？",
+      "options": [
+        "$\\frac{dP}{dt} = k (K - P)$",
+        "$\\frac{dP}{dt} = k P$",
+        "$\\frac{dP}{dt} = k P^2$",
+        "$\\frac{dP}{dt} = k P (1 - \\frac{P}{K})$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "邏輯斯模型的標準微分方程形式為 $\\frac{dP}{dt} = k P (1 - \\frac{P}{K})$。\n\n---",
+      "chapter": "Ch9 9.4節：人口增長模型",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "在邏輯斯增長模型中，當族群大小 $P(t)$ 遠小於環境承載量 $K$ 時，族群增長最接近哪種增長？",
+      "options": [
+        "線性增長",
+        "指數增長",
+        "對數增長",
+        "恆定不變"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "當 $P(t) \\ll K$ 時，邏輯斯微分方程 $\\frac{dP}{dt} = kP(1 - \\frac{P}{K})$ 中的 $(1 - \\frac{P}{K})$ 趨近於 1，故最接近指數增長。\n\n---",
+      "chapter": "Ch9 9.4節：人口增長模型",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "邏輯斯增長模型（Logistic Growth Model）的微分方程形式為何？",
+      "options": [
+        "$\\frac{dP}{dt} = k P^2$",
+        "$\\frac{dP}{dt} = k P$",
+        "$\\frac{dP}{dt} = k P (1 - \\frac{P}{K})$",
+        "$\\frac{dP}{dt} = k (K - P)$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "邏輯斯模型的標準微分方程形式為 $\\frac{dP}{dt} = k P (1 - \\frac{P}{K})$。\n\n---",
+      "chapter": "Ch9 9.4節：人口增長模型",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "在邏輯斯增長模型中，當族群大小 $P(t)$ 遠小於環境承載量 $K$ 時，族群增長最接近哪種增長？",
+      "options": [
+        "指數增長",
+        "線性增長",
+        "對數增長",
+        "恆定不變"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "當 $P(t) \\ll K$ 時，邏輯斯微分方程 $\\frac{dP}{dt} = kP(1 - \\frac{P}{K})$ 中的 $(1 - \\frac{P}{K})$ 趨近於 1，故最接近指數增長。\n\n---",
+      "chapter": "Ch9 9.4節：人口增長模型",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "邏輯斯增長模型（Logistic Growth Model）的微分方程形式為何？",
+      "options": [
+        "$\\frac{dP}{dt} = k (K - P)$",
+        "$\\frac{dP}{dt} = k P$",
+        "$\\frac{dP}{dt} = k P^2$",
+        "$\\frac{dP}{dt} = k P (1 - \\frac{P}{K})$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "邏輯斯模型的標準微分方程形式為 $\\frac{dP}{dt} = k P (1 - \\frac{P}{K})$。\n\n---",
+      "chapter": "Ch9 9.4節：人口增長模型",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "在邏輯斯增長模型中，當族群大小 $P(t)$ 遠小於環境承載量 $K$ 時，族群增長最接近哪種增長？",
+      "options": [
+        "線性增長",
+        "指數增長",
+        "對數增長",
+        "恆定不變"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "當 $P(t) \\ll K$ 時，邏輯斯微分方程 $\\frac{dP}{dt} = kP(1 - \\frac{P}{K})$ 中的 $(1 - \\frac{P}{K})$ 趨近於 1，故最接近指數增長。\n\n---",
+      "chapter": "Ch9 9.4節：人口增長模型",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "邏輯斯增長模型（Logistic Growth Model）的微分方程形式為何？",
+      "options": [
+        "$\\frac{dP}{dt} = k P^2$",
+        "$\\frac{dP}{dt} = k P$",
+        "$\\frac{dP}{dt} = k P (1 - \\frac{P}{K})$",
+        "$\\frac{dP}{dt} = k (K - P)$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "邏輯斯模型的標準微分方程形式為 $\\frac{dP}{dt} = k P (1 - \\frac{P}{K})$。\n\n---",
+      "chapter": "Ch9 9.4節：人口增長模型",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "在邏輯斯增長模型中，當族群大小 $P(t)$ 遠小於環境承載量 $K$ 時，族群增長最接近哪種增長？",
+      "options": [
+        "指數增長",
+        "線性增長",
+        "對數增長",
+        "恆定不變"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "當 $P(t) \\ll K$ 時，邏輯斯微分方程 $\\frac{dP}{dt} = kP(1 - \\frac{P}{K})$ 中的 $(1 - \\frac{P}{K})$ 趨近於 1，故最接近指數增長。\n\n---",
+      "chapter": "Ch9 9.4節：人口增長模型",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "邏輯斯增長模型（Logistic Growth Model）的微分方程形式為何？",
+      "options": [
+        "$\\frac{dP}{dt} = k (K - P)$",
+        "$\\frac{dP}{dt} = k P$",
+        "$\\frac{dP}{dt} = k P^2$",
+        "$\\frac{dP}{dt} = k P (1 - \\frac{P}{K})$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "邏輯斯模型的標準微分方程形式為 $\\frac{dP}{dt} = k P (1 - \\frac{P}{K})$。\n\n---",
+      "chapter": "Ch9 9.4節：人口增長模型",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "在邏輯斯增長模型中，當族群大小 $P(t)$ 遠小於環境承載量 $K$ 時，族群增長最接近哪種增長？",
+      "options": [
+        "線性增長",
+        "指數增長",
+        "對數增長",
+        "恆定不變"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "當 $P(t) \\ll K$ 時，邏輯斯微分方程 $\\frac{dP}{dt} = kP(1 - \\frac{P}{K})$ 中的 $(1 - \\frac{P}{K})$ 趨近於 1，故最接近指數增長。\n\n---",
+      "chapter": "Ch9 9.4節：人口增長模型",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "一族群大小滿足邏輯斯方程 $\\frac{dP}{dt} = 3 P (1 - \\frac{P}{100})$，求此族群的環境承載量 $K$。",
+      "options": [],
+      "answer": "100",
+      "type": "fill",
+      "solution": "承載量為公式中括號的分母值，即 $K = 100$。\n\n---",
+      "chapter": "Ch9 9.4節：人口增長模型",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "一族群大小滿足邏輯斯方程 $\\frac{dP}{dt} = 4 P (1 - \\frac{P}{100})$，求此族群的環境承載量 $K$。",
+      "options": [],
+      "answer": "100",
+      "type": "fill",
+      "solution": "承載量為公式中括號的分母值，即 $K = 100$。\n\n---",
+      "chapter": "Ch9 9.4節：人口增長模型",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "一族群大小滿足邏輯斯方程 $\\frac{dP}{dt} = 5 P (1 - \\frac{P}{100})$，求此族群的環境承載量 $K$。",
+      "options": [],
+      "answer": "100",
+      "type": "fill",
+      "solution": "承載量為公式中括號的分母值，即 $K = 100$。\n\n---",
+      "chapter": "Ch9 9.4節：人口增長模型",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "一族群大小滿足邏輯斯方程 $\\frac{dP}{dt} = 6 P (1 - \\frac{P}{100})$，求此族群的環境承載量 $K$。",
+      "options": [],
+      "answer": "100",
+      "type": "fill",
+      "solution": "承載量為公式中括號的分母值，即 $K = 100$。\n\n---",
+      "chapter": "Ch9 9.4節：人口增長模型",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "一族群大小滿足邏輯斯方程 $\\frac{dP}{dt} = 7 P (1 - \\frac{P}{100})$，求此族群的環境承載量 $K$。",
+      "options": [],
+      "answer": "100",
+      "type": "fill",
+      "solution": "承載量為公式中括號的分母值，即 $K = 100$。\n\n---",
+      "chapter": "Ch9 9.4節：人口增長模型",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "一族群大小滿足邏輯斯方程 $\\frac{dP}{dt} = 8 P (1 - \\frac{P}{100})$，求此族群的環境承載量 $K$。",
+      "options": [],
+      "answer": "100",
+      "type": "fill",
+      "solution": "承載量為公式中括號的分母值，即 $K = 100$。\n\n---",
+      "chapter": "Ch9 9.4節：人口增長模型",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "一族群大小滿足邏輯斯方程 $\\frac{dP}{dt} = 9 P (1 - \\frac{P}{100})$，求此族群的環境承載量 $K$。",
+      "options": [],
+      "answer": "100",
+      "type": "fill",
+      "solution": "承載量為公式中括號的分母值，即 $K = 100$。\n\n---",
+      "chapter": "Ch9 9.4節：人口增長模型",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "一族群大小滿足邏輯斯方程 $\\frac{dP}{dt} = 10 P (1 - \\frac{P}{100})$，求此族群的環境承載量 $K$。",
+      "options": [],
+      "answer": "100",
+      "type": "fill",
+      "solution": "承載量為公式中括號的分母值，即 $K = 100$。\n\n---",
+      "chapter": "Ch9 9.4節：人口增長模型",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "一族群大小滿足邏輯斯方程 $\\frac{dP}{dt} = 11 P (1 - \\frac{P}{100})$，求此族群的環境承載量 $K$。",
+      "options": [],
+      "answer": "100",
+      "type": "fill",
+      "solution": "承載量為公式中括號的分母值，即 $K = 100$。\n\n---",
+      "chapter": "Ch9 9.4節：人口增長模型",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "一族群大小滿足邏輯斯方程 $\\frac{dP}{dt} = 12 P (1 - \\frac{P}{100})$，求此族群的環境承載量 $K$。",
+      "options": [],
+      "answer": "100",
+      "type": "fill",
+      "solution": "承載量為公式中括號的分母值，即 $K = 100$。",
+      "chapter": "Ch9 9.4節：人口增長模型",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "對於一階線性微分方程 $\\frac{dy}{dx} + P(x)y = Q(x)$，應該乘上何種積分因子以進行化簡？",
+      "options": [
+        "$e^{\\int Q(x) dx}$",
+        "$e^{\\int P(x) dx}$",
+        "$\\int P(x) dx$",
+        "$e^{P(x)}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "一階線性微分方程最基本的求解技巧就是乘以積分因子 $I(x) = e^{\\int P(x) dx}$。\n\n---",
+      "chapter": "Ch9 9.5節：線性微分方程",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "求一階線性微分方程 $\\frac{dy}{dx} + 3y = e^x$ 的積分因子（Integrating Factor）。",
+      "options": [
+        "$x^{3}$",
+        "$e^{-3x}$",
+        "$e^{3x}$",
+        "$e^{6x}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "積分因子公式 $I(x) = e^{\\int P(x) dx} = e^{\\int 3 dx} = e^{3x}$。\n\n---",
+      "chapter": "Ch9 9.5節：線性微分方程",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "對於一階線性微分方程 $\\frac{dy}{dx} + P(x)y = Q(x)$，應該乘上何種積分因子以進行化簡？",
+      "options": [
+        "$e^{P(x)}$",
+        "$e^{\\int Q(x) dx}$",
+        "$\\int P(x) dx$",
+        "$e^{\\int P(x) dx}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "一階線性微分方程最基本的求解技巧就是乘以積分因子 $I(x) = e^{\\int P(x) dx}$。\n\n---",
+      "chapter": "Ch9 9.5節：線性微分方程",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "求一階線性微分方程 $\\frac{dy}{dx} + 5y = e^x$ 的積分因子（Integrating Factor）。",
+      "options": [
+        "$e^{5x}$",
+        "$e^{-5x}$",
+        "$x^{5}$",
+        "$e^{10x}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "積分因子公式 $I(x) = e^{\\int P(x) dx} = e^{\\int 5 dx} = e^{5x}$。\n\n---",
+      "chapter": "Ch9 9.5節：線性微分方程",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "對於一階線性微分方程 $\\frac{dy}{dx} + P(x)y = Q(x)$，應該乘上何種積分因子以進行化簡？",
+      "options": [
+        "$e^{\\int Q(x) dx}$",
+        "$e^{\\int P(x) dx}$",
+        "$\\int P(x) dx$",
+        "$e^{P(x)}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "一階線性微分方程最基本的求解技巧就是乘以積分因子 $I(x) = e^{\\int P(x) dx}$。\n\n---",
+      "chapter": "Ch9 9.5節：線性微分方程",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "求一階線性微分方程 $\\frac{dy}{dx} + 7y = e^x$ 的積分因子（Integrating Factor）。",
+      "options": [
+        "$x^{7}$",
+        "$e^{-7x}$",
+        "$e^{7x}$",
+        "$e^{14x}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "積分因子公式 $I(x) = e^{\\int P(x) dx} = e^{\\int 7 dx} = e^{7x}$。\n\n---",
+      "chapter": "Ch9 9.5節：線性微分方程",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "對於一階線性微分方程 $\\frac{dy}{dx} + P(x)y = Q(x)$，應該乘上何種積分因子以進行化簡？",
+      "options": [
+        "$e^{P(x)}$",
+        "$e^{\\int Q(x) dx}$",
+        "$\\int P(x) dx$",
+        "$e^{\\int P(x) dx}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "一階線性微分方程最基本的求解技巧就是乘以積分因子 $I(x) = e^{\\int P(x) dx}$。\n\n---",
+      "chapter": "Ch9 9.5節：線性微分方程",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "求一階線性微分方程 $\\frac{dy}{dx} + 9y = e^x$ 的積分因子（Integrating Factor）。",
+      "options": [
+        "$e^{9x}$",
+        "$e^{-9x}$",
+        "$x^{9}$",
+        "$e^{18x}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "積分因子公式 $I(x) = e^{\\int P(x) dx} = e^{\\int 9 dx} = e^{9x}$。\n\n---",
+      "chapter": "Ch9 9.5節：線性微分方程",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "對於一階線性微分方程 $\\frac{dy}{dx} + P(x)y = Q(x)$，應該乘上何種積分因子以進行化簡？",
+      "options": [
+        "$e^{\\int Q(x) dx}$",
+        "$e^{\\int P(x) dx}$",
+        "$\\int P(x) dx$",
+        "$e^{P(x)}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "一階線性微分方程最基本的求解技巧就是乘以積分因子 $I(x) = e^{\\int P(x) dx}$。\n\n---",
+      "chapter": "Ch9 9.5節：線性微分方程",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "求一階線性微分方程 $\\frac{dy}{dx} + 11y = e^x$ 的積分因子（Integrating Factor）。",
+      "options": [
+        "$x^{11}$",
+        "$e^{-11x}$",
+        "$e^{11x}$",
+        "$e^{22x}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "積分因子公式 $I(x) = e^{\\int P(x) dx} = e^{\\int 11 dx} = e^{11x}$。\n\n---",
+      "chapter": "Ch9 9.5節：線性微分方程",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "對於一階線性微分方程 $\\frac{dy}{dx} + P(x)y = Q(x)$，應該乘上何種積分因子以進行化簡？",
+      "options": [
+        "$e^{P(x)}$",
+        "$e^{\\int Q(x) dx}$",
+        "$\\int P(x) dx$",
+        "$e^{\\int P(x) dx}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "一階線性微分方程最基本的求解技巧就是乘以積分因子 $I(x) = e^{\\int P(x) dx}$。\n\n---",
+      "chapter": "Ch9 9.5節：線性微分方程",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "求一階線性微分方程 $\\frac{dy}{dx} + 13y = e^x$ 的積分因子（Integrating Factor）。",
+      "options": [
+        "$e^{13x}$",
+        "$e^{-13x}$",
+        "$x^{13}$",
+        "$e^{26x}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "積分因子公式 $I(x) = e^{\\int P(x) dx} = e^{\\int 13 dx} = e^{13x}$。\n\n---",
+      "chapter": "Ch9 9.5節：線性微分方程",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "對於一階線性微分方程 $\\frac{dy}{dx} + P(x)y = Q(x)$，應該乘上何種積分因子以進行化簡？",
+      "options": [
+        "$e^{\\int Q(x) dx}$",
+        "$e^{\\int P(x) dx}$",
+        "$\\int P(x) dx$",
+        "$e^{P(x)}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "一階線性微分方程最基本的求解技巧就是乘以積分因子 $I(x) = e^{\\int P(x) dx}$。\n\n---",
+      "chapter": "Ch9 9.5節：線性微分方程",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "求一階線性微分方程 $\\frac{dy}{dx} + 15y = e^x$ 的積分因子（Integrating Factor）。",
+      "options": [
+        "$x^{15}$",
+        "$e^{-15x}$",
+        "$e^{15x}$",
+        "$e^{30x}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "積分因子公式 $I(x) = e^{\\int P(x) dx} = e^{\\int 15 dx} = e^{15x}$。\n\n---",
+      "chapter": "Ch9 9.5節：線性微分方程",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "對於一階線性微分方程 $\\frac{dy}{dx} + P(x)y = Q(x)$，應該乘上何種積分因子以進行化簡？",
+      "options": [
+        "$e^{P(x)}$",
+        "$e^{\\int Q(x) dx}$",
+        "$\\int P(x) dx$",
+        "$e^{\\int P(x) dx}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "一階線性微分方程最基本的求解技巧就是乘以積分因子 $I(x) = e^{\\int P(x) dx}$。\n\n---",
+      "chapter": "Ch9 9.5節：線性微分方程",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "求一階線性微分方程 $\\frac{dy}{dx} + 17y = e^x$ 的積分因子（Integrating Factor）。",
+      "options": [
+        "$e^{17x}$",
+        "$e^{-17x}$",
+        "$x^{17}$",
+        "$e^{34x}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "積分因子公式 $I(x) = e^{\\int P(x) dx} = e^{\\int 17 dx} = e^{17x}$。\n\n---",
+      "chapter": "Ch9 9.5節：線性微分方程",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "對於一階線性微分方程 $\\frac{dy}{dx} + P(x)y = Q(x)$，應該乘上何種積分因子以進行化簡？",
+      "options": [
+        "$e^{\\int Q(x) dx}$",
+        "$e^{\\int P(x) dx}$",
+        "$\\int P(x) dx$",
+        "$e^{P(x)}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "一階線性微分方程最基本的求解技巧就是乘以積分因子 $I(x) = e^{\\int P(x) dx}$。\n\n---",
+      "chapter": "Ch9 9.5節：線性微分方程",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "求一階線性微分方程 $\\frac{dy}{dx} + 19y = e^x$ 的積分因子（Integrating Factor）。",
+      "options": [
+        "$x^{19}$",
+        "$e^{-19x}$",
+        "$e^{19x}$",
+        "$e^{38x}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "積分因子公式 $I(x) = e^{\\int P(x) dx} = e^{\\int 19 dx} = e^{19x}$。\n\n---",
+      "chapter": "Ch9 9.5節：線性微分方程",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "對於一階線性微分方程 $\\frac{dy}{dx} + P(x)y = Q(x)$，應該乘上何種積分因子以進行化簡？",
+      "options": [
+        "$e^{P(x)}$",
+        "$e^{\\int Q(x) dx}$",
+        "$\\int P(x) dx$",
+        "$e^{\\int P(x) dx}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "一階線性微分方程最基本的求解技巧就是乘以積分因子 $I(x) = e^{\\int P(x) dx}$。\n\n---",
+      "chapter": "Ch9 9.5節：線性微分方程",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "求一階線性微分方程 $\\frac{dy}{dx} + 21y = e^x$ 的積分因子（Integrating Factor）。",
+      "options": [
+        "$e^{21x}$",
+        "$e^{-21x}$",
+        "$x^{21}$",
+        "$e^{42x}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "積分因子公式 $I(x) = e^{\\int P(x) dx} = e^{\\int 21 dx} = e^{21x}$。\n\n---",
+      "chapter": "Ch9 9.5節：線性微分方程",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "已知一階線性微分方程之積分因子為 $I(x) = e^{3x}$，求 $P(x)$ 之值。",
+      "options": [],
+      "answer": "3",
+      "type": "fill",
+      "solution": "因 $I(x) = e^{\\int P(x) dx} = e^{3x} \\implies P(x) = 3$。\n\n---",
+      "chapter": "Ch9 9.5節：線性微分方程",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "已知一階線性微分方程之積分因子為 $I(x) = e^{4x}$，求 $P(x)$ 之值。",
+      "options": [],
+      "answer": "4",
+      "type": "fill",
+      "solution": "因 $I(x) = e^{\\int P(x) dx} = e^{4x} \\implies P(x) = 4$。\n\n---",
+      "chapter": "Ch9 9.5節：線性微分方程",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "已知一階線性微分方程之積分因子為 $I(x) = e^{5x}$，求 $P(x)$ 之值。",
+      "options": [],
+      "answer": "5",
+      "type": "fill",
+      "solution": "因 $I(x) = e^{\\int P(x) dx} = e^{5x} \\implies P(x) = 5$。\n\n---",
+      "chapter": "Ch9 9.5節：線性微分方程",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "已知一階線性微分方程之積分因子為 $I(x) = e^{6x}$，求 $P(x)$ 之值。",
+      "options": [],
+      "answer": "6",
+      "type": "fill",
+      "solution": "因 $I(x) = e^{\\int P(x) dx} = e^{6x} \\implies P(x) = 6$。\n\n---",
+      "chapter": "Ch9 9.5節：線性微分方程",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "已知一階線性微分方程之積分因子為 $I(x) = e^{7x}$，求 $P(x)$ 之值。",
+      "options": [],
+      "answer": "7",
+      "type": "fill",
+      "solution": "因 $I(x) = e^{\\int P(x) dx} = e^{7x} \\implies P(x) = 7$。\n\n---",
+      "chapter": "Ch9 9.5節：線性微分方程",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "已知一階線性微分方程之積分因子為 $I(x) = e^{8x}$，求 $P(x)$ 之值。",
+      "options": [],
+      "answer": "8",
+      "type": "fill",
+      "solution": "因 $I(x) = e^{\\int P(x) dx} = e^{8x} \\implies P(x) = 8$。\n\n---",
+      "chapter": "Ch9 9.5節：線性微分方程",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "已知一階線性微分方程之積分因子為 $I(x) = e^{9x}$，求 $P(x)$ 之值。",
+      "options": [],
+      "answer": "9",
+      "type": "fill",
+      "solution": "因 $I(x) = e^{\\int P(x) dx} = e^{9x} \\implies P(x) = 9$。\n\n---",
+      "chapter": "Ch9 9.5節：線性微分方程",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "已知一階線性微分方程之積分因子為 $I(x) = e^{10x}$，求 $P(x)$ 之值。",
+      "options": [],
+      "answer": "10",
+      "type": "fill",
+      "solution": "因 $I(x) = e^{\\int P(x) dx} = e^{10x} \\implies P(x) = 10$。\n\n---",
+      "chapter": "Ch9 9.5節：線性微分方程",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "已知一階線性微分方程之積分因子為 $I(x) = e^{11x}$，求 $P(x)$ 之值。",
+      "options": [],
+      "answer": "11",
+      "type": "fill",
+      "solution": "因 $I(x) = e^{\\int P(x) dx} = e^{11x} \\implies P(x) = 11$。\n\n---",
+      "chapter": "Ch9 9.5節：線性微分方程",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "已知一階線性微分方程之積分因子為 $I(x) = e^{12x}$，求 $P(x)$ 之值。",
+      "options": [],
+      "answer": "12",
+      "type": "fill",
+      "solution": "因 $I(x) = e^{\\int P(x) dx} = e^{12x} \\implies P(x) = 12$。",
+      "chapter": "Ch9 9.5節：線性微分方程",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "捕食者族群方程中，當沒有獵物（$x=0$）存在時，捕食者族群會如何變化？",
+      "options": [
+        "維持常數",
+        "指數增長",
+        "指數衰減",
+        "對數增長"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "捕食者方程為 $\\frac{dy}{dt} = -r y + b x y$。當 $x=0$ 時，$\\frac{dy}{dt} = -r y$，呈現指數衰減。\n\n---",
+      "chapter": "Ch9 9.6節：掠食者與獵物系統",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "在洛特卡－沃爾泰拉（Lotka-Volterra）捕食者－獵物模型中，當沒有捕食者（$y=0$）存在時，獵物（$x$）族群呈現何種增長？",
+      "options": [
+        "指數增長",
+        "邏輯斯增長",
+        "線性增長",
+        "隨機增長"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "在洛特卡－沃爾泰拉模型中，獵物的方程為 $\\frac{dx}{dt} = k x - a x y$。當 $y=0$ 時，$\\frac{dx}{dt} = k x$，呈現典型的指數增長。\n\n---",
+      "chapter": "Ch9 9.6節：掠食者與獵物系統",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "捕食者族群方程中，當沒有獵物（$x=0$）存在時，捕食者族群會如何變化？",
+      "options": [
+        "對數增長",
+        "指數增長",
+        "維持常數",
+        "指數衰減"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "捕食者方程為 $\\frac{dy}{dt} = -r y + b x y$。當 $x=0$ 時，$\\frac{dy}{dt} = -r y$，呈現指數衰減。\n\n---",
+      "chapter": "Ch9 9.6節：掠食者與獵物系統",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "在洛特卡－沃爾泰拉（Lotka-Volterra）捕食者－獵物模型中，當沒有捕食者（$y=0$）存在時，獵物（$x$）族群呈現何種增長？",
+      "options": [
+        "邏輯斯增長",
+        "指數增長",
+        "線性增長",
+        "隨機增長"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "在洛特卡－沃爾泰拉模型中，獵物的方程為 $\\frac{dx}{dt} = k x - a x y$。當 $y=0$ 時，$\\frac{dx}{dt} = k x$，呈現典型的指數增長。\n\n---",
+      "chapter": "Ch9 9.6節：掠食者與獵物系統",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "捕食者族群方程中，當沒有獵物（$x=0$）存在時，捕食者族群會如何變化？",
+      "options": [
+        "維持常數",
+        "指數增長",
+        "指數衰減",
+        "對數增長"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "捕食者方程為 $\\frac{dy}{dt} = -r y + b x y$。當 $x=0$ 時，$\\frac{dy}{dt} = -r y$，呈現指數衰減。\n\n---",
+      "chapter": "Ch9 9.6節：掠食者與獵物系統",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "在洛特卡－沃爾泰拉（Lotka-Volterra）捕食者－獵物模型中，當沒有捕食者（$y=0$）存在時，獵物（$x$）族群呈現何種增長？",
+      "options": [
+        "指數增長",
+        "邏輯斯增長",
+        "線性增長",
+        "隨機增長"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "在洛特卡－沃爾泰拉模型中，獵物的方程為 $\\frac{dx}{dt} = k x - a x y$。當 $y=0$ 時，$\\frac{dx}{dt} = k x$，呈現典型的指數增長。\n\n---",
+      "chapter": "Ch9 9.6節：掠食者與獵物系統",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "捕食者族群方程中，當沒有獵物（$x=0$）存在時，捕食者族群會如何變化？",
+      "options": [
+        "對數增長",
+        "指數增長",
+        "維持常數",
+        "指數衰減"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "捕食者方程為 $\\frac{dy}{dt} = -r y + b x y$。當 $x=0$ 時，$\\frac{dy}{dt} = -r y$，呈現指數衰減。\n\n---",
+      "chapter": "Ch9 9.6節：掠食者與獵物系統",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "在洛特卡－沃爾泰拉（Lotka-Volterra）捕食者－獵物模型中，當沒有捕食者（$y=0$）存在時，獵物（$x$）族群呈現何種增長？",
+      "options": [
+        "邏輯斯增長",
+        "指數增長",
+        "線性增長",
+        "隨機增長"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "在洛特卡－沃爾泰拉模型中，獵物的方程為 $\\frac{dx}{dt} = k x - a x y$。當 $y=0$ 時，$\\frac{dx}{dt} = k x$，呈現典型的指數增長。\n\n---",
+      "chapter": "Ch9 9.6節：掠食者與獵物系統",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "捕食者族群方程中，當沒有獵物（$x=0$）存在時，捕食者族群會如何變化？",
+      "options": [
+        "維持常數",
+        "指數增長",
+        "指數衰減",
+        "對數增長"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "捕食者方程為 $\\frac{dy}{dt} = -r y + b x y$。當 $x=0$ 時，$\\frac{dy}{dt} = -r y$，呈現指數衰減。\n\n---",
+      "chapter": "Ch9 9.6節：掠食者與獵物系統",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "在洛特卡－沃爾泰拉（Lotka-Volterra）捕食者－獵物模型中，當沒有捕食者（$y=0$）存在時，獵物（$x$）族群呈現何種增長？",
+      "options": [
+        "指數增長",
+        "邏輯斯增長",
+        "線性增長",
+        "隨機增長"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "在洛特卡－沃爾泰拉模型中，獵物的方程為 $\\frac{dx}{dt} = k x - a x y$。當 $y=0$ 時，$\\frac{dx}{dt} = k x$，呈現典型的指數增長。\n\n---",
+      "chapter": "Ch9 9.6節：掠食者與獵物系統",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "捕食者族群方程中，當沒有獵物（$x=0$）存在時，捕食者族群會如何變化？",
+      "options": [
+        "對數增長",
+        "指數增長",
+        "維持常數",
+        "指數衰減"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "捕食者方程為 $\\frac{dy}{dt} = -r y + b x y$。當 $x=0$ 時，$\\frac{dy}{dt} = -r y$，呈現指數衰減。\n\n---",
+      "chapter": "Ch9 9.6節：掠食者與獵物系統",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "在洛特卡－沃爾泰拉（Lotka-Volterra）捕食者－獵物模型中，當沒有捕食者（$y=0$）存在時，獵物（$x$）族群呈現何種增長？",
+      "options": [
+        "邏輯斯增長",
+        "指數增長",
+        "線性增長",
+        "隨機增長"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "在洛特卡－沃爾泰拉模型中，獵物的方程為 $\\frac{dx}{dt} = k x - a x y$。當 $y=0$ 時，$\\frac{dx}{dt} = k x$，呈現典型的指數增長。\n\n---",
+      "chapter": "Ch9 9.6節：掠食者與獵物系統",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "捕食者族群方程中，當沒有獵物（$x=0$）存在時，捕食者族群會如何變化？",
+      "options": [
+        "維持常數",
+        "指數增長",
+        "指數衰減",
+        "對數增長"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "捕食者方程為 $\\frac{dy}{dt} = -r y + b x y$。當 $x=0$ 時，$\\frac{dy}{dt} = -r y$，呈現指數衰減。\n\n---",
+      "chapter": "Ch9 9.6節：掠食者與獵物系統",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "在洛特卡－沃爾泰拉（Lotka-Volterra）捕食者－獵物模型中，當沒有捕食者（$y=0$）存在時，獵物（$x$）族群呈現何種增長？",
+      "options": [
+        "指數增長",
+        "邏輯斯增長",
+        "線性增長",
+        "隨機增長"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "在洛特卡－沃爾泰拉模型中，獵物的方程為 $\\frac{dx}{dt} = k x - a x y$。當 $y=0$ 時，$\\frac{dx}{dt} = k x$，呈現典型的指數增長。\n\n---",
+      "chapter": "Ch9 9.6節：掠食者與獵物系統",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "捕食者族群方程中，當沒有獵物（$x=0$）存在時，捕食者族群會如何變化？",
+      "options": [
+        "對數增長",
+        "指數增長",
+        "維持常數",
+        "指數衰減"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "捕食者方程為 $\\frac{dy}{dt} = -r y + b x y$。當 $x=0$ 時，$\\frac{dy}{dt} = -r y$，呈現指數衰減。\n\n---",
+      "chapter": "Ch9 9.6節：掠食者與獵物系統",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "在洛特卡－沃爾泰拉（Lotka-Volterra）捕食者－獵物模型中，當沒有捕食者（$y=0$）存在時，獵物（$x$）族群呈現何種增長？",
+      "options": [
+        "邏輯斯增長",
+        "指數增長",
+        "線性增長",
+        "隨機增長"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "在洛特卡－沃爾泰拉模型中，獵物的方程為 $\\frac{dx}{dt} = k x - a x y$。當 $y=0$ 時，$\\frac{dx}{dt} = k x$，呈現典型的指數增長。\n\n---",
+      "chapter": "Ch9 9.6節：掠食者與獵物系統",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "捕食者族群方程中，當沒有獵物（$x=0$）存在時，捕食者族群會如何變化？",
+      "options": [
+        "維持常數",
+        "指數增長",
+        "指數衰減",
+        "對數增長"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "捕食者方程為 $\\frac{dy}{dt} = -r y + b x y$。當 $x=0$ 時，$\\frac{dy}{dt} = -r y$，呈現指數衰減。\n\n---",
+      "chapter": "Ch9 9.6節：掠食者與獵物系統",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "在洛特卡－沃爾泰拉（Lotka-Volterra）捕食者－獵物模型中，當沒有捕食者（$y=0$）存在時，獵物（$x$）族群呈現何種增長？",
+      "options": [
+        "指數增長",
+        "邏輯斯增長",
+        "線性增長",
+        "隨機增長"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "在洛特卡－沃爾泰拉模型中，獵物的方程為 $\\frac{dx}{dt} = k x - a x y$。當 $y=0$ 時，$\\frac{dx}{dt} = k x$，呈現典型的指數增長。\n\n---",
+      "chapter": "Ch9 9.6節：掠食者與獵物系統",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "捕食者族群方程中，當沒有獵物（$x=0$）存在時，捕食者族群會如何變化？",
+      "options": [
+        "對數增長",
+        "指數增長",
+        "維持常數",
+        "指數衰減"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "捕食者方程為 $\\frac{dy}{dt} = -r y + b x y$。當 $x=0$ 時，$\\frac{dy}{dt} = -r y$，呈現指數衰減。\n\n---",
+      "chapter": "Ch9 9.6節：掠食者與獵物系統",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "在洛特卡－沃爾泰拉（Lotka-Volterra）捕食者－獵物模型中，當沒有捕食者（$y=0$）存在時，獵物（$x$）族群呈現何種增長？",
+      "options": [
+        "邏輯斯增長",
+        "指數增長",
+        "線性增長",
+        "隨機增長"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "在洛特卡－沃爾泰拉模型中，獵物的方程為 $\\frac{dx}{dt} = k x - a x y$。當 $y=0$ 時，$\\frac{dx}{dt} = k x$，呈現典型的指數增長。\n\n---",
+      "chapter": "Ch9 9.6節：掠食者與獵物系統",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "在捕食者方程 $\\frac{dy}{dt} = -3 y + 0.01 x y$ 中，捕食者的自然死亡率 $r$ 為多少？",
+      "options": [],
+      "answer": "3",
+      "type": "fill",
+      "solution": "對應公式中死亡率項 $-r y$，死亡率 $r = 3$。\n\n---",
+      "chapter": "Ch9 9.6節：掠食者與獵物系統",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "在捕食者方程 $\\frac{dy}{dt} = -4 y + 0.01 x y$ 中，捕食者的自然死亡率 $r$ 為多少？",
+      "options": [],
+      "answer": "4",
+      "type": "fill",
+      "solution": "對應公式中死亡率項 $-r y$，死亡率 $r = 4$。\n\n---",
+      "chapter": "Ch9 9.6節：掠食者與獵物系統",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "在捕食者方程 $\\frac{dy}{dt} = -5 y + 0.01 x y$ 中，捕食者的自然死亡率 $r$ 為多少？",
+      "options": [],
+      "answer": "5",
+      "type": "fill",
+      "solution": "對應公式中死亡率項 $-r y$，死亡率 $r = 5$。\n\n---",
+      "chapter": "Ch9 9.6節：掠食者與獵物系統",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "在捕食者方程 $\\frac{dy}{dt} = -6 y + 0.01 x y$ 中，捕食者的自然死亡率 $r$ 為多少？",
+      "options": [],
+      "answer": "6",
+      "type": "fill",
+      "solution": "對應公式中死亡率項 $-r y$，死亡率 $r = 6$。\n\n---",
+      "chapter": "Ch9 9.6節：掠食者與獵物系統",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "在捕食者方程 $\\frac{dy}{dt} = -7 y + 0.01 x y$ 中，捕食者的自然死亡率 $r$ 為多少？",
+      "options": [],
+      "answer": "7",
+      "type": "fill",
+      "solution": "對應公式中死亡率項 $-r y$，死亡率 $r = 7$。\n\n---",
+      "chapter": "Ch9 9.6節：掠食者與獵物系統",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "在捕食者方程 $\\frac{dy}{dt} = -8 y + 0.01 x y$ 中，捕食者的自然死亡率 $r$ 為多少？",
+      "options": [],
+      "answer": "8",
+      "type": "fill",
+      "solution": "對應公式中死亡率項 $-r y$，死亡率 $r = 8$。\n\n---",
+      "chapter": "Ch9 9.6節：掠食者與獵物系統",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "在捕食者方程 $\\frac{dy}{dt} = -9 y + 0.01 x y$ 中，捕食者的自然死亡率 $r$ 為多少？",
+      "options": [],
+      "answer": "9",
+      "type": "fill",
+      "solution": "對應公式中死亡率項 $-r y$，死亡率 $r = 9$。\n\n---",
+      "chapter": "Ch9 9.6節：掠食者與獵物系統",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "在捕食者方程 $\\frac{dy}{dt} = -10 y + 0.01 x y$ 中，捕食者的自然死亡率 $r$ 為多少？",
+      "options": [],
+      "answer": "10",
+      "type": "fill",
+      "solution": "對應公式中死亡率項 $-r y$，死亡率 $r = 10$。\n\n---",
+      "chapter": "Ch9 9.6節：掠食者與獵物系統",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "在捕食者方程 $\\frac{dy}{dt} = -11 y + 0.01 x y$ 中，捕食者的自然死亡率 $r$ 為多少？",
+      "options": [],
+      "answer": "11",
+      "type": "fill",
+      "solution": "對應公式中死亡率項 $-r y$，死亡率 $r = 11$。\n\n---",
+      "chapter": "Ch9 9.6節：掠食者與獵物系統",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "在捕食者方程 $\\frac{dy}{dt} = -12 y + 0.01 x y$ 中，捕食者的自然死亡率 $r$ 為多少？",
+      "options": [],
+      "answer": "12",
+      "type": "fill",
+      "solution": "對應公式中死亡率項 $-r y$，死亡率 $r = 12$。",
+      "chapter": "Ch9 9.6節：掠食者與獵物系統",
+      "score": 10
+    }
+  ]
+}

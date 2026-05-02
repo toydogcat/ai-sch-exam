@@ -1,0 +1,4404 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "text": "若 $f(x) = 2x + 3$，求 $f^{-1}(x)$ 之表示式。",
+      "options": [
+        "$2x - 3$",
+        "$\\frac{x + 3}{2}$",
+        "$\\frac{x - 3}{2}$",
+        "$\\frac{2}{x-3}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "令 $y = 2x + 3 \\implies x = \\frac{y - 3}{2}$。故反函數為 $f^{-1}(x) = \\frac{x - 3}{2}$。\n\n---",
+      "chapter": "Ch6 6.1節：反函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "已知函數 $f(x) = x^3 + x + 3$ 為一對一函數，求其反函數在 $x=3$ 的導數值 $(f^{-1})'(3)$。",
+      "options": [
+        "$1$",
+        "$3$",
+        "$\\frac{1}{3}$",
+        "$0$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "解 $f(x)=3 \\implies x^3+x+3=3 \\implies x=0$。由反函數求導公式 $(f^{-1})'(3) = \\frac{1}{f'(0)}$。而 $f'(x)=3x^2+1 \\implies f'(0)=1$。故值為 $1$。\n\n---",
+      "chapter": "Ch6 6.1節：反函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "若 $f(x) = 4x + 3$，求 $f^{-1}(x)$ 之表示式。",
+      "options": [
+        "$\\frac{4}{x-3}$",
+        "$\\frac{x + 3}{4}$",
+        "$4x - 3$",
+        "$\\frac{x - 3}{4}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "令 $y = 4x + 3 \\implies x = \\frac{y - 3}{4}$。故反函數為 $f^{-1}(x) = \\frac{x - 3}{4}$。\n\n---",
+      "chapter": "Ch6 6.1節：反函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "已知函數 $f(x) = x^3 + x + 5$ 為一對一函數，求其反函數在 $x=5$ 的導數值 $(f^{-1})'(5)$。",
+      "options": [
+        "$5$",
+        "$1$",
+        "$\\frac{1}{5}$",
+        "$0$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "解 $f(x)=5 \\implies x^3+x+5=5 \\implies x=0$。由反函數求導公式 $(f^{-1})'(5) = \\frac{1}{f'(0)}$。而 $f'(x)=3x^2+1 \\implies f'(0)=1$。故值為 $1$。\n\n---",
+      "chapter": "Ch6 6.1節：反函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "若 $f(x) = 6x + 3$，求 $f^{-1}(x)$ 之表示式。",
+      "options": [
+        "$6x - 3$",
+        "$\\frac{x + 3}{6}$",
+        "$\\frac{x - 3}{6}$",
+        "$\\frac{6}{x-3}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "令 $y = 6x + 3 \\implies x = \\frac{y - 3}{6}$。故反函數為 $f^{-1}(x) = \\frac{x - 3}{6}$。\n\n---",
+      "chapter": "Ch6 6.1節：反函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "已知函數 $f(x) = x^3 + x + 7$ 為一對一函數，求其反函數在 $x=7$ 的導數值 $(f^{-1})'(7)$。",
+      "options": [
+        "$1$",
+        "$7$",
+        "$\\frac{1}{7}$",
+        "$0$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "解 $f(x)=7 \\implies x^3+x+7=7 \\implies x=0$。由反函數求導公式 $(f^{-1})'(7) = \\frac{1}{f'(0)}$。而 $f'(x)=3x^2+1 \\implies f'(0)=1$。故值為 $1$。\n\n---",
+      "chapter": "Ch6 6.1節：反函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "若 $f(x) = 8x + 3$，求 $f^{-1}(x)$ 之表示式。",
+      "options": [
+        "$\\frac{8}{x-3}$",
+        "$\\frac{x + 3}{8}$",
+        "$8x - 3$",
+        "$\\frac{x - 3}{8}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "令 $y = 8x + 3 \\implies x = \\frac{y - 3}{8}$。故反函數為 $f^{-1}(x) = \\frac{x - 3}{8}$。\n\n---",
+      "chapter": "Ch6 6.1節：反函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "已知函數 $f(x) = x^3 + x + 9$ 為一對一函數，求其反函數在 $x=9$ 的導數值 $(f^{-1})'(9)$。",
+      "options": [
+        "$9$",
+        "$1$",
+        "$\\frac{1}{9}$",
+        "$0$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "解 $f(x)=9 \\implies x^3+x+9=9 \\implies x=0$。由反函數求導公式 $(f^{-1})'(9) = \\frac{1}{f'(0)}$。而 $f'(x)=3x^2+1 \\implies f'(0)=1$。故值為 $1$。\n\n---",
+      "chapter": "Ch6 6.1節：反函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "若 $f(x) = 10x + 3$，求 $f^{-1}(x)$ 之表示式。",
+      "options": [
+        "$10x - 3$",
+        "$\\frac{x + 3}{10}$",
+        "$\\frac{x - 3}{10}$",
+        "$\\frac{10}{x-3}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "令 $y = 10x + 3 \\implies x = \\frac{y - 3}{10}$。故反函數為 $f^{-1}(x) = \\frac{x - 3}{10}$。\n\n---",
+      "chapter": "Ch6 6.1節：反函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "已知函數 $f(x) = x^3 + x + 11$ 為一對一函數，求其反函數在 $x=11$ 的導數值 $(f^{-1})'(11)$。",
+      "options": [
+        "$1$",
+        "$11$",
+        "$\\frac{1}{11}$",
+        "$0$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "解 $f(x)=11 \\implies x^3+x+11=11 \\implies x=0$。由反函數求導公式 $(f^{-1})'(11) = \\frac{1}{f'(0)}$。而 $f'(x)=3x^2+1 \\implies f'(0)=1$。故值為 $1$。\n\n---",
+      "chapter": "Ch6 6.1節：反函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "若 $f(x) = 12x + 3$，求 $f^{-1}(x)$ 之表示式。",
+      "options": [
+        "$\\frac{12}{x-3}$",
+        "$\\frac{x + 3}{12}$",
+        "$12x - 3$",
+        "$\\frac{x - 3}{12}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "令 $y = 12x + 3 \\implies x = \\frac{y - 3}{12}$。故反函數為 $f^{-1}(x) = \\frac{x - 3}{12}$。\n\n---",
+      "chapter": "Ch6 6.1節：反函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "已知函數 $f(x) = x^3 + x + 13$ 為一對一函數，求其反函數在 $x=13$ 的導數值 $(f^{-1})'(13)$。",
+      "options": [
+        "$13$",
+        "$1$",
+        "$\\frac{1}{13}$",
+        "$0$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "解 $f(x)=13 \\implies x^3+x+13=13 \\implies x=0$。由反函數求導公式 $(f^{-1})'(13) = \\frac{1}{f'(0)}$。而 $f'(x)=3x^2+1 \\implies f'(0)=1$。故值為 $1$。\n\n---",
+      "chapter": "Ch6 6.1節：反函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "若 $f(x) = 14x + 3$，求 $f^{-1}(x)$ 之表示式。",
+      "options": [
+        "$14x - 3$",
+        "$\\frac{x + 3}{14}$",
+        "$\\frac{x - 3}{14}$",
+        "$\\frac{14}{x-3}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "令 $y = 14x + 3 \\implies x = \\frac{y - 3}{14}$。故反函數為 $f^{-1}(x) = \\frac{x - 3}{14}$。\n\n---",
+      "chapter": "Ch6 6.1節：反函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "已知函數 $f(x) = x^3 + x + 15$ 為一對一函數，求其反函數在 $x=15$ 的導數值 $(f^{-1})'(15)$。",
+      "options": [
+        "$1$",
+        "$15$",
+        "$\\frac{1}{15}$",
+        "$0$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "解 $f(x)=15 \\implies x^3+x+15=15 \\implies x=0$。由反函數求導公式 $(f^{-1})'(15) = \\frac{1}{f'(0)}$。而 $f'(x)=3x^2+1 \\implies f'(0)=1$。故值為 $1$。\n\n---",
+      "chapter": "Ch6 6.1節：反函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "若 $f(x) = 16x + 3$，求 $f^{-1}(x)$ 之表示式。",
+      "options": [
+        "$\\frac{16}{x-3}$",
+        "$\\frac{x + 3}{16}$",
+        "$16x - 3$",
+        "$\\frac{x - 3}{16}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "令 $y = 16x + 3 \\implies x = \\frac{y - 3}{16}$。故反函數為 $f^{-1}(x) = \\frac{x - 3}{16}$。\n\n---",
+      "chapter": "Ch6 6.1節：反函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "已知函數 $f(x) = x^3 + x + 17$ 為一對一函數，求其反函數在 $x=17$ 的導數值 $(f^{-1})'(17)$。",
+      "options": [
+        "$17$",
+        "$1$",
+        "$\\frac{1}{17}$",
+        "$0$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "解 $f(x)=17 \\implies x^3+x+17=17 \\implies x=0$。由反函數求導公式 $(f^{-1})'(17) = \\frac{1}{f'(0)}$。而 $f'(x)=3x^2+1 \\implies f'(0)=1$。故值為 $1$。\n\n---",
+      "chapter": "Ch6 6.1節：反函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "若 $f(x) = 18x + 3$，求 $f^{-1}(x)$ 之表示式。",
+      "options": [
+        "$18x - 3$",
+        "$\\frac{x + 3}{18}$",
+        "$\\frac{x - 3}{18}$",
+        "$\\frac{18}{x-3}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "令 $y = 18x + 3 \\implies x = \\frac{y - 3}{18}$。故反函數為 $f^{-1}(x) = \\frac{x - 3}{18}$。\n\n---",
+      "chapter": "Ch6 6.1節：反函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "已知函數 $f(x) = x^3 + x + 19$ 為一對一函數，求其反函數在 $x=19$ 的導數值 $(f^{-1})'(19)$。",
+      "options": [
+        "$1$",
+        "$19$",
+        "$\\frac{1}{19}$",
+        "$0$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "解 $f(x)=19 \\implies x^3+x+19=19 \\implies x=0$。由反函數求導公式 $(f^{-1})'(19) = \\frac{1}{f'(0)}$。而 $f'(x)=3x^2+1 \\implies f'(0)=1$。故值為 $1$。\n\n---",
+      "chapter": "Ch6 6.1節：反函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "若 $f(x) = 20x + 3$，求 $f^{-1}(x)$ 之表示式。",
+      "options": [
+        "$\\frac{20}{x-3}$",
+        "$\\frac{x + 3}{20}$",
+        "$20x - 3$",
+        "$\\frac{x - 3}{20}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "令 $y = 20x + 3 \\implies x = \\frac{y - 3}{20}$。故反函數為 $f^{-1}(x) = \\frac{x - 3}{20}$。\n\n---",
+      "chapter": "Ch6 6.1節：反函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "已知函數 $f(x) = x^3 + x + 21$ 為一對一函數，求其反函數在 $x=21$ 的導數值 $(f^{-1})'(21)$。",
+      "options": [
+        "$21$",
+        "$1$",
+        "$\\frac{1}{21}$",
+        "$0$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "解 $f(x)=21 \\implies x^3+x+21=21 \\implies x=0$。由反函數求導公式 $(f^{-1})'(21) = \\frac{1}{f'(0)}$。而 $f'(x)=3x^2+1 \\implies f'(0)=1$。故值為 $1$。\n\n---",
+      "chapter": "Ch6 6.1節：反函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "若一對一函數滿足 $f(1) = 2$ 且 $f'(1) = 3$，求 $(f^{-1})'(2)$ 之值。",
+      "options": [],
+      "answer": "0.33",
+      "type": "fill",
+      "solution": "由反函數求導：$(f^{-1})'(2) = \\frac{1}{f'(1)} = \\frac{1}{3}$。結果為 0.33。\n\n---",
+      "chapter": "Ch6 6.1節：反函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "若一對一函數滿足 $f(1) = 2$ 且 $f'(1) = 4$，求 $(f^{-1})'(2)$ 之值。",
+      "options": [],
+      "answer": "0.25",
+      "type": "fill",
+      "solution": "由反函數求導：$(f^{-1})'(2) = \\frac{1}{f'(1)} = \\frac{1}{4}$。結果為 0.25。\n\n---",
+      "chapter": "Ch6 6.1節：反函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "若一對一函數滿足 $f(1) = 2$ 且 $f'(1) = 5$，求 $(f^{-1})'(2)$ 之值。",
+      "options": [],
+      "answer": "0.2",
+      "type": "fill",
+      "solution": "由反函數求導：$(f^{-1})'(2) = \\frac{1}{f'(1)} = \\frac{1}{5}$。結果為 0.2。\n\n---",
+      "chapter": "Ch6 6.1節：反函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "若一對一函數滿足 $f(1) = 2$ 且 $f'(1) = 6$，求 $(f^{-1})'(2)$ 之值。",
+      "options": [],
+      "answer": "0.17",
+      "type": "fill",
+      "solution": "由反函數求導：$(f^{-1})'(2) = \\frac{1}{f'(1)} = \\frac{1}{6}$。結果為 0.17。\n\n---",
+      "chapter": "Ch6 6.1節：反函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "若一對一函數滿足 $f(1) = 2$ 且 $f'(1) = 7$，求 $(f^{-1})'(2)$ 之值。",
+      "options": [],
+      "answer": "0.14",
+      "type": "fill",
+      "solution": "由反函數求導：$(f^{-1})'(2) = \\frac{1}{f'(1)} = \\frac{1}{7}$。結果為 0.14。\n\n---",
+      "chapter": "Ch6 6.1節：反函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "若一對一函數滿足 $f(1) = 2$ 且 $f'(1) = 8$，求 $(f^{-1})'(2)$ 之值。",
+      "options": [],
+      "answer": "0.12",
+      "type": "fill",
+      "solution": "由反函數求導：$(f^{-1})'(2) = \\frac{1}{f'(1)} = \\frac{1}{8}$。結果為 0.12。\n\n---",
+      "chapter": "Ch6 6.1節：反函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "若一對一函數滿足 $f(1) = 2$ 且 $f'(1) = 9$，求 $(f^{-1})'(2)$ 之值。",
+      "options": [],
+      "answer": "0.11",
+      "type": "fill",
+      "solution": "由反函數求導：$(f^{-1})'(2) = \\frac{1}{f'(1)} = \\frac{1}{9}$。結果為 0.11。\n\n---",
+      "chapter": "Ch6 6.1節：反函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "若一對一函數滿足 $f(1) = 2$ 且 $f'(1) = 10$，求 $(f^{-1})'(2)$ 之值。",
+      "options": [],
+      "answer": "0.1",
+      "type": "fill",
+      "solution": "由反函數求導：$(f^{-1})'(2) = \\frac{1}{f'(1)} = \\frac{1}{10}$。結果為 0.1。\n\n---",
+      "chapter": "Ch6 6.1節：反函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "若一對一函數滿足 $f(1) = 2$ 且 $f'(1) = 11$，求 $(f^{-1})'(2)$ 之值。",
+      "options": [],
+      "answer": "0.09",
+      "type": "fill",
+      "solution": "由反函數求導：$(f^{-1})'(2) = \\frac{1}{f'(1)} = \\frac{1}{11}$。結果為 0.09。\n\n---",
+      "chapter": "Ch6 6.1節：反函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "若一對一函數滿足 $f(1) = 2$ 且 $f'(1) = 12$，求 $(f^{-1})'(2)$ 之值。",
+      "options": [],
+      "answer": "0.08",
+      "type": "fill",
+      "solution": "由反函數求導：$(f^{-1})'(2) = \\frac{1}{f'(1)} = \\frac{1}{12}$。結果為 0.08。",
+      "chapter": "Ch6 6.1節：反函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "求 $\\int e^{2x} dx$ 的最一般不定積分。",
+      "options": [
+        "$e^{2x} + C$",
+        "$2e^{2x} + C$",
+        "$\\frac{1}{2}e^{2x} + C$",
+        "$-\\frac{1}{2}e^{2x} + C$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "對指數項積分，並考量鏈鎖律之係數，$\\int e^{2x} dx = \\frac{1}{2}e^{2x} + C$。\n\n---",
+      "chapter": "Ch6 6.2節：指數函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "求函數 $f(x) = e^{3x}$ 的一階導數 $f'(x)$。",
+      "options": [
+        "$e^{3x}$",
+        "$3e^{3x}$",
+        "$\\frac{1}{3}e^{3x}$",
+        "$6e^{3x}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "利用鏈鎖律，$\\frac{d}{dx} e^{3x} = 3e^{3x}$。\n\n---",
+      "chapter": "Ch6 6.2節：指數函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "求 $\\int e^{4x} dx$ 的最一般不定積分。",
+      "options": [
+        "$-\\frac{1}{4}e^{4x} + C$",
+        "$4e^{4x} + C$",
+        "$e^{4x} + C$",
+        "$\\frac{1}{4}e^{4x} + C$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "對指數項積分，並考量鏈鎖律之係數，$\\int e^{4x} dx = \\frac{1}{4}e^{4x} + C$。\n\n---",
+      "chapter": "Ch6 6.2節：指數函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "求函數 $f(x) = e^{5x}$ 的一階導數 $f'(x)$。",
+      "options": [
+        "$5e^{5x}$",
+        "$e^{5x}$",
+        "$\\frac{1}{5}e^{5x}$",
+        "$10e^{5x}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "利用鏈鎖律，$\\frac{d}{dx} e^{5x} = 5e^{5x}$。\n\n---",
+      "chapter": "Ch6 6.2節：指數函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "求 $\\int e^{6x} dx$ 的最一般不定積分。",
+      "options": [
+        "$e^{6x} + C$",
+        "$6e^{6x} + C$",
+        "$\\frac{1}{6}e^{6x} + C$",
+        "$-\\frac{1}{6}e^{6x} + C$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "對指數項積分，並考量鏈鎖律之係數，$\\int e^{6x} dx = \\frac{1}{6}e^{6x} + C$。\n\n---",
+      "chapter": "Ch6 6.2節：指數函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "求函數 $f(x) = e^{7x}$ 的一階導數 $f'(x)$。",
+      "options": [
+        "$e^{7x}$",
+        "$7e^{7x}$",
+        "$\\frac{1}{7}e^{7x}$",
+        "$14e^{7x}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "利用鏈鎖律，$\\frac{d}{dx} e^{7x} = 7e^{7x}$。\n\n---",
+      "chapter": "Ch6 6.2節：指數函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "求 $\\int e^{8x} dx$ 的最一般不定積分。",
+      "options": [
+        "$-\\frac{1}{8}e^{8x} + C$",
+        "$8e^{8x} + C$",
+        "$e^{8x} + C$",
+        "$\\frac{1}{8}e^{8x} + C$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "對指數項積分，並考量鏈鎖律之係數，$\\int e^{8x} dx = \\frac{1}{8}e^{8x} + C$。\n\n---",
+      "chapter": "Ch6 6.2節：指數函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "求函數 $f(x) = e^{9x}$ 的一階導數 $f'(x)$。",
+      "options": [
+        "$9e^{9x}$",
+        "$e^{9x}$",
+        "$\\frac{1}{9}e^{9x}$",
+        "$18e^{9x}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "利用鏈鎖律，$\\frac{d}{dx} e^{9x} = 9e^{9x}$。\n\n---",
+      "chapter": "Ch6 6.2節：指數函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "求 $\\int e^{10x} dx$ 的最一般不定積分。",
+      "options": [
+        "$e^{10x} + C$",
+        "$10e^{10x} + C$",
+        "$\\frac{1}{10}e^{10x} + C$",
+        "$-\\frac{1}{10}e^{10x} + C$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "對指數項積分，並考量鏈鎖律之係數，$\\int e^{10x} dx = \\frac{1}{10}e^{10x} + C$。\n\n---",
+      "chapter": "Ch6 6.2節：指數函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "求函數 $f(x) = e^{11x}$ 的一階導數 $f'(x)$。",
+      "options": [
+        "$e^{11x}$",
+        "$11e^{11x}$",
+        "$\\frac{1}{11}e^{11x}$",
+        "$22e^{11x}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "利用鏈鎖律，$\\frac{d}{dx} e^{11x} = 11e^{11x}$。\n\n---",
+      "chapter": "Ch6 6.2節：指數函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "求 $\\int e^{12x} dx$ 的最一般不定積分。",
+      "options": [
+        "$-\\frac{1}{12}e^{12x} + C$",
+        "$12e^{12x} + C$",
+        "$e^{12x} + C$",
+        "$\\frac{1}{12}e^{12x} + C$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "對指數項積分，並考量鏈鎖律之係數，$\\int e^{12x} dx = \\frac{1}{12}e^{12x} + C$。\n\n---",
+      "chapter": "Ch6 6.2節：指數函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "求函數 $f(x) = e^{13x}$ 的一階導數 $f'(x)$。",
+      "options": [
+        "$13e^{13x}$",
+        "$e^{13x}$",
+        "$\\frac{1}{13}e^{13x}$",
+        "$26e^{13x}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "利用鏈鎖律，$\\frac{d}{dx} e^{13x} = 13e^{13x}$。\n\n---",
+      "chapter": "Ch6 6.2節：指數函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "求 $\\int e^{14x} dx$ 的最一般不定積分。",
+      "options": [
+        "$e^{14x} + C$",
+        "$14e^{14x} + C$",
+        "$\\frac{1}{14}e^{14x} + C$",
+        "$-\\frac{1}{14}e^{14x} + C$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "對指數項積分，並考量鏈鎖律之係數，$\\int e^{14x} dx = \\frac{1}{14}e^{14x} + C$。\n\n---",
+      "chapter": "Ch6 6.2節：指數函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "求函數 $f(x) = e^{15x}$ 的一階導數 $f'(x)$。",
+      "options": [
+        "$e^{15x}$",
+        "$15e^{15x}$",
+        "$\\frac{1}{15}e^{15x}$",
+        "$30e^{15x}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "利用鏈鎖律，$\\frac{d}{dx} e^{15x} = 15e^{15x}$。\n\n---",
+      "chapter": "Ch6 6.2節：指數函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "求 $\\int e^{16x} dx$ 的最一般不定積分。",
+      "options": [
+        "$-\\frac{1}{16}e^{16x} + C$",
+        "$16e^{16x} + C$",
+        "$e^{16x} + C$",
+        "$\\frac{1}{16}e^{16x} + C$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "對指數項積分，並考量鏈鎖律之係數，$\\int e^{16x} dx = \\frac{1}{16}e^{16x} + C$。\n\n---",
+      "chapter": "Ch6 6.2節：指數函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "求函數 $f(x) = e^{17x}$ 的一階導數 $f'(x)$。",
+      "options": [
+        "$17e^{17x}$",
+        "$e^{17x}$",
+        "$\\frac{1}{17}e^{17x}$",
+        "$34e^{17x}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "利用鏈鎖律，$\\frac{d}{dx} e^{17x} = 17e^{17x}$。\n\n---",
+      "chapter": "Ch6 6.2節：指數函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "求 $\\int e^{18x} dx$ 的最一般不定積分。",
+      "options": [
+        "$e^{18x} + C$",
+        "$18e^{18x} + C$",
+        "$\\frac{1}{18}e^{18x} + C$",
+        "$-\\frac{1}{18}e^{18x} + C$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "對指數項積分，並考量鏈鎖律之係數，$\\int e^{18x} dx = \\frac{1}{18}e^{18x} + C$。\n\n---",
+      "chapter": "Ch6 6.2節：指數函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "求函數 $f(x) = e^{19x}$ 的一階導數 $f'(x)$。",
+      "options": [
+        "$e^{19x}$",
+        "$19e^{19x}$",
+        "$\\frac{1}{19}e^{19x}$",
+        "$38e^{19x}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "利用鏈鎖律，$\\frac{d}{dx} e^{19x} = 19e^{19x}$。\n\n---",
+      "chapter": "Ch6 6.2節：指數函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "求 $\\int e^{20x} dx$ 的最一般不定積分。",
+      "options": [
+        "$-\\frac{1}{20}e^{20x} + C$",
+        "$20e^{20x} + C$",
+        "$e^{20x} + C$",
+        "$\\frac{1}{20}e^{20x} + C$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "對指數項積分，並考量鏈鎖律之係數，$\\int e^{20x} dx = \\frac{1}{20}e^{20x} + C$。\n\n---",
+      "chapter": "Ch6 6.2節：指數函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "求函數 $f(x) = e^{21x}$ 的一階導數 $f'(x)$。",
+      "options": [
+        "$21e^{21x}$",
+        "$e^{21x}$",
+        "$\\frac{1}{21}e^{21x}$",
+        "$42e^{21x}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "利用鏈鎖律，$\\frac{d}{dx} e^{21x} = 21e^{21x}$。\n\n---",
+      "chapter": "Ch6 6.2節：指數函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "求 $\\int_0^1 e^{2x} dx$ 的定積分精確值。",
+      "options": [],
+      "answer": "3.19",
+      "type": "fill",
+      "solution": "積分為 $[\\frac{1}{2} e^{2x}]_0^1 = \\frac{e^2 - 1}{2}$。當 $c=2 \\implies \\frac{e^2-1}{2} = 3.19$。\n\n---",
+      "chapter": "Ch6 6.2節：指數函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "求 $\\int_0^1 e^{3x} dx$ 的定積分精確值。",
+      "options": [],
+      "answer": "6.36",
+      "type": "fill",
+      "solution": "積分為 $[\\frac{1}{3} e^{3x}]_0^1 = \\frac{e^3 - 1}{3}$。當 $c=3 \\implies \\frac{e^3-1}{3} = 6.36$。\n\n---",
+      "chapter": "Ch6 6.2節：指數函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "求 $\\int_0^1 e^{4x} dx$ 的定積分精確值。",
+      "options": [],
+      "answer": "13.4",
+      "type": "fill",
+      "solution": "積分為 $[\\frac{1}{4} e^{4x}]_0^1 = \\frac{e^4 - 1}{4}$。當 $c=4 \\implies \\frac{e^4-1}{4} = 13.4$。\n\n---",
+      "chapter": "Ch6 6.2節：指數函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "求 $\\int_0^1 e^{5x} dx$ 的定積分精確值。",
+      "options": [],
+      "answer": "29.48",
+      "type": "fill",
+      "solution": "積分為 $[\\frac{1}{5} e^{5x}]_0^1 = \\frac{e^5 - 1}{5}$。當 $c=5 \\implies \\frac{e^5-1}{5} = 29.48$。\n\n---",
+      "chapter": "Ch6 6.2節：指數函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "求 $\\int_0^1 e^{6x} dx$ 的定積分精確值。",
+      "options": [],
+      "answer": "67.07",
+      "type": "fill",
+      "solution": "積分為 $[\\frac{1}{6} e^{6x}]_0^1 = \\frac{e^6 - 1}{6}$。當 $c=6 \\implies \\frac{e^6-1}{6} = 67.07$。\n\n---",
+      "chapter": "Ch6 6.2節：指數函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "求 $\\int_0^1 e^{7x} dx$ 的定積分精確值。",
+      "options": [],
+      "answer": "156.52",
+      "type": "fill",
+      "solution": "積分為 $[\\frac{1}{7} e^{7x}]_0^1 = \\frac{e^7 - 1}{7}$。當 $c=7 \\implies \\frac{e^7-1}{7} = 156.52$。\n\n---",
+      "chapter": "Ch6 6.2節：指數函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "求 $\\int_0^1 e^{8x} dx$ 的定積分精確值。",
+      "options": [],
+      "answer": "372.49",
+      "type": "fill",
+      "solution": "積分為 $[\\frac{1}{8} e^{8x}]_0^1 = \\frac{e^8 - 1}{8}$。當 $c=8 \\implies \\frac{e^8-1}{8} = 372.49$。\n\n---",
+      "chapter": "Ch6 6.2節：指數函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "求 $\\int_0^1 e^{9x} dx$ 的定積分精確值。",
+      "options": [],
+      "answer": "900.23",
+      "type": "fill",
+      "solution": "積分為 $[\\frac{1}{9} e^{9x}]_0^1 = \\frac{e^9 - 1}{9}$。當 $c=9 \\implies \\frac{e^9-1}{9} = 900.23$。\n\n---",
+      "chapter": "Ch6 6.2節：指數函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "求 $\\int_0^1 e^{10x} dx$ 的定積分精確值。",
+      "options": [],
+      "answer": "2202.53",
+      "type": "fill",
+      "solution": "積分為 $[\\frac{1}{10} e^{10x}]_0^1 = \\frac{e^10 - 1}{10}$。當 $c=10 \\implies \\frac{e^10-1}{10} = 2202.53$。\n\n---",
+      "chapter": "Ch6 6.2節：指數函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "求 $\\int_0^1 e^{11x} dx$ 的定積分精確值。",
+      "options": [],
+      "answer": "5442.97",
+      "type": "fill",
+      "solution": "積分為 $[\\frac{1}{11} e^{11x}]_0^1 = \\frac{e^11 - 1}{11}$。當 $c=11 \\implies \\frac{e^11-1}{11} = 5442.97$。",
+      "chapter": "Ch6 6.2節：指數函數與其導數",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "若 $f(x) = \\ln(\\sqrt{x^2 + 1})$，求 $f'(x)$。",
+      "options": [
+        "$\\frac{2}{x}$",
+        "$\\frac{x^2}{x^2 + 1}$",
+        "$\\frac{2x^1}{2(x^2 + 1)}$",
+        "$\\frac{1}{2(x^2 + 1)}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "將對數式化簡：$f(x) = \\frac{1}{2} \\ln(x^2 + 1)$。求導得 $f'(x) = \\frac{1}{2} \\cdot \\frac{1}{x^2 + 1} \\cdot 2x^1 = \\frac{2x^1}{2(x^2 + 1)}$。\n\n---",
+      "chapter": "Ch6 6.2*節：自然對數函數",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "從積分角度出發，自然對數定義為 $\\ln x = \\int_1^x \\frac{1}{t} dt$。求 $\\ln(1)$ 之值。",
+      "options": [
+        "$e$",
+        "$0$",
+        "$1$",
+        "$-1$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "由定義可知，$\\int_1^1 \\frac{1}{t} dt = 0$。\n\n---",
+      "chapter": "Ch6 6.2*節：自然對數函數",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "若 $f(x) = \\ln(\\sqrt{x^4 + 1})$，求 $f'(x)$。",
+      "options": [
+        "$\\frac{1}{2(x^4 + 1)}$",
+        "$\\frac{x^4}{x^4 + 1}$",
+        "$\\frac{4}{x}$",
+        "$\\frac{4x^3}{2(x^4 + 1)}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "將對數式化簡：$f(x) = \\frac{1}{2} \\ln(x^4 + 1)$。求導得 $f'(x) = \\frac{1}{2} \\cdot \\frac{1}{x^4 + 1} \\cdot 4x^3 = \\frac{4x^3}{2(x^4 + 1)}$。\n\n---",
+      "chapter": "Ch6 6.2*節：自然對數函數",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "從積分角度出發，自然對數定義為 $\\ln x = \\int_1^x \\frac{1}{t} dt$。求 $\\ln(1)$ 之值。",
+      "options": [
+        "$0$",
+        "$1$",
+        "$e$",
+        "$-1$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "由定義可知，$\\int_1^1 \\frac{1}{t} dt = 0$。\n\n---",
+      "chapter": "Ch6 6.2*節：自然對數函數",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "若 $f(x) = \\ln(\\sqrt{x^6 + 1})$，求 $f'(x)$。",
+      "options": [
+        "$\\frac{6}{x}$",
+        "$\\frac{x^6}{x^6 + 1}$",
+        "$\\frac{6x^5}{2(x^6 + 1)}$",
+        "$\\frac{1}{2(x^6 + 1)}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "將對數式化簡：$f(x) = \\frac{1}{2} \\ln(x^6 + 1)$。求導得 $f'(x) = \\frac{1}{2} \\cdot \\frac{1}{x^6 + 1} \\cdot 6x^5 = \\frac{6x^5}{2(x^6 + 1)}$。\n\n---",
+      "chapter": "Ch6 6.2*節：自然對數函數",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "從積分角度出發，自然對數定義為 $\\ln x = \\int_1^x \\frac{1}{t} dt$。求 $\\ln(1)$ 之值。",
+      "options": [
+        "$e$",
+        "$0$",
+        "$1$",
+        "$-1$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "由定義可知，$\\int_1^1 \\frac{1}{t} dt = 0$。\n\n---",
+      "chapter": "Ch6 6.2*節：自然對數函數",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "若 $f(x) = \\ln(\\sqrt{x^8 + 1})$，求 $f'(x)$。",
+      "options": [
+        "$\\frac{1}{2(x^8 + 1)}$",
+        "$\\frac{x^8}{x^8 + 1}$",
+        "$\\frac{8}{x}$",
+        "$\\frac{8x^7}{2(x^8 + 1)}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "將對數式化簡：$f(x) = \\frac{1}{2} \\ln(x^8 + 1)$。求導得 $f'(x) = \\frac{1}{2} \\cdot \\frac{1}{x^8 + 1} \\cdot 8x^7 = \\frac{8x^7}{2(x^8 + 1)}$。\n\n---",
+      "chapter": "Ch6 6.2*節：自然對數函數",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "從積分角度出發，自然對數定義為 $\\ln x = \\int_1^x \\frac{1}{t} dt$。求 $\\ln(1)$ 之值。",
+      "options": [
+        "$0$",
+        "$1$",
+        "$e$",
+        "$-1$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "由定義可知，$\\int_1^1 \\frac{1}{t} dt = 0$。\n\n---",
+      "chapter": "Ch6 6.2*節：自然對數函數",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "若 $f(x) = \\ln(\\sqrt{x^10 + 1})$，求 $f'(x)$。",
+      "options": [
+        "$\\frac{10}{x}$",
+        "$\\frac{x^10}{x^10 + 1}$",
+        "$\\frac{10x^9}{2(x^10 + 1)}$",
+        "$\\frac{1}{2(x^10 + 1)}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "將對數式化簡：$f(x) = \\frac{1}{2} \\ln(x^10 + 1)$。求導得 $f'(x) = \\frac{1}{2} \\cdot \\frac{1}{x^10 + 1} \\cdot 10x^9 = \\frac{10x^9}{2(x^10 + 1)}$。\n\n---",
+      "chapter": "Ch6 6.2*節：自然對數函數",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "從積分角度出發，自然對數定義為 $\\ln x = \\int_1^x \\frac{1}{t} dt$。求 $\\ln(1)$ 之值。",
+      "options": [
+        "$e$",
+        "$0$",
+        "$1$",
+        "$-1$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "由定義可知，$\\int_1^1 \\frac{1}{t} dt = 0$。\n\n---",
+      "chapter": "Ch6 6.2*節：自然對數函數",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "若 $f(x) = \\ln(\\sqrt{x^12 + 1})$，求 $f'(x)$。",
+      "options": [
+        "$\\frac{1}{2(x^12 + 1)}$",
+        "$\\frac{x^12}{x^12 + 1}$",
+        "$\\frac{12}{x}$",
+        "$\\frac{12x^11}{2(x^12 + 1)}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "將對數式化簡：$f(x) = \\frac{1}{2} \\ln(x^12 + 1)$。求導得 $f'(x) = \\frac{1}{2} \\cdot \\frac{1}{x^12 + 1} \\cdot 12x^11 = \\frac{12x^11}{2(x^12 + 1)}$。\n\n---",
+      "chapter": "Ch6 6.2*節：自然對數函數",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "從積分角度出發，自然對數定義為 $\\ln x = \\int_1^x \\frac{1}{t} dt$。求 $\\ln(1)$ 之值。",
+      "options": [
+        "$0$",
+        "$1$",
+        "$e$",
+        "$-1$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "由定義可知，$\\int_1^1 \\frac{1}{t} dt = 0$。\n\n---",
+      "chapter": "Ch6 6.2*節：自然對數函數",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "若 $f(x) = \\ln(\\sqrt{x^14 + 1})$，求 $f'(x)$。",
+      "options": [
+        "$\\frac{14}{x}$",
+        "$\\frac{x^14}{x^14 + 1}$",
+        "$\\frac{14x^13}{2(x^14 + 1)}$",
+        "$\\frac{1}{2(x^14 + 1)}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "將對數式化簡：$f(x) = \\frac{1}{2} \\ln(x^14 + 1)$。求導得 $f'(x) = \\frac{1}{2} \\cdot \\frac{1}{x^14 + 1} \\cdot 14x^13 = \\frac{14x^13}{2(x^14 + 1)}$。\n\n---",
+      "chapter": "Ch6 6.2*節：自然對數函數",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "從積分角度出發，自然對數定義為 $\\ln x = \\int_1^x \\frac{1}{t} dt$。求 $\\ln(1)$ 之值。",
+      "options": [
+        "$e$",
+        "$0$",
+        "$1$",
+        "$-1$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "由定義可知，$\\int_1^1 \\frac{1}{t} dt = 0$。\n\n---",
+      "chapter": "Ch6 6.2*節：自然對數函數",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "若 $f(x) = \\ln(\\sqrt{x^16 + 1})$，求 $f'(x)$。",
+      "options": [
+        "$\\frac{1}{2(x^16 + 1)}$",
+        "$\\frac{x^16}{x^16 + 1}$",
+        "$\\frac{16}{x}$",
+        "$\\frac{16x^15}{2(x^16 + 1)}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "將對數式化簡：$f(x) = \\frac{1}{2} \\ln(x^16 + 1)$。求導得 $f'(x) = \\frac{1}{2} \\cdot \\frac{1}{x^16 + 1} \\cdot 16x^15 = \\frac{16x^15}{2(x^16 + 1)}$。\n\n---",
+      "chapter": "Ch6 6.2*節：自然對數函數",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "從積分角度出發，自然對數定義為 $\\ln x = \\int_1^x \\frac{1}{t} dt$。求 $\\ln(1)$ 之值。",
+      "options": [
+        "$0$",
+        "$1$",
+        "$e$",
+        "$-1$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "由定義可知，$\\int_1^1 \\frac{1}{t} dt = 0$。\n\n---",
+      "chapter": "Ch6 6.2*節：自然對數函數",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "若 $f(x) = \\ln(\\sqrt{x^18 + 1})$，求 $f'(x)$。",
+      "options": [
+        "$\\frac{18}{x}$",
+        "$\\frac{x^18}{x^18 + 1}$",
+        "$\\frac{18x^17}{2(x^18 + 1)}$",
+        "$\\frac{1}{2(x^18 + 1)}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "將對數式化簡：$f(x) = \\frac{1}{2} \\ln(x^18 + 1)$。求導得 $f'(x) = \\frac{1}{2} \\cdot \\frac{1}{x^18 + 1} \\cdot 18x^17 = \\frac{18x^17}{2(x^18 + 1)}$。\n\n---",
+      "chapter": "Ch6 6.2*節：自然對數函數",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "從積分角度出發，自然對數定義為 $\\ln x = \\int_1^x \\frac{1}{t} dt$。求 $\\ln(1)$ 之值。",
+      "options": [
+        "$e$",
+        "$0$",
+        "$1$",
+        "$-1$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "由定義可知，$\\int_1^1 \\frac{1}{t} dt = 0$。\n\n---",
+      "chapter": "Ch6 6.2*節：自然對數函數",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "若 $f(x) = \\ln(\\sqrt{x^20 + 1})$，求 $f'(x)$。",
+      "options": [
+        "$\\frac{1}{2(x^20 + 1)}$",
+        "$\\frac{x^20}{x^20 + 1}$",
+        "$\\frac{20}{x}$",
+        "$\\frac{20x^19}{2(x^20 + 1)}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "將對數式化簡：$f(x) = \\frac{1}{2} \\ln(x^20 + 1)$。求導得 $f'(x) = \\frac{1}{2} \\cdot \\frac{1}{x^20 + 1} \\cdot 20x^19 = \\frac{20x^19}{2(x^20 + 1)}$。\n\n---",
+      "chapter": "Ch6 6.2*節：自然對數函數",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "從積分角度出發，自然對數定義為 $\\ln x = \\int_1^x \\frac{1}{t} dt$。求 $\\ln(1)$ 之值。",
+      "options": [
+        "$0$",
+        "$1$",
+        "$e$",
+        "$-1$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "由定義可知，$\\int_1^1 \\frac{1}{t} dt = 0$。\n\n---",
+      "chapter": "Ch6 6.2*節：自然對數函數",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "求函數 $f(x) = \\ln(3x)$ 在 $x=3$ 的切線斜率。",
+      "options": [],
+      "answer": "0.33",
+      "type": "fill",
+      "solution": "求導：$f'(x) = \\frac{1}{x}$。代入 $x=3 \\implies \\frac{1}{3} = 0.33$。\n\n---",
+      "chapter": "Ch6 6.2*節：自然對數函數",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "求函數 $f(x) = \\ln(4x)$ 在 $x=3$ 的切線斜率。",
+      "options": [],
+      "answer": "0.33",
+      "type": "fill",
+      "solution": "求導：$f'(x) = \\frac{1}{x}$。代入 $x=3 \\implies \\frac{1}{3} = 0.33$。\n\n---",
+      "chapter": "Ch6 6.2*節：自然對數函數",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "求函數 $f(x) = \\ln(5x)$ 在 $x=3$ 的切線斜率。",
+      "options": [],
+      "answer": "0.33",
+      "type": "fill",
+      "solution": "求導：$f'(x) = \\frac{1}{x}$。代入 $x=3 \\implies \\frac{1}{3} = 0.33$。\n\n---",
+      "chapter": "Ch6 6.2*節：自然對數函數",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "求函數 $f(x) = \\ln(6x)$ 在 $x=3$ 的切線斜率。",
+      "options": [],
+      "answer": "0.33",
+      "type": "fill",
+      "solution": "求導：$f'(x) = \\frac{1}{x}$。代入 $x=3 \\implies \\frac{1}{3} = 0.33$。\n\n---",
+      "chapter": "Ch6 6.2*節：自然對數函數",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "求函數 $f(x) = \\ln(7x)$ 在 $x=3$ 的切線斜率。",
+      "options": [],
+      "answer": "0.33",
+      "type": "fill",
+      "solution": "求導：$f'(x) = \\frac{1}{x}$。代入 $x=3 \\implies \\frac{1}{3} = 0.33$。\n\n---",
+      "chapter": "Ch6 6.2*節：自然對數函數",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "求函數 $f(x) = \\ln(8x)$ 在 $x=3$ 的切線斜率。",
+      "options": [],
+      "answer": "0.33",
+      "type": "fill",
+      "solution": "求導：$f'(x) = \\frac{1}{x}$。代入 $x=3 \\implies \\frac{1}{3} = 0.33$。\n\n---",
+      "chapter": "Ch6 6.2*節：自然對數函數",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "求函數 $f(x) = \\ln(9x)$ 在 $x=3$ 的切線斜率。",
+      "options": [],
+      "answer": "0.33",
+      "type": "fill",
+      "solution": "求導：$f'(x) = \\frac{1}{x}$。代入 $x=3 \\implies \\frac{1}{3} = 0.33$。\n\n---",
+      "chapter": "Ch6 6.2*節：自然對數函數",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "求函數 $f(x) = \\ln(10x)$ 在 $x=3$ 的切線斜率。",
+      "options": [],
+      "answer": "0.33",
+      "type": "fill",
+      "solution": "求導：$f'(x) = \\frac{1}{x}$。代入 $x=3 \\implies \\frac{1}{3} = 0.33$。\n\n---",
+      "chapter": "Ch6 6.2*節：自然對數函數",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "求函數 $f(x) = \\ln(11x)$ 在 $x=3$ 的切線斜率。",
+      "options": [],
+      "answer": "0.33",
+      "type": "fill",
+      "solution": "求導：$f'(x) = \\frac{1}{x}$。代入 $x=3 \\implies \\frac{1}{3} = 0.33$。\n\n---",
+      "chapter": "Ch6 6.2*節：自然對數函數",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "求函數 $f(x) = \\ln(12x)$ 在 $x=3$ 的切線斜率。",
+      "options": [],
+      "answer": "0.33",
+      "type": "fill",
+      "solution": "求導：$f'(x) = \\frac{1}{x}$。代入 $x=3 \\implies \\frac{1}{3} = 0.33$。",
+      "chapter": "Ch6 6.2*節：自然對數函數",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "化簡 $\\ln(2e)$ 的值。",
+      "options": [
+        "$1$",
+        "$\\ln 2$",
+        "$\\ln 2 + 1$",
+        "$2$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "利用對數律：$\\ln(2e) = \\ln 2 + \\ln e = \\ln 2 + 1$。\n\n---",
+      "chapter": "Ch6 6.3節：對數函數",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "求對數方程式 $\\ln(x + 3) = 1$ 的解。",
+      "options": [
+        "$e - 3$",
+        "$e + 3$",
+        "$e^3$",
+        "$1 - 3$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "將對數形式轉換為指數形式：$x + 3 = e^1 \\implies x = e - 3$。\n\n---",
+      "chapter": "Ch6 6.3節：對數函數",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "化簡 $\\ln(4e)$ 的值。",
+      "options": [
+        "$4$",
+        "$\\ln 4$",
+        "$1$",
+        "$\\ln 4 + 1$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "利用對數律：$\\ln(4e) = \\ln 4 + \\ln e = \\ln 4 + 1$。\n\n---",
+      "chapter": "Ch6 6.3節：對數函數",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "求對數方程式 $\\ln(x + 5) = 1$ 的解。",
+      "options": [
+        "$e + 5$",
+        "$e - 5$",
+        "$e^5$",
+        "$1 - 5$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "將對數形式轉換為指數形式：$x + 5 = e^1 \\implies x = e - 5$。\n\n---",
+      "chapter": "Ch6 6.3節：對數函數",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "化簡 $\\ln(6e)$ 的值。",
+      "options": [
+        "$1$",
+        "$\\ln 6$",
+        "$\\ln 6 + 1$",
+        "$6$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "利用對數律：$\\ln(6e) = \\ln 6 + \\ln e = \\ln 6 + 1$。\n\n---",
+      "chapter": "Ch6 6.3節：對數函數",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "求對數方程式 $\\ln(x + 7) = 1$ 的解。",
+      "options": [
+        "$e - 7$",
+        "$e + 7$",
+        "$e^7$",
+        "$1 - 7$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "將對數形式轉換為指數形式：$x + 7 = e^1 \\implies x = e - 7$。\n\n---",
+      "chapter": "Ch6 6.3節：對數函數",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "化簡 $\\ln(8e)$ 的值。",
+      "options": [
+        "$8$",
+        "$\\ln 8$",
+        "$1$",
+        "$\\ln 8 + 1$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "利用對數律：$\\ln(8e) = \\ln 8 + \\ln e = \\ln 8 + 1$。\n\n---",
+      "chapter": "Ch6 6.3節：對數函數",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "求對數方程式 $\\ln(x + 9) = 1$ 的解。",
+      "options": [
+        "$e + 9$",
+        "$e - 9$",
+        "$e^9$",
+        "$1 - 9$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "將對數形式轉換為指數形式：$x + 9 = e^1 \\implies x = e - 9$。\n\n---",
+      "chapter": "Ch6 6.3節：對數函數",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "化簡 $\\ln(10e)$ 的值。",
+      "options": [
+        "$1$",
+        "$\\ln 10$",
+        "$\\ln 10 + 1$",
+        "$10$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "利用對數律：$\\ln(10e) = \\ln 10 + \\ln e = \\ln 10 + 1$。\n\n---",
+      "chapter": "Ch6 6.3節：對數函數",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "求對數方程式 $\\ln(x + 11) = 1$ 的解。",
+      "options": [
+        "$e - 11$",
+        "$e + 11$",
+        "$e^11$",
+        "$1 - 11$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "將對數形式轉換為指數形式：$x + 11 = e^1 \\implies x = e - 11$。\n\n---",
+      "chapter": "Ch6 6.3節：對數函數",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "化簡 $\\ln(12e)$ 的值。",
+      "options": [
+        "$12$",
+        "$\\ln 12$",
+        "$1$",
+        "$\\ln 12 + 1$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "利用對數律：$\\ln(12e) = \\ln 12 + \\ln e = \\ln 12 + 1$。\n\n---",
+      "chapter": "Ch6 6.3節：對數函數",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "求對數方程式 $\\ln(x + 13) = 1$ 的解。",
+      "options": [
+        "$e + 13$",
+        "$e - 13$",
+        "$e^13$",
+        "$1 - 13$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "將對數形式轉換為指數形式：$x + 13 = e^1 \\implies x = e - 13$。\n\n---",
+      "chapter": "Ch6 6.3節：對數函數",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "化簡 $\\ln(14e)$ 的值。",
+      "options": [
+        "$1$",
+        "$\\ln 14$",
+        "$\\ln 14 + 1$",
+        "$14$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "利用對數律：$\\ln(14e) = \\ln 14 + \\ln e = \\ln 14 + 1$。\n\n---",
+      "chapter": "Ch6 6.3節：對數函數",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "求對數方程式 $\\ln(x + 15) = 1$ 的解。",
+      "options": [
+        "$e - 15$",
+        "$e + 15$",
+        "$e^15$",
+        "$1 - 15$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "將對數形式轉換為指數形式：$x + 15 = e^1 \\implies x = e - 15$。\n\n---",
+      "chapter": "Ch6 6.3節：對數函數",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "化簡 $\\ln(16e)$ 的值。",
+      "options": [
+        "$16$",
+        "$\\ln 16$",
+        "$1$",
+        "$\\ln 16 + 1$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "利用對數律：$\\ln(16e) = \\ln 16 + \\ln e = \\ln 16 + 1$。\n\n---",
+      "chapter": "Ch6 6.3節：對數函數",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "求對數方程式 $\\ln(x + 17) = 1$ 的解。",
+      "options": [
+        "$e + 17$",
+        "$e - 17$",
+        "$e^17$",
+        "$1 - 17$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "將對數形式轉換為指數形式：$x + 17 = e^1 \\implies x = e - 17$。\n\n---",
+      "chapter": "Ch6 6.3節：對數函數",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "化簡 $\\ln(18e)$ 的值。",
+      "options": [
+        "$1$",
+        "$\\ln 18$",
+        "$\\ln 18 + 1$",
+        "$18$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "利用對數律：$\\ln(18e) = \\ln 18 + \\ln e = \\ln 18 + 1$。\n\n---",
+      "chapter": "Ch6 6.3節：對數函數",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "求對數方程式 $\\ln(x + 19) = 1$ 的解。",
+      "options": [
+        "$e - 19$",
+        "$e + 19$",
+        "$e^19$",
+        "$1 - 19$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "將對數形式轉換為指數形式：$x + 19 = e^1 \\implies x = e - 19$。\n\n---",
+      "chapter": "Ch6 6.3節：對數函數",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "化簡 $\\ln(20e)$ 的值。",
+      "options": [
+        "$20$",
+        "$\\ln 20$",
+        "$1$",
+        "$\\ln 20 + 1$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "利用對數律：$\\ln(20e) = \\ln 20 + \\ln e = \\ln 20 + 1$。\n\n---",
+      "chapter": "Ch6 6.3節：對數函數",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "求對數方程式 $\\ln(x + 21) = 1$ 的解。",
+      "options": [
+        "$e + 21$",
+        "$e - 21$",
+        "$e^21$",
+        "$1 - 21$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "將對數形式轉換為指數形式：$x + 21 = e^1 \\implies x = e - 21$。\n\n---",
+      "chapter": "Ch6 6.3節：對數函數",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "求方程式 $\\ln(x) + \\ln(2) = \\ln(3)$ 中 $x$ 的解。",
+      "options": [],
+      "answer": "1.5",
+      "type": "fill",
+      "solution": "利用對數律 $\\ln(2x) = \\ln(3) \\implies 2x = 3 \\implies x = \\frac{3}{2}$。結果為 1.5。\n\n---",
+      "chapter": "Ch6 6.3節：對數函數",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "求方程式 $\\ln(x) + \\ln(2) = \\ln(4)$ 中 $x$ 的解。",
+      "options": [],
+      "answer": "2.0",
+      "type": "fill",
+      "solution": "利用對數律 $\\ln(2x) = \\ln(4) \\implies 2x = 4 \\implies x = \\frac{4}{2}$。結果為 2.0。\n\n---",
+      "chapter": "Ch6 6.3節：對數函數",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "求方程式 $\\ln(x) + \\ln(2) = \\ln(5)$ 中 $x$ 的解。",
+      "options": [],
+      "answer": "2.5",
+      "type": "fill",
+      "solution": "利用對數律 $\\ln(2x) = \\ln(5) \\implies 2x = 5 \\implies x = \\frac{5}{2}$。結果為 2.5。\n\n---",
+      "chapter": "Ch6 6.3節：對數函數",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "求方程式 $\\ln(x) + \\ln(2) = \\ln(6)$ 中 $x$ 的解。",
+      "options": [],
+      "answer": "3.0",
+      "type": "fill",
+      "solution": "利用對數律 $\\ln(2x) = \\ln(6) \\implies 2x = 6 \\implies x = \\frac{6}{2}$。結果為 3.0。\n\n---",
+      "chapter": "Ch6 6.3節：對數函數",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "求方程式 $\\ln(x) + \\ln(2) = \\ln(7)$ 中 $x$ 的解。",
+      "options": [],
+      "answer": "3.5",
+      "type": "fill",
+      "solution": "利用對數律 $\\ln(2x) = \\ln(7) \\implies 2x = 7 \\implies x = \\frac{7}{2}$。結果為 3.5。\n\n---",
+      "chapter": "Ch6 6.3節：對數函數",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "求方程式 $\\ln(x) + \\ln(2) = \\ln(8)$ 中 $x$ 的解。",
+      "options": [],
+      "answer": "4.0",
+      "type": "fill",
+      "solution": "利用對數律 $\\ln(2x) = \\ln(8) \\implies 2x = 8 \\implies x = \\frac{8}{2}$。結果為 4.0。\n\n---",
+      "chapter": "Ch6 6.3節：對數函數",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "求方程式 $\\ln(x) + \\ln(2) = \\ln(9)$ 中 $x$ 的解。",
+      "options": [],
+      "answer": "4.5",
+      "type": "fill",
+      "solution": "利用對數律 $\\ln(2x) = \\ln(9) \\implies 2x = 9 \\implies x = \\frac{9}{2}$。結果為 4.5。\n\n---",
+      "chapter": "Ch6 6.3節：對數函數",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "求方程式 $\\ln(x) + \\ln(2) = \\ln(10)$ 中 $x$ 的解。",
+      "options": [],
+      "answer": "5.0",
+      "type": "fill",
+      "solution": "利用對數律 $\\ln(2x) = \\ln(10) \\implies 2x = 10 \\implies x = \\frac{10}{2}$。結果為 5.0。\n\n---",
+      "chapter": "Ch6 6.3節：對數函數",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "求方程式 $\\ln(x) + \\ln(2) = \\ln(11)$ 中 $x$ 的解。",
+      "options": [],
+      "answer": "5.5",
+      "type": "fill",
+      "solution": "利用對數律 $\\ln(2x) = \\ln(11) \\implies 2x = 11 \\implies x = \\frac{11}{2}$。結果為 5.5。\n\n---",
+      "chapter": "Ch6 6.3節：對數函數",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "求方程式 $\\ln(x) + \\ln(2) = \\ln(12)$ 中 $x$ 的解。",
+      "options": [],
+      "answer": "6.0",
+      "type": "fill",
+      "solution": "利用對數律 $\\ln(2x) = \\ln(12) \\implies 2x = 12 \\implies x = \\frac{12}{2}$。結果為 6.0。",
+      "chapter": "Ch6 6.3節：對數函數",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "求 $\\int e^{x + 2} dx$ 的結果。",
+      "options": [
+        "$e^{x + 2} + C$",
+        "$e^x + C$",
+        "$\\frac{1}{2}e^{x + 2} + C$",
+        "$x e^{x + 2} + C$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "利用代換法或直接對常數項積分：$\\int e^{x + 2} dx = e^{x + 2} + C$。\n\n---",
+      "chapter": "Ch6 6.3*節：自然指數函數",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "設自然對數之反函數為自然指數函數 $\\exp(x) = e^x$。求 $\\lim_{x \\to 0} \\frac{e^{3x} - 1}{x}$。",
+      "options": [
+        "$0$",
+        "$1$",
+        "$3$",
+        "$e$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "利用洛必達法則或導數定義，$\\lim_{x \\to 0} \\frac{e^{3x} - 1}{x} = \\frac{d}{dx}[e^{3x}]|_{x=0} = 3 e^{0} = 3$。\n\n---",
+      "chapter": "Ch6 6.3*節：自然指數函數",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "求 $\\int e^{x + 4} dx$ 的結果。",
+      "options": [
+        "$e^x + C$",
+        "$e^{x + 4} + C$",
+        "$\\frac{1}{4}e^{x + 4} + C$",
+        "$x e^{x + 4} + C$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "利用代換法或直接對常數項積分：$\\int e^{x + 4} dx = e^{x + 4} + C$。\n\n---",
+      "chapter": "Ch6 6.3*節：自然指數函數",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "設自然對數之反函數為自然指數函數 $\\exp(x) = e^x$。求 $\\lim_{x \\to 0} \\frac{e^{5x} - 1}{x}$。",
+      "options": [
+        "$e$",
+        "$1$",
+        "$0$",
+        "$5$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "利用洛必達法則或導數定義，$\\lim_{x \\to 0} \\frac{e^{5x} - 1}{x} = \\frac{d}{dx}[e^{5x}]|_{x=0} = 5 e^{0} = 5$。\n\n---",
+      "chapter": "Ch6 6.3*節：自然指數函數",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "求 $\\int e^{x + 6} dx$ 的結果。",
+      "options": [
+        "$e^{x + 6} + C$",
+        "$e^x + C$",
+        "$\\frac{1}{6}e^{x + 6} + C$",
+        "$x e^{x + 6} + C$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "利用代換法或直接對常數項積分：$\\int e^{x + 6} dx = e^{x + 6} + C$。\n\n---",
+      "chapter": "Ch6 6.3*節：自然指數函數",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "設自然對數之反函數為自然指數函數 $\\exp(x) = e^x$。求 $\\lim_{x \\to 0} \\frac{e^{7x} - 1}{x}$。",
+      "options": [
+        "$0$",
+        "$1$",
+        "$7$",
+        "$e$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "利用洛必達法則或導數定義，$\\lim_{x \\to 0} \\frac{e^{7x} - 1}{x} = \\frac{d}{dx}[e^{7x}]|_{x=0} = 7 e^{0} = 7$。\n\n---",
+      "chapter": "Ch6 6.3*節：自然指數函數",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "求 $\\int e^{x + 8} dx$ 的結果。",
+      "options": [
+        "$e^x + C$",
+        "$e^{x + 8} + C$",
+        "$\\frac{1}{8}e^{x + 8} + C$",
+        "$x e^{x + 8} + C$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "利用代換法或直接對常數項積分：$\\int e^{x + 8} dx = e^{x + 8} + C$。\n\n---",
+      "chapter": "Ch6 6.3*節：自然指數函數",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "設自然對數之反函數為自然指數函數 $\\exp(x) = e^x$。求 $\\lim_{x \\to 0} \\frac{e^{9x} - 1}{x}$。",
+      "options": [
+        "$e$",
+        "$1$",
+        "$0$",
+        "$9$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "利用洛必達法則或導數定義，$\\lim_{x \\to 0} \\frac{e^{9x} - 1}{x} = \\frac{d}{dx}[e^{9x}]|_{x=0} = 9 e^{0} = 9$。\n\n---",
+      "chapter": "Ch6 6.3*節：自然指數函數",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "求 $\\int e^{x + 10} dx$ 的結果。",
+      "options": [
+        "$e^{x + 10} + C$",
+        "$e^x + C$",
+        "$\\frac{1}{10}e^{x + 10} + C$",
+        "$x e^{x + 10} + C$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "利用代換法或直接對常數項積分：$\\int e^{x + 10} dx = e^{x + 10} + C$。\n\n---",
+      "chapter": "Ch6 6.3*節：自然指數函數",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "設自然對數之反函數為自然指數函數 $\\exp(x) = e^x$。求 $\\lim_{x \\to 0} \\frac{e^{11x} - 1}{x}$。",
+      "options": [
+        "$0$",
+        "$1$",
+        "$11$",
+        "$e$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "利用洛必達法則或導數定義，$\\lim_{x \\to 0} \\frac{e^{11x} - 1}{x} = \\frac{d}{dx}[e^{11x}]|_{x=0} = 11 e^{0} = 11$。\n\n---",
+      "chapter": "Ch6 6.3*節：自然指數函數",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "求 $\\int e^{x + 12} dx$ 的結果。",
+      "options": [
+        "$e^x + C$",
+        "$e^{x + 12} + C$",
+        "$\\frac{1}{12}e^{x + 12} + C$",
+        "$x e^{x + 12} + C$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "利用代換法或直接對常數項積分：$\\int e^{x + 12} dx = e^{x + 12} + C$。\n\n---",
+      "chapter": "Ch6 6.3*節：自然指數函數",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "設自然對數之反函數為自然指數函數 $\\exp(x) = e^x$。求 $\\lim_{x \\to 0} \\frac{e^{13x} - 1}{x}$。",
+      "options": [
+        "$e$",
+        "$1$",
+        "$0$",
+        "$13$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "利用洛必達法則或導數定義，$\\lim_{x \\to 0} \\frac{e^{13x} - 1}{x} = \\frac{d}{dx}[e^{13x}]|_{x=0} = 13 e^{0} = 13$。\n\n---",
+      "chapter": "Ch6 6.3*節：自然指數函數",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "求 $\\int e^{x + 14} dx$ 的結果。",
+      "options": [
+        "$e^{x + 14} + C$",
+        "$e^x + C$",
+        "$\\frac{1}{14}e^{x + 14} + C$",
+        "$x e^{x + 14} + C$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "利用代換法或直接對常數項積分：$\\int e^{x + 14} dx = e^{x + 14} + C$。\n\n---",
+      "chapter": "Ch6 6.3*節：自然指數函數",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "設自然對數之反函數為自然指數函數 $\\exp(x) = e^x$。求 $\\lim_{x \\to 0} \\frac{e^{15x} - 1}{x}$。",
+      "options": [
+        "$0$",
+        "$1$",
+        "$15$",
+        "$e$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "利用洛必達法則或導數定義，$\\lim_{x \\to 0} \\frac{e^{15x} - 1}{x} = \\frac{d}{dx}[e^{15x}]|_{x=0} = 15 e^{0} = 15$。\n\n---",
+      "chapter": "Ch6 6.3*節：自然指數函數",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "求 $\\int e^{x + 16} dx$ 的結果。",
+      "options": [
+        "$e^x + C$",
+        "$e^{x + 16} + C$",
+        "$\\frac{1}{16}e^{x + 16} + C$",
+        "$x e^{x + 16} + C$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "利用代換法或直接對常數項積分：$\\int e^{x + 16} dx = e^{x + 16} + C$。\n\n---",
+      "chapter": "Ch6 6.3*節：自然指數函數",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "設自然對數之反函數為自然指數函數 $\\exp(x) = e^x$。求 $\\lim_{x \\to 0} \\frac{e^{17x} - 1}{x}$。",
+      "options": [
+        "$e$",
+        "$1$",
+        "$0$",
+        "$17$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "利用洛必達法則或導數定義，$\\lim_{x \\to 0} \\frac{e^{17x} - 1}{x} = \\frac{d}{dx}[e^{17x}]|_{x=0} = 17 e^{0} = 17$。\n\n---",
+      "chapter": "Ch6 6.3*節：自然指數函數",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "求 $\\int e^{x + 18} dx$ 的結果。",
+      "options": [
+        "$e^{x + 18} + C$",
+        "$e^x + C$",
+        "$\\frac{1}{18}e^{x + 18} + C$",
+        "$x e^{x + 18} + C$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "利用代換法或直接對常數項積分：$\\int e^{x + 18} dx = e^{x + 18} + C$。\n\n---",
+      "chapter": "Ch6 6.3*節：自然指數函數",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "設自然對數之反函數為自然指數函數 $\\exp(x) = e^x$。求 $\\lim_{x \\to 0} \\frac{e^{19x} - 1}{x}$。",
+      "options": [
+        "$0$",
+        "$1$",
+        "$19$",
+        "$e$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "利用洛必達法則或導數定義，$\\lim_{x \\to 0} \\frac{e^{19x} - 1}{x} = \\frac{d}{dx}[e^{19x}]|_{x=0} = 19 e^{0} = 19$。\n\n---",
+      "chapter": "Ch6 6.3*節：自然指數函數",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "求 $\\int e^{x + 20} dx$ 的結果。",
+      "options": [
+        "$e^x + C$",
+        "$e^{x + 20} + C$",
+        "$\\frac{1}{20}e^{x + 20} + C$",
+        "$x e^{x + 20} + C$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "利用代換法或直接對常數項積分：$\\int e^{x + 20} dx = e^{x + 20} + C$。\n\n---",
+      "chapter": "Ch6 6.3*節：自然指數函數",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "設自然對數之反函數為自然指數函數 $\\exp(x) = e^x$。求 $\\lim_{x \\to 0} \\frac{e^{21x} - 1}{x}$。",
+      "options": [
+        "$e$",
+        "$1$",
+        "$0$",
+        "$21$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "利用洛必達法則或導數定義，$\\lim_{x \\to 0} \\frac{e^{21x} - 1}{x} = \\frac{d}{dx}[e^{21x}]|_{x=0} = 21 e^{0} = 21$。\n\n---",
+      "chapter": "Ch6 6.3*節：自然指數函數",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "求方程式 $e^{3x} = 1$ 的實數解。",
+      "options": [],
+      "answer": "0",
+      "type": "fill",
+      "solution": "兩邊取 $\\ln \\implies 3x = \\ln 1 = 0 \\implies x = 0$。\n\n---",
+      "chapter": "Ch6 6.3*節：自然指數函數",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "求方程式 $e^{4x} = 1$ 的實數解。",
+      "options": [],
+      "answer": "0",
+      "type": "fill",
+      "solution": "兩邊取 $\\ln \\implies 4x = \\ln 1 = 0 \\implies x = 0$。\n\n---",
+      "chapter": "Ch6 6.3*節：自然指數函數",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "求方程式 $e^{5x} = 1$ 的實數解。",
+      "options": [],
+      "answer": "0",
+      "type": "fill",
+      "solution": "兩邊取 $\\ln \\implies 5x = \\ln 1 = 0 \\implies x = 0$。\n\n---",
+      "chapter": "Ch6 6.3*節：自然指數函數",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "求方程式 $e^{6x} = 1$ 的實數解。",
+      "options": [],
+      "answer": "0",
+      "type": "fill",
+      "solution": "兩邊取 $\\ln \\implies 6x = \\ln 1 = 0 \\implies x = 0$。\n\n---",
+      "chapter": "Ch6 6.3*節：自然指數函數",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "求方程式 $e^{7x} = 1$ 的實數解。",
+      "options": [],
+      "answer": "0",
+      "type": "fill",
+      "solution": "兩邊取 $\\ln \\implies 7x = \\ln 1 = 0 \\implies x = 0$。\n\n---",
+      "chapter": "Ch6 6.3*節：自然指數函數",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "求方程式 $e^{8x} = 1$ 的實數解。",
+      "options": [],
+      "answer": "0",
+      "type": "fill",
+      "solution": "兩邊取 $\\ln \\implies 8x = \\ln 1 = 0 \\implies x = 0$。\n\n---",
+      "chapter": "Ch6 6.3*節：自然指數函數",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "求方程式 $e^{9x} = 1$ 的實數解。",
+      "options": [],
+      "answer": "0",
+      "type": "fill",
+      "solution": "兩邊取 $\\ln \\implies 9x = \\ln 1 = 0 \\implies x = 0$。\n\n---",
+      "chapter": "Ch6 6.3*節：自然指數函數",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "求方程式 $e^{10x} = 1$ 的實數解。",
+      "options": [],
+      "answer": "0",
+      "type": "fill",
+      "solution": "兩邊取 $\\ln \\implies 10x = \\ln 1 = 0 \\implies x = 0$。\n\n---",
+      "chapter": "Ch6 6.3*節：自然指數函數",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "求方程式 $e^{11x} = 1$ 的實數解。",
+      "options": [],
+      "answer": "0",
+      "type": "fill",
+      "solution": "兩邊取 $\\ln \\implies 11x = \\ln 1 = 0 \\implies x = 0$。\n\n---",
+      "chapter": "Ch6 6.3*節：自然指數函數",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "求方程式 $e^{12x} = 1$ 的實數解。",
+      "options": [],
+      "answer": "0",
+      "type": "fill",
+      "solution": "兩邊取 $\\ln \\implies 12x = \\ln 1 = 0 \\implies x = 0$。",
+      "chapter": "Ch6 6.3*節：自然指數函數",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "求函數 $y = x \\ln x - 3x$ 的導數。",
+      "options": [
+        "$\\ln x - 3$",
+        "$\\ln x - 4$",
+        "$\\ln x - 2$",
+        "$\\frac{1}{x}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "利用乘積律對第一項求導：$\\frac{d}{dx} (x \\ln x) = 1 \\cdot \\ln x + x \\cdot \\frac{1}{x} = \\ln x + 1$。對第二項求導：$-3$。合併得 $\\ln x + 1 - 3 = \\ln x - 2$。\n\n---",
+      "chapter": "Ch6 6.4節：對數函數的導數",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "求函數 $y = \\ln(4x^2)$ 的一階導數 $\\frac{dy}{dx}$。",
+      "options": [
+        "$\\frac{4}{x}$",
+        "$\\frac{2}{x}$",
+        "$\\frac{1}{4x}$",
+        "$\\frac{2}{4x}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "利用鏈鎖律：$\\frac{d}{dx} \\ln(4x^2) = \\frac{1}{4x^2} \\cdot (24x) = \\frac{2a x}{a x^2} = \\frac{2}{x}$。\n\n---",
+      "chapter": "Ch6 6.4節：對數函數的導數",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "求函數 $y = x \\ln x - 5x$ 的導數。",
+      "options": [
+        "$\\frac{1}{x}$",
+        "$\\ln x - 6$",
+        "$\\ln x - 5$",
+        "$\\ln x - 4$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "利用乘積律對第一項求導：$\\frac{d}{dx} (x \\ln x) = 1 \\cdot \\ln x + x \\cdot \\frac{1}{x} = \\ln x + 1$。對第二項求導：$-5$。合併得 $\\ln x + 1 - 5 = \\ln x - 4$。\n\n---",
+      "chapter": "Ch6 6.4節：對數函數的導數",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "求函數 $y = \\ln(6x^2)$ 的一階導數 $\\frac{dy}{dx}$。",
+      "options": [
+        "$\\frac{2}{x}$",
+        "$\\frac{6}{x}$",
+        "$\\frac{1}{6x}$",
+        "$\\frac{2}{6x}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "利用鏈鎖律：$\\frac{d}{dx} \\ln(6x^2) = \\frac{1}{6x^2} \\cdot (26x) = \\frac{2a x}{a x^2} = \\frac{2}{x}$。\n\n---",
+      "chapter": "Ch6 6.4節：對數函數的導數",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "求函數 $y = x \\ln x - 7x$ 的導數。",
+      "options": [
+        "$\\ln x - 7$",
+        "$\\ln x - 8$",
+        "$\\ln x - 6$",
+        "$\\frac{1}{x}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "利用乘積律對第一項求導：$\\frac{d}{dx} (x \\ln x) = 1 \\cdot \\ln x + x \\cdot \\frac{1}{x} = \\ln x + 1$。對第二項求導：$-7$。合併得 $\\ln x + 1 - 7 = \\ln x - 6$。\n\n---",
+      "chapter": "Ch6 6.4節：對數函數的導數",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "求函數 $y = \\ln(8x^2)$ 的一階導數 $\\frac{dy}{dx}$。",
+      "options": [
+        "$\\frac{8}{x}$",
+        "$\\frac{2}{x}$",
+        "$\\frac{1}{8x}$",
+        "$\\frac{2}{8x}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "利用鏈鎖律：$\\frac{d}{dx} \\ln(8x^2) = \\frac{1}{8x^2} \\cdot (28x) = \\frac{2a x}{a x^2} = \\frac{2}{x}$。\n\n---",
+      "chapter": "Ch6 6.4節：對數函數的導數",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "求函數 $y = x \\ln x - 9x$ 的導數。",
+      "options": [
+        "$\\frac{1}{x}$",
+        "$\\ln x - 10$",
+        "$\\ln x - 9$",
+        "$\\ln x - 8$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "利用乘積律對第一項求導：$\\frac{d}{dx} (x \\ln x) = 1 \\cdot \\ln x + x \\cdot \\frac{1}{x} = \\ln x + 1$。對第二項求導：$-9$。合併得 $\\ln x + 1 - 9 = \\ln x - 8$。\n\n---",
+      "chapter": "Ch6 6.4節：對數函數的導數",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "求函數 $y = \\ln(10x^2)$ 的一階導數 $\\frac{dy}{dx}$。",
+      "options": [
+        "$\\frac{2}{x}$",
+        "$\\frac{10}{x}$",
+        "$\\frac{1}{10x}$",
+        "$\\frac{2}{10x}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "利用鏈鎖律：$\\frac{d}{dx} \\ln(10x^2) = \\frac{1}{10x^2} \\cdot (210x) = \\frac{2a x}{a x^2} = \\frac{2}{x}$。\n\n---",
+      "chapter": "Ch6 6.4節：對數函數的導數",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "求函數 $y = x \\ln x - 11x$ 的導數。",
+      "options": [
+        "$\\ln x - 11$",
+        "$\\ln x - 12$",
+        "$\\ln x - 10$",
+        "$\\frac{1}{x}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "利用乘積律對第一項求導：$\\frac{d}{dx} (x \\ln x) = 1 \\cdot \\ln x + x \\cdot \\frac{1}{x} = \\ln x + 1$。對第二項求導：$-11$。合併得 $\\ln x + 1 - 11 = \\ln x - 10$。\n\n---",
+      "chapter": "Ch6 6.4節：對數函數的導數",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "求函數 $y = \\ln(12x^2)$ 的一階導數 $\\frac{dy}{dx}$。",
+      "options": [
+        "$\\frac{12}{x}$",
+        "$\\frac{2}{x}$",
+        "$\\frac{1}{12x}$",
+        "$\\frac{2}{12x}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "利用鏈鎖律：$\\frac{d}{dx} \\ln(12x^2) = \\frac{1}{12x^2} \\cdot (212x) = \\frac{2a x}{a x^2} = \\frac{2}{x}$。\n\n---",
+      "chapter": "Ch6 6.4節：對數函數的導數",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "求函數 $y = x \\ln x - 13x$ 的導數。",
+      "options": [
+        "$\\frac{1}{x}$",
+        "$\\ln x - 14$",
+        "$\\ln x - 13$",
+        "$\\ln x - 12$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "利用乘積律對第一項求導：$\\frac{d}{dx} (x \\ln x) = 1 \\cdot \\ln x + x \\cdot \\frac{1}{x} = \\ln x + 1$。對第二項求導：$-13$。合併得 $\\ln x + 1 - 13 = \\ln x - 12$。\n\n---",
+      "chapter": "Ch6 6.4節：對數函數的導數",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "求函數 $y = \\ln(14x^2)$ 的一階導數 $\\frac{dy}{dx}$。",
+      "options": [
+        "$\\frac{2}{x}$",
+        "$\\frac{14}{x}$",
+        "$\\frac{1}{14x}$",
+        "$\\frac{2}{14x}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "利用鏈鎖律：$\\frac{d}{dx} \\ln(14x^2) = \\frac{1}{14x^2} \\cdot (214x) = \\frac{2a x}{a x^2} = \\frac{2}{x}$。\n\n---",
+      "chapter": "Ch6 6.4節：對數函數的導數",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "求函數 $y = x \\ln x - 15x$ 的導數。",
+      "options": [
+        "$\\ln x - 15$",
+        "$\\ln x - 16$",
+        "$\\ln x - 14$",
+        "$\\frac{1}{x}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "利用乘積律對第一項求導：$\\frac{d}{dx} (x \\ln x) = 1 \\cdot \\ln x + x \\cdot \\frac{1}{x} = \\ln x + 1$。對第二項求導：$-15$。合併得 $\\ln x + 1 - 15 = \\ln x - 14$。\n\n---",
+      "chapter": "Ch6 6.4節：對數函數的導數",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "求函數 $y = \\ln(16x^2)$ 的一階導數 $\\frac{dy}{dx}$。",
+      "options": [
+        "$\\frac{16}{x}$",
+        "$\\frac{2}{x}$",
+        "$\\frac{1}{16x}$",
+        "$\\frac{2}{16x}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "利用鏈鎖律：$\\frac{d}{dx} \\ln(16x^2) = \\frac{1}{16x^2} \\cdot (216x) = \\frac{2a x}{a x^2} = \\frac{2}{x}$。\n\n---",
+      "chapter": "Ch6 6.4節：對數函數的導數",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "求函數 $y = x \\ln x - 17x$ 的導數。",
+      "options": [
+        "$\\frac{1}{x}$",
+        "$\\ln x - 18$",
+        "$\\ln x - 17$",
+        "$\\ln x - 16$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "利用乘積律對第一項求導：$\\frac{d}{dx} (x \\ln x) = 1 \\cdot \\ln x + x \\cdot \\frac{1}{x} = \\ln x + 1$。對第二項求導：$-17$。合併得 $\\ln x + 1 - 17 = \\ln x - 16$。\n\n---",
+      "chapter": "Ch6 6.4節：對數函數的導數",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "求函數 $y = \\ln(18x^2)$ 的一階導數 $\\frac{dy}{dx}$。",
+      "options": [
+        "$\\frac{2}{x}$",
+        "$\\frac{18}{x}$",
+        "$\\frac{1}{18x}$",
+        "$\\frac{2}{18x}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "利用鏈鎖律：$\\frac{d}{dx} \\ln(18x^2) = \\frac{1}{18x^2} \\cdot (218x) = \\frac{2a x}{a x^2} = \\frac{2}{x}$。\n\n---",
+      "chapter": "Ch6 6.4節：對數函數的導數",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "求函數 $y = x \\ln x - 19x$ 的導數。",
+      "options": [
+        "$\\ln x - 19$",
+        "$\\ln x - 20$",
+        "$\\ln x - 18$",
+        "$\\frac{1}{x}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "利用乘積律對第一項求導：$\\frac{d}{dx} (x \\ln x) = 1 \\cdot \\ln x + x \\cdot \\frac{1}{x} = \\ln x + 1$。對第二項求導：$-19$。合併得 $\\ln x + 1 - 19 = \\ln x - 18$。\n\n---",
+      "chapter": "Ch6 6.4節：對數函數的導數",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "求函數 $y = \\ln(20x^2)$ 的一階導數 $\\frac{dy}{dx}$。",
+      "options": [
+        "$\\frac{20}{x}$",
+        "$\\frac{2}{x}$",
+        "$\\frac{1}{20x}$",
+        "$\\frac{2}{20x}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "利用鏈鎖律：$\\frac{d}{dx} \\ln(20x^2) = \\frac{1}{20x^2} \\cdot (220x) = \\frac{2a x}{a x^2} = \\frac{2}{x}$。\n\n---",
+      "chapter": "Ch6 6.4節：對數函數的導數",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "求函數 $y = x \\ln x - 21x$ 的導數。",
+      "options": [
+        "$\\frac{1}{x}$",
+        "$\\ln x - 22$",
+        "$\\ln x - 21$",
+        "$\\ln x - 20$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "利用乘積律對第一項求導：$\\frac{d}{dx} (x \\ln x) = 1 \\cdot \\ln x + x \\cdot \\frac{1}{x} = \\ln x + 1$。對第二項求導：$-21$。合併得 $\\ln x + 1 - 21 = \\ln x - 20$。\n\n---",
+      "chapter": "Ch6 6.4節：對數函數的導數",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "求函數 $y = \\ln(22x^2)$ 的一階導數 $\\frac{dy}{dx}$。",
+      "options": [
+        "$\\frac{2}{x}$",
+        "$\\frac{22}{x}$",
+        "$\\frac{1}{22x}$",
+        "$\\frac{2}{22x}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "利用鏈鎖律：$\\frac{d}{dx} \\ln(22x^2) = \\frac{1}{22x^2} \\cdot (222x) = \\frac{2a x}{a x^2} = \\frac{2}{x}$。\n\n---",
+      "chapter": "Ch6 6.4節：對數函數的導數",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "求 $\\int_1^2 \\frac{4}{x} dx$ 的定積分精確值。",
+      "options": [],
+      "answer": "2.77",
+      "type": "fill",
+      "solution": "積分為 $[4 \\ln x]_1^2 = 4(\\ln 2 - \\ln 1) = 4 \\ln 2$。當 $c=4 \\implies 4 \\times 0.6931 = 2.77$。\n\n---",
+      "chapter": "Ch6 6.4節：對數函數的導數",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "求 $\\int_1^2 \\frac{5}{x} dx$ 的定積分精確值。",
+      "options": [],
+      "answer": "3.47",
+      "type": "fill",
+      "solution": "積分為 $[5 \\ln x]_1^2 = 5(\\ln 2 - \\ln 1) = 5 \\ln 2$。當 $c=5 \\implies 5 \\times 0.6931 = 3.47$。\n\n---",
+      "chapter": "Ch6 6.4節：對數函數的導數",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "求 $\\int_1^2 \\frac{6}{x} dx$ 的定積分精確值。",
+      "options": [],
+      "answer": "4.16",
+      "type": "fill",
+      "solution": "積分為 $[6 \\ln x]_1^2 = 6(\\ln 2 - \\ln 1) = 6 \\ln 2$。當 $c=6 \\implies 6 \\times 0.6931 = 4.16$。\n\n---",
+      "chapter": "Ch6 6.4節：對數函數的導數",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "求 $\\int_1^2 \\frac{7}{x} dx$ 的定積分精確值。",
+      "options": [],
+      "answer": "4.85",
+      "type": "fill",
+      "solution": "積分為 $[7 \\ln x]_1^2 = 7(\\ln 2 - \\ln 1) = 7 \\ln 2$。當 $c=7 \\implies 7 \\times 0.6931 = 4.85$。\n\n---",
+      "chapter": "Ch6 6.4節：對數函數的導數",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "求 $\\int_1^2 \\frac{8}{x} dx$ 的定積分精確值。",
+      "options": [],
+      "answer": "5.54",
+      "type": "fill",
+      "solution": "積分為 $[8 \\ln x]_1^2 = 8(\\ln 2 - \\ln 1) = 8 \\ln 2$。當 $c=8 \\implies 8 \\times 0.6931 = 5.54$。\n\n---",
+      "chapter": "Ch6 6.4節：對數函數的導數",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "求 $\\int_1^2 \\frac{9}{x} dx$ 的定積分精確值。",
+      "options": [],
+      "answer": "6.24",
+      "type": "fill",
+      "solution": "積分為 $[9 \\ln x]_1^2 = 9(\\ln 2 - \\ln 1) = 9 \\ln 2$。當 $c=9 \\implies 9 \\times 0.6931 = 6.24$。\n\n---",
+      "chapter": "Ch6 6.4節：對數函數的導數",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "求 $\\int_1^2 \\frac{10}{x} dx$ 的定積分精確值。",
+      "options": [],
+      "answer": "6.93",
+      "type": "fill",
+      "solution": "積分為 $[10 \\ln x]_1^2 = 10(\\ln 2 - \\ln 1) = 10 \\ln 2$。當 $c=10 \\implies 10 \\times 0.6931 = 6.93$。\n\n---",
+      "chapter": "Ch6 6.4節：對數函數的導數",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "求 $\\int_1^2 \\frac{11}{x} dx$ 的定積分精確值。",
+      "options": [],
+      "answer": "7.62",
+      "type": "fill",
+      "solution": "積分為 $[11 \\ln x]_1^2 = 11(\\ln 2 - \\ln 1) = 11 \\ln 2$。當 $c=11 \\implies 11 \\times 0.6931 = 7.62$。\n\n---",
+      "chapter": "Ch6 6.4節：對數函數的導數",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "求 $\\int_1^2 \\frac{12}{x} dx$ 的定積分精確值。",
+      "options": [],
+      "answer": "8.32",
+      "type": "fill",
+      "solution": "積分為 $[12 \\ln x]_1^2 = 12(\\ln 2 - \\ln 1) = 12 \\ln 2$。當 $c=12 \\implies 12 \\times 0.6931 = 8.32$。\n\n---",
+      "chapter": "Ch6 6.4節：對數函數的導數",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "求 $\\int_1^2 \\frac{13}{x} dx$ 的定積分精確值。",
+      "options": [],
+      "answer": "9.01",
+      "type": "fill",
+      "solution": "積分為 $[13 \\ln x]_1^2 = 13(\\ln 2 - \\ln 1) = 13 \\ln 2$。當 $c=13 \\implies 13 \\times 0.6931 = 9.01$。",
+      "chapter": "Ch6 6.4節：對數函數的導數",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "求對數函數 $f(x) = \\log_{3} x$ 的一階導數 $f'(x)$。",
+      "options": [
+        "$\\frac{1}{x}$",
+        "$\\frac{\\ln 3}{x}$",
+        "$\\frac{1}{x \\ln 3}$",
+        "$\\frac{x}{\\ln 3}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "由換底公式 $\\log_a x = \\frac{\\ln x}{\\ln a}$，求導得 $\\frac{1}{x \\ln a}$。\n\n---",
+      "chapter": "Ch6 6.4*節：一般對數與指數函數",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "求指數函數 $f(x) = 4^x$ 的導數 $f'(x)$。",
+      "options": [
+        "$4^x \\ln 4$",
+        "$4^x$",
+        "$\\frac{4^x}{\\ln 4}$",
+        "$x 4^{x-1}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "一般指數函數求導公式為 $\\frac{d}{dx} a^x = a^x \\ln a$。\n\n---",
+      "chapter": "Ch6 6.4*節：一般對數與指數函數",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "求對數函數 $f(x) = \\log_{5} x$ 的一階導數 $f'(x)$。",
+      "options": [
+        "$\\frac{x}{\\ln 5}$",
+        "$\\frac{\\ln 5}{x}$",
+        "$\\frac{1}{x}$",
+        "$\\frac{1}{x \\ln 5}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "由換底公式 $\\log_a x = \\frac{\\ln x}{\\ln a}$，求導得 $\\frac{1}{x \\ln a}$。\n\n---",
+      "chapter": "Ch6 6.4*節：一般對數與指數函數",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "求指數函數 $f(x) = 6^x$ 的導數 $f'(x)$。",
+      "options": [
+        "$6^x$",
+        "$6^x \\ln 6$",
+        "$\\frac{6^x}{\\ln 6}$",
+        "$x 6^{x-1}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "一般指數函數求導公式為 $\\frac{d}{dx} a^x = a^x \\ln a$。\n\n---",
+      "chapter": "Ch6 6.4*節：一般對數與指數函數",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "求對數函數 $f(x) = \\log_{7} x$ 的一階導數 $f'(x)$。",
+      "options": [
+        "$\\frac{1}{x}$",
+        "$\\frac{\\ln 7}{x}$",
+        "$\\frac{1}{x \\ln 7}$",
+        "$\\frac{x}{\\ln 7}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "由換底公式 $\\log_a x = \\frac{\\ln x}{\\ln a}$，求導得 $\\frac{1}{x \\ln a}$。\n\n---",
+      "chapter": "Ch6 6.4*節：一般對數與指數函數",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "求指數函數 $f(x) = 8^x$ 的導數 $f'(x)$。",
+      "options": [
+        "$8^x \\ln 8$",
+        "$8^x$",
+        "$\\frac{8^x}{\\ln 8}$",
+        "$x 8^{x-1}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "一般指數函數求導公式為 $\\frac{d}{dx} a^x = a^x \\ln a$。\n\n---",
+      "chapter": "Ch6 6.4*節：一般對數與指數函數",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "求對數函數 $f(x) = \\log_{9} x$ 的一階導數 $f'(x)$。",
+      "options": [
+        "$\\frac{x}{\\ln 9}$",
+        "$\\frac{\\ln 9}{x}$",
+        "$\\frac{1}{x}$",
+        "$\\frac{1}{x \\ln 9}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "由換底公式 $\\log_a x = \\frac{\\ln x}{\\ln a}$，求導得 $\\frac{1}{x \\ln a}$。\n\n---",
+      "chapter": "Ch6 6.4*節：一般對數與指數函數",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "求指數函數 $f(x) = 10^x$ 的導數 $f'(x)$。",
+      "options": [
+        "$10^x$",
+        "$10^x \\ln 10$",
+        "$\\frac{10^x}{\\ln 10}$",
+        "$x 10^{x-1}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "一般指數函數求導公式為 $\\frac{d}{dx} a^x = a^x \\ln a$。\n\n---",
+      "chapter": "Ch6 6.4*節：一般對數與指數函數",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "求對數函數 $f(x) = \\log_{11} x$ 的一階導數 $f'(x)$。",
+      "options": [
+        "$\\frac{1}{x}$",
+        "$\\frac{\\ln 11}{x}$",
+        "$\\frac{1}{x \\ln 11}$",
+        "$\\frac{x}{\\ln 11}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "由換底公式 $\\log_a x = \\frac{\\ln x}{\\ln a}$，求導得 $\\frac{1}{x \\ln a}$。\n\n---",
+      "chapter": "Ch6 6.4*節：一般對數與指數函數",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "求指數函數 $f(x) = 12^x$ 的導數 $f'(x)$。",
+      "options": [
+        "$12^x \\ln 12$",
+        "$12^x$",
+        "$\\frac{12^x}{\\ln 12}$",
+        "$x 12^{x-1}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "一般指數函數求導公式為 $\\frac{d}{dx} a^x = a^x \\ln a$。\n\n---",
+      "chapter": "Ch6 6.4*節：一般對數與指數函數",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "求對數函數 $f(x) = \\log_{13} x$ 的一階導數 $f'(x)$。",
+      "options": [
+        "$\\frac{x}{\\ln 13}$",
+        "$\\frac{\\ln 13}{x}$",
+        "$\\frac{1}{x}$",
+        "$\\frac{1}{x \\ln 13}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "由換底公式 $\\log_a x = \\frac{\\ln x}{\\ln a}$，求導得 $\\frac{1}{x \\ln a}$。\n\n---",
+      "chapter": "Ch6 6.4*節：一般對數與指數函數",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "求指數函數 $f(x) = 14^x$ 的導數 $f'(x)$。",
+      "options": [
+        "$14^x$",
+        "$14^x \\ln 14$",
+        "$\\frac{14^x}{\\ln 14}$",
+        "$x 14^{x-1}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "一般指數函數求導公式為 $\\frac{d}{dx} a^x = a^x \\ln a$。\n\n---",
+      "chapter": "Ch6 6.4*節：一般對數與指數函數",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "求對數函數 $f(x) = \\log_{15} x$ 的一階導數 $f'(x)$。",
+      "options": [
+        "$\\frac{1}{x}$",
+        "$\\frac{\\ln 15}{x}$",
+        "$\\frac{1}{x \\ln 15}$",
+        "$\\frac{x}{\\ln 15}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "由換底公式 $\\log_a x = \\frac{\\ln x}{\\ln a}$，求導得 $\\frac{1}{x \\ln a}$。\n\n---",
+      "chapter": "Ch6 6.4*節：一般對數與指數函數",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "求指數函數 $f(x) = 16^x$ 的導數 $f'(x)$。",
+      "options": [
+        "$16^x \\ln 16$",
+        "$16^x$",
+        "$\\frac{16^x}{\\ln 16}$",
+        "$x 16^{x-1}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "一般指數函數求導公式為 $\\frac{d}{dx} a^x = a^x \\ln a$。\n\n---",
+      "chapter": "Ch6 6.4*節：一般對數與指數函數",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "求對數函數 $f(x) = \\log_{17} x$ 的一階導數 $f'(x)$。",
+      "options": [
+        "$\\frac{x}{\\ln 17}$",
+        "$\\frac{\\ln 17}{x}$",
+        "$\\frac{1}{x}$",
+        "$\\frac{1}{x \\ln 17}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "由換底公式 $\\log_a x = \\frac{\\ln x}{\\ln a}$，求導得 $\\frac{1}{x \\ln a}$。\n\n---",
+      "chapter": "Ch6 6.4*節：一般對數與指數函數",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "求指數函數 $f(x) = 18^x$ 的導數 $f'(x)$。",
+      "options": [
+        "$18^x$",
+        "$18^x \\ln 18$",
+        "$\\frac{18^x}{\\ln 18}$",
+        "$x 18^{x-1}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "一般指數函數求導公式為 $\\frac{d}{dx} a^x = a^x \\ln a$。\n\n---",
+      "chapter": "Ch6 6.4*節：一般對數與指數函數",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "求對數函數 $f(x) = \\log_{19} x$ 的一階導數 $f'(x)$。",
+      "options": [
+        "$\\frac{1}{x}$",
+        "$\\frac{\\ln 19}{x}$",
+        "$\\frac{1}{x \\ln 19}$",
+        "$\\frac{x}{\\ln 19}$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "由換底公式 $\\log_a x = \\frac{\\ln x}{\\ln a}$，求導得 $\\frac{1}{x \\ln a}$。\n\n---",
+      "chapter": "Ch6 6.4*節：一般對數與指數函數",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "求指數函數 $f(x) = 20^x$ 的導數 $f'(x)$。",
+      "options": [
+        "$20^x \\ln 20$",
+        "$20^x$",
+        "$\\frac{20^x}{\\ln 20}$",
+        "$x 20^{x-1}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "一般指數函數求導公式為 $\\frac{d}{dx} a^x = a^x \\ln a$。\n\n---",
+      "chapter": "Ch6 6.4*節：一般對數與指數函數",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "求對數函數 $f(x) = \\log_{21} x$ 的一階導數 $f'(x)$。",
+      "options": [
+        "$\\frac{x}{\\ln 21}$",
+        "$\\frac{\\ln 21}{x}$",
+        "$\\frac{1}{x}$",
+        "$\\frac{1}{x \\ln 21}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "由換底公式 $\\log_a x = \\frac{\\ln x}{\\ln a}$，求導得 $\\frac{1}{x \\ln a}$。\n\n---",
+      "chapter": "Ch6 6.4*節：一般對數與指數函數",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "求指數函數 $f(x) = 22^x$ 的導數 $f'(x)$。",
+      "options": [
+        "$22^x$",
+        "$22^x \\ln 22$",
+        "$\\frac{22^x}{\\ln 22}$",
+        "$x 22^{x-1}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "一般指數函數求導公式為 $\\frac{d}{dx} a^x = a^x \\ln a$。\n\n---",
+      "chapter": "Ch6 6.4*節：一般對數與指數函數",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "求 $\\int 2^x \\ln(2) dx$ 的最一般不定積分之係數（$C$ 以外部分在 $x=0$ 的值）。",
+      "options": [],
+      "answer": "1",
+      "type": "fill",
+      "solution": "積分為 $\\int 2^x \\ln 2 dx = 2^x + C$。當 $x=0$ 時其值為 $2^0 = 1$。\n\n---",
+      "chapter": "Ch6 6.4*節：一般對數與指數函數",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "求 $\\int 2^x \\ln(2) dx$ 的最一般不定積分之係數（$C$ 以外部分在 $x=0$ 的值）。",
+      "options": [],
+      "answer": "1",
+      "type": "fill",
+      "solution": "積分為 $\\int 2^x \\ln 2 dx = 2^x + C$。當 $x=0$ 時其值為 $2^0 = 1$。\n\n---",
+      "chapter": "Ch6 6.4*節：一般對數與指數函數",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "求 $\\int 2^x \\ln(2) dx$ 的最一般不定積分之係數（$C$ 以外部分在 $x=0$ 的值）。",
+      "options": [],
+      "answer": "1",
+      "type": "fill",
+      "solution": "積分為 $\\int 2^x \\ln 2 dx = 2^x + C$。當 $x=0$ 時其值為 $2^0 = 1$。\n\n---",
+      "chapter": "Ch6 6.4*節：一般對數與指數函數",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "求 $\\int 2^x \\ln(2) dx$ 的最一般不定積分之係數（$C$ 以外部分在 $x=0$ 的值）。",
+      "options": [],
+      "answer": "1",
+      "type": "fill",
+      "solution": "積分為 $\\int 2^x \\ln 2 dx = 2^x + C$。當 $x=0$ 時其值為 $2^0 = 1$。\n\n---",
+      "chapter": "Ch6 6.4*節：一般對數與指數函數",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "求 $\\int 2^x \\ln(2) dx$ 的最一般不定積分之係數（$C$ 以外部分在 $x=0$ 的值）。",
+      "options": [],
+      "answer": "1",
+      "type": "fill",
+      "solution": "積分為 $\\int 2^x \\ln 2 dx = 2^x + C$。當 $x=0$ 時其值為 $2^0 = 1$。\n\n---",
+      "chapter": "Ch6 6.4*節：一般對數與指數函數",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "求 $\\int 2^x \\ln(2) dx$ 的最一般不定積分之係數（$C$ 以外部分在 $x=0$ 的值）。",
+      "options": [],
+      "answer": "1",
+      "type": "fill",
+      "solution": "積分為 $\\int 2^x \\ln 2 dx = 2^x + C$。當 $x=0$ 時其值為 $2^0 = 1$。\n\n---",
+      "chapter": "Ch6 6.4*節：一般對數與指數函數",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "求 $\\int 2^x \\ln(2) dx$ 的最一般不定積分之係數（$C$ 以外部分在 $x=0$ 的值）。",
+      "options": [],
+      "answer": "1",
+      "type": "fill",
+      "solution": "積分為 $\\int 2^x \\ln 2 dx = 2^x + C$。當 $x=0$ 時其值為 $2^0 = 1$。\n\n---",
+      "chapter": "Ch6 6.4*節：一般對數與指數函數",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "求 $\\int 2^x \\ln(2) dx$ 的最一般不定積分之係數（$C$ 以外部分在 $x=0$ 的值）。",
+      "options": [],
+      "answer": "1",
+      "type": "fill",
+      "solution": "積分為 $\\int 2^x \\ln 2 dx = 2^x + C$。當 $x=0$ 時其值為 $2^0 = 1$。\n\n---",
+      "chapter": "Ch6 6.4*節：一般對數與指數函數",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "求 $\\int 2^x \\ln(2) dx$ 的最一般不定積分之係數（$C$ 以外部分在 $x=0$ 的值）。",
+      "options": [],
+      "answer": "1",
+      "type": "fill",
+      "solution": "積分為 $\\int 2^x \\ln 2 dx = 2^x + C$。當 $x=0$ 時其值為 $2^0 = 1$。\n\n---",
+      "chapter": "Ch6 6.4*節：一般對數與指數函數",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "求 $\\int 2^x \\ln(2) dx$ 的最一般不定積分之係數（$C$ 以外部分在 $x=0$ 的值）。",
+      "options": [],
+      "answer": "1",
+      "type": "fill",
+      "solution": "積分為 $\\int 2^x \\ln 2 dx = 2^x + C$。當 $x=0$ 時其值為 $2^0 = 1$。",
+      "chapter": "Ch6 6.4*節：一般對數與指數函數",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "某放射性物質半衰期為 $T$，若滿足 $\\frac{dy}{dt} = -ky$，則衰變常數 $k$ 為何？",
+      "options": [
+        "$\\frac{T}{\\ln 2}$",
+        "$\\frac{1}{T}$",
+        "$\\frac{\\ln 2}{T}$",
+        "$\\ln 2$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "半衰期公式：$y(T) = y_0 e^{-kT} = \\frac{1}{2} y_0 \\implies -kT = \\ln(\\frac{1}{2}) = -\\ln 2 \\implies k = \\frac{\\ln 2}{T}$。\n\n---",
+      "chapter": "Ch6 6.5節：指數增長與衰退",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "某群體數量 $P(t)$ 滿足微分方程 $\\frac{dP}{dt} = 3P$。若 $P(0) = 100$，求 $P(t)$ 之表示式。",
+      "options": [
+        "$100e^t$",
+        "$100e^{3t}$",
+        "$3e^{100t}$",
+        "$100t$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "該方程為標準的指數成長模型，解為 $P(t) = P(0)e^{kt} = 100e^{3t}$。\n\n---",
+      "chapter": "Ch6 6.5節：指數增長與衰退",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "某放射性物質半衰期為 $T$，若滿足 $\\frac{dy}{dt} = -ky$，則衰變常數 $k$ 為何？",
+      "options": [
+        "$\\ln 2$",
+        "$\\frac{1}{T}$",
+        "$\\frac{T}{\\ln 2}$",
+        "$\\frac{\\ln 2}{T}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "半衰期公式：$y(T) = y_0 e^{-kT} = \\frac{1}{2} y_0 \\implies -kT = \\ln(\\frac{1}{2}) = -\\ln 2 \\implies k = \\frac{\\ln 2}{T}$。\n\n---",
+      "chapter": "Ch6 6.5節：指數增長與衰退",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "某群體數量 $P(t)$ 滿足微分方程 $\\frac{dP}{dt} = 5P$。若 $P(0) = 100$，求 $P(t)$ 之表示式。",
+      "options": [
+        "$100e^{5t}$",
+        "$100e^t$",
+        "$5e^{100t}$",
+        "$100t$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "該方程為標準的指數成長模型，解為 $P(t) = P(0)e^{kt} = 100e^{5t}$。\n\n---",
+      "chapter": "Ch6 6.5節：指數增長與衰退",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "某放射性物質半衰期為 $T$，若滿足 $\\frac{dy}{dt} = -ky$，則衰變常數 $k$ 為何？",
+      "options": [
+        "$\\frac{T}{\\ln 2}$",
+        "$\\frac{1}{T}$",
+        "$\\frac{\\ln 2}{T}$",
+        "$\\ln 2$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "半衰期公式：$y(T) = y_0 e^{-kT} = \\frac{1}{2} y_0 \\implies -kT = \\ln(\\frac{1}{2}) = -\\ln 2 \\implies k = \\frac{\\ln 2}{T}$。\n\n---",
+      "chapter": "Ch6 6.5節：指數增長與衰退",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "某群體數量 $P(t)$ 滿足微分方程 $\\frac{dP}{dt} = 7P$。若 $P(0) = 100$，求 $P(t)$ 之表示式。",
+      "options": [
+        "$100e^t$",
+        "$100e^{7t}$",
+        "$7e^{100t}$",
+        "$100t$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "該方程為標準的指數成長模型，解為 $P(t) = P(0)e^{kt} = 100e^{7t}$。\n\n---",
+      "chapter": "Ch6 6.5節：指數增長與衰退",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "某放射性物質半衰期為 $T$，若滿足 $\\frac{dy}{dt} = -ky$，則衰變常數 $k$ 為何？",
+      "options": [
+        "$\\ln 2$",
+        "$\\frac{1}{T}$",
+        "$\\frac{T}{\\ln 2}$",
+        "$\\frac{\\ln 2}{T}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "半衰期公式：$y(T) = y_0 e^{-kT} = \\frac{1}{2} y_0 \\implies -kT = \\ln(\\frac{1}{2}) = -\\ln 2 \\implies k = \\frac{\\ln 2}{T}$。\n\n---",
+      "chapter": "Ch6 6.5節：指數增長與衰退",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "某群體數量 $P(t)$ 滿足微分方程 $\\frac{dP}{dt} = 9P$。若 $P(0) = 100$，求 $P(t)$ 之表示式。",
+      "options": [
+        "$100e^{9t}$",
+        "$100e^t$",
+        "$9e^{100t}$",
+        "$100t$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "該方程為標準的指數成長模型，解為 $P(t) = P(0)e^{kt} = 100e^{9t}$。\n\n---",
+      "chapter": "Ch6 6.5節：指數增長與衰退",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "某放射性物質半衰期為 $T$，若滿足 $\\frac{dy}{dt} = -ky$，則衰變常數 $k$ 為何？",
+      "options": [
+        "$\\frac{T}{\\ln 2}$",
+        "$\\frac{1}{T}$",
+        "$\\frac{\\ln 2}{T}$",
+        "$\\ln 2$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "半衰期公式：$y(T) = y_0 e^{-kT} = \\frac{1}{2} y_0 \\implies -kT = \\ln(\\frac{1}{2}) = -\\ln 2 \\implies k = \\frac{\\ln 2}{T}$。\n\n---",
+      "chapter": "Ch6 6.5節：指數增長與衰退",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "某群體數量 $P(t)$ 滿足微分方程 $\\frac{dP}{dt} = 11P$。若 $P(0) = 100$，求 $P(t)$ 之表示式。",
+      "options": [
+        "$100e^t$",
+        "$100e^{11t}$",
+        "$11e^{100t}$",
+        "$100t$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "該方程為標準的指數成長模型，解為 $P(t) = P(0)e^{kt} = 100e^{11t}$。\n\n---",
+      "chapter": "Ch6 6.5節：指數增長與衰退",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "某放射性物質半衰期為 $T$，若滿足 $\\frac{dy}{dt} = -ky$，則衰變常數 $k$ 為何？",
+      "options": [
+        "$\\ln 2$",
+        "$\\frac{1}{T}$",
+        "$\\frac{T}{\\ln 2}$",
+        "$\\frac{\\ln 2}{T}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "半衰期公式：$y(T) = y_0 e^{-kT} = \\frac{1}{2} y_0 \\implies -kT = \\ln(\\frac{1}{2}) = -\\ln 2 \\implies k = \\frac{\\ln 2}{T}$。\n\n---",
+      "chapter": "Ch6 6.5節：指數增長與衰退",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "某群體數量 $P(t)$ 滿足微分方程 $\\frac{dP}{dt} = 13P$。若 $P(0) = 100$，求 $P(t)$ 之表示式。",
+      "options": [
+        "$100e^{13t}$",
+        "$100e^t$",
+        "$13e^{100t}$",
+        "$100t$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "該方程為標準的指數成長模型，解為 $P(t) = P(0)e^{kt} = 100e^{13t}$。\n\n---",
+      "chapter": "Ch6 6.5節：指數增長與衰退",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "某放射性物質半衰期為 $T$，若滿足 $\\frac{dy}{dt} = -ky$，則衰變常數 $k$ 為何？",
+      "options": [
+        "$\\frac{T}{\\ln 2}$",
+        "$\\frac{1}{T}$",
+        "$\\frac{\\ln 2}{T}$",
+        "$\\ln 2$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "半衰期公式：$y(T) = y_0 e^{-kT} = \\frac{1}{2} y_0 \\implies -kT = \\ln(\\frac{1}{2}) = -\\ln 2 \\implies k = \\frac{\\ln 2}{T}$。\n\n---",
+      "chapter": "Ch6 6.5節：指數增長與衰退",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "某群體數量 $P(t)$ 滿足微分方程 $\\frac{dP}{dt} = 15P$。若 $P(0) = 100$，求 $P(t)$ 之表示式。",
+      "options": [
+        "$100e^t$",
+        "$100e^{15t}$",
+        "$15e^{100t}$",
+        "$100t$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "該方程為標準的指數成長模型，解為 $P(t) = P(0)e^{kt} = 100e^{15t}$。\n\n---",
+      "chapter": "Ch6 6.5節：指數增長與衰退",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "某放射性物質半衰期為 $T$，若滿足 $\\frac{dy}{dt} = -ky$，則衰變常數 $k$ 為何？",
+      "options": [
+        "$\\ln 2$",
+        "$\\frac{1}{T}$",
+        "$\\frac{T}{\\ln 2}$",
+        "$\\frac{\\ln 2}{T}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "半衰期公式：$y(T) = y_0 e^{-kT} = \\frac{1}{2} y_0 \\implies -kT = \\ln(\\frac{1}{2}) = -\\ln 2 \\implies k = \\frac{\\ln 2}{T}$。\n\n---",
+      "chapter": "Ch6 6.5節：指數增長與衰退",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "某群體數量 $P(t)$ 滿足微分方程 $\\frac{dP}{dt} = 17P$。若 $P(0) = 100$，求 $P(t)$ 之表示式。",
+      "options": [
+        "$100e^{17t}$",
+        "$100e^t$",
+        "$17e^{100t}$",
+        "$100t$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "該方程為標準的指數成長模型，解為 $P(t) = P(0)e^{kt} = 100e^{17t}$。\n\n---",
+      "chapter": "Ch6 6.5節：指數增長與衰退",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "某放射性物質半衰期為 $T$，若滿足 $\\frac{dy}{dt} = -ky$，則衰變常數 $k$ 為何？",
+      "options": [
+        "$\\frac{T}{\\ln 2}$",
+        "$\\frac{1}{T}$",
+        "$\\frac{\\ln 2}{T}$",
+        "$\\ln 2$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "半衰期公式：$y(T) = y_0 e^{-kT} = \\frac{1}{2} y_0 \\implies -kT = \\ln(\\frac{1}{2}) = -\\ln 2 \\implies k = \\frac{\\ln 2}{T}$。\n\n---",
+      "chapter": "Ch6 6.5節：指數增長與衰退",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "某群體數量 $P(t)$ 滿足微分方程 $\\frac{dP}{dt} = 19P$。若 $P(0) = 100$，求 $P(t)$ 之表示式。",
+      "options": [
+        "$100e^t$",
+        "$100e^{19t}$",
+        "$19e^{100t}$",
+        "$100t$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "該方程為標準的指數成長模型，解為 $P(t) = P(0)e^{kt} = 100e^{19t}$。\n\n---",
+      "chapter": "Ch6 6.5節：指數增長與衰退",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "某放射性物質半衰期為 $T$，若滿足 $\\frac{dy}{dt} = -ky$，則衰變常數 $k$ 為何？",
+      "options": [
+        "$\\ln 2$",
+        "$\\frac{1}{T}$",
+        "$\\frac{T}{\\ln 2}$",
+        "$\\frac{\\ln 2}{T}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "半衰期公式：$y(T) = y_0 e^{-kT} = \\frac{1}{2} y_0 \\implies -kT = \\ln(\\frac{1}{2}) = -\\ln 2 \\implies k = \\frac{\\ln 2}{T}$。\n\n---",
+      "chapter": "Ch6 6.5節：指數增長與衰退",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "某群體數量 $P(t)$ 滿足微分方程 $\\frac{dP}{dt} = 21P$。若 $P(0) = 100$，求 $P(t)$ 之表示式。",
+      "options": [
+        "$100e^{21t}$",
+        "$100e^t$",
+        "$21e^{100t}$",
+        "$100t$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "該方程為標準的指數成長模型，解為 $P(t) = P(0)e^{kt} = 100e^{21t}$。\n\n---",
+      "chapter": "Ch6 6.5節：指數增長與衰退",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "某物質以指數衰變，初量為 100，在 $t=1$ 時量為 $100e^{-3}$。求 $t=2$ 時該物質的量（除以 100 的倍數，取至小數點後兩位）。",
+      "options": [],
+      "answer": "0.0025",
+      "type": "fill",
+      "solution": "方程式為 $y(t) = 100e^{-3t}$。當 $t=2 \\implies 100e^{-6}$。除以 100 為 $e^{-6} = 0.0025$。\n\n---",
+      "chapter": "Ch6 6.5節：指數增長與衰退",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "某物質以指數衰變，初量為 100，在 $t=1$ 時量為 $100e^{-4}$。求 $t=2$ 時該物質的量（除以 100 的倍數，取至小數點後兩位）。",
+      "options": [],
+      "answer": "0.0003",
+      "type": "fill",
+      "solution": "方程式為 $y(t) = 100e^{-4t}$。當 $t=2 \\implies 100e^{-8}$。除以 100 為 $e^{-8} = 0.0003$。\n\n---",
+      "chapter": "Ch6 6.5節：指數增長與衰退",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "某物質以指數衰變，初量為 100，在 $t=1$ 時量為 $100e^{-5}$。求 $t=2$ 時該物質的量（除以 100 的倍數，取至小數點後兩位）。",
+      "options": [],
+      "answer": "0.0",
+      "type": "fill",
+      "solution": "方程式為 $y(t) = 100e^{-5t}$。當 $t=2 \\implies 100e^{-10}$。除以 100 為 $e^{-10} = 0.0$。\n\n---",
+      "chapter": "Ch6 6.5節：指數增長與衰退",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "某物質以指數衰變，初量為 100，在 $t=1$ 時量為 $100e^{-6}$。求 $t=2$ 時該物質的量（除以 100 的倍數，取至小數點後兩位）。",
+      "options": [],
+      "answer": "0.0",
+      "type": "fill",
+      "solution": "方程式為 $y(t) = 100e^{-6t}$。當 $t=2 \\implies 100e^{-12}$。除以 100 為 $e^{-12} = 0.0$。\n\n---",
+      "chapter": "Ch6 6.5節：指數增長與衰退",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "某物質以指數衰變，初量為 100，在 $t=1$ 時量為 $100e^{-7}$。求 $t=2$ 時該物質的量（除以 100 的倍數，取至小數點後兩位）。",
+      "options": [],
+      "answer": "0.0",
+      "type": "fill",
+      "solution": "方程式為 $y(t) = 100e^{-7t}$。當 $t=2 \\implies 100e^{-14}$。除以 100 為 $e^{-14} = 0.0$。\n\n---",
+      "chapter": "Ch6 6.5節：指數增長與衰退",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "某物質以指數衰變，初量為 100，在 $t=1$ 時量為 $100e^{-8}$。求 $t=2$ 時該物質的量（除以 100 的倍數，取至小數點後兩位）。",
+      "options": [],
+      "answer": "0.0",
+      "type": "fill",
+      "solution": "方程式為 $y(t) = 100e^{-8t}$。當 $t=2 \\implies 100e^{-16}$。除以 100 為 $e^{-16} = 0.0$。\n\n---",
+      "chapter": "Ch6 6.5節：指數增長與衰退",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "某物質以指數衰變，初量為 100，在 $t=1$ 時量為 $100e^{-9}$。求 $t=2$ 時該物質的量（除以 100 的倍數，取至小數點後兩位）。",
+      "options": [],
+      "answer": "0.0",
+      "type": "fill",
+      "solution": "方程式為 $y(t) = 100e^{-9t}$。當 $t=2 \\implies 100e^{-18}$。除以 100 為 $e^{-18} = 0.0$。\n\n---",
+      "chapter": "Ch6 6.5節：指數增長與衰退",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "某物質以指數衰變，初量為 100，在 $t=1$ 時量為 $100e^{-10}$。求 $t=2$ 時該物質的量（除以 100 的倍數，取至小數點後兩位）。",
+      "options": [],
+      "answer": "0.0",
+      "type": "fill",
+      "solution": "方程式為 $y(t) = 100e^{-10t}$。當 $t=2 \\implies 100e^{-20}$。除以 100 為 $e^{-20} = 0.0$。\n\n---",
+      "chapter": "Ch6 6.5節：指數增長與衰退",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "某物質以指數衰變，初量為 100，在 $t=1$ 時量為 $100e^{-11}$。求 $t=2$ 時該物質的量（除以 100 的倍數，取至小數點後兩位）。",
+      "options": [],
+      "answer": "0.0",
+      "type": "fill",
+      "solution": "方程式為 $y(t) = 100e^{-11t}$。當 $t=2 \\implies 100e^{-22}$。除以 100 為 $e^{-22} = 0.0$。\n\n---",
+      "chapter": "Ch6 6.5節：指數增長與衰退",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "某物質以指數衰變，初量為 100，在 $t=1$ 時量為 $100e^{-12}$。求 $t=2$ 時該物質的量（除以 100 的倍數，取至小數點後兩位）。",
+      "options": [],
+      "answer": "0.0",
+      "type": "fill",
+      "solution": "方程式為 $y(t) = 100e^{-12t}$。當 $t=2 \\implies 100e^{-24}$。除以 100 為 $e^{-24} = 0.0$。",
+      "chapter": "Ch6 6.5節：指數增長與衰退",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "求 $\\int \\frac{1}{1 + x^2} dx$ 的最一般不定積分。",
+      "options": [
+        "$\\cos^{-1} x + C$",
+        "$\\sin^{-1} x + C$",
+        "$\\tan^{-1} x + C$",
+        "$\\sec^{-1} x + C$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "對反三角函數求導公式反向積分：$\\int \\frac{1}{1 + x^2} dx = \\tan^{-1} x + C$。\n\n---",
+      "chapter": "Ch6 6.6節：反三角函數",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "求反三角函數 $y = \\tan^{-1}(x)$ 的一階導數 $\\frac{dy}{dx}$。",
+      "options": [
+        "$\\frac{1}{1 + x^2}$",
+        "$\\frac{1}{\\sqrt{1 - x^2}}$",
+        "$\\frac{1}{x^2 - 1}$",
+        "$\\frac{1}{1 - x^2}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "反正切函數的導數公式為 $\\frac{d}{dx} \\tan^{-1} x = \\frac{1}{1 + x^2}$。\n\n---",
+      "chapter": "Ch6 6.6節：反三角函數",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "求 $\\int \\frac{1}{1 + x^2} dx$ 的最一般不定積分。",
+      "options": [
+        "$\\sec^{-1} x + C$",
+        "$\\sin^{-1} x + C$",
+        "$\\cos^{-1} x + C$",
+        "$\\tan^{-1} x + C$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "對反三角函數求導公式反向積分：$\\int \\frac{1}{1 + x^2} dx = \\tan^{-1} x + C$。\n\n---",
+      "chapter": "Ch6 6.6節：反三角函數",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "求反三角函數 $y = \\tan^{-1}(x)$ 的一階導數 $\\frac{dy}{dx}$。",
+      "options": [
+        "$\\frac{1}{\\sqrt{1 - x^2}}$",
+        "$\\frac{1}{1 + x^2}$",
+        "$\\frac{1}{x^2 - 1}$",
+        "$\\frac{1}{1 - x^2}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "反正切函數的導數公式為 $\\frac{d}{dx} \\tan^{-1} x = \\frac{1}{1 + x^2}$。\n\n---",
+      "chapter": "Ch6 6.6節：反三角函數",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "求 $\\int \\frac{1}{1 + x^2} dx$ 的最一般不定積分。",
+      "options": [
+        "$\\cos^{-1} x + C$",
+        "$\\sin^{-1} x + C$",
+        "$\\tan^{-1} x + C$",
+        "$\\sec^{-1} x + C$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "對反三角函數求導公式反向積分：$\\int \\frac{1}{1 + x^2} dx = \\tan^{-1} x + C$。\n\n---",
+      "chapter": "Ch6 6.6節：反三角函數",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "求反三角函數 $y = \\tan^{-1}(x)$ 的一階導數 $\\frac{dy}{dx}$。",
+      "options": [
+        "$\\frac{1}{1 + x^2}$",
+        "$\\frac{1}{\\sqrt{1 - x^2}}$",
+        "$\\frac{1}{x^2 - 1}$",
+        "$\\frac{1}{1 - x^2}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "反正切函數的導數公式為 $\\frac{d}{dx} \\tan^{-1} x = \\frac{1}{1 + x^2}$。\n\n---",
+      "chapter": "Ch6 6.6節：反三角函數",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "求 $\\int \\frac{1}{1 + x^2} dx$ 的最一般不定積分。",
+      "options": [
+        "$\\sec^{-1} x + C$",
+        "$\\sin^{-1} x + C$",
+        "$\\cos^{-1} x + C$",
+        "$\\tan^{-1} x + C$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "對反三角函數求導公式反向積分：$\\int \\frac{1}{1 + x^2} dx = \\tan^{-1} x + C$。\n\n---",
+      "chapter": "Ch6 6.6節：反三角函數",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "求反三角函數 $y = \\tan^{-1}(x)$ 的一階導數 $\\frac{dy}{dx}$。",
+      "options": [
+        "$\\frac{1}{\\sqrt{1 - x^2}}$",
+        "$\\frac{1}{1 + x^2}$",
+        "$\\frac{1}{x^2 - 1}$",
+        "$\\frac{1}{1 - x^2}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "反正切函數的導數公式為 $\\frac{d}{dx} \\tan^{-1} x = \\frac{1}{1 + x^2}$。\n\n---",
+      "chapter": "Ch6 6.6節：反三角函數",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "求 $\\int \\frac{1}{1 + x^2} dx$ 的最一般不定積分。",
+      "options": [
+        "$\\cos^{-1} x + C$",
+        "$\\sin^{-1} x + C$",
+        "$\\tan^{-1} x + C$",
+        "$\\sec^{-1} x + C$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "對反三角函數求導公式反向積分：$\\int \\frac{1}{1 + x^2} dx = \\tan^{-1} x + C$。\n\n---",
+      "chapter": "Ch6 6.6節：反三角函數",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "求反三角函數 $y = \\tan^{-1}(x)$ 的一階導數 $\\frac{dy}{dx}$。",
+      "options": [
+        "$\\frac{1}{1 + x^2}$",
+        "$\\frac{1}{\\sqrt{1 - x^2}}$",
+        "$\\frac{1}{x^2 - 1}$",
+        "$\\frac{1}{1 - x^2}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "反正切函數的導數公式為 $\\frac{d}{dx} \\tan^{-1} x = \\frac{1}{1 + x^2}$。\n\n---",
+      "chapter": "Ch6 6.6節：反三角函數",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "求 $\\int \\frac{1}{1 + x^2} dx$ 的最一般不定積分。",
+      "options": [
+        "$\\sec^{-1} x + C$",
+        "$\\sin^{-1} x + C$",
+        "$\\cos^{-1} x + C$",
+        "$\\tan^{-1} x + C$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "對反三角函數求導公式反向積分：$\\int \\frac{1}{1 + x^2} dx = \\tan^{-1} x + C$。\n\n---",
+      "chapter": "Ch6 6.6節：反三角函數",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "求反三角函數 $y = \\tan^{-1}(x)$ 的一階導數 $\\frac{dy}{dx}$。",
+      "options": [
+        "$\\frac{1}{\\sqrt{1 - x^2}}$",
+        "$\\frac{1}{1 + x^2}$",
+        "$\\frac{1}{x^2 - 1}$",
+        "$\\frac{1}{1 - x^2}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "反正切函數的導數公式為 $\\frac{d}{dx} \\tan^{-1} x = \\frac{1}{1 + x^2}$。\n\n---",
+      "chapter": "Ch6 6.6節：反三角函數",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "求 $\\int \\frac{1}{1 + x^2} dx$ 的最一般不定積分。",
+      "options": [
+        "$\\cos^{-1} x + C$",
+        "$\\sin^{-1} x + C$",
+        "$\\tan^{-1} x + C$",
+        "$\\sec^{-1} x + C$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "對反三角函數求導公式反向積分：$\\int \\frac{1}{1 + x^2} dx = \\tan^{-1} x + C$。\n\n---",
+      "chapter": "Ch6 6.6節：反三角函數",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "求反三角函數 $y = \\tan^{-1}(x)$ 的一階導數 $\\frac{dy}{dx}$。",
+      "options": [
+        "$\\frac{1}{1 + x^2}$",
+        "$\\frac{1}{\\sqrt{1 - x^2}}$",
+        "$\\frac{1}{x^2 - 1}$",
+        "$\\frac{1}{1 - x^2}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "反正切函數的導數公式為 $\\frac{d}{dx} \\tan^{-1} x = \\frac{1}{1 + x^2}$。\n\n---",
+      "chapter": "Ch6 6.6節：反三角函數",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "求 $\\int \\frac{1}{1 + x^2} dx$ 的最一般不定積分。",
+      "options": [
+        "$\\sec^{-1} x + C$",
+        "$\\sin^{-1} x + C$",
+        "$\\cos^{-1} x + C$",
+        "$\\tan^{-1} x + C$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "對反三角函數求導公式反向積分：$\\int \\frac{1}{1 + x^2} dx = \\tan^{-1} x + C$。\n\n---",
+      "chapter": "Ch6 6.6節：反三角函數",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "求反三角函數 $y = \\tan^{-1}(x)$ 的一階導數 $\\frac{dy}{dx}$。",
+      "options": [
+        "$\\frac{1}{\\sqrt{1 - x^2}}$",
+        "$\\frac{1}{1 + x^2}$",
+        "$\\frac{1}{x^2 - 1}$",
+        "$\\frac{1}{1 - x^2}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "反正切函數的導數公式為 $\\frac{d}{dx} \\tan^{-1} x = \\frac{1}{1 + x^2}$。\n\n---",
+      "chapter": "Ch6 6.6節：反三角函數",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "求 $\\int \\frac{1}{1 + x^2} dx$ 的最一般不定積分。",
+      "options": [
+        "$\\cos^{-1} x + C$",
+        "$\\sin^{-1} x + C$",
+        "$\\tan^{-1} x + C$",
+        "$\\sec^{-1} x + C$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "對反三角函數求導公式反向積分：$\\int \\frac{1}{1 + x^2} dx = \\tan^{-1} x + C$。\n\n---",
+      "chapter": "Ch6 6.6節：反三角函數",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "求反三角函數 $y = \\tan^{-1}(x)$ 的一階導數 $\\frac{dy}{dx}$。",
+      "options": [
+        "$\\frac{1}{1 + x^2}$",
+        "$\\frac{1}{\\sqrt{1 - x^2}}$",
+        "$\\frac{1}{x^2 - 1}$",
+        "$\\frac{1}{1 - x^2}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "反正切函數的導數公式為 $\\frac{d}{dx} \\tan^{-1} x = \\frac{1}{1 + x^2}$。\n\n---",
+      "chapter": "Ch6 6.6節：反三角函數",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "求 $\\int \\frac{1}{1 + x^2} dx$ 的最一般不定積分。",
+      "options": [
+        "$\\sec^{-1} x + C$",
+        "$\\sin^{-1} x + C$",
+        "$\\cos^{-1} x + C$",
+        "$\\tan^{-1} x + C$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "對反三角函數求導公式反向積分：$\\int \\frac{1}{1 + x^2} dx = \\tan^{-1} x + C$。\n\n---",
+      "chapter": "Ch6 6.6節：反三角函數",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "求反三角函數 $y = \\tan^{-1}(x)$ 的一階導數 $\\frac{dy}{dx}$。",
+      "options": [
+        "$\\frac{1}{\\sqrt{1 - x^2}}$",
+        "$\\frac{1}{1 + x^2}$",
+        "$\\frac{1}{x^2 - 1}$",
+        "$\\frac{1}{1 - x^2}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "反正切函數的導數公式為 $\\frac{d}{dx} \\tan^{-1} x = \\frac{1}{1 + x^2}$。\n\n---",
+      "chapter": "Ch6 6.6節：反三角函數",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "求 $\\tan^{-1}(1)$ 之精確值（以 $\\pi$ 表示，如 $\\pi/4$ 為 0.25）。",
+      "options": [],
+      "answer": "0.25",
+      "type": "fill",
+      "solution": "已知 $\\tan(\\pi/4) = 1 \\implies \\tan^{-1}(1) = \\pi/4 = 0.25$。\n\n---",
+      "chapter": "Ch6 6.6節：反三角函數",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "求 $\\tan^{-1}(1)$ 之精確值（以 $\\pi$ 表示，如 $\\pi/4$ 為 0.25）。",
+      "options": [],
+      "answer": "0.25",
+      "type": "fill",
+      "solution": "已知 $\\tan(\\pi/4) = 1 \\implies \\tan^{-1}(1) = \\pi/4 = 0.25$。\n\n---",
+      "chapter": "Ch6 6.6節：反三角函數",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "求 $\\tan^{-1}(1)$ 之精確值（以 $\\pi$ 表示，如 $\\pi/4$ 為 0.25）。",
+      "options": [],
+      "answer": "0.25",
+      "type": "fill",
+      "solution": "已知 $\\tan(\\pi/4) = 1 \\implies \\tan^{-1}(1) = \\pi/4 = 0.25$。\n\n---",
+      "chapter": "Ch6 6.6節：反三角函數",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "求 $\\tan^{-1}(1)$ 之精確值（以 $\\pi$ 表示，如 $\\pi/4$ 為 0.25）。",
+      "options": [],
+      "answer": "0.25",
+      "type": "fill",
+      "solution": "已知 $\\tan(\\pi/4) = 1 \\implies \\tan^{-1}(1) = \\pi/4 = 0.25$。\n\n---",
+      "chapter": "Ch6 6.6節：反三角函數",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "求 $\\tan^{-1}(1)$ 之精確值（以 $\\pi$ 表示，如 $\\pi/4$ 為 0.25）。",
+      "options": [],
+      "answer": "0.25",
+      "type": "fill",
+      "solution": "已知 $\\tan(\\pi/4) = 1 \\implies \\tan^{-1}(1) = \\pi/4 = 0.25$。\n\n---",
+      "chapter": "Ch6 6.6節：反三角函數",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "求 $\\tan^{-1}(1)$ 之精確值（以 $\\pi$ 表示，如 $\\pi/4$ 為 0.25）。",
+      "options": [],
+      "answer": "0.25",
+      "type": "fill",
+      "solution": "已知 $\\tan(\\pi/4) = 1 \\implies \\tan^{-1}(1) = \\pi/4 = 0.25$。\n\n---",
+      "chapter": "Ch6 6.6節：反三角函數",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "求 $\\tan^{-1}(1)$ 之精確值（以 $\\pi$ 表示，如 $\\pi/4$ 為 0.25）。",
+      "options": [],
+      "answer": "0.25",
+      "type": "fill",
+      "solution": "已知 $\\tan(\\pi/4) = 1 \\implies \\tan^{-1}(1) = \\pi/4 = 0.25$。\n\n---",
+      "chapter": "Ch6 6.6節：反三角函數",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "求 $\\tan^{-1}(1)$ 之精確值（以 $\\pi$ 表示，如 $\\pi/4$ 為 0.25）。",
+      "options": [],
+      "answer": "0.25",
+      "type": "fill",
+      "solution": "已知 $\\tan(\\pi/4) = 1 \\implies \\tan^{-1}(1) = \\pi/4 = 0.25$。\n\n---",
+      "chapter": "Ch6 6.6節：反三角函數",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "求 $\\tan^{-1}(1)$ 之精確值（以 $\\pi$ 表示，如 $\\pi/4$ 為 0.25）。",
+      "options": [],
+      "answer": "0.25",
+      "type": "fill",
+      "solution": "已知 $\\tan(\\pi/4) = 1 \\implies \\tan^{-1}(1) = \\pi/4 = 0.25$。\n\n---",
+      "chapter": "Ch6 6.6節：反三角函數",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "求 $\\tan^{-1}(1)$ 之精確值（以 $\\pi$ 表示，如 $\\pi/4$ 為 0.25）。",
+      "options": [],
+      "answer": "0.25",
+      "type": "fill",
+      "solution": "已知 $\\tan(\\pi/4) = 1 \\implies \\tan^{-1}(1) = \\pi/4 = 0.25$。",
+      "chapter": "Ch6 6.6節：反三角函數",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "求雙曲函數恆等式：$\\cosh^2(x) - \\sinh^2(x)$ 的值。",
+      "options": [
+        "$0$",
+        "$-1$",
+        "$1$",
+        "$\\cosh(2x)$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "由定義可知，$\\cosh^2 x - \\sinh^2 x = 1$ 恆成立。\n\n---",
+      "chapter": "Ch6 6.7節：雙曲函數",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "求雙曲正弦函數 $\\sinh(x)$ 的一階導數 $\\frac{d}{dx} \\sinh(x)$。",
+      "options": [
+        "$-\\cosh(x)$",
+        "$\\cosh(x)$",
+        "$\\sinh(x)$",
+        "$0$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "由雙曲函數定義：$\\frac{d}{dx} \\sinh x = \\cosh x$。\n\n---",
+      "chapter": "Ch6 6.7節：雙曲函數",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "求雙曲函數恆等式：$\\cosh^2(x) - \\sinh^2(x)$ 的值。",
+      "options": [
+        "$\\cosh(2x)$",
+        "$-1$",
+        "$0$",
+        "$1$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "由定義可知，$\\cosh^2 x - \\sinh^2 x = 1$ 恆成立。\n\n---",
+      "chapter": "Ch6 6.7節：雙曲函數",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "求雙曲正弦函數 $\\sinh(x)$ 的一階導數 $\\frac{d}{dx} \\sinh(x)$。",
+      "options": [
+        "$\\cosh(x)$",
+        "$-\\cosh(x)$",
+        "$\\sinh(x)$",
+        "$0$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "由雙曲函數定義：$\\frac{d}{dx} \\sinh x = \\cosh x$。\n\n---",
+      "chapter": "Ch6 6.7節：雙曲函數",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "求雙曲函數恆等式：$\\cosh^2(x) - \\sinh^2(x)$ 的值。",
+      "options": [
+        "$0$",
+        "$-1$",
+        "$1$",
+        "$\\cosh(2x)$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "由定義可知，$\\cosh^2 x - \\sinh^2 x = 1$ 恆成立。\n\n---",
+      "chapter": "Ch6 6.7節：雙曲函數",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "求雙曲正弦函數 $\\sinh(x)$ 的一階導數 $\\frac{d}{dx} \\sinh(x)$。",
+      "options": [
+        "$-\\cosh(x)$",
+        "$\\cosh(x)$",
+        "$\\sinh(x)$",
+        "$0$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "由雙曲函數定義：$\\frac{d}{dx} \\sinh x = \\cosh x$。\n\n---",
+      "chapter": "Ch6 6.7節：雙曲函數",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "求雙曲函數恆等式：$\\cosh^2(x) - \\sinh^2(x)$ 的值。",
+      "options": [
+        "$\\cosh(2x)$",
+        "$-1$",
+        "$0$",
+        "$1$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "由定義可知，$\\cosh^2 x - \\sinh^2 x = 1$ 恆成立。\n\n---",
+      "chapter": "Ch6 6.7節：雙曲函數",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "求雙曲正弦函數 $\\sinh(x)$ 的一階導數 $\\frac{d}{dx} \\sinh(x)$。",
+      "options": [
+        "$\\cosh(x)$",
+        "$-\\cosh(x)$",
+        "$\\sinh(x)$",
+        "$0$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "由雙曲函數定義：$\\frac{d}{dx} \\sinh x = \\cosh x$。\n\n---",
+      "chapter": "Ch6 6.7節：雙曲函數",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "求雙曲函數恆等式：$\\cosh^2(x) - \\sinh^2(x)$ 的值。",
+      "options": [
+        "$0$",
+        "$-1$",
+        "$1$",
+        "$\\cosh(2x)$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "由定義可知，$\\cosh^2 x - \\sinh^2 x = 1$ 恆成立。\n\n---",
+      "chapter": "Ch6 6.7節：雙曲函數",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "求雙曲正弦函數 $\\sinh(x)$ 的一階導數 $\\frac{d}{dx} \\sinh(x)$。",
+      "options": [
+        "$-\\cosh(x)$",
+        "$\\cosh(x)$",
+        "$\\sinh(x)$",
+        "$0$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "由雙曲函數定義：$\\frac{d}{dx} \\sinh x = \\cosh x$。\n\n---",
+      "chapter": "Ch6 6.7節：雙曲函數",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "求雙曲函數恆等式：$\\cosh^2(x) - \\sinh^2(x)$ 的值。",
+      "options": [
+        "$\\cosh(2x)$",
+        "$-1$",
+        "$0$",
+        "$1$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "由定義可知，$\\cosh^2 x - \\sinh^2 x = 1$ 恆成立。\n\n---",
+      "chapter": "Ch6 6.7節：雙曲函數",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "求雙曲正弦函數 $\\sinh(x)$ 的一階導數 $\\frac{d}{dx} \\sinh(x)$。",
+      "options": [
+        "$\\cosh(x)$",
+        "$-\\cosh(x)$",
+        "$\\sinh(x)$",
+        "$0$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "由雙曲函數定義：$\\frac{d}{dx} \\sinh x = \\cosh x$。\n\n---",
+      "chapter": "Ch6 6.7節：雙曲函數",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "求雙曲函數恆等式：$\\cosh^2(x) - \\sinh^2(x)$ 的值。",
+      "options": [
+        "$0$",
+        "$-1$",
+        "$1$",
+        "$\\cosh(2x)$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "由定義可知，$\\cosh^2 x - \\sinh^2 x = 1$ 恆成立。\n\n---",
+      "chapter": "Ch6 6.7節：雙曲函數",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "求雙曲正弦函數 $\\sinh(x)$ 的一階導數 $\\frac{d}{dx} \\sinh(x)$。",
+      "options": [
+        "$-\\cosh(x)$",
+        "$\\cosh(x)$",
+        "$\\sinh(x)$",
+        "$0$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "由雙曲函數定義：$\\frac{d}{dx} \\sinh x = \\cosh x$。\n\n---",
+      "chapter": "Ch6 6.7節：雙曲函數",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "求雙曲函數恆等式：$\\cosh^2(x) - \\sinh^2(x)$ 的值。",
+      "options": [
+        "$\\cosh(2x)$",
+        "$-1$",
+        "$0$",
+        "$1$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "由定義可知，$\\cosh^2 x - \\sinh^2 x = 1$ 恆成立。\n\n---",
+      "chapter": "Ch6 6.7節：雙曲函數",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "求雙曲正弦函數 $\\sinh(x)$ 的一階導數 $\\frac{d}{dx} \\sinh(x)$。",
+      "options": [
+        "$\\cosh(x)$",
+        "$-\\cosh(x)$",
+        "$\\sinh(x)$",
+        "$0$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "由雙曲函數定義：$\\frac{d}{dx} \\sinh x = \\cosh x$。\n\n---",
+      "chapter": "Ch6 6.7節：雙曲函數",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "求雙曲函數恆等式：$\\cosh^2(x) - \\sinh^2(x)$ 的值。",
+      "options": [
+        "$0$",
+        "$-1$",
+        "$1$",
+        "$\\cosh(2x)$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "由定義可知，$\\cosh^2 x - \\sinh^2 x = 1$ 恆成立。\n\n---",
+      "chapter": "Ch6 6.7節：雙曲函數",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "求雙曲正弦函數 $\\sinh(x)$ 的一階導數 $\\frac{d}{dx} \\sinh(x)$。",
+      "options": [
+        "$-\\cosh(x)$",
+        "$\\cosh(x)$",
+        "$\\sinh(x)$",
+        "$0$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "由雙曲函數定義：$\\frac{d}{dx} \\sinh x = \\cosh x$。\n\n---",
+      "chapter": "Ch6 6.7節：雙曲函數",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "求雙曲函數恆等式：$\\cosh^2(x) - \\sinh^2(x)$ 的值。",
+      "options": [
+        "$\\cosh(2x)$",
+        "$-1$",
+        "$0$",
+        "$1$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "由定義可知，$\\cosh^2 x - \\sinh^2 x = 1$ 恆成立。\n\n---",
+      "chapter": "Ch6 6.7節：雙曲函數",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "求雙曲正弦函數 $\\sinh(x)$ 的一階導數 $\\frac{d}{dx} \\sinh(x)$。",
+      "options": [
+        "$\\cosh(x)$",
+        "$-\\cosh(x)$",
+        "$\\sinh(x)$",
+        "$0$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "由雙曲函數定義：$\\frac{d}{dx} \\sinh x = \\cosh x$。\n\n---",
+      "chapter": "Ch6 6.7節：雙曲函數",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "計算 $\\cosh(0)$ 的值。",
+      "options": [],
+      "answer": "1",
+      "type": "fill",
+      "solution": "雙曲餘弦定義：$\\cosh(0) = \\frac{e^0 + e^{-0}}{2} = \\frac{1 + 1}{2} = 1$。\n\n---",
+      "chapter": "Ch6 6.7節：雙曲函數",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "計算 $\\cosh(0)$ 的值。",
+      "options": [],
+      "answer": "1",
+      "type": "fill",
+      "solution": "雙曲餘弦定義：$\\cosh(0) = \\frac{e^0 + e^{-0}}{2} = \\frac{1 + 1}{2} = 1$。\n\n---",
+      "chapter": "Ch6 6.7節：雙曲函數",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "計算 $\\cosh(0)$ 的值。",
+      "options": [],
+      "answer": "1",
+      "type": "fill",
+      "solution": "雙曲餘弦定義：$\\cosh(0) = \\frac{e^0 + e^{-0}}{2} = \\frac{1 + 1}{2} = 1$。\n\n---",
+      "chapter": "Ch6 6.7節：雙曲函數",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "計算 $\\cosh(0)$ 的值。",
+      "options": [],
+      "answer": "1",
+      "type": "fill",
+      "solution": "雙曲餘弦定義：$\\cosh(0) = \\frac{e^0 + e^{-0}}{2} = \\frac{1 + 1}{2} = 1$。\n\n---",
+      "chapter": "Ch6 6.7節：雙曲函數",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "計算 $\\cosh(0)$ 的值。",
+      "options": [],
+      "answer": "1",
+      "type": "fill",
+      "solution": "雙曲餘弦定義：$\\cosh(0) = \\frac{e^0 + e^{-0}}{2} = \\frac{1 + 1}{2} = 1$。\n\n---",
+      "chapter": "Ch6 6.7節：雙曲函數",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "計算 $\\cosh(0)$ 的值。",
+      "options": [],
+      "answer": "1",
+      "type": "fill",
+      "solution": "雙曲餘弦定義：$\\cosh(0) = \\frac{e^0 + e^{-0}}{2} = \\frac{1 + 1}{2} = 1$。\n\n---",
+      "chapter": "Ch6 6.7節：雙曲函數",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "計算 $\\cosh(0)$ 的值。",
+      "options": [],
+      "answer": "1",
+      "type": "fill",
+      "solution": "雙曲餘弦定義：$\\cosh(0) = \\frac{e^0 + e^{-0}}{2} = \\frac{1 + 1}{2} = 1$。\n\n---",
+      "chapter": "Ch6 6.7節：雙曲函數",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "計算 $\\cosh(0)$ 的值。",
+      "options": [],
+      "answer": "1",
+      "type": "fill",
+      "solution": "雙曲餘弦定義：$\\cosh(0) = \\frac{e^0 + e^{-0}}{2} = \\frac{1 + 1}{2} = 1$。\n\n---",
+      "chapter": "Ch6 6.7節：雙曲函數",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "計算 $\\cosh(0)$ 的值。",
+      "options": [],
+      "answer": "1",
+      "type": "fill",
+      "solution": "雙曲餘弦定義：$\\cosh(0) = \\frac{e^0 + e^{-0}}{2} = \\frac{1 + 1}{2} = 1$。\n\n---",
+      "chapter": "Ch6 6.7節：雙曲函數",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "計算 $\\cosh(0)$ 的值。",
+      "options": [],
+      "answer": "1",
+      "type": "fill",
+      "solution": "雙曲餘弦定義：$\\cosh(0) = \\frac{e^0 + e^{-0}}{2} = \\frac{1 + 1}{2} = 1$。",
+      "chapter": "Ch6 6.7節：雙曲函數",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "利用洛必達法則求極限 $\\lim_{x \\to 0} \\frac{e^{2x} - 1}{x}$。",
+      "options": [
+        "$0$",
+        "$1$",
+        "$2$",
+        "$e$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "此為 $\\frac{0}{0}$ 型。分子分母求導：$\\lim_{x \\to 0} \\frac{2e^{2x}}{1} = 2e^0 = 2$。\n\n---",
+      "chapter": "Ch6 6.8節：不定型與洛必達法則",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "利用洛必達法則（l'Hospital's Rule）求極限 $\\lim_{x \\to 0} \\frac{\\sin(3x)}{x}$。",
+      "options": [
+        "$1$",
+        "$3$",
+        "$0$",
+        "$\\infty$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "此極限為 $\\frac{0}{0}$ 型。求導：$\\lim_{x \\to 0} \\frac{3\\cos(3x)}{1} = 3\\cos(0) = 3$。\n\n---",
+      "chapter": "Ch6 6.8節：不定型與洛必達法則",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "利用洛必達法則求極限 $\\lim_{x \\to 0} \\frac{e^{4x} - 1}{x}$。",
+      "options": [
+        "$e$",
+        "$1$",
+        "$0$",
+        "$4$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "此為 $\\frac{0}{0}$ 型。分子分母求導：$\\lim_{x \\to 0} \\frac{4e^{4x}}{1} = 4e^0 = 4$。\n\n---",
+      "chapter": "Ch6 6.8節：不定型與洛必達法則",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "利用洛必達法則（l'Hospital's Rule）求極限 $\\lim_{x \\to 0} \\frac{\\sin(5x)}{x}$。",
+      "options": [
+        "$5$",
+        "$1$",
+        "$0$",
+        "$\\infty$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "此極限為 $\\frac{0}{0}$ 型。求導：$\\lim_{x \\to 0} \\frac{5\\cos(5x)}{1} = 5\\cos(0) = 5$。\n\n---",
+      "chapter": "Ch6 6.8節：不定型與洛必達法則",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "利用洛必達法則求極限 $\\lim_{x \\to 0} \\frac{e^{6x} - 1}{x}$。",
+      "options": [
+        "$0$",
+        "$1$",
+        "$6$",
+        "$e$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "此為 $\\frac{0}{0}$ 型。分子分母求導：$\\lim_{x \\to 0} \\frac{6e^{6x}}{1} = 6e^0 = 6$。\n\n---",
+      "chapter": "Ch6 6.8節：不定型與洛必達法則",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "利用洛必達法則（l'Hospital's Rule）求極限 $\\lim_{x \\to 0} \\frac{\\sin(7x)}{x}$。",
+      "options": [
+        "$1$",
+        "$7$",
+        "$0$",
+        "$\\infty$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "此極限為 $\\frac{0}{0}$ 型。求導：$\\lim_{x \\to 0} \\frac{7\\cos(7x)}{1} = 7\\cos(0) = 7$。\n\n---",
+      "chapter": "Ch6 6.8節：不定型與洛必達法則",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "利用洛必達法則求極限 $\\lim_{x \\to 0} \\frac{e^{8x} - 1}{x}$。",
+      "options": [
+        "$e$",
+        "$1$",
+        "$0$",
+        "$8$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "此為 $\\frac{0}{0}$ 型。分子分母求導：$\\lim_{x \\to 0} \\frac{8e^{8x}}{1} = 8e^0 = 8$。\n\n---",
+      "chapter": "Ch6 6.8節：不定型與洛必達法則",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "利用洛必達法則（l'Hospital's Rule）求極限 $\\lim_{x \\to 0} \\frac{\\sin(9x)}{x}$。",
+      "options": [
+        "$9$",
+        "$1$",
+        "$0$",
+        "$\\infty$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "此極限為 $\\frac{0}{0}$ 型。求導：$\\lim_{x \\to 0} \\frac{9\\cos(9x)}{1} = 9\\cos(0) = 9$。\n\n---",
+      "chapter": "Ch6 6.8節：不定型與洛必達法則",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "利用洛必達法則求極限 $\\lim_{x \\to 0} \\frac{e^{10x} - 1}{x}$。",
+      "options": [
+        "$0$",
+        "$1$",
+        "$10$",
+        "$e$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "此為 $\\frac{0}{0}$ 型。分子分母求導：$\\lim_{x \\to 0} \\frac{10e^{10x}}{1} = 10e^0 = 10$。\n\n---",
+      "chapter": "Ch6 6.8節：不定型與洛必達法則",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "利用洛必達法則（l'Hospital's Rule）求極限 $\\lim_{x \\to 0} \\frac{\\sin(11x)}{x}$。",
+      "options": [
+        "$1$",
+        "$11$",
+        "$0$",
+        "$\\infty$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "此極限為 $\\frac{0}{0}$ 型。求導：$\\lim_{x \\to 0} \\frac{11\\cos(11x)}{1} = 11\\cos(0) = 11$。\n\n---",
+      "chapter": "Ch6 6.8節：不定型與洛必達法則",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "利用洛必達法則求極限 $\\lim_{x \\to 0} \\frac{e^{12x} - 1}{x}$。",
+      "options": [
+        "$e$",
+        "$1$",
+        "$0$",
+        "$12$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "此為 $\\frac{0}{0}$ 型。分子分母求導：$\\lim_{x \\to 0} \\frac{12e^{12x}}{1} = 12e^0 = 12$。\n\n---",
+      "chapter": "Ch6 6.8節：不定型與洛必達法則",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "利用洛必達法則（l'Hospital's Rule）求極限 $\\lim_{x \\to 0} \\frac{\\sin(13x)}{x}$。",
+      "options": [
+        "$13$",
+        "$1$",
+        "$0$",
+        "$\\infty$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "此極限為 $\\frac{0}{0}$ 型。求導：$\\lim_{x \\to 0} \\frac{13\\cos(13x)}{1} = 13\\cos(0) = 13$。\n\n---",
+      "chapter": "Ch6 6.8節：不定型與洛必達法則",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "利用洛必達法則求極限 $\\lim_{x \\to 0} \\frac{e^{14x} - 1}{x}$。",
+      "options": [
+        "$0$",
+        "$1$",
+        "$14$",
+        "$e$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "此為 $\\frac{0}{0}$ 型。分子分母求導：$\\lim_{x \\to 0} \\frac{14e^{14x}}{1} = 14e^0 = 14$。\n\n---",
+      "chapter": "Ch6 6.8節：不定型與洛必達法則",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "利用洛必達法則（l'Hospital's Rule）求極限 $\\lim_{x \\to 0} \\frac{\\sin(15x)}{x}$。",
+      "options": [
+        "$1$",
+        "$15$",
+        "$0$",
+        "$\\infty$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "此極限為 $\\frac{0}{0}$ 型。求導：$\\lim_{x \\to 0} \\frac{15\\cos(15x)}{1} = 15\\cos(0) = 15$。\n\n---",
+      "chapter": "Ch6 6.8節：不定型與洛必達法則",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "利用洛必達法則求極限 $\\lim_{x \\to 0} \\frac{e^{16x} - 1}{x}$。",
+      "options": [
+        "$e$",
+        "$1$",
+        "$0$",
+        "$16$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "此為 $\\frac{0}{0}$ 型。分子分母求導：$\\lim_{x \\to 0} \\frac{16e^{16x}}{1} = 16e^0 = 16$。\n\n---",
+      "chapter": "Ch6 6.8節：不定型與洛必達法則",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "利用洛必達法則（l'Hospital's Rule）求極限 $\\lim_{x \\to 0} \\frac{\\sin(17x)}{x}$。",
+      "options": [
+        "$17$",
+        "$1$",
+        "$0$",
+        "$\\infty$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "此極限為 $\\frac{0}{0}$ 型。求導：$\\lim_{x \\to 0} \\frac{17\\cos(17x)}{1} = 17\\cos(0) = 17$。\n\n---",
+      "chapter": "Ch6 6.8節：不定型與洛必達法則",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "利用洛必達法則求極限 $\\lim_{x \\to 0} \\frac{e^{18x} - 1}{x}$。",
+      "options": [
+        "$0$",
+        "$1$",
+        "$18$",
+        "$e$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "此為 $\\frac{0}{0}$ 型。分子分母求導：$\\lim_{x \\to 0} \\frac{18e^{18x}}{1} = 18e^0 = 18$。\n\n---",
+      "chapter": "Ch6 6.8節：不定型與洛必達法則",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "利用洛必達法則（l'Hospital's Rule）求極限 $\\lim_{x \\to 0} \\frac{\\sin(19x)}{x}$。",
+      "options": [
+        "$1$",
+        "$19$",
+        "$0$",
+        "$\\infty$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "此極限為 $\\frac{0}{0}$ 型。求導：$\\lim_{x \\to 0} \\frac{19\\cos(19x)}{1} = 19\\cos(0) = 19$。\n\n---",
+      "chapter": "Ch6 6.8節：不定型與洛必達法則",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "利用洛必達法則求極限 $\\lim_{x \\to 0} \\frac{e^{20x} - 1}{x}$。",
+      "options": [
+        "$e$",
+        "$1$",
+        "$0$",
+        "$20$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "此為 $\\frac{0}{0}$ 型。分子分母求導：$\\lim_{x \\to 0} \\frac{20e^{20x}}{1} = 20e^0 = 20$。\n\n---",
+      "chapter": "Ch6 6.8節：不定型與洛必達法則",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "利用洛必達法則（l'Hospital's Rule）求極限 $\\lim_{x \\to 0} \\frac{\\sin(21x)}{x}$。",
+      "options": [
+        "$21$",
+        "$1$",
+        "$0$",
+        "$\\infty$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "此極限為 $\\frac{0}{0}$ 型。求導：$\\lim_{x \\to 0} \\frac{21\\cos(21x)}{1} = 21\\cos(0) = 21$。\n\n---",
+      "chapter": "Ch6 6.8節：不定型與洛必達法則",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "利用洛必達法則求 $\\lim_{x \\to 0} \\frac{3x}{e^x - 1}$ 的精確值。",
+      "options": [],
+      "answer": "3",
+      "type": "fill",
+      "solution": "此為 $\\frac{0}{0}$ 型。求導：$\\lim_{x \\to 0} \\frac{3}{e^x} = \\frac{3}{1} = 3$。\n\n---",
+      "chapter": "Ch6 6.8節：不定型與洛必達法則",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "利用洛必達法則求 $\\lim_{x \\to 0} \\frac{4x}{e^x - 1}$ 的精確值。",
+      "options": [],
+      "answer": "4",
+      "type": "fill",
+      "solution": "此為 $\\frac{0}{0}$ 型。求導：$\\lim_{x \\to 0} \\frac{4}{e^x} = \\frac{4}{1} = 4$。\n\n---",
+      "chapter": "Ch6 6.8節：不定型與洛必達法則",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "利用洛必達法則求 $\\lim_{x \\to 0} \\frac{5x}{e^x - 1}$ 的精確值。",
+      "options": [],
+      "answer": "5",
+      "type": "fill",
+      "solution": "此為 $\\frac{0}{0}$ 型。求導：$\\lim_{x \\to 0} \\frac{5}{e^x} = \\frac{5}{1} = 5$。\n\n---",
+      "chapter": "Ch6 6.8節：不定型與洛必達法則",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "利用洛必達法則求 $\\lim_{x \\to 0} \\frac{6x}{e^x - 1}$ 的精確值。",
+      "options": [],
+      "answer": "6",
+      "type": "fill",
+      "solution": "此為 $\\frac{0}{0}$ 型。求導：$\\lim_{x \\to 0} \\frac{6}{e^x} = \\frac{6}{1} = 6$。\n\n---",
+      "chapter": "Ch6 6.8節：不定型與洛必達法則",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "利用洛必達法則求 $\\lim_{x \\to 0} \\frac{7x}{e^x - 1}$ 的精確值。",
+      "options": [],
+      "answer": "7",
+      "type": "fill",
+      "solution": "此為 $\\frac{0}{0}$ 型。求導：$\\lim_{x \\to 0} \\frac{7}{e^x} = \\frac{7}{1} = 7$。\n\n---",
+      "chapter": "Ch6 6.8節：不定型與洛必達法則",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "利用洛必達法則求 $\\lim_{x \\to 0} \\frac{8x}{e^x - 1}$ 的精確值。",
+      "options": [],
+      "answer": "8",
+      "type": "fill",
+      "solution": "此為 $\\frac{0}{0}$ 型。求導：$\\lim_{x \\to 0} \\frac{8}{e^x} = \\frac{8}{1} = 8$。\n\n---",
+      "chapter": "Ch6 6.8節：不定型與洛必達法則",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "利用洛必達法則求 $\\lim_{x \\to 0} \\frac{9x}{e^x - 1}$ 的精確值。",
+      "options": [],
+      "answer": "9",
+      "type": "fill",
+      "solution": "此為 $\\frac{0}{0}$ 型。求導：$\\lim_{x \\to 0} \\frac{9}{e^x} = \\frac{9}{1} = 9$。\n\n---",
+      "chapter": "Ch6 6.8節：不定型與洛必達法則",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "利用洛必達法則求 $\\lim_{x \\to 0} \\frac{10x}{e^x - 1}$ 的精確值。",
+      "options": [],
+      "answer": "10",
+      "type": "fill",
+      "solution": "此為 $\\frac{0}{0}$ 型。求導：$\\lim_{x \\to 0} \\frac{10}{e^x} = \\frac{10}{1} = 10$。\n\n---",
+      "chapter": "Ch6 6.8節：不定型與洛必達法則",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "利用洛必達法則求 $\\lim_{x \\to 0} \\frac{11x}{e^x - 1}$ 的精確值。",
+      "options": [],
+      "answer": "11",
+      "type": "fill",
+      "solution": "此為 $\\frac{0}{0}$ 型。求導：$\\lim_{x \\to 0} \\frac{11}{e^x} = \\frac{11}{1} = 11$。\n\n---",
+      "chapter": "Ch6 6.8節：不定型與洛必達法則",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "利用洛必達法則求 $\\lim_{x \\to 0} \\frac{12x}{e^x - 1}$ 的精確值。",
+      "options": [],
+      "answer": "12",
+      "type": "fill",
+      "solution": "此為 $\\frac{0}{0}$ 型。求導：$\\lim_{x \\to 0} \\frac{12}{e^x} = \\frac{12}{1} = 12$。",
+      "chapter": "Ch6 6.8節：不定型與洛必達法則",
+      "score": 10
+    }
+  ]
+}

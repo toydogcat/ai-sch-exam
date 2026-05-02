@@ -33,7 +33,7 @@ const availableExamChapters = computed(() => {
   return Array.from(set).sort()
 })
 
-const selectedExamChapters = ref(['Ch0', 'Ch1', 'Ch2', 'Ch3', 'Ch4'])
+const selectedExamChapters = ref(['Ch0', 'Ch1', 'Ch2', 'Ch3', 'Ch4', 'Ch5', 'Ch6', 'Ch7', 'Ch8', 'Ch9', 'Ch10', 'Ch11', 'Ch12', 'Ch13', 'Ch14', 'Ch15', 'Ch16'])
 
 // Mini mode selections
 const selectedMiniChapter = ref('Ch1')
@@ -44,7 +44,19 @@ const chapterLabels = {
   'Ch1': '第 1 章：極限與連續',
   'Ch2': '第 2 章：導數與微分',
   'Ch3': '第 3 章：微分的應用',
-  'Ch4': '第 4 章：積分'
+  'Ch4': '第 4 章：積分',
+  'Ch5': '第 5 章：積分的應用',
+  'Ch6': '第 6 章：反函數與超越函數',
+  'Ch7': '第 7 章：進階積分技巧與方法',
+  'Ch8': '第 8 章：進階積分應用',
+  'Ch9': '第 9 章：微分方程',
+  'Ch10': '第 10 章：參數方程與極坐標',
+  'Ch11': '第 11 章：無窮序列與級數',
+  'Ch12': '第 12 章：向量與空間幾何',
+  'Ch13': '第 13 章：向量函數',
+  'Ch14': '第 14 章：偏導數',
+  'Ch15': '第 15 章：重積分',
+  'Ch16': '第 16 章：向量微積分'
 }
 
 // Filter raw sections belonging to selectedMiniChapter
@@ -92,7 +104,7 @@ const fetchBank = async () => {
   isLoading.value = true
   loadError.value = ''
   try {
-    const chaptersToLoad = ['ch0', 'ch1', 'ch2', 'ch3', 'ch4']
+    const chaptersToLoad = ['ch0', 'ch1', 'ch2', 'ch3', 'ch4', 'ch5', 'ch6', 'ch7', 'ch8', 'ch9', 'ch10', 'ch11', 'ch12', 'ch13', 'ch14', 'ch15', 'ch16']
     let combinedQuestions = []
     
     for (const ch of chaptersToLoad) {

@@ -1,0 +1,2004 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "text": "對於曲線 $x = g(y)$，在 $c \\le y \\le d$ 上的弧長公式為何？",
+      "options": [
+        "$\\int_c^d \\sqrt{1 - [g'(y)]^2} dy$",
+        "$\\int_c^d (1 + g'(y)) dy$",
+        "$\\int_c^d \\sqrt{1 + [g'(y)]^2} dy$",
+        "$\\int_c^d [g'(y)]^2 dy$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "沿 $y$ 軸積分的弧長公式為 $L = \\int_c^d \\sqrt{1 + [g'(y)]^2} dy$。\n\n---",
+      "chapter": "Ch8 8.1節：弧長",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "求函數 $y = 3x^{1.5}$ 在區間 $[0, 1]$ 上的弧長（Arc Length）精確值。",
+      "options": [
+        "$\\sqrt{1 + 3^2}$",
+        "$\\frac{1}{27}(\\sqrt{1 + 4.5^2} - 1)$",
+        "$3$",
+        "$\\frac{2}{3}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "弧長公式 $L = \\int_a^b \\sqrt{1 + [f'(x)]^2} dx$。對於 $f(x) = 3x^{1.5} \\implies f'(x) = 4.5x^{0.5}$，$[f'(x)]^2 = 20.25x$。故弧長可用代換積分求得。\n\n---",
+      "chapter": "Ch8 8.1節：弧長",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "對於曲線 $x = g(y)$，在 $c \\le y \\le d$ 上的弧長公式為何？",
+      "options": [
+        "$\\int_c^d [g'(y)]^2 dy$",
+        "$\\int_c^d (1 + g'(y)) dy$",
+        "$\\int_c^d \\sqrt{1 - [g'(y)]^2} dy$",
+        "$\\int_c^d \\sqrt{1 + [g'(y)]^2} dy$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "沿 $y$ 軸積分的弧長公式為 $L = \\int_c^d \\sqrt{1 + [g'(y)]^2} dy$。\n\n---",
+      "chapter": "Ch8 8.1節：弧長",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "求函數 $y = 5x^{1.5}$ 在區間 $[0, 1]$ 上的弧長（Arc Length）精確值。",
+      "options": [
+        "$\\frac{1}{27}(\\sqrt{1 + 7.5^2} - 1)$",
+        "$\\sqrt{1 + 5^2}$",
+        "$5$",
+        "$\\frac{2}{5}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "弧長公式 $L = \\int_a^b \\sqrt{1 + [f'(x)]^2} dx$。對於 $f(x) = 5x^{1.5} \\implies f'(x) = 7.5x^{0.5}$，$[f'(x)]^2 = 56.25x$。故弧長可用代換積分求得。\n\n---",
+      "chapter": "Ch8 8.1節：弧長",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "對於曲線 $x = g(y)$，在 $c \\le y \\le d$ 上的弧長公式為何？",
+      "options": [
+        "$\\int_c^d \\sqrt{1 - [g'(y)]^2} dy$",
+        "$\\int_c^d (1 + g'(y)) dy$",
+        "$\\int_c^d \\sqrt{1 + [g'(y)]^2} dy$",
+        "$\\int_c^d [g'(y)]^2 dy$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "沿 $y$ 軸積分的弧長公式為 $L = \\int_c^d \\sqrt{1 + [g'(y)]^2} dy$。\n\n---",
+      "chapter": "Ch8 8.1節：弧長",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "求函數 $y = 7x^{1.5}$ 在區間 $[0, 1]$ 上的弧長（Arc Length）精確值。",
+      "options": [
+        "$\\sqrt{1 + 7^2}$",
+        "$\\frac{1}{27}(\\sqrt{1 + 10.5^2} - 1)$",
+        "$7$",
+        "$\\frac{2}{7}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "弧長公式 $L = \\int_a^b \\sqrt{1 + [f'(x)]^2} dx$。對於 $f(x) = 7x^{1.5} \\implies f'(x) = 10.5x^{0.5}$，$[f'(x)]^2 = 110.25x$。故弧長可用代換積分求得。\n\n---",
+      "chapter": "Ch8 8.1節：弧長",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "對於曲線 $x = g(y)$，在 $c \\le y \\le d$ 上的弧長公式為何？",
+      "options": [
+        "$\\int_c^d [g'(y)]^2 dy$",
+        "$\\int_c^d (1 + g'(y)) dy$",
+        "$\\int_c^d \\sqrt{1 - [g'(y)]^2} dy$",
+        "$\\int_c^d \\sqrt{1 + [g'(y)]^2} dy$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "沿 $y$ 軸積分的弧長公式為 $L = \\int_c^d \\sqrt{1 + [g'(y)]^2} dy$。\n\n---",
+      "chapter": "Ch8 8.1節：弧長",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "求函數 $y = 9x^{1.5}$ 在區間 $[0, 1]$ 上的弧長（Arc Length）精確值。",
+      "options": [
+        "$\\frac{1}{27}(\\sqrt{1 + 13.5^2} - 1)$",
+        "$\\sqrt{1 + 9^2}$",
+        "$9$",
+        "$\\frac{2}{9}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "弧長公式 $L = \\int_a^b \\sqrt{1 + [f'(x)]^2} dx$。對於 $f(x) = 9x^{1.5} \\implies f'(x) = 13.5x^{0.5}$，$[f'(x)]^2 = 182.25x$。故弧長可用代換積分求得。\n\n---",
+      "chapter": "Ch8 8.1節：弧長",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "對於曲線 $x = g(y)$，在 $c \\le y \\le d$ 上的弧長公式為何？",
+      "options": [
+        "$\\int_c^d \\sqrt{1 - [g'(y)]^2} dy$",
+        "$\\int_c^d (1 + g'(y)) dy$",
+        "$\\int_c^d \\sqrt{1 + [g'(y)]^2} dy$",
+        "$\\int_c^d [g'(y)]^2 dy$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "沿 $y$ 軸積分的弧長公式為 $L = \\int_c^d \\sqrt{1 + [g'(y)]^2} dy$。\n\n---",
+      "chapter": "Ch8 8.1節：弧長",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "求函數 $y = 11x^{1.5}$ 在區間 $[0, 1]$ 上的弧長（Arc Length）精確值。",
+      "options": [
+        "$\\sqrt{1 + 11^2}$",
+        "$\\frac{1}{27}(\\sqrt{1 + 16.5^2} - 1)$",
+        "$11$",
+        "$\\frac{2}{11}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "弧長公式 $L = \\int_a^b \\sqrt{1 + [f'(x)]^2} dx$。對於 $f(x) = 11x^{1.5} \\implies f'(x) = 16.5x^{0.5}$，$[f'(x)]^2 = 272.25x$。故弧長可用代換積分求得。\n\n---",
+      "chapter": "Ch8 8.1節：弧長",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "對於曲線 $x = g(y)$，在 $c \\le y \\le d$ 上的弧長公式為何？",
+      "options": [
+        "$\\int_c^d [g'(y)]^2 dy$",
+        "$\\int_c^d (1 + g'(y)) dy$",
+        "$\\int_c^d \\sqrt{1 - [g'(y)]^2} dy$",
+        "$\\int_c^d \\sqrt{1 + [g'(y)]^2} dy$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "沿 $y$ 軸積分的弧長公式為 $L = \\int_c^d \\sqrt{1 + [g'(y)]^2} dy$。\n\n---",
+      "chapter": "Ch8 8.1節：弧長",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "求函數 $y = 13x^{1.5}$ 在區間 $[0, 1]$ 上的弧長（Arc Length）精確值。",
+      "options": [
+        "$\\frac{1}{27}(\\sqrt{1 + 19.5^2} - 1)$",
+        "$\\sqrt{1 + 13^2}$",
+        "$13$",
+        "$\\frac{2}{13}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "弧長公式 $L = \\int_a^b \\sqrt{1 + [f'(x)]^2} dx$。對於 $f(x) = 13x^{1.5} \\implies f'(x) = 19.5x^{0.5}$，$[f'(x)]^2 = 380.25x$。故弧長可用代換積分求得。\n\n---",
+      "chapter": "Ch8 8.1節：弧長",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "對於曲線 $x = g(y)$，在 $c \\le y \\le d$ 上的弧長公式為何？",
+      "options": [
+        "$\\int_c^d \\sqrt{1 - [g'(y)]^2} dy$",
+        "$\\int_c^d (1 + g'(y)) dy$",
+        "$\\int_c^d \\sqrt{1 + [g'(y)]^2} dy$",
+        "$\\int_c^d [g'(y)]^2 dy$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "沿 $y$ 軸積分的弧長公式為 $L = \\int_c^d \\sqrt{1 + [g'(y)]^2} dy$。\n\n---",
+      "chapter": "Ch8 8.1節：弧長",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "求函數 $y = 15x^{1.5}$ 在區間 $[0, 1]$ 上的弧長（Arc Length）精確值。",
+      "options": [
+        "$\\sqrt{1 + 15^2}$",
+        "$\\frac{1}{27}(\\sqrt{1 + 22.5^2} - 1)$",
+        "$15$",
+        "$\\frac{2}{15}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "弧長公式 $L = \\int_a^b \\sqrt{1 + [f'(x)]^2} dx$。對於 $f(x) = 15x^{1.5} \\implies f'(x) = 22.5x^{0.5}$，$[f'(x)]^2 = 506.25x$。故弧長可用代換積分求得。\n\n---",
+      "chapter": "Ch8 8.1節：弧長",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "對於曲線 $x = g(y)$，在 $c \\le y \\le d$ 上的弧長公式為何？",
+      "options": [
+        "$\\int_c^d [g'(y)]^2 dy$",
+        "$\\int_c^d (1 + g'(y)) dy$",
+        "$\\int_c^d \\sqrt{1 - [g'(y)]^2} dy$",
+        "$\\int_c^d \\sqrt{1 + [g'(y)]^2} dy$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "沿 $y$ 軸積分的弧長公式為 $L = \\int_c^d \\sqrt{1 + [g'(y)]^2} dy$。\n\n---",
+      "chapter": "Ch8 8.1節：弧長",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "求函數 $y = 17x^{1.5}$ 在區間 $[0, 1]$ 上的弧長（Arc Length）精確值。",
+      "options": [
+        "$\\frac{1}{27}(\\sqrt{1 + 25.5^2} - 1)$",
+        "$\\sqrt{1 + 17^2}$",
+        "$17$",
+        "$\\frac{2}{17}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "弧長公式 $L = \\int_a^b \\sqrt{1 + [f'(x)]^2} dx$。對於 $f(x) = 17x^{1.5} \\implies f'(x) = 25.5x^{0.5}$，$[f'(x)]^2 = 650.25x$。故弧長可用代換積分求得。\n\n---",
+      "chapter": "Ch8 8.1節：弧長",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "對於曲線 $x = g(y)$，在 $c \\le y \\le d$ 上的弧長公式為何？",
+      "options": [
+        "$\\int_c^d \\sqrt{1 - [g'(y)]^2} dy$",
+        "$\\int_c^d (1 + g'(y)) dy$",
+        "$\\int_c^d \\sqrt{1 + [g'(y)]^2} dy$",
+        "$\\int_c^d [g'(y)]^2 dy$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "沿 $y$ 軸積分的弧長公式為 $L = \\int_c^d \\sqrt{1 + [g'(y)]^2} dy$。\n\n---",
+      "chapter": "Ch8 8.1節：弧長",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "求函數 $y = 19x^{1.5}$ 在區間 $[0, 1]$ 上的弧長（Arc Length）精確值。",
+      "options": [
+        "$\\sqrt{1 + 19^2}$",
+        "$\\frac{1}{27}(\\sqrt{1 + 28.5^2} - 1)$",
+        "$19$",
+        "$\\frac{2}{19}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "弧長公式 $L = \\int_a^b \\sqrt{1 + [f'(x)]^2} dx$。對於 $f(x) = 19x^{1.5} \\implies f'(x) = 28.5x^{0.5}$，$[f'(x)]^2 = 812.25x$。故弧長可用代換積分求得。\n\n---",
+      "chapter": "Ch8 8.1節：弧長",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "對於曲線 $x = g(y)$，在 $c \\le y \\le d$ 上的弧長公式為何？",
+      "options": [
+        "$\\int_c^d [g'(y)]^2 dy$",
+        "$\\int_c^d (1 + g'(y)) dy$",
+        "$\\int_c^d \\sqrt{1 - [g'(y)]^2} dy$",
+        "$\\int_c^d \\sqrt{1 + [g'(y)]^2} dy$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "沿 $y$ 軸積分的弧長公式為 $L = \\int_c^d \\sqrt{1 + [g'(y)]^2} dy$。\n\n---",
+      "chapter": "Ch8 8.1節：弧長",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "求函數 $y = 21x^{1.5}$ 在區間 $[0, 1]$ 上的弧長（Arc Length）精確值。",
+      "options": [
+        "$\\frac{1}{27}(\\sqrt{1 + 31.5^2} - 1)$",
+        "$\\sqrt{1 + 21^2}$",
+        "$21$",
+        "$\\frac{2}{21}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "弧長公式 $L = \\int_a^b \\sqrt{1 + [f'(x)]^2} dx$。對於 $f(x) = 21x^{1.5} \\implies f'(x) = 31.5x^{0.5}$，$[f'(x)]^2 = 992.25x$。故弧長可用代換積分求得。\n\n---",
+      "chapter": "Ch8 8.1節：弧長",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "設一平滑曲線 $y = 3x + 2$，求其在 $[0, 3]$ 的弧長。",
+      "options": [],
+      "answer": "9.49",
+      "type": "fill",
+      "solution": "此曲線為直線。$y' = 3$，故弧長 $L = \\int_0^3 \\sqrt{1 + 3^2} dx = 3\\sqrt{1 + 9}$。結果為 9.49。\n\n---",
+      "chapter": "Ch8 8.1節：弧長",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "設一平滑曲線 $y = 4x + 2$，求其在 $[0, 3]$ 的弧長。",
+      "options": [],
+      "answer": "12.37",
+      "type": "fill",
+      "solution": "此曲線為直線。$y' = 4$，故弧長 $L = \\int_0^3 \\sqrt{1 + 4^2} dx = 3\\sqrt{1 + 16}$。結果為 12.37。\n\n---",
+      "chapter": "Ch8 8.1節：弧長",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "設一平滑曲線 $y = 5x + 2$，求其在 $[0, 3]$ 的弧長。",
+      "options": [],
+      "answer": "15.3",
+      "type": "fill",
+      "solution": "此曲線為直線。$y' = 5$，故弧長 $L = \\int_0^3 \\sqrt{1 + 5^2} dx = 3\\sqrt{1 + 25}$。結果為 15.3。\n\n---",
+      "chapter": "Ch8 8.1節：弧長",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "設一平滑曲線 $y = 6x + 2$，求其在 $[0, 3]$ 的弧長。",
+      "options": [],
+      "answer": "18.25",
+      "type": "fill",
+      "solution": "此曲線為直線。$y' = 6$，故弧長 $L = \\int_0^3 \\sqrt{1 + 6^2} dx = 3\\sqrt{1 + 36}$。結果為 18.25。\n\n---",
+      "chapter": "Ch8 8.1節：弧長",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "設一平滑曲線 $y = 7x + 2$，求其在 $[0, 3]$ 的弧長。",
+      "options": [],
+      "answer": "21.21",
+      "type": "fill",
+      "solution": "此曲線為直線。$y' = 7$，故弧長 $L = \\int_0^3 \\sqrt{1 + 7^2} dx = 3\\sqrt{1 + 49}$。結果為 21.21。\n\n---",
+      "chapter": "Ch8 8.1節：弧長",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "設一平滑曲線 $y = 8x + 2$，求其在 $[0, 3]$ 的弧長。",
+      "options": [],
+      "answer": "24.19",
+      "type": "fill",
+      "solution": "此曲線為直線。$y' = 8$，故弧長 $L = \\int_0^3 \\sqrt{1 + 8^2} dx = 3\\sqrt{1 + 64}$。結果為 24.19。\n\n---",
+      "chapter": "Ch8 8.1節：弧長",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "設一平滑曲線 $y = 9x + 2$，求其在 $[0, 3]$ 的弧長。",
+      "options": [],
+      "answer": "27.17",
+      "type": "fill",
+      "solution": "此曲線為直線。$y' = 9$，故弧長 $L = \\int_0^3 \\sqrt{1 + 9^2} dx = 3\\sqrt{1 + 81}$。結果為 27.17。\n\n---",
+      "chapter": "Ch8 8.1節：弧長",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "設一平滑曲線 $y = 10x + 2$，求其在 $[0, 3]$ 的弧長。",
+      "options": [],
+      "answer": "30.15",
+      "type": "fill",
+      "solution": "此曲線為直線。$y' = 10$，故弧長 $L = \\int_0^3 \\sqrt{1 + 10^2} dx = 3\\sqrt{1 + 100}$。結果為 30.15。\n\n---",
+      "chapter": "Ch8 8.1節：弧長",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "設一平滑曲線 $y = 11x + 2$，求其在 $[0, 3]$ 的弧長。",
+      "options": [],
+      "answer": "33.14",
+      "type": "fill",
+      "solution": "此曲線為直線。$y' = 11$，故弧長 $L = \\int_0^3 \\sqrt{1 + 11^2} dx = 3\\sqrt{1 + 121}$。結果為 33.14。\n\n---",
+      "chapter": "Ch8 8.1節：弧長",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "設一平滑曲線 $y = 12x + 2$，求其在 $[0, 3]$ 的弧長。",
+      "options": [],
+      "answer": "36.12",
+      "type": "fill",
+      "solution": "此曲線為直線。$y' = 12$，故弧長 $L = \\int_0^3 \\sqrt{1 + 12^2} dx = 3\\sqrt{1 + 144}$。結果為 36.12。",
+      "chapter": "Ch8 8.1節：弧長",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "若曲線繞 $y$ 軸旋轉，旋轉體表面積公式中應包含哪一項距離 $x$？",
+      "options": [
+        "$\\pi x^2$",
+        "$2\\pi y$",
+        "$2\\pi x$",
+        "$2\\pi x^2$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "繞 $y$ 軸旋轉時，曲線上點到旋轉軸的距離為 $x$，故公式為 $S = \\int 2\\pi x ds$。\n\n---",
+      "chapter": "Ch8 8.2節：旋轉體的表面積",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "將曲線 $y = 3x$ 在 $[0, 1]$ 繞 $x$ 軸旋轉所生成的表面積。",
+      "options": [
+        "$\\pi 3\\sqrt{1 + 9}$",
+        "$2\\pi 3$",
+        "$\\pi 9$",
+        "$\\frac{\\pi}{2}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "旋轉體表面積公式：$S = \\int 2\\pi y ds$。因 $y = ax \\implies y' = a$，積分得 $\\int_0^1 2\\pi (ax) \\sqrt{1 + a^2} dx = 2\\pi a\\sqrt{1 + a^2} [\\frac{x^2}{2}]_0^1 = \\pi a\\sqrt{1 + a^2}$。\n\n---",
+      "chapter": "Ch8 8.2節：旋轉體的表面積",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "若曲線繞 $y$ 軸旋轉，旋轉體表面積公式中應包含哪一項距離 $x$？",
+      "options": [
+        "$2\\pi x^2$",
+        "$2\\pi y$",
+        "$\\pi x^2$",
+        "$2\\pi x$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "繞 $y$ 軸旋轉時，曲線上點到旋轉軸的距離為 $x$，故公式為 $S = \\int 2\\pi x ds$。\n\n---",
+      "chapter": "Ch8 8.2節：旋轉體的表面積",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "將曲線 $y = 5x$ 在 $[0, 1]$ 繞 $x$ 軸旋轉所生成的表面積。",
+      "options": [
+        "$2\\pi 5$",
+        "$\\pi 5\\sqrt{1 + 25}$",
+        "$\\pi 25$",
+        "$\\frac{\\pi}{2}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "旋轉體表面積公式：$S = \\int 2\\pi y ds$。因 $y = ax \\implies y' = a$，積分得 $\\int_0^1 2\\pi (ax) \\sqrt{1 + a^2} dx = 2\\pi a\\sqrt{1 + a^2} [\\frac{x^2}{2}]_0^1 = \\pi a\\sqrt{1 + a^2}$。\n\n---",
+      "chapter": "Ch8 8.2節：旋轉體的表面積",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "若曲線繞 $y$ 軸旋轉，旋轉體表面積公式中應包含哪一項距離 $x$？",
+      "options": [
+        "$\\pi x^2$",
+        "$2\\pi y$",
+        "$2\\pi x$",
+        "$2\\pi x^2$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "繞 $y$ 軸旋轉時，曲線上點到旋轉軸的距離為 $x$，故公式為 $S = \\int 2\\pi x ds$。\n\n---",
+      "chapter": "Ch8 8.2節：旋轉體的表面積",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "將曲線 $y = 7x$ 在 $[0, 1]$ 繞 $x$ 軸旋轉所生成的表面積。",
+      "options": [
+        "$\\pi 7\\sqrt{1 + 49}$",
+        "$2\\pi 7$",
+        "$\\pi 49$",
+        "$\\frac{\\pi}{2}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "旋轉體表面積公式：$S = \\int 2\\pi y ds$。因 $y = ax \\implies y' = a$，積分得 $\\int_0^1 2\\pi (ax) \\sqrt{1 + a^2} dx = 2\\pi a\\sqrt{1 + a^2} [\\frac{x^2}{2}]_0^1 = \\pi a\\sqrt{1 + a^2}$。\n\n---",
+      "chapter": "Ch8 8.2節：旋轉體的表面積",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "若曲線繞 $y$ 軸旋轉，旋轉體表面積公式中應包含哪一項距離 $x$？",
+      "options": [
+        "$2\\pi x^2$",
+        "$2\\pi y$",
+        "$\\pi x^2$",
+        "$2\\pi x$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "繞 $y$ 軸旋轉時，曲線上點到旋轉軸的距離為 $x$，故公式為 $S = \\int 2\\pi x ds$。\n\n---",
+      "chapter": "Ch8 8.2節：旋轉體的表面積",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "將曲線 $y = 9x$ 在 $[0, 1]$ 繞 $x$ 軸旋轉所生成的表面積。",
+      "options": [
+        "$2\\pi 9$",
+        "$\\pi 9\\sqrt{1 + 81}$",
+        "$\\pi 81$",
+        "$\\frac{\\pi}{2}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "旋轉體表面積公式：$S = \\int 2\\pi y ds$。因 $y = ax \\implies y' = a$，積分得 $\\int_0^1 2\\pi (ax) \\sqrt{1 + a^2} dx = 2\\pi a\\sqrt{1 + a^2} [\\frac{x^2}{2}]_0^1 = \\pi a\\sqrt{1 + a^2}$。\n\n---",
+      "chapter": "Ch8 8.2節：旋轉體的表面積",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "若曲線繞 $y$ 軸旋轉，旋轉體表面積公式中應包含哪一項距離 $x$？",
+      "options": [
+        "$\\pi x^2$",
+        "$2\\pi y$",
+        "$2\\pi x$",
+        "$2\\pi x^2$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "繞 $y$ 軸旋轉時，曲線上點到旋轉軸的距離為 $x$，故公式為 $S = \\int 2\\pi x ds$。\n\n---",
+      "chapter": "Ch8 8.2節：旋轉體的表面積",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "將曲線 $y = 11x$ 在 $[0, 1]$ 繞 $x$ 軸旋轉所生成的表面積。",
+      "options": [
+        "$\\pi 11\\sqrt{1 + 121}$",
+        "$2\\pi 11$",
+        "$\\pi 121$",
+        "$\\frac{\\pi}{2}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "旋轉體表面積公式：$S = \\int 2\\pi y ds$。因 $y = ax \\implies y' = a$，積分得 $\\int_0^1 2\\pi (ax) \\sqrt{1 + a^2} dx = 2\\pi a\\sqrt{1 + a^2} [\\frac{x^2}{2}]_0^1 = \\pi a\\sqrt{1 + a^2}$。\n\n---",
+      "chapter": "Ch8 8.2節：旋轉體的表面積",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "若曲線繞 $y$ 軸旋轉，旋轉體表面積公式中應包含哪一項距離 $x$？",
+      "options": [
+        "$2\\pi x^2$",
+        "$2\\pi y$",
+        "$\\pi x^2$",
+        "$2\\pi x$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "繞 $y$ 軸旋轉時，曲線上點到旋轉軸的距離為 $x$，故公式為 $S = \\int 2\\pi x ds$。\n\n---",
+      "chapter": "Ch8 8.2節：旋轉體的表面積",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "將曲線 $y = 13x$ 在 $[0, 1]$ 繞 $x$ 軸旋轉所生成的表面積。",
+      "options": [
+        "$2\\pi 13$",
+        "$\\pi 13\\sqrt{1 + 169}$",
+        "$\\pi 169$",
+        "$\\frac{\\pi}{2}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "旋轉體表面積公式：$S = \\int 2\\pi y ds$。因 $y = ax \\implies y' = a$，積分得 $\\int_0^1 2\\pi (ax) \\sqrt{1 + a^2} dx = 2\\pi a\\sqrt{1 + a^2} [\\frac{x^2}{2}]_0^1 = \\pi a\\sqrt{1 + a^2}$。\n\n---",
+      "chapter": "Ch8 8.2節：旋轉體的表面積",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "若曲線繞 $y$ 軸旋轉，旋轉體表面積公式中應包含哪一項距離 $x$？",
+      "options": [
+        "$\\pi x^2$",
+        "$2\\pi y$",
+        "$2\\pi x$",
+        "$2\\pi x^2$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "繞 $y$ 軸旋轉時，曲線上點到旋轉軸的距離為 $x$，故公式為 $S = \\int 2\\pi x ds$。\n\n---",
+      "chapter": "Ch8 8.2節：旋轉體的表面積",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "將曲線 $y = 15x$ 在 $[0, 1]$ 繞 $x$ 軸旋轉所生成的表面積。",
+      "options": [
+        "$\\pi 15\\sqrt{1 + 225}$",
+        "$2\\pi 15$",
+        "$\\pi 225$",
+        "$\\frac{\\pi}{2}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "旋轉體表面積公式：$S = \\int 2\\pi y ds$。因 $y = ax \\implies y' = a$，積分得 $\\int_0^1 2\\pi (ax) \\sqrt{1 + a^2} dx = 2\\pi a\\sqrt{1 + a^2} [\\frac{x^2}{2}]_0^1 = \\pi a\\sqrt{1 + a^2}$。\n\n---",
+      "chapter": "Ch8 8.2節：旋轉體的表面積",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "若曲線繞 $y$ 軸旋轉，旋轉體表面積公式中應包含哪一項距離 $x$？",
+      "options": [
+        "$2\\pi x^2$",
+        "$2\\pi y$",
+        "$\\pi x^2$",
+        "$2\\pi x$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "繞 $y$ 軸旋轉時，曲線上點到旋轉軸的距離為 $x$，故公式為 $S = \\int 2\\pi x ds$。\n\n---",
+      "chapter": "Ch8 8.2節：旋轉體的表面積",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "將曲線 $y = 17x$ 在 $[0, 1]$ 繞 $x$ 軸旋轉所生成的表面積。",
+      "options": [
+        "$2\\pi 17$",
+        "$\\pi 17\\sqrt{1 + 289}$",
+        "$\\pi 289$",
+        "$\\frac{\\pi}{2}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "旋轉體表面積公式：$S = \\int 2\\pi y ds$。因 $y = ax \\implies y' = a$，積分得 $\\int_0^1 2\\pi (ax) \\sqrt{1 + a^2} dx = 2\\pi a\\sqrt{1 + a^2} [\\frac{x^2}{2}]_0^1 = \\pi a\\sqrt{1 + a^2}$。\n\n---",
+      "chapter": "Ch8 8.2節：旋轉體的表面積",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "若曲線繞 $y$ 軸旋轉，旋轉體表面積公式中應包含哪一項距離 $x$？",
+      "options": [
+        "$\\pi x^2$",
+        "$2\\pi y$",
+        "$2\\pi x$",
+        "$2\\pi x^2$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "繞 $y$ 軸旋轉時，曲線上點到旋轉軸的距離為 $x$，故公式為 $S = \\int 2\\pi x ds$。\n\n---",
+      "chapter": "Ch8 8.2節：旋轉體的表面積",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "將曲線 $y = 19x$ 在 $[0, 1]$ 繞 $x$ 軸旋轉所生成的表面積。",
+      "options": [
+        "$\\pi 19\\sqrt{1 + 361}$",
+        "$2\\pi 19$",
+        "$\\pi 361$",
+        "$\\frac{\\pi}{2}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "旋轉體表面積公式：$S = \\int 2\\pi y ds$。因 $y = ax \\implies y' = a$，積分得 $\\int_0^1 2\\pi (ax) \\sqrt{1 + a^2} dx = 2\\pi a\\sqrt{1 + a^2} [\\frac{x^2}{2}]_0^1 = \\pi a\\sqrt{1 + a^2}$。\n\n---",
+      "chapter": "Ch8 8.2節：旋轉體的表面積",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "若曲線繞 $y$ 軸旋轉，旋轉體表面積公式中應包含哪一項距離 $x$？",
+      "options": [
+        "$2\\pi x^2$",
+        "$2\\pi y$",
+        "$\\pi x^2$",
+        "$2\\pi x$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "繞 $y$ 軸旋轉時，曲線上點到旋轉軸的距離為 $x$，故公式為 $S = \\int 2\\pi x ds$。\n\n---",
+      "chapter": "Ch8 8.2節：旋轉體的表面積",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "將曲線 $y = 21x$ 在 $[0, 1]$ 繞 $x$ 軸旋轉所生成的表面積。",
+      "options": [
+        "$2\\pi 21$",
+        "$\\pi 21\\sqrt{1 + 441}$",
+        "$\\pi 441$",
+        "$\\frac{\\pi}{2}$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "旋轉體表面積公式：$S = \\int 2\\pi y ds$。因 $y = ax \\implies y' = a$，積分得 $\\int_0^1 2\\pi (ax) \\sqrt{1 + a^2} dx = 2\\pi a\\sqrt{1 + a^2} [\\frac{x^2}{2}]_0^1 = \\pi a\\sqrt{1 + a^2}$。\n\n---",
+      "chapter": "Ch8 8.2節：旋轉體的表面積",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "將曲線 $y = 3$（常數函數）在 $[0, 2]$ 繞 $x$ 軸旋轉產生的圓柱體表面積（不含兩底面，精確值以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "12",
+      "type": "fill",
+      "solution": "圓柱側面積公式為 $2\\pi r h$。$r = 3, h = 2$，故側面積 = $2\\pi (3)(2) = 43\\pi$。結果為 12。\n\n---",
+      "chapter": "Ch8 8.2節：旋轉體的表面積",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "將曲線 $y = 4$（常數函數）在 $[0, 2]$ 繞 $x$ 軸旋轉產生的圓柱體表面積（不含兩底面，精確值以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "16",
+      "type": "fill",
+      "solution": "圓柱側面積公式為 $2\\pi r h$。$r = 4, h = 2$，故側面積 = $2\\pi (4)(2) = 44\\pi$。結果為 16。\n\n---",
+      "chapter": "Ch8 8.2節：旋轉體的表面積",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "將曲線 $y = 5$（常數函數）在 $[0, 2]$ 繞 $x$ 軸旋轉產生的圓柱體表面積（不含兩底面，精確值以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "20",
+      "type": "fill",
+      "solution": "圓柱側面積公式為 $2\\pi r h$。$r = 5, h = 2$，故側面積 = $2\\pi (5)(2) = 45\\pi$。結果為 20。\n\n---",
+      "chapter": "Ch8 8.2節：旋轉體的表面積",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "將曲線 $y = 6$（常數函數）在 $[0, 2]$ 繞 $x$ 軸旋轉產生的圓柱體表面積（不含兩底面，精確值以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "24",
+      "type": "fill",
+      "solution": "圓柱側面積公式為 $2\\pi r h$。$r = 6, h = 2$，故側面積 = $2\\pi (6)(2) = 46\\pi$。結果為 24。\n\n---",
+      "chapter": "Ch8 8.2節：旋轉體的表面積",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "將曲線 $y = 7$（常數函數）在 $[0, 2]$ 繞 $x$ 軸旋轉產生的圓柱體表面積（不含兩底面，精確值以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "28",
+      "type": "fill",
+      "solution": "圓柱側面積公式為 $2\\pi r h$。$r = 7, h = 2$，故側面積 = $2\\pi (7)(2) = 47\\pi$。結果為 28。\n\n---",
+      "chapter": "Ch8 8.2節：旋轉體的表面積",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "將曲線 $y = 8$（常數函數）在 $[0, 2]$ 繞 $x$ 軸旋轉產生的圓柱體表面積（不含兩底面，精確值以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "32",
+      "type": "fill",
+      "solution": "圓柱側面積公式為 $2\\pi r h$。$r = 8, h = 2$，故側面積 = $2\\pi (8)(2) = 48\\pi$。結果為 32。\n\n---",
+      "chapter": "Ch8 8.2節：旋轉體的表面積",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "將曲線 $y = 9$（常數函數）在 $[0, 2]$ 繞 $x$ 軸旋轉產生的圓柱體表面積（不含兩底面，精確值以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "36",
+      "type": "fill",
+      "solution": "圓柱側面積公式為 $2\\pi r h$。$r = 9, h = 2$，故側面積 = $2\\pi (9)(2) = 49\\pi$。結果為 36。\n\n---",
+      "chapter": "Ch8 8.2節：旋轉體的表面積",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "將曲線 $y = 10$（常數函數）在 $[0, 2]$ 繞 $x$ 軸旋轉產生的圓柱體表面積（不含兩底面，精確值以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "40",
+      "type": "fill",
+      "solution": "圓柱側面積公式為 $2\\pi r h$。$r = 10, h = 2$，故側面積 = $2\\pi (10)(2) = 410\\pi$。結果為 40。\n\n---",
+      "chapter": "Ch8 8.2節：旋轉體的表面積",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "將曲線 $y = 11$（常數函數）在 $[0, 2]$ 繞 $x$ 軸旋轉產生的圓柱體表面積（不含兩底面，精確值以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "44",
+      "type": "fill",
+      "solution": "圓柱側面積公式為 $2\\pi r h$。$r = 11, h = 2$，故側面積 = $2\\pi (11)(2) = 411\\pi$。結果為 44。\n\n---",
+      "chapter": "Ch8 8.2節：旋轉體的表面積",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "將曲線 $y = 12$（常數函數）在 $[0, 2]$ 繞 $x$ 軸旋轉產生的圓柱體表面積（不含兩底面，精確值以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "48",
+      "type": "fill",
+      "solution": "圓柱側面積公式為 $2\\pi r h$。$r = 12, h = 2$，故側面積 = $2\\pi (12)(2) = 412\\pi$。結果為 48。",
+      "chapter": "Ch8 8.2節：旋轉體的表面積",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "水壓公式中，在水下深度 $d$ 處的流體靜壓力（Hydrostatic Pressure）與深度成何種關係？",
+      "options": [
+        "正比於深度平方 $d^2$",
+        "正比於深度 $d$",
+        "與深度無關",
+        "反比於深度 $d$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "流體靜壓力為 $P = \\rho g d$，與深度 $d$ 成正比。\n\n---",
+      "chapter": "Ch8 8.3節：物理與工程應用",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "將一質量彈簧從平衡位置拉長 $x$ 公尺所需之力為 $f(x) = 3x$ 牛頓。求將其拉長 $2$ 公尺所作之功（焦耳）。",
+      "options": [
+        "$12$",
+        "$3$",
+        "$6$",
+        "$1.5$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "功為 $W = \\int_0^2 3x dx = [\\frac{3}{2}x^2]_0^2 = 23$ 焦耳。\n\n---",
+      "chapter": "Ch8 8.3節：物理與工程應用",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "水壓公式中，在水下深度 $d$ 處的流體靜壓力（Hydrostatic Pressure）與深度成何種關係？",
+      "options": [
+        "反比於深度 $d$",
+        "正比於深度平方 $d^2$",
+        "與深度無關",
+        "正比於深度 $d$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "流體靜壓力為 $P = \\rho g d$，與深度 $d$ 成正比。\n\n---",
+      "chapter": "Ch8 8.3節：物理與工程應用",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "將一質量彈簧從平衡位置拉長 $x$ 公尺所需之力為 $f(x) = 5x$ 牛頓。求將其拉長 $2$ 公尺所作之功（焦耳）。",
+      "options": [
+        "$10$",
+        "$5$",
+        "$20$",
+        "$2.5$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "功為 $W = \\int_0^2 5x dx = [\\frac{5}{2}x^2]_0^2 = 25$ 焦耳。\n\n---",
+      "chapter": "Ch8 8.3節：物理與工程應用",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "水壓公式中，在水下深度 $d$ 處的流體靜壓力（Hydrostatic Pressure）與深度成何種關係？",
+      "options": [
+        "正比於深度平方 $d^2$",
+        "正比於深度 $d$",
+        "與深度無關",
+        "反比於深度 $d$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "流體靜壓力為 $P = \\rho g d$，與深度 $d$ 成正比。\n\n---",
+      "chapter": "Ch8 8.3節：物理與工程應用",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "將一質量彈簧從平衡位置拉長 $x$ 公尺所需之力為 $f(x) = 7x$ 牛頓。求將其拉長 $2$ 公尺所作之功（焦耳）。",
+      "options": [
+        "$28$",
+        "$7$",
+        "$14$",
+        "$3.5$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "功為 $W = \\int_0^2 7x dx = [\\frac{7}{2}x^2]_0^2 = 27$ 焦耳。\n\n---",
+      "chapter": "Ch8 8.3節：物理與工程應用",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "水壓公式中，在水下深度 $d$ 處的流體靜壓力（Hydrostatic Pressure）與深度成何種關係？",
+      "options": [
+        "反比於深度 $d$",
+        "正比於深度平方 $d^2$",
+        "與深度無關",
+        "正比於深度 $d$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "流體靜壓力為 $P = \\rho g d$，與深度 $d$ 成正比。\n\n---",
+      "chapter": "Ch8 8.3節：物理與工程應用",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "將一質量彈簧從平衡位置拉長 $x$ 公尺所需之力為 $f(x) = 9x$ 牛頓。求將其拉長 $2$ 公尺所作之功（焦耳）。",
+      "options": [
+        "$18$",
+        "$9$",
+        "$36$",
+        "$4.5$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "功為 $W = \\int_0^2 9x dx = [\\frac{9}{2}x^2]_0^2 = 29$ 焦耳。\n\n---",
+      "chapter": "Ch8 8.3節：物理與工程應用",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "水壓公式中，在水下深度 $d$ 處的流體靜壓力（Hydrostatic Pressure）與深度成何種關係？",
+      "options": [
+        "正比於深度平方 $d^2$",
+        "正比於深度 $d$",
+        "與深度無關",
+        "反比於深度 $d$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "流體靜壓力為 $P = \\rho g d$，與深度 $d$ 成正比。\n\n---",
+      "chapter": "Ch8 8.3節：物理與工程應用",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "將一質量彈簧從平衡位置拉長 $x$ 公尺所需之力為 $f(x) = 11x$ 牛頓。求將其拉長 $2$ 公尺所作之功（焦耳）。",
+      "options": [
+        "$44$",
+        "$11$",
+        "$22$",
+        "$5.5$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "功為 $W = \\int_0^2 11x dx = [\\frac{11}{2}x^2]_0^2 = 211$ 焦耳。\n\n---",
+      "chapter": "Ch8 8.3節：物理與工程應用",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "水壓公式中，在水下深度 $d$ 處的流體靜壓力（Hydrostatic Pressure）與深度成何種關係？",
+      "options": [
+        "反比於深度 $d$",
+        "正比於深度平方 $d^2$",
+        "與深度無關",
+        "正比於深度 $d$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "流體靜壓力為 $P = \\rho g d$，與深度 $d$ 成正比。\n\n---",
+      "chapter": "Ch8 8.3節：物理與工程應用",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "將一質量彈簧從平衡位置拉長 $x$ 公尺所需之力為 $f(x) = 13x$ 牛頓。求將其拉長 $2$ 公尺所作之功（焦耳）。",
+      "options": [
+        "$26$",
+        "$13$",
+        "$52$",
+        "$6.5$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "功為 $W = \\int_0^2 13x dx = [\\frac{13}{2}x^2]_0^2 = 213$ 焦耳。\n\n---",
+      "chapter": "Ch8 8.3節：物理與工程應用",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "水壓公式中，在水下深度 $d$ 處的流體靜壓力（Hydrostatic Pressure）與深度成何種關係？",
+      "options": [
+        "正比於深度平方 $d^2$",
+        "正比於深度 $d$",
+        "與深度無關",
+        "反比於深度 $d$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "流體靜壓力為 $P = \\rho g d$，與深度 $d$ 成正比。\n\n---",
+      "chapter": "Ch8 8.3節：物理與工程應用",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "將一質量彈簧從平衡位置拉長 $x$ 公尺所需之力為 $f(x) = 15x$ 牛頓。求將其拉長 $2$ 公尺所作之功（焦耳）。",
+      "options": [
+        "$60$",
+        "$15$",
+        "$30$",
+        "$7.5$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "功為 $W = \\int_0^2 15x dx = [\\frac{15}{2}x^2]_0^2 = 215$ 焦耳。\n\n---",
+      "chapter": "Ch8 8.3節：物理與工程應用",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "水壓公式中，在水下深度 $d$ 處的流體靜壓力（Hydrostatic Pressure）與深度成何種關係？",
+      "options": [
+        "反比於深度 $d$",
+        "正比於深度平方 $d^2$",
+        "與深度無關",
+        "正比於深度 $d$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "流體靜壓力為 $P = \\rho g d$，與深度 $d$ 成正比。\n\n---",
+      "chapter": "Ch8 8.3節：物理與工程應用",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "將一質量彈簧從平衡位置拉長 $x$ 公尺所需之力為 $f(x) = 17x$ 牛頓。求將其拉長 $2$ 公尺所作之功（焦耳）。",
+      "options": [
+        "$34$",
+        "$17$",
+        "$68$",
+        "$8.5$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "功為 $W = \\int_0^2 17x dx = [\\frac{17}{2}x^2]_0^2 = 217$ 焦耳。\n\n---",
+      "chapter": "Ch8 8.3節：物理與工程應用",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "水壓公式中，在水下深度 $d$ 處的流體靜壓力（Hydrostatic Pressure）與深度成何種關係？",
+      "options": [
+        "正比於深度平方 $d^2$",
+        "正比於深度 $d$",
+        "與深度無關",
+        "反比於深度 $d$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "流體靜壓力為 $P = \\rho g d$，與深度 $d$ 成正比。\n\n---",
+      "chapter": "Ch8 8.3節：物理與工程應用",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "將一質量彈簧從平衡位置拉長 $x$ 公尺所需之力為 $f(x) = 19x$ 牛頓。求將其拉長 $2$ 公尺所作之功（焦耳）。",
+      "options": [
+        "$76$",
+        "$19$",
+        "$38$",
+        "$9.5$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "功為 $W = \\int_0^2 19x dx = [\\frac{19}{2}x^2]_0^2 = 219$ 焦耳。\n\n---",
+      "chapter": "Ch8 8.3節：物理與工程應用",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "水壓公式中，在水下深度 $d$ 處的流體靜壓力（Hydrostatic Pressure）與深度成何種關係？",
+      "options": [
+        "反比於深度 $d$",
+        "正比於深度平方 $d^2$",
+        "與深度無關",
+        "正比於深度 $d$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "流體靜壓力為 $P = \\rho g d$，與深度 $d$ 成正比。\n\n---",
+      "chapter": "Ch8 8.3節：物理與工程應用",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "將一質量彈簧從平衡位置拉長 $x$ 公尺所需之力為 $f(x) = 21x$ 牛頓。求將其拉長 $2$ 公尺所作之功（焦耳）。",
+      "options": [
+        "$42$",
+        "$21$",
+        "$84$",
+        "$10.5$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "功為 $W = \\int_0^2 21x dx = [\\frac{21}{2}x^2]_0^2 = 221$ 焦耳。\n\n---",
+      "chapter": "Ch8 8.3節：物理與工程應用",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "一彈簧之彈性常數為 $k = 3$ N/m，求將其由平衡位置拉長 $4$ 公尺所作之功。",
+      "options": [],
+      "answer": "24",
+      "type": "fill",
+      "solution": "功 $W = \\int_0^4 3x dx = [\\frac{3}{2}x^2]_0^4 = 83$ 焦耳。\n\n---",
+      "chapter": "Ch8 8.3節：物理與工程應用",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "一彈簧之彈性常數為 $k = 4$ N/m，求將其由平衡位置拉長 $4$ 公尺所作之功。",
+      "options": [],
+      "answer": "32",
+      "type": "fill",
+      "solution": "功 $W = \\int_0^4 4x dx = [\\frac{4}{2}x^2]_0^4 = 84$ 焦耳。\n\n---",
+      "chapter": "Ch8 8.3節：物理與工程應用",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "一彈簧之彈性常數為 $k = 5$ N/m，求將其由平衡位置拉長 $4$ 公尺所作之功。",
+      "options": [],
+      "answer": "40",
+      "type": "fill",
+      "solution": "功 $W = \\int_0^4 5x dx = [\\frac{5}{2}x^2]_0^4 = 85$ 焦耳。\n\n---",
+      "chapter": "Ch8 8.3節：物理與工程應用",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "一彈簧之彈性常數為 $k = 6$ N/m，求將其由平衡位置拉長 $4$ 公尺所作之功。",
+      "options": [],
+      "answer": "48",
+      "type": "fill",
+      "solution": "功 $W = \\int_0^4 6x dx = [\\frac{6}{2}x^2]_0^4 = 86$ 焦耳。\n\n---",
+      "chapter": "Ch8 8.3節：物理與工程應用",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "一彈簧之彈性常數為 $k = 7$ N/m，求將其由平衡位置拉長 $4$ 公尺所作之功。",
+      "options": [],
+      "answer": "56",
+      "type": "fill",
+      "solution": "功 $W = \\int_0^4 7x dx = [\\frac{7}{2}x^2]_0^4 = 87$ 焦耳。\n\n---",
+      "chapter": "Ch8 8.3節：物理與工程應用",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "一彈簧之彈性常數為 $k = 8$ N/m，求將其由平衡位置拉長 $4$ 公尺所作之功。",
+      "options": [],
+      "answer": "64",
+      "type": "fill",
+      "solution": "功 $W = \\int_0^4 8x dx = [\\frac{8}{2}x^2]_0^4 = 88$ 焦耳。\n\n---",
+      "chapter": "Ch8 8.3節：物理與工程應用",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "一彈簧之彈性常數為 $k = 9$ N/m，求將其由平衡位置拉長 $4$ 公尺所作之功。",
+      "options": [],
+      "answer": "72",
+      "type": "fill",
+      "solution": "功 $W = \\int_0^4 9x dx = [\\frac{9}{2}x^2]_0^4 = 89$ 焦耳。\n\n---",
+      "chapter": "Ch8 8.3節：物理與工程應用",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "一彈簧之彈性常數為 $k = 10$ N/m，求將其由平衡位置拉長 $4$ 公尺所作之功。",
+      "options": [],
+      "answer": "80",
+      "type": "fill",
+      "solution": "功 $W = \\int_0^4 10x dx = [\\frac{10}{2}x^2]_0^4 = 810$ 焦耳。\n\n---",
+      "chapter": "Ch8 8.3節：物理與工程應用",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "一彈簧之彈性常數為 $k = 11$ N/m，求將其由平衡位置拉長 $4$ 公尺所作之功。",
+      "options": [],
+      "answer": "88",
+      "type": "fill",
+      "solution": "功 $W = \\int_0^4 11x dx = [\\frac{11}{2}x^2]_0^4 = 811$ 焦耳。\n\n---",
+      "chapter": "Ch8 8.3節：物理與工程應用",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "一彈簧之彈性常數為 $k = 12$ N/m，求將其由平衡位置拉長 $4$ 公尺所作之功。",
+      "options": [],
+      "answer": "96",
+      "type": "fill",
+      "solution": "功 $W = \\int_0^4 12x dx = [\\frac{12}{2}x^2]_0^4 = 812$ 焦耳。",
+      "chapter": "Ch8 8.3節：物理與工程應用",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "在生物學中，若血液在血管中的流速分布符合泊肅葉定律（Poiseuille's Law），則最大流速發生在血管的何處？",
+      "options": [
+        "血管壁與中心的中間點",
+        "血管壁邊緣處",
+        "中心軸線處",
+        "任何位置流速皆相同"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "流速公式為 $v(r) = \\frac{P}{4\\eta L}(R^2 - r^2)$。當 $r=0$（中心軸線）時，流速最大。\n\n---",
+      "chapter": "Ch8 8.4節：經濟與生物應用",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "在經濟學中，當需求函數為 $p(x) = 103 - 0.5x$，且均衡產量為 $20$ 時，求消費者剩餘（Consumer Surplus）。",
+      "options": [
+        "$100$",
+        "$200$",
+        "$103$",
+        "$50$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "均衡價格為 $p(20) = (100+a) - 10 = 90+a$。消費者剩餘為 $\\int_0^{20} [((100+a) - 0.5x) - (90+a)] dx = \\int_0^{20} (10 - 0.5x) dx = [10x - 0.25x^2]_0^{20} = 200 - 100 = 100$。\n\n---",
+      "chapter": "Ch8 8.4節：經濟與生物應用",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "在生物學中，若血液在血管中的流速分布符合泊肅葉定律（Poiseuille's Law），則最大流速發生在血管的何處？",
+      "options": [
+        "任何位置流速皆相同",
+        "血管壁邊緣處",
+        "血管壁與中心的中間點",
+        "中心軸線處"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "流速公式為 $v(r) = \\frac{P}{4\\eta L}(R^2 - r^2)$。當 $r=0$（中心軸線）時，流速最大。\n\n---",
+      "chapter": "Ch8 8.4節：經濟與生物應用",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "在經濟學中，當需求函數為 $p(x) = 105 - 0.5x$，且均衡產量為 $20$ 時，求消費者剩餘（Consumer Surplus）。",
+      "options": [
+        "$200$",
+        "$100$",
+        "$105$",
+        "$50$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "均衡價格為 $p(20) = (100+a) - 10 = 90+a$。消費者剩餘為 $\\int_0^{20} [((100+a) - 0.5x) - (90+a)] dx = \\int_0^{20} (10 - 0.5x) dx = [10x - 0.25x^2]_0^{20} = 200 - 100 = 100$。\n\n---",
+      "chapter": "Ch8 8.4節：經濟與生物應用",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "在生物學中，若血液在血管中的流速分布符合泊肅葉定律（Poiseuille's Law），則最大流速發生在血管的何處？",
+      "options": [
+        "血管壁與中心的中間點",
+        "血管壁邊緣處",
+        "中心軸線處",
+        "任何位置流速皆相同"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "流速公式為 $v(r) = \\frac{P}{4\\eta L}(R^2 - r^2)$。當 $r=0$（中心軸線）時，流速最大。\n\n---",
+      "chapter": "Ch8 8.4節：經濟與生物應用",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "在經濟學中，當需求函數為 $p(x) = 107 - 0.5x$，且均衡產量為 $20$ 時，求消費者剩餘（Consumer Surplus）。",
+      "options": [
+        "$100$",
+        "$200$",
+        "$107$",
+        "$50$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "均衡價格為 $p(20) = (100+a) - 10 = 90+a$。消費者剩餘為 $\\int_0^{20} [((100+a) - 0.5x) - (90+a)] dx = \\int_0^{20} (10 - 0.5x) dx = [10x - 0.25x^2]_0^{20} = 200 - 100 = 100$。\n\n---",
+      "chapter": "Ch8 8.4節：經濟與生物應用",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "在生物學中，若血液在血管中的流速分布符合泊肅葉定律（Poiseuille's Law），則最大流速發生在血管的何處？",
+      "options": [
+        "任何位置流速皆相同",
+        "血管壁邊緣處",
+        "血管壁與中心的中間點",
+        "中心軸線處"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "流速公式為 $v(r) = \\frac{P}{4\\eta L}(R^2 - r^2)$。當 $r=0$（中心軸線）時，流速最大。\n\n---",
+      "chapter": "Ch8 8.4節：經濟與生物應用",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "在經濟學中，當需求函數為 $p(x) = 109 - 0.5x$，且均衡產量為 $20$ 時，求消費者剩餘（Consumer Surplus）。",
+      "options": [
+        "$200$",
+        "$100$",
+        "$109$",
+        "$50$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "均衡價格為 $p(20) = (100+a) - 10 = 90+a$。消費者剩餘為 $\\int_0^{20} [((100+a) - 0.5x) - (90+a)] dx = \\int_0^{20} (10 - 0.5x) dx = [10x - 0.25x^2]_0^{20} = 200 - 100 = 100$。\n\n---",
+      "chapter": "Ch8 8.4節：經濟與生物應用",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "在生物學中，若血液在血管中的流速分布符合泊肅葉定律（Poiseuille's Law），則最大流速發生在血管的何處？",
+      "options": [
+        "血管壁與中心的中間點",
+        "血管壁邊緣處",
+        "中心軸線處",
+        "任何位置流速皆相同"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "流速公式為 $v(r) = \\frac{P}{4\\eta L}(R^2 - r^2)$。當 $r=0$（中心軸線）時，流速最大。\n\n---",
+      "chapter": "Ch8 8.4節：經濟與生物應用",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "在經濟學中，當需求函數為 $p(x) = 111 - 0.5x$，且均衡產量為 $20$ 時，求消費者剩餘（Consumer Surplus）。",
+      "options": [
+        "$100$",
+        "$200$",
+        "$111$",
+        "$50$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "均衡價格為 $p(20) = (100+a) - 10 = 90+a$。消費者剩餘為 $\\int_0^{20} [((100+a) - 0.5x) - (90+a)] dx = \\int_0^{20} (10 - 0.5x) dx = [10x - 0.25x^2]_0^{20} = 200 - 100 = 100$。\n\n---",
+      "chapter": "Ch8 8.4節：經濟與生物應用",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "在生物學中，若血液在血管中的流速分布符合泊肅葉定律（Poiseuille's Law），則最大流速發生在血管的何處？",
+      "options": [
+        "任何位置流速皆相同",
+        "血管壁邊緣處",
+        "血管壁與中心的中間點",
+        "中心軸線處"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "流速公式為 $v(r) = \\frac{P}{4\\eta L}(R^2 - r^2)$。當 $r=0$（中心軸線）時，流速最大。\n\n---",
+      "chapter": "Ch8 8.4節：經濟與生物應用",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "在經濟學中，當需求函數為 $p(x) = 113 - 0.5x$，且均衡產量為 $20$ 時，求消費者剩餘（Consumer Surplus）。",
+      "options": [
+        "$200$",
+        "$100$",
+        "$113$",
+        "$50$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "均衡價格為 $p(20) = (100+a) - 10 = 90+a$。消費者剩餘為 $\\int_0^{20} [((100+a) - 0.5x) - (90+a)] dx = \\int_0^{20} (10 - 0.5x) dx = [10x - 0.25x^2]_0^{20} = 200 - 100 = 100$。\n\n---",
+      "chapter": "Ch8 8.4節：經濟與生物應用",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "在生物學中，若血液在血管中的流速分布符合泊肅葉定律（Poiseuille's Law），則最大流速發生在血管的何處？",
+      "options": [
+        "血管壁與中心的中間點",
+        "血管壁邊緣處",
+        "中心軸線處",
+        "任何位置流速皆相同"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "流速公式為 $v(r) = \\frac{P}{4\\eta L}(R^2 - r^2)$。當 $r=0$（中心軸線）時，流速最大。\n\n---",
+      "chapter": "Ch8 8.4節：經濟與生物應用",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "在經濟學中，當需求函數為 $p(x) = 115 - 0.5x$，且均衡產量為 $20$ 時，求消費者剩餘（Consumer Surplus）。",
+      "options": [
+        "$100$",
+        "$200$",
+        "$115$",
+        "$50$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "均衡價格為 $p(20) = (100+a) - 10 = 90+a$。消費者剩餘為 $\\int_0^{20} [((100+a) - 0.5x) - (90+a)] dx = \\int_0^{20} (10 - 0.5x) dx = [10x - 0.25x^2]_0^{20} = 200 - 100 = 100$。\n\n---",
+      "chapter": "Ch8 8.4節：經濟與生物應用",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "在生物學中，若血液在血管中的流速分布符合泊肅葉定律（Poiseuille's Law），則最大流速發生在血管的何處？",
+      "options": [
+        "任何位置流速皆相同",
+        "血管壁邊緣處",
+        "血管壁與中心的中間點",
+        "中心軸線處"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "流速公式為 $v(r) = \\frac{P}{4\\eta L}(R^2 - r^2)$。當 $r=0$（中心軸線）時，流速最大。\n\n---",
+      "chapter": "Ch8 8.4節：經濟與生物應用",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "在經濟學中，當需求函數為 $p(x) = 117 - 0.5x$，且均衡產量為 $20$ 時，求消費者剩餘（Consumer Surplus）。",
+      "options": [
+        "$200$",
+        "$100$",
+        "$117$",
+        "$50$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "均衡價格為 $p(20) = (100+a) - 10 = 90+a$。消費者剩餘為 $\\int_0^{20} [((100+a) - 0.5x) - (90+a)] dx = \\int_0^{20} (10 - 0.5x) dx = [10x - 0.25x^2]_0^{20} = 200 - 100 = 100$。\n\n---",
+      "chapter": "Ch8 8.4節：經濟與生物應用",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "在生物學中，若血液在血管中的流速分布符合泊肅葉定律（Poiseuille's Law），則最大流速發生在血管的何處？",
+      "options": [
+        "血管壁與中心的中間點",
+        "血管壁邊緣處",
+        "中心軸線處",
+        "任何位置流速皆相同"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "流速公式為 $v(r) = \\frac{P}{4\\eta L}(R^2 - r^2)$。當 $r=0$（中心軸線）時，流速最大。\n\n---",
+      "chapter": "Ch8 8.4節：經濟與生物應用",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "在經濟學中，當需求函數為 $p(x) = 119 - 0.5x$，且均衡產量為 $20$ 時，求消費者剩餘（Consumer Surplus）。",
+      "options": [
+        "$100$",
+        "$200$",
+        "$119$",
+        "$50$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "均衡價格為 $p(20) = (100+a) - 10 = 90+a$。消費者剩餘為 $\\int_0^{20} [((100+a) - 0.5x) - (90+a)] dx = \\int_0^{20} (10 - 0.5x) dx = [10x - 0.25x^2]_0^{20} = 200 - 100 = 100$。\n\n---",
+      "chapter": "Ch8 8.4節：經濟與生物應用",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "在生物學中，若血液在血管中的流速分布符合泊肅葉定律（Poiseuille's Law），則最大流速發生在血管的何處？",
+      "options": [
+        "任何位置流速皆相同",
+        "血管壁邊緣處",
+        "血管壁與中心的中間點",
+        "中心軸線處"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "流速公式為 $v(r) = \\frac{P}{4\\eta L}(R^2 - r^2)$。當 $r=0$（中心軸線）時，流速最大。\n\n---",
+      "chapter": "Ch8 8.4節：經濟與生物應用",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "在經濟學中，當需求函數為 $p(x) = 121 - 0.5x$，且均衡產量為 $20$ 時，求消費者剩餘（Consumer Surplus）。",
+      "options": [
+        "$200$",
+        "$100$",
+        "$121$",
+        "$50$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "均衡價格為 $p(20) = (100+a) - 10 = 90+a$。消費者剩餘為 $\\int_0^{20} [((100+a) - 0.5x) - (90+a)] dx = \\int_0^{20} (10 - 0.5x) dx = [10x - 0.25x^2]_0^{20} = 200 - 100 = 100$。\n\n---",
+      "chapter": "Ch8 8.4節：經濟與生物應用",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "一需求函數為 $p(x) = 30$ 且為水平直線（固定價格），當產量由 $0$ 增至 $5$ 時，消費者剩餘為多少？",
+      "options": [],
+      "answer": "0",
+      "type": "fill",
+      "solution": "消費者剩餘為 $\\int_0^5 (p(x) - p_0) dx = \\int_0^5 (30 - 30) dx = 0$。\n\n---",
+      "chapter": "Ch8 8.4節：經濟與生物應用",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "一需求函數為 $p(x) = 40$ 且為水平直線（固定價格），當產量由 $0$ 增至 $5$ 時，消費者剩餘為多少？",
+      "options": [],
+      "answer": "0",
+      "type": "fill",
+      "solution": "消費者剩餘為 $\\int_0^5 (p(x) - p_0) dx = \\int_0^5 (40 - 40) dx = 0$。\n\n---",
+      "chapter": "Ch8 8.4節：經濟與生物應用",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "一需求函數為 $p(x) = 50$ 且為水平直線（固定價格），當產量由 $0$ 增至 $5$ 時，消費者剩餘為多少？",
+      "options": [],
+      "answer": "0",
+      "type": "fill",
+      "solution": "消費者剩餘為 $\\int_0^5 (p(x) - p_0) dx = \\int_0^5 (50 - 50) dx = 0$。\n\n---",
+      "chapter": "Ch8 8.4節：經濟與生物應用",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "一需求函數為 $p(x) = 60$ 且為水平直線（固定價格），當產量由 $0$ 增至 $5$ 時，消費者剩餘為多少？",
+      "options": [],
+      "answer": "0",
+      "type": "fill",
+      "solution": "消費者剩餘為 $\\int_0^5 (p(x) - p_0) dx = \\int_0^5 (60 - 60) dx = 0$。\n\n---",
+      "chapter": "Ch8 8.4節：經濟與生物應用",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "一需求函數為 $p(x) = 70$ 且為水平直線（固定價格），當產量由 $0$ 增至 $5$ 時，消費者剩餘為多少？",
+      "options": [],
+      "answer": "0",
+      "type": "fill",
+      "solution": "消費者剩餘為 $\\int_0^5 (p(x) - p_0) dx = \\int_0^5 (70 - 70) dx = 0$。\n\n---",
+      "chapter": "Ch8 8.4節：經濟與生物應用",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "一需求函數為 $p(x) = 80$ 且為水平直線（固定價格），當產量由 $0$ 增至 $5$ 時，消費者剩餘為多少？",
+      "options": [],
+      "answer": "0",
+      "type": "fill",
+      "solution": "消費者剩餘為 $\\int_0^5 (p(x) - p_0) dx = \\int_0^5 (80 - 80) dx = 0$。\n\n---",
+      "chapter": "Ch8 8.4節：經濟與生物應用",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "一需求函數為 $p(x) = 90$ 且為水平直線（固定價格），當產量由 $0$ 增至 $5$ 時，消費者剩餘為多少？",
+      "options": [],
+      "answer": "0",
+      "type": "fill",
+      "solution": "消費者剩餘為 $\\int_0^5 (p(x) - p_0) dx = \\int_0^5 (90 - 90) dx = 0$。\n\n---",
+      "chapter": "Ch8 8.4節：經濟與生物應用",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "一需求函數為 $p(x) = 100$ 且為水平直線（固定價格），當產量由 $0$ 增至 $5$ 時，消費者剩餘為多少？",
+      "options": [],
+      "answer": "0",
+      "type": "fill",
+      "solution": "消費者剩餘為 $\\int_0^5 (p(x) - p_0) dx = \\int_0^5 (100 - 100) dx = 0$。\n\n---",
+      "chapter": "Ch8 8.4節：經濟與生物應用",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "一需求函數為 $p(x) = 110$ 且為水平直線（固定價格），當產量由 $0$ 增至 $5$ 時，消費者剩餘為多少？",
+      "options": [],
+      "answer": "0",
+      "type": "fill",
+      "solution": "消費者剩餘為 $\\int_0^5 (p(x) - p_0) dx = \\int_0^5 (110 - 110) dx = 0$。\n\n---",
+      "chapter": "Ch8 8.4節：經濟與生物應用",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "一需求函數為 $p(x) = 120$ 且為水平直線（固定價格），當產量由 $0$ 增至 $5$ 時，消費者剩餘為多少？",
+      "options": [],
+      "answer": "0",
+      "type": "fill",
+      "solution": "消費者剩餘為 $\\int_0^5 (p(x) - p_0) dx = \\int_0^5 (120 - 120) dx = 0$。",
+      "chapter": "Ch8 8.4節：經濟與生物應用",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "對於連續型隨機變數 $X$ 且有機率密度函數 $f(x)$，其期望值 $E(X)$ 的微積分定義為何？",
+      "options": [
+        "$\\int_{-\\infty}^\\infty f(x) dx$",
+        "$\\int_{-\\infty}^\\infty x f(x) dx$",
+        "$\\int_{-\\infty}^\\infty x^2 f(x) dx$",
+        "$1$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "期望值定義為 $E(X) = \\int_{-\\infty}^\\infty x f(x) dx$。\n\n---",
+      "chapter": "Ch8 8.5節：機率",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "設一機率密度函數 $f(x) = 3 e^{-3x}$ （$x \\ge 0$），求此連續隨機變數在 $[0, \\infty)$ 區間的總機率值。",
+      "options": [
+        "$0.3333333333333333$",
+        "$0.5$",
+        "$1$",
+        "$0$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "任何有效的機率密度函數在整個定義域上的總積分必須為 1。\n\n---",
+      "chapter": "Ch8 8.5節：機率",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "對於連續型隨機變數 $X$ 且有機率密度函數 $f(x)$，其期望值 $E(X)$ 的微積分定義為何？",
+      "options": [
+        "$1$",
+        "$\\int_{-\\infty}^\\infty f(x) dx$",
+        "$\\int_{-\\infty}^\\infty x^2 f(x) dx$",
+        "$\\int_{-\\infty}^\\infty x f(x) dx$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "期望值定義為 $E(X) = \\int_{-\\infty}^\\infty x f(x) dx$。\n\n---",
+      "chapter": "Ch8 8.5節：機率",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "設一機率密度函數 $f(x) = 5 e^{-5x}$ （$x \\ge 0$），求此連續隨機變數在 $[0, \\infty)$ 區間的總機率值。",
+      "options": [
+        "$1$",
+        "$0.5$",
+        "$0.2$",
+        "$0$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "任何有效的機率密度函數在整個定義域上的總積分必須為 1。\n\n---",
+      "chapter": "Ch8 8.5節：機率",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "對於連續型隨機變數 $X$ 且有機率密度函數 $f(x)$，其期望值 $E(X)$ 的微積分定義為何？",
+      "options": [
+        "$\\int_{-\\infty}^\\infty f(x) dx$",
+        "$\\int_{-\\infty}^\\infty x f(x) dx$",
+        "$\\int_{-\\infty}^\\infty x^2 f(x) dx$",
+        "$1$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "期望值定義為 $E(X) = \\int_{-\\infty}^\\infty x f(x) dx$。\n\n---",
+      "chapter": "Ch8 8.5節：機率",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "設一機率密度函數 $f(x) = 7 e^{-7x}$ （$x \\ge 0$），求此連續隨機變數在 $[0, \\infty)$ 區間的總機率值。",
+      "options": [
+        "$0.14285714285714285$",
+        "$0.5$",
+        "$1$",
+        "$0$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "任何有效的機率密度函數在整個定義域上的總積分必須為 1。\n\n---",
+      "chapter": "Ch8 8.5節：機率",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "對於連續型隨機變數 $X$ 且有機率密度函數 $f(x)$，其期望值 $E(X)$ 的微積分定義為何？",
+      "options": [
+        "$1$",
+        "$\\int_{-\\infty}^\\infty f(x) dx$",
+        "$\\int_{-\\infty}^\\infty x^2 f(x) dx$",
+        "$\\int_{-\\infty}^\\infty x f(x) dx$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "期望值定義為 $E(X) = \\int_{-\\infty}^\\infty x f(x) dx$。\n\n---",
+      "chapter": "Ch8 8.5節：機率",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "設一機率密度函數 $f(x) = 9 e^{-9x}$ （$x \\ge 0$），求此連續隨機變數在 $[0, \\infty)$ 區間的總機率值。",
+      "options": [
+        "$1$",
+        "$0.5$",
+        "$0.1111111111111111$",
+        "$0$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "任何有效的機率密度函數在整個定義域上的總積分必須為 1。\n\n---",
+      "chapter": "Ch8 8.5節：機率",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "對於連續型隨機變數 $X$ 且有機率密度函數 $f(x)$，其期望值 $E(X)$ 的微積分定義為何？",
+      "options": [
+        "$\\int_{-\\infty}^\\infty f(x) dx$",
+        "$\\int_{-\\infty}^\\infty x f(x) dx$",
+        "$\\int_{-\\infty}^\\infty x^2 f(x) dx$",
+        "$1$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "期望值定義為 $E(X) = \\int_{-\\infty}^\\infty x f(x) dx$。\n\n---",
+      "chapter": "Ch8 8.5節：機率",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "設一機率密度函數 $f(x) = 11 e^{-11x}$ （$x \\ge 0$），求此連續隨機變數在 $[0, \\infty)$ 區間的總機率值。",
+      "options": [
+        "$0.09090909090909091$",
+        "$0.5$",
+        "$1$",
+        "$0$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "任何有效的機率密度函數在整個定義域上的總積分必須為 1。\n\n---",
+      "chapter": "Ch8 8.5節：機率",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "對於連續型隨機變數 $X$ 且有機率密度函數 $f(x)$，其期望值 $E(X)$ 的微積分定義為何？",
+      "options": [
+        "$1$",
+        "$\\int_{-\\infty}^\\infty f(x) dx$",
+        "$\\int_{-\\infty}^\\infty x^2 f(x) dx$",
+        "$\\int_{-\\infty}^\\infty x f(x) dx$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "期望值定義為 $E(X) = \\int_{-\\infty}^\\infty x f(x) dx$。\n\n---",
+      "chapter": "Ch8 8.5節：機率",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "設一機率密度函數 $f(x) = 13 e^{-13x}$ （$x \\ge 0$），求此連續隨機變數在 $[0, \\infty)$ 區間的總機率值。",
+      "options": [
+        "$1$",
+        "$0.5$",
+        "$0.07692307692307693$",
+        "$0$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "任何有效的機率密度函數在整個定義域上的總積分必須為 1。\n\n---",
+      "chapter": "Ch8 8.5節：機率",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "對於連續型隨機變數 $X$ 且有機率密度函數 $f(x)$，其期望值 $E(X)$ 的微積分定義為何？",
+      "options": [
+        "$\\int_{-\\infty}^\\infty f(x) dx$",
+        "$\\int_{-\\infty}^\\infty x f(x) dx$",
+        "$\\int_{-\\infty}^\\infty x^2 f(x) dx$",
+        "$1$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "期望值定義為 $E(X) = \\int_{-\\infty}^\\infty x f(x) dx$。\n\n---",
+      "chapter": "Ch8 8.5節：機率",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "設一機率密度函數 $f(x) = 15 e^{-15x}$ （$x \\ge 0$），求此連續隨機變數在 $[0, \\infty)$ 區間的總機率值。",
+      "options": [
+        "$0.06666666666666667$",
+        "$0.5$",
+        "$1$",
+        "$0$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "任何有效的機率密度函數在整個定義域上的總積分必須為 1。\n\n---",
+      "chapter": "Ch8 8.5節：機率",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "對於連續型隨機變數 $X$ 且有機率密度函數 $f(x)$，其期望值 $E(X)$ 的微積分定義為何？",
+      "options": [
+        "$1$",
+        "$\\int_{-\\infty}^\\infty f(x) dx$",
+        "$\\int_{-\\infty}^\\infty x^2 f(x) dx$",
+        "$\\int_{-\\infty}^\\infty x f(x) dx$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "期望值定義為 $E(X) = \\int_{-\\infty}^\\infty x f(x) dx$。\n\n---",
+      "chapter": "Ch8 8.5節：機率",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "設一機率密度函數 $f(x) = 17 e^{-17x}$ （$x \\ge 0$），求此連續隨機變數在 $[0, \\infty)$ 區間的總機率值。",
+      "options": [
+        "$1$",
+        "$0.5$",
+        "$0.058823529411764705$",
+        "$0$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "任何有效的機率密度函數在整個定義域上的總積分必須為 1。\n\n---",
+      "chapter": "Ch8 8.5節：機率",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "對於連續型隨機變數 $X$ 且有機率密度函數 $f(x)$，其期望值 $E(X)$ 的微積分定義為何？",
+      "options": [
+        "$\\int_{-\\infty}^\\infty f(x) dx$",
+        "$\\int_{-\\infty}^\\infty x f(x) dx$",
+        "$\\int_{-\\infty}^\\infty x^2 f(x) dx$",
+        "$1$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "期望值定義為 $E(X) = \\int_{-\\infty}^\\infty x f(x) dx$。\n\n---",
+      "chapter": "Ch8 8.5節：機率",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "設一機率密度函數 $f(x) = 19 e^{-19x}$ （$x \\ge 0$），求此連續隨機變數在 $[0, \\infty)$ 區間的總機率值。",
+      "options": [
+        "$0.05263157894736842$",
+        "$0.5$",
+        "$1$",
+        "$0$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "任何有效的機率密度函數在整個定義域上的總積分必須為 1。\n\n---",
+      "chapter": "Ch8 8.5節：機率",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "對於連續型隨機變數 $X$ 且有機率密度函數 $f(x)$，其期望值 $E(X)$ 的微積分定義為何？",
+      "options": [
+        "$1$",
+        "$\\int_{-\\infty}^\\infty f(x) dx$",
+        "$\\int_{-\\infty}^\\infty x^2 f(x) dx$",
+        "$\\int_{-\\infty}^\\infty x f(x) dx$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "期望值定義為 $E(X) = \\int_{-\\infty}^\\infty x f(x) dx$。\n\n---",
+      "chapter": "Ch8 8.5節：機率",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "設一機率密度函數 $f(x) = 21 e^{-21x}$ （$x \\ge 0$），求此連續隨機變數在 $[0, \\infty)$ 區間的總機率值。",
+      "options": [
+        "$1$",
+        "$0.5$",
+        "$0.047619047619047616$",
+        "$0$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "任何有效的機率密度函數在整個定義域上的總積分必須為 1。\n\n---",
+      "chapter": "Ch8 8.5節：機率",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "設一隨機變數 $X$ 在 $[0, 3]$ 呈均勻分布（Uniform Distribution），求其機率密度函數在定義域內之常數值。",
+      "options": [],
+      "answer": "0.333",
+      "type": "fill",
+      "solution": "總機率為 1。長度為 3，故高度（常數值）為 $\\frac{1}{3}$。結果為 0.333。\n\n---",
+      "chapter": "Ch8 8.5節：機率",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "設一隨機變數 $X$ 在 $[0, 4]$ 呈均勻分布（Uniform Distribution），求其機率密度函數在定義域內之常數值。",
+      "options": [],
+      "answer": "0.25",
+      "type": "fill",
+      "solution": "總機率為 1。長度為 4，故高度（常數值）為 $\\frac{1}{4}$。結果為 0.25。\n\n---",
+      "chapter": "Ch8 8.5節：機率",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "設一隨機變數 $X$ 在 $[0, 5]$ 呈均勻分布（Uniform Distribution），求其機率密度函數在定義域內之常數值。",
+      "options": [],
+      "answer": "0.2",
+      "type": "fill",
+      "solution": "總機率為 1。長度為 5，故高度（常數值）為 $\\frac{1}{5}$。結果為 0.2。\n\n---",
+      "chapter": "Ch8 8.5節：機率",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "設一隨機變數 $X$ 在 $[0, 6]$ 呈均勻分布（Uniform Distribution），求其機率密度函數在定義域內之常數值。",
+      "options": [],
+      "answer": "0.167",
+      "type": "fill",
+      "solution": "總機率為 1。長度為 6，故高度（常數值）為 $\\frac{1}{6}$。結果為 0.167。\n\n---",
+      "chapter": "Ch8 8.5節：機率",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "設一隨機變數 $X$ 在 $[0, 7]$ 呈均勻分布（Uniform Distribution），求其機率密度函數在定義域內之常數值。",
+      "options": [],
+      "answer": "0.143",
+      "type": "fill",
+      "solution": "總機率為 1。長度為 7，故高度（常數值）為 $\\frac{1}{7}$。結果為 0.143。\n\n---",
+      "chapter": "Ch8 8.5節：機率",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "設一隨機變數 $X$ 在 $[0, 8]$ 呈均勻分布（Uniform Distribution），求其機率密度函數在定義域內之常數值。",
+      "options": [],
+      "answer": "0.125",
+      "type": "fill",
+      "solution": "總機率為 1。長度為 8，故高度（常數值）為 $\\frac{1}{8}$。結果為 0.125。\n\n---",
+      "chapter": "Ch8 8.5節：機率",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "設一隨機變數 $X$ 在 $[0, 9]$ 呈均勻分布（Uniform Distribution），求其機率密度函數在定義域內之常數值。",
+      "options": [],
+      "answer": "0.111",
+      "type": "fill",
+      "solution": "總機率為 1。長度為 9，故高度（常數值）為 $\\frac{1}{9}$。結果為 0.111。\n\n---",
+      "chapter": "Ch8 8.5節：機率",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "設一隨機變數 $X$ 在 $[0, 10]$ 呈均勻分布（Uniform Distribution），求其機率密度函數在定義域內之常數值。",
+      "options": [],
+      "answer": "0.1",
+      "type": "fill",
+      "solution": "總機率為 1。長度為 10，故高度（常數值）為 $\\frac{1}{10}$。結果為 0.1。\n\n---",
+      "chapter": "Ch8 8.5節：機率",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "設一隨機變數 $X$ 在 $[0, 11]$ 呈均勻分布（Uniform Distribution），求其機率密度函數在定義域內之常數值。",
+      "options": [],
+      "answer": "0.091",
+      "type": "fill",
+      "solution": "總機率為 1。長度為 11，故高度（常數值）為 $\\frac{1}{11}$。結果為 0.091。\n\n---",
+      "chapter": "Ch8 8.5節：機率",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "設一隨機變數 $X$ 在 $[0, 12]$ 呈均勻分布（Uniform Distribution），求其機率密度函數在定義域內之常數值。",
+      "options": [],
+      "answer": "0.083",
+      "type": "fill",
+      "solution": "總機率為 1。長度為 12，故高度（常數值）為 $\\frac{1}{12}$。結果為 0.083。",
+      "chapter": "Ch8 8.5節：機率",
+      "score": 10
+    }
+  ]
+}
