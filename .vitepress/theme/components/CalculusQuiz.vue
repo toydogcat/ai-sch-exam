@@ -109,7 +109,7 @@ const fetchBank = async () => {
     
     for (const ch of chaptersToLoad) {
       try {
-        const res = await fetch(withBase(`/json/calculus_bank_${ch}.json`))
+        const res = await fetch(withBase(`/json/calculus/calculus_bank_${ch}.json`))
         if (res.ok) {
           const data = await res.json()
           combinedQuestions = combinedQuestions.concat(data.questions || [])

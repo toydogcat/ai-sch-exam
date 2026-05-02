@@ -260,5 +260,6 @@ def parse_calculus_bank(bank_dir, output_path):
 if __name__ == "__main__":
     parse_calculus_bank(
         "/home/toymsi/documents/examination/Github/ai-sch-exam/calculus_bank",
-        "/home/toymsi/documents/examination/Github/ai-sch-exam/public/json/calculus_bank.json"
+        "/home/toymsi/documents/examination/Github/ai-sch-exam/public/json/calculus/calculus_bank.json"
     )
+

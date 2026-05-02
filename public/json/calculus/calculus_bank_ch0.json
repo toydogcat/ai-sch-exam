@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "text": "求式子 $(-3)^4$ 的精確值。",
+      "options": [
+        "81",
+        "-81",
+        "27",
+        "-27"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "直接計算：$(-3)^4 = 81$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "求式子 $-3^4$ 的精確值。",
+      "options": [
+        "-81",
+        "81",
+        "-27",
+        "27"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "直接計算：$-3^4 = -(3^4) = -81$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "化簡 $\\frac{5^{23}}{5^{21}}$。",
+      "options": [
+        "25",
+        "5",
+        "125",
+        "625"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "利用指數律：$5^{23-21} = 5^2 = 25$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "化簡 $\\sqrt{200} - 2\\sqrt{32}$。",
+      "options": [
+        "$2\\sqrt{2}$",
+        "$4\\sqrt{2}$",
+        "$6\\sqrt{2}$",
+        "$10\\sqrt{2}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "$\\sqrt{200} = 10\\sqrt{2}$，$\\sqrt{32} = 4\\sqrt{2}$。因此 $10\\sqrt{2} - 2(4\\sqrt{2}) = 2\\sqrt{2}$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "展開並化簡 $(2x+3)^2$。",
+      "options": [
+        "$4x^2+12x+9$",
+        "$4x^2+9$",
+        "$4x^2+6x+9$",
+        "$2x^2+12x+9$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "展開公式 $(a+b)^2 = a^2+2ab+b^2$ 可得 $4x^2+12x+9$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "因式分解 $4x^2 - 25$。",
+      "options": [
+        "$(2x-5)(2x+5)$",
+        "$(4x-5)(4x+5)$",
+        "$(2x-25)(2x+25)$",
+        "$(x-5)(x+5)$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "利用平方差公式：$(2x)^2 - 5^2 = (2x-5)(2x+5)$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "因式分解 $2x^2 + 5x - 12$。",
+      "options": [
+        "$(2x-3)(x+4)$",
+        "$(2x+3)(x-4)$",
+        "$(2x-4)(x+3)$",
+        "$(x-3)(2x+4)$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "十字相乘法：$(2x-3)(x+4)$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "有理化分母並化簡 $\\frac{10}{\\sqrt{5}-2}$。",
+      "options": [
+        "$10\\sqrt{5}+20$",
+        "$10\\sqrt{5}-20$",
+        "$5\\sqrt{5}+10$",
+        "$2\\sqrt{5}+4$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "上下乘以 $(\\sqrt{5}+2)$ 得 $\\frac{10(\\sqrt{5}+2)}{5-4} = 10\\sqrt{5}+20$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "通過點 $(2, -5)$ 且斜率為 $-3$ 的直線方程式為何？",
+      "options": [
+        "$y = -3x + 1$",
+        "$y = -3x - 1$",
+        "$y = -3x + 11$",
+        "$y = -3x - 11$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "利用點斜式：$y - (-5) = -3(x - 2) \\implies y + 5 = -3x + 6 \\implies y = -3x + 1$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "通過點 $(2, -5)$ 且平行於 x 軸的直線方程式為何？",
+      "options": [
+        "$y = -5$",
+        "$y = 2$",
+        "$x = 2$",
+        "$x = -5$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "平行於 x 軸的直線為 $y = k$。因通過點 $(2, -5)$，故方程式為 $y = -5$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "通過點 $(2, -5)$ 且平行於 y 軸的直線方程式為何？",
+      "options": [
+        "$x = 2$",
+        "$x = -5$",
+        "$y = -5$",
+        "$y = 2$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "平行於 y 軸的直線為 $x = k$。因通過點 $(2, -5)$，故方程式為 $x = 2$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "求圓方程式 $x^2 + y^2 - 6x + 10y + 9 = 0$ 的圓心。",
+      "options": [
+        "$(3, -5)$",
+        "$(-3, 5)$",
+        "$(6, -10)$",
+        "$(-6, 10)$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "配方：$(x-3)^2 + (y+5)^2 - 9 - 25 + 9 = 0 \\implies (x-3)^2 + (y+5)^2 = 25$。圓心為 $(3, -5)$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "求圓方程式 $x^2 + y^2 - 6x + 10y + 9 = 0$ 的半徑。",
+      "options": [
+        "$5$",
+        "$3$",
+        "$4$",
+        "$25$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "配方後得到：$(x-3)^2 + (y+5)^2 = 25$。半徑 $R = \\sqrt{25} = 5$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "求點 $A(-7, 4)$ 與 $B(5, -12)$ 的中點。",
+      "options": [
+        "$(-1, -4)$",
+        "$(-2, -8)$",
+        "$(1, 4)$",
+        "$(2, 8)$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "中點公式：$(\\frac{-7+5}{2}, \\frac{4-12}{2}) = (-1, -4)$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "求點 $A(-7, 4)$ 與 $B(5, -12)$ 連線段的長度。",
+      "options": [
+        "$20$",
+        "$12$",
+        "$16$",
+        "$25$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "距離公式：$\\sqrt{(5 - (-7))^2 + (-12 - 4)^2} = \\sqrt{12^2 + (-16)^2} = \\sqrt{144 + 256} = 20$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "解方程式 $x^2 - 2x - 12 = 0$。",
+      "options": [
+        "$1 \\pm \\sqrt{13}$",
+        "$2 \\pm \\sqrt{13}$",
+        "$-1 \\pm \\sqrt{13}$",
+        "$1 \\pm 2\\sqrt{3}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "公式解：$x = \\frac{2 \\pm \\sqrt{4 - 4(1)(-12)}}{2} = \\frac{2 \\pm \\sqrt{52}}{2} = 1 \\pm \\sqrt{13}$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "求方程式 $|x - 4| = 3$ 的所有解之和。",
+      "options": [
+        "$8$",
+        "$6$",
+        "$7$",
+        "$1$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "$x - 4 = 3 \\implies x = 7$，$x - 4 = -3 \\implies x = 1$。兩解之和為 $7 + 1 = 8$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "解不等式 $x^2 - 2x - 8 \\le 0$ 的解範圍為何？",
+      "options": [
+        "$[-2, 4]$",
+        "$[-4, 2]$",
+        "$[2, 4]$",
+        "$[-2, -4]$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "因式分解得 $(x-4)(x+2) \\le 0$，故 $-2 \\le x \\le 4$。範圍為 $[-2, 4]$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "配方 $x^2 - x + 1$ 的結果為何？",
+      "options": [
+        "$(x - \\frac{1}{2})^2 + \\frac{3}{4}$",
+        "$(x - 1)^2 + 1$",
+        "$(x - \\frac{1}{2})^2 + \\frac{1}{4}$",
+        "$(x + \\frac{1}{2})^2 + \\frac{3}{4}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "配方：$(x - \\frac{1}{2})^2 - \\frac{1}{4} + 1 = (x - \\frac{1}{2})^2 + \\frac{3}{4}$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "若 $A(-7, 4)$ 且 $B(5, -12)$，求包含 $A, B$ 兩點之直線斜率為何？",
+      "options": [
+        "$-\\frac{4}{3}$",
+        "$\\frac{4}{3}$",
+        "$-\\frac{3}{4}$",
+        "$\\frac{3}{4}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "斜率公式：$m = \\frac{-12 - 4}{5 - (-7)} = \\frac{-16}{12} = -\\frac{4}{3}$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "求 $(3^2)^3$ 的精確值。",
+      "options": [],
+      "answer": "729",
+      "type": "fill",
+      "solution": "$(3^2)^3 = 3^6 = 729$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "化簡並計算 $\\sqrt{32} + \\sqrt{8} - 3\\sqrt{2}$ 後，所得 $\\sqrt{2}$ 的倍數為何？",
+      "options": [],
+      "answer": "3",
+      "type": "fill",
+      "solution": "$4\\sqrt{2} + 2\\sqrt{2} - 3\\sqrt{2} = 3\\sqrt{2}$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "求方程式 $2x^2 + 5x - 12 = 0$ 的正根。",
+      "options": [],
+      "answer": "1.5",
+      "type": "fill",
+      "solution": "$(2x-3)(x+4) = 0 \\implies x = 1.5$ 或 $x = -4$。正根為 1.5。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "解方程式 $\\frac{2x}{x+1} = \\frac{2x-1}{x}$，求其解。",
+      "options": [],
+      "answer": "1",
+      "type": "fill",
+      "solution": "交叉相乘：$2x^2 = (x+1)(2x-1) = 2x^2 + x - 1 \\implies x = 1$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "已知兩點 $A(-7, 4)$ 與 $B(5, -12)$，求其線段 $AB$ 的垂直平分線方程式之斜率。",
+      "options": [],
+      "answer": "0.75",
+      "type": "fill",
+      "solution": "線段 $AB$ 斜率為 $-\\frac{4}{3}$。其垂直平分線之斜率為 $\\frac{3}{4} = 0.75$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "求圓心為 $(-1, 4)$ 且通過點 $(3, -2)$ 的圓方程式中，圓半徑的平方為何？",
+      "options": [],
+      "answer": "52",
+      "type": "fill",
+      "solution": "半徑平方 $R^2 = (3 - (-1))^2 + (-2 - 4)^2 = 4^2 + (-6)^2 = 16 + 36 = 52$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "解不等式 $|x - 4| < 3$，其解範圍為開區間 $(a, b)$，求 $b$ 的值。",
+      "options": [],
+      "answer": "7",
+      "type": "fill",
+      "solution": "$-3 < x - 4 < 3 \\implies 1 < x < 7$。因此 $b = 7$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "配方 $2x^2 - 12x + 11$ 得到 $2(x - h)^2 + k$，求 $h$ 的值。",
+      "options": [],
+      "answer": "3",
+      "type": "fill",
+      "solution": "$2(x^2 - 6x) + 11 = 2(x-3)^2 - 18 + 11 = 2(x-3)^2 - 7$。$h = 3$。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "通過點 $(2, -5)$ 且平行於直線 $2x - 4y = 3$ 的直線斜率為何？",
+      "options": [],
+      "answer": "0.5",
+      "type": "fill",
+      "solution": "直線 $2x - 4y = 3 \\implies y = \\frac{1}{2}x - \\frac{3}{4}$。斜率為 0.5。\n\n---",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "配方 $2x^2 - 12x + 11$ 得到 $2(x - h)^2 + k$，求 $k$ 的值。",
+      "options": [],
+      "answer": "-7",
+      "type": "fill",
+      "solution": "$2(x^2 - 6x) + 11 = 2(x-3)^2 - 7$，因此 $k = -7$。",
+      "chapter": "Ch0 0.1節：代數與算術基礎",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "設 $f(x) = x^3$，求差分商 $\\frac{f(2+h) - f(2)}{h}$ 化簡後的結果。",
+      "options": [
+        "$12 + 6h + h^2$",
+        "$12 + 4h + h^2$",
+        "$8 + 6h + h^2$",
+        "$12 + 6h$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "展開：$(2+h)^3 = 8 + 12h + 6h^2 + h^3$。因此 $\\frac{(8+12h+6h^2+h^3) - 8}{h} = 12 + 6h + h^2$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "求函數 $f(x) = \\frac{2x+1}{x^2+x-2}$ 的定義域。",
+      "options": [
+        "$x \\neq 1$ 且 $x \\neq -2$",
+        "$x \\neq -1$ 且 $x \\neq 2$",
+        "$x > 0$",
+        "實數全體"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "分母不可為 0：$x^2+x-2 = (x+2)(x-1) = 0 \\implies x = 1$ 或 $x = -2$。故定義域為 $x \\neq 1$ 且 $x \\neq -2$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "設 $f(x) = x^2 + 2x - 1$，$g(x) = 2x - 3$，求複合函數 $(f \\circ g)(x)$ 的解析式。",
+      "options": [
+        "$4x^2 - 8x + 2$",
+        "$4x^2 - 12x + 2$",
+        "$2x^2 + 4x - 5$",
+        "$4x^2 - 8x - 2$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入：$(2x-3)^2 + 2(2x-3) - 1 = 4x^2 - 12x + 9 + 4x - 6 - 1 = 4x^2 - 8x + 2$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "設 $f(x) = x^2 + 2x - 1$，$g(x) = 2x - 3$，求複合函數 $(g \\circ f)(x)$ 的解析式。",
+      "options": [
+        "$2x^2 + 4x - 5$",
+        "$2x^2 + 4x - 2$",
+        "$4x^2 - 8x + 2$",
+        "$2x^2 + 2x - 5$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "代入：$2(x^2 + 2x - 1) - 3 = 2x^2 + 4x - 2 - 3 = 2x^2 + 4x - 5$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "將 $300^\\circ$ 換算成弧度（Radians）。",
+      "options": [
+        "$\\frac{5\\pi}{3}$",
+        "$\\frac{4\\pi}{3}$",
+        "$\\frac{3\\pi}{2}$",
+        "$\\frac{2\\pi}{3}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "$300 \\cdot \\frac{\\pi}{180} = \\frac{5\\pi}{3}$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "將 $-18^\\circ$ 換算成弧度。",
+      "options": [
+        "$-\\frac{\\pi}{10}$",
+        "$-\\frac{\\pi}{5}$",
+        "$-\\frac{\\pi}{20}$",
+        "$-\\frac{\\pi}{15}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "$-18 \\cdot \\frac{\\pi}{180} = -\\frac{\\pi}{10}$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "將 $\\frac{5\\pi}{6}$ 弧度換算成角度。",
+      "options": [
+        "$150^\\circ$",
+        "$120^\\circ$",
+        "$135^\\circ$",
+        "$210^\\circ$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "$\\frac{5\\pi}{6} \\cdot \\frac{180}{\\pi} = 150^\\circ$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "求 $\\tan(-\\frac{\\pi}{3})$ 的精確值。",
+      "options": [
+        "$-\\sqrt{3}$",
+        "$\\sqrt{3}$",
+        "$-\\frac{\\sqrt{3}}{3}$",
+        "$\\frac{\\sqrt{3}}{3}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "$\\tan(-\\frac{\\pi}{3}) = -\\tan(\\frac{\\pi}{3}) = -\\sqrt{3}$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "求 $\\sin(\\frac{7\\pi}{6})$ 的精確值。",
+      "options": [
+        "$-\\frac{1}{2}$",
+        "$\\frac{1}{2}$",
+        "$-\\frac{\\sqrt{3}}{2}$",
+        "$\\frac{\\sqrt{3}}{2}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "$\\sin(\\pi + \\frac{\\pi}{6}) = -\\sin(\\frac{\\pi}{6}) = -\\frac{1}{2}$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "求 $\\sec(\\frac{5\\pi}{3})$ 的精確值。",
+      "options": [
+        "$2$",
+        "$-2$",
+        "$\\sqrt{2}$",
+        "$-\\sqrt{2}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "$\\sec(\\frac{5\\pi}{3}) = \\frac{1}{\\cos(2\\pi - \\pi/3)} = \\frac{1}{\\cos(\\pi/3)} = 2$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "設 $\\sin x = \\frac{1}{3}$，且 $x$ 在第一象限，求 $\\cos x$ 之值。",
+      "options": [
+        "$\\frac{2\\sqrt{2}}{3}$",
+        "$\\frac{\\sqrt{8}}{2}$",
+        "$\\frac{1}{3}$",
+        "$\\frac{2}{3}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "$\\cos x = \\sqrt{1 - \\sin^2 x} = \\sqrt{1 - \\frac{1}{9}} = \\frac{\\sqrt{8}}{3} = \\frac{2\\sqrt{2}}{3}$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "利用三角恆等式簡化 $\\tan \\theta \\sin \\theta + \\cos \\theta$。",
+      "options": [
+        "$\\sec \\theta$",
+        "$\\csc \\theta$",
+        "$\\sin \\theta$",
+        "$\\cos \\theta$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "$\\frac{\\sin^2 \\theta}{\\cos \\theta} + \\cos \\theta = \\frac{\\sin^2 \\theta + \\cos^2 \\theta}{\\cos \\theta} = \\frac{1}{\\cos \\theta} = \\sec \\theta$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "若 $\\sin 2x = \\sin x$，且 $0 \\le x \\le \\pi$，求 $x$ 的一個非零解。",
+      "options": [
+        "$\\frac{\\pi}{3}$",
+        "$\\frac{\\pi}{6}$",
+        "$\\frac{\\pi}{4}$",
+        "$\\frac{\\pi}{2}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "$2\\sin x \\cos x = \\sin x \\implies \\cos x = 0.5 \\implies x = \\frac{\\pi}{3}$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "已知函數 $f(x) = \\sqrt{x+1}$ 的定義域為何？",
+      "options": [
+        "$[-1, \\infty)$",
+        "$(-\\infty, -1]$",
+        "$[1, \\infty)$",
+        "$(-\\infty, 1]$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "根號內大於等於 0：$x+1 \\ge 0 \\implies x \\ge -1$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "設 $f(x) = \\frac{1}{x}$ 且 $g(x) = x^2 + 1$，求 $(f \\circ g)(2)$ 的值。",
+      "options": [
+        "$\\frac{1}{5}$",
+        "$5$",
+        "$\\frac{1}{4}$",
+        "$\\frac{1}{2}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "$g(2) = 2^2 + 1 = 5$，故 $f(g(2)) = f(5) = \\frac{1}{5}$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "試問 $\\sin 150^\\circ$ 的值為何？",
+      "options": [
+        "$\\frac{1}{2}$",
+        "$-\\frac{1}{2}$",
+        "$\\frac{\\sqrt{3}}{2}$",
+        "$-\\frac{\\sqrt{3}}{2}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "$\\sin(180^\\circ - 30^\\circ) = \\sin 30^\\circ = \\frac{1}{2}$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "試問 $\\cos(\\frac{2\\pi}{3})$ 的值為何？",
+      "options": [
+        "$-\\frac{1}{2}$",
+        "$\\frac{1}{2}$",
+        "$-\\frac{\\sqrt{3}}{2}$",
+        "$\\frac{\\sqrt{3}}{2}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "$\\cos(120^\\circ) = -\\frac{1}{2}$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "設一圓半徑為 $12\\text{ cm}$，其圓心角為 $30^\\circ$，求對應的弧長。",
+      "options": [
+        "$2\\pi\\text{ cm}$",
+        "$\\pi\\text{ cm}$",
+        "$3\\pi\\text{ cm}$",
+        "$4\\pi\\text{ cm}$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "弧長 $S = R \\theta = 12 \\cdot (30 \\cdot \\frac{\\pi}{180}) = 2\\pi$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "化簡 $\\frac{2\\tan x}{1+\\tan^2 x}$ 的結果為何？",
+      "options": [
+        "$\\sin 2x$",
+        "$\\cos 2x$",
+        "$\\tan 2x$",
+        "$\\sec 2x$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "$\\frac{2\\tan x}{\\sec^2 x} = 2\\frac{\\sin x}{\\cos x}\\cos^2 x = 2\\sin x \\cos x = \\sin 2x$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "設 $f(x) = |x|$ 的定義域為所有實數，其值域為何？",
+      "options": [
+        "$[0, \\infty)$",
+        "$(-\\infty, \\infty)$",
+        "$(0, \\infty)$",
+        "$(-\\infty, 0]$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "絕對值輸出必定大於等於 0。故為 $[0, \\infty)$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "設 $f(x) = x^2 + 2x - 1$，求 $f(2)$ 的值。",
+      "options": [],
+      "answer": "7",
+      "type": "fill",
+      "solution": "$2^2 + 2(2) - 1 = 4 + 4 - 1 = 7$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "將 $2$ 弧度換算為度數（保留到整數，$\\pi \\approx 3.14159$）。",
+      "options": [],
+      "answer": "115",
+      "type": "fill",
+      "solution": "$2 \\cdot \\frac{180}{\\pi} = \\frac{360}{\\pi} \\approx 114.59^\\circ \\implies 115$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "若一圓半徑為 $12\\text{ cm}$，其圓心角為 $30^\\circ$，求此扇形面積（以 $\\pi$ 的倍數表示）。",
+      "options": [],
+      "answer": "12",
+      "type": "fill",
+      "solution": "面積 $A = \\frac{1}{2} R^2 \\theta = \\frac{1}{2} \\cdot 144 \\cdot \\frac{\\pi}{6} = 12\\pi$。故填 12。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "已知 $\\sec y = \\frac{5}{4}$ 且 $y$ 在第一象限，求 $\\tan y$ 之精確值（小數表示）。",
+      "options": [],
+      "answer": "0.75",
+      "type": "fill",
+      "solution": "$\\cos y = \\frac{4}{5} \\implies \\sin y = \\frac{3}{5}$。$\\tan y = \\frac{3}{4} = 0.75$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "若 $\\sin 2x = \\sin x$ 且 $\\pi \\le x \\le 2\\pi$，求 $x$ 的一個非 $\\pi, 2\\pi$ 之解（以 $\\pi$ 的倍數表示，保留2位小數）。",
+      "options": [],
+      "answer": "1.67",
+      "type": "fill",
+      "solution": "$2\\sin x \\cos x = \\sin x \\implies \\cos x = \\frac{1}{2} \\implies x = 2\\pi - \\frac{\\pi}{3} = \\frac{5\\pi}{3} \\approx 1.67\\pi$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "設 $f(x) = 2x - 3$，求反函數 $f^{-1}(1)$ 的值。",
+      "options": [],
+      "answer": "2",
+      "type": "fill",
+      "solution": "$2x - 3 = 1 \\implies 2x = 4 \\implies x = 2$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "設 $f(x) = \\sqrt{4-x^2}$ 的定義域為 $[a, b]$，求 $b$ 的值。",
+      "options": [],
+      "answer": "2",
+      "type": "fill",
+      "solution": "$4 - x^2 \\ge 0 \\implies x^2 \\le 4 \\implies -2 \\le x \\le 2$。因此 $b = 2$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "設 $f(x) = 3x + 1$，求其在 $x=1$ 到 $x=3$ 的割線斜率。",
+      "options": [],
+      "answer": "3",
+      "type": "fill",
+      "solution": "$\\frac{f(3) - f(1)}{3 - 1} = \\frac{10 - 4}{2} = 3$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "求 $\\cos^2 15^\\circ - \\sin^2 15^\\circ$ 之值（小數表示，保留3位小數）。",
+      "options": [],
+      "answer": "0.866",
+      "type": "fill",
+      "solution": "利用倍角公式：$\\cos(2 \\cdot 15^\\circ) = \\cos 30^\\circ = \\frac{\\sqrt{3}}{2} \\approx 0.866$。\n\n---",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "求 $\\cos^2 30^\\circ + \\sin^2 30^\\circ$ 之值。",
+      "options": [],
+      "answer": "1",
+      "type": "fill",
+      "solution": "利用三角恆等式：$\\cos^2 \\theta + \\sin^2 \\theta = 1$。",
+      "chapter": "Ch0 0.2節：幾何與三角函數",
+      "score": 10
+    }
+  ]
+}
