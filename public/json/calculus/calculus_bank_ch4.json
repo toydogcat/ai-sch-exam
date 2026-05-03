@@ -2,7 +2,657 @@
   "questions": [
     {
       "number": 1,
-      "text": "若用黎曼和（Riemann Sum）之右端點法來逼近 $f(x) = 2x$ 在 $[0, 2]$ 區間之面積，將區間等分為 $n$ 份，則 $\\Delta x$ 為何？",
+      "text": "【綜合】求 $\\int_1^2 2 dx$ 的精確值。",
+      "options": [
+        "$0$",
+        "$2$",
+        "$4$",
+        "$1$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "定積分值為 $[2x]_1^2 = 2$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 2,
+      "text": "【綜合】求 $\\int \\sin(3x) dx$ 之最一般不定積分。",
+      "options": [
+        "$-\\cos(3x) + C$",
+        "$\\frac{1}{3}\\cos(3x) + C$",
+        "$-\\frac{1}{3}\\cos(3x) + C$",
+        "$\\cos(3x) + C$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "令 $u = 3x \\implies -\\frac{1}{3}\\cos(3x) + C$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 3,
+      "text": "【綜合】求 $\\int (4x^2 + 1) dx$ 之最一般反導函數。",
+      "options": [
+        "$4x + C$",
+        "$\\frac{4}{3}x^3 + x + C$",
+        "$x + C$",
+        "不存在"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "對各項積分：$\\frac{4}{3}x^3 + x + C$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 4,
+      "text": "【綜合】求 $\\int_1^2 5 dx$ 的精確值。",
+      "options": [
+        "$10$",
+        "$0$",
+        "$5$",
+        "$1$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "定積分值為 $[5x]_1^2 = 5$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 5,
+      "text": "【綜合】求 $\\int \\sin(6x) dx$ 之最一般不定積分。",
+      "options": [
+        "$\\cos(6x) + C$",
+        "$\\frac{1}{6}\\cos(6x) + C$",
+        "$-\\cos(6x) + C$",
+        "$-\\frac{1}{6}\\cos(6x) + C$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "令 $u = 6x \\implies -\\frac{1}{6}\\cos(6x) + C$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 6,
+      "text": "【綜合】求 $\\int (7x^2 + 1) dx$ 之最一般反導函數。",
+      "options": [
+        "$7x + C$",
+        "$\\frac{7}{3}x^3 + x + C$",
+        "$x + C$",
+        "不存在"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "對各項積分：$\\frac{7}{3}x^3 + x + C$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 7,
+      "text": "【綜合】求 $\\int_1^2 8 dx$ 的精確值。",
+      "options": [
+        "$16$",
+        "$0$",
+        "$8$",
+        "$1$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "定積分值為 $[8x]_1^2 = 8$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 8,
+      "text": "【綜合】求 $\\int \\sin(9x) dx$ 之最一般不定積分。",
+      "options": [
+        "$\\cos(9x) + C$",
+        "$\\frac{1}{9}\\cos(9x) + C$",
+        "$-\\cos(9x) + C$",
+        "$-\\frac{1}{9}\\cos(9x) + C$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "令 $u = 9x \\implies -\\frac{1}{9}\\cos(9x) + C$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 9,
+      "text": "【綜合】求 $\\int (10x^2 + 1) dx$ 之最一般反導函數。",
+      "options": [
+        "$10x + C$",
+        "$\\frac{10}{3}x^3 + x + C$",
+        "$x + C$",
+        "不存在"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "對各項積分：$\\frac{10}{3}x^3 + x + C$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 10,
+      "text": "【綜合】求 $\\int_1^2 11 dx$ 的精確值。",
+      "options": [
+        "$22$",
+        "$0$",
+        "$11$",
+        "$1$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "定積分值為 $[11x]_1^2 = 11$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 11,
+      "text": "【綜合】求 $\\int \\sin(12x) dx$ 之最一般不定積分。",
+      "options": [
+        "$\\cos(12x) + C$",
+        "$\\frac{1}{12}\\cos(12x) + C$",
+        "$-\\cos(12x) + C$",
+        "$-\\frac{1}{12}\\cos(12x) + C$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "令 $u = 12x \\implies -\\frac{1}{12}\\cos(12x) + C$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 12,
+      "text": "【綜合】求 $\\int (13x^2 + 1) dx$ 之最一般反導函數。",
+      "options": [
+        "$\\frac{13}{3}x^3 + x + C$",
+        "$13x + C$",
+        "$x + C$",
+        "不存在"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "對各項積分：$\\frac{13}{3}x^3 + x + C$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 13,
+      "text": "【綜合】求 $\\int_1^2 14 dx$ 的精確值。",
+      "options": [
+        "$0$",
+        "$14$",
+        "$28$",
+        "$1$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "定積分值為 $[14x]_1^2 = 14$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 14,
+      "text": "【綜合】求 $\\int \\sin(15x) dx$ 之最一般不定積分。",
+      "options": [
+        "$-\\cos(15x) + C$",
+        "$\\frac{1}{15}\\cos(15x) + C$",
+        "$-\\frac{1}{15}\\cos(15x) + C$",
+        "$\\cos(15x) + C$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "令 $u = 15x \\implies -\\frac{1}{15}\\cos(15x) + C$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 15,
+      "text": "【綜合】求 $\\int (16x^2 + 1) dx$ 之最一般反導函數。",
+      "options": [
+        "$16x + C$",
+        "$\\frac{16}{3}x^3 + x + C$",
+        "$x + C$",
+        "不存在"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "對各項積分：$\\frac{16}{3}x^3 + x + C$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 16,
+      "text": "【綜合】求 $\\int_1^2 17 dx$ 的精確值。",
+      "options": [
+        "$34$",
+        "$0$",
+        "$17$",
+        "$1$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "定積分值為 $[17x]_1^2 = 17$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 17,
+      "text": "【綜合】求 $\\int \\sin(18x) dx$ 之最一般不定積分。",
+      "options": [
+        "$\\cos(18x) + C$",
+        "$\\frac{1}{18}\\cos(18x) + C$",
+        "$-\\cos(18x) + C$",
+        "$-\\frac{1}{18}\\cos(18x) + C$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "令 $u = 18x \\implies -\\frac{1}{18}\\cos(18x) + C$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 18,
+      "text": "【綜合】求 $\\int (19x^2 + 1) dx$ 之最一般反導函數。",
+      "options": [
+        "$19x + C$",
+        "$\\frac{19}{3}x^3 + x + C$",
+        "$x + C$",
+        "不存在"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "對各項積分：$\\frac{19}{3}x^3 + x + C$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 19,
+      "text": "【綜合】求 $\\int_1^2 20 dx$ 的精確值。",
+      "options": [
+        "$40$",
+        "$0$",
+        "$20$",
+        "$1$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "定積分值為 $[20x]_1^2 = 20$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 20,
+      "text": "【綜合】求 $\\int \\sin(21x) dx$ 之最一般不定積分。",
+      "options": [
+        "$\\cos(21x) + C$",
+        "$\\frac{1}{21}\\cos(21x) + C$",
+        "$-\\cos(21x) + C$",
+        "$-\\frac{1}{21}\\cos(21x) + C$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "令 $u = 21x \\implies -\\frac{1}{21}\\cos(21x) + C$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 21,
+      "text": "【綜合】求 $\\int (22x^2 + 1) dx$ 之最一般反導函數。",
+      "options": [
+        "$22x + C$",
+        "$\\frac{22}{3}x^3 + x + C$",
+        "$x + C$",
+        "不存在"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "對各項積分：$\\frac{22}{3}x^3 + x + C$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 22,
+      "text": "【綜合】求 $\\int_1^2 23 dx$ 的精確值。",
+      "options": [
+        "$46$",
+        "$0$",
+        "$23$",
+        "$1$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "定積分值為 $[23x]_1^2 = 23$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 23,
+      "text": "【綜合】求 $\\int \\sin(24x) dx$ 之最一般不定積分。",
+      "options": [
+        "$\\cos(24x) + C$",
+        "$\\frac{1}{24}\\cos(24x) + C$",
+        "$-\\cos(24x) + C$",
+        "$-\\frac{1}{24}\\cos(24x) + C$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "令 $u = 24x \\implies -\\frac{1}{24}\\cos(24x) + C$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 24,
+      "text": "【綜合】求 $\\int (25x^2 + 1) dx$ 之最一般反導函數。",
+      "options": [
+        "$\\frac{25}{3}x^3 + x + C$",
+        "$25x + C$",
+        "$x + C$",
+        "不存在"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "對各項積分：$\\frac{25}{3}x^3 + x + C$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 25,
+      "text": "【綜合】求 $\\int_1^2 26 dx$ 的精確值。",
+      "options": [
+        "$0$",
+        "$26$",
+        "$52$",
+        "$1$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "定積分值為 $[26x]_1^2 = 26$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 26,
+      "text": "【綜合】求 $\\int \\sin(27x) dx$ 之最一般不定積分。",
+      "options": [
+        "$-\\cos(27x) + C$",
+        "$\\frac{1}{27}\\cos(27x) + C$",
+        "$-\\frac{1}{27}\\cos(27x) + C$",
+        "$\\cos(27x) + C$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "令 $u = 27x \\implies -\\frac{1}{27}\\cos(27x) + C$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 27,
+      "text": "【綜合】求 $\\int (28x^2 + 1) dx$ 之最一般反導函數。",
+      "options": [
+        "$28x + C$",
+        "$\\frac{28}{3}x^3 + x + C$",
+        "$x + C$",
+        "不存在"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "對各項積分：$\\frac{28}{3}x^3 + x + C$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 28,
+      "text": "【綜合】求 $\\int_1^2 29 dx$ 的精確值。",
+      "options": [
+        "$58$",
+        "$0$",
+        "$29$",
+        "$1$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "定積分值為 $[29x]_1^2 = 29$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 29,
+      "text": "【綜合】求 $\\int \\sin(30x) dx$ 之最一般不定積分。",
+      "options": [
+        "$\\cos(30x) + C$",
+        "$\\frac{1}{30}\\cos(30x) + C$",
+        "$-\\cos(30x) + C$",
+        "$-\\frac{1}{30}\\cos(30x) + C$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "令 $u = 30x \\implies -\\frac{1}{30}\\cos(30x) + C$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 30,
+      "text": "【綜合】求 $\\int (31x^2 + 1) dx$ 之最一般反導函數。",
+      "options": [
+        "$31x + C$",
+        "$\\frac{31}{3}x^3 + x + C$",
+        "$x + C$",
+        "不存在"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "對各項積分：$\\frac{31}{3}x^3 + x + C$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 31,
+      "text": "【綜合】已知 $\\int_1^3 13 dx$ 的精確值為多少？",
+      "options": [],
+      "answer": "26",
+      "type": "fill",
+      "solution": "定積分值為 $[13x]_1^3 = 13(3 - 1) = 26$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 32,
+      "text": "【綜合】若 $F(x) = \\int_0^x 14t dt$，求 $F'(2)$ 之值。",
+      "options": [],
+      "answer": "28",
+      "type": "fill",
+      "solution": "由微積分基本定理，$F'(x) = 14x$。代入 $x=2 \\implies 14 \\times 2 = 28$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 33,
+      "text": "【綜合】已知 $\\int_1^3 15 dx$ 的精確值為多少？",
+      "options": [],
+      "answer": "30",
+      "type": "fill",
+      "solution": "定積分值為 $[15x]_1^3 = 15(3 - 1) = 30$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 34,
+      "text": "【綜合】若 $F(x) = \\int_0^x 16t dt$，求 $F'(2)$ 之值。",
+      "options": [],
+      "answer": "32",
+      "type": "fill",
+      "solution": "由微積分基本定理，$F'(x) = 16x$。代入 $x=2 \\implies 16 \\times 2 = 32$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 35,
+      "text": "【綜合】已知 $\\int_1^3 17 dx$ 的精確值為多少？",
+      "options": [],
+      "answer": "34",
+      "type": "fill",
+      "solution": "定積分值為 $[17x]_1^3 = 17(3 - 1) = 34$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 36,
+      "text": "【綜合】若 $F(x) = \\int_0^x 18t dt$，求 $F'(2)$ 之值。",
+      "options": [],
+      "answer": "36",
+      "type": "fill",
+      "solution": "由微積分基本定理，$F'(x) = 18x$。代入 $x=2 \\implies 18 \\times 2 = 36$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 37,
+      "text": "【綜合】已知 $\\int_1^3 19 dx$ 的精確值為多少？",
+      "options": [],
+      "answer": "38",
+      "type": "fill",
+      "solution": "定積分值為 $[19x]_1^3 = 19(3 - 1) = 38$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 38,
+      "text": "【綜合】若 $F(x) = \\int_0^x 20t dt$，求 $F'(2)$ 之值。",
+      "options": [],
+      "answer": "40",
+      "type": "fill",
+      "solution": "由微積分基本定理，$F'(x) = 20x$。代入 $x=2 \\implies 20 \\times 2 = 40$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 39,
+      "text": "【綜合】已知 $\\int_1^3 21 dx$ 的精確值為多少？",
+      "options": [],
+      "answer": "42",
+      "type": "fill",
+      "solution": "定積分值為 $[21x]_1^3 = 21(3 - 1) = 42$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 40,
+      "text": "【綜合】若 $F(x) = \\int_0^x 22t dt$，求 $F'(2)$ 之值。",
+      "options": [],
+      "answer": "44",
+      "type": "fill",
+      "solution": "由微積分基本定理，$F'(x) = 22x$。代入 $x=2 \\implies 22 \\times 2 = 44$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 41,
+      "text": "【綜合】已知 $\\int_1^3 23 dx$ 的精確值為多少？",
+      "options": [],
+      "answer": "46",
+      "type": "fill",
+      "solution": "定積分值為 $[23x]_1^3 = 23(3 - 1) = 46$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 42,
+      "text": "【綜合】若 $F(x) = \\int_0^x 24t dt$，求 $F'(2)$ 之值。",
+      "options": [],
+      "answer": "48",
+      "type": "fill",
+      "solution": "由微積分基本定理，$F'(x) = 24x$。代入 $x=2 \\implies 24 \\times 2 = 48$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 43,
+      "text": "【綜合】已知 $\\int_1^3 25 dx$ 的精確值為多少？",
+      "options": [],
+      "answer": "50",
+      "type": "fill",
+      "solution": "定積分值為 $[25x]_1^3 = 25(3 - 1) = 50$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 44,
+      "text": "【綜合】若 $F(x) = \\int_0^x 26t dt$，求 $F'(2)$ 之值。",
+      "options": [],
+      "answer": "52",
+      "type": "fill",
+      "solution": "由微積分基本定理，$F'(x) = 26x$。代入 $x=2 \\implies 26 \\times 2 = 52$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 45,
+      "text": "【綜合】已知 $\\int_1^3 27 dx$ 的精確值為多少？",
+      "options": [],
+      "answer": "54",
+      "type": "fill",
+      "solution": "定積分值為 $[27x]_1^3 = 27(3 - 1) = 54$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 46,
+      "text": "【綜合】若 $F(x) = \\int_0^x 28t dt$，求 $F'(2)$ 之值。",
+      "options": [],
+      "answer": "56",
+      "type": "fill",
+      "solution": "由微積分基本定理，$F'(x) = 28x$。代入 $x=2 \\implies 28 \\times 2 = 56$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 47,
+      "text": "【綜合】已知 $\\int_1^3 29 dx$ 的精確值為多少？",
+      "options": [],
+      "answer": "58",
+      "type": "fill",
+      "solution": "定積分值為 $[29x]_1^3 = 29(3 - 1) = 58$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 48,
+      "text": "【綜合】若 $F(x) = \\int_0^x 30t dt$，求 $F'(2)$ 之值。",
+      "options": [],
+      "answer": "60",
+      "type": "fill",
+      "solution": "由微積分基本定理，$F'(x) = 30x$。代入 $x=2 \\implies 30 \\times 2 = 60$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 49,
+      "text": "【綜合】已知 $\\int_1^3 31 dx$ 的精確值為多少？",
+      "options": [],
+      "answer": "62",
+      "type": "fill",
+      "solution": "定積分值為 $[31x]_1^3 = 31(3 - 1) = 62$。\n\n---",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 50,
+      "text": "【綜合】若 $F(x) = \\int_0^x 32t dt$，求 $F'(2)$ 之值。",
+      "options": [],
+      "answer": "64",
+      "type": "fill",
+      "solution": "由微積分基本定理，$F'(x) = 32x$。代入 $x=2 \\implies 32 \\times 2 = 64$。",
+      "chapter": "Ch4 Final",
+      "score": 10
+    },
+    {
+      "number": 1,
+      "text": "若用黎曼和之右端點法來逼近 $f(x) = 2x$ 在 $[0, 2]$ 區間之面積，將區間等分為 $n$ 份，則 $\\Delta x$ 為何？",
       "options": [
         "$\\frac{2}{n}$",
         "$\\frac{1}{n}$",
@@ -17,7 +667,7 @@
     },
     {
       "number": 2,
-      "text": "已知一物體在時間區間 $[0, 2]$ 的速度函數為 $v(t) = 3t^2$，試問其移動的總距離（Distance）為何？",
+      "text": "已知一物體在時間區間 $[0, 2]$ 的速度函數為 $v(t) = 3t^2$，試問其移動的總距離為何？",
       "options": [
         "$\\frac{12}{3}$",
         "$\\frac{24}{3}$",
@@ -32,7 +682,7 @@
     },
     {
       "number": 3,
-      "text": "若用黎曼和（Riemann Sum）之右端點法來逼近 $f(x) = 4x$ 在 $[0, 2]$ 區間之面積，將區間等分為 $n$ 份，則 $\\Delta x$ 為何？",
+      "text": "若用黎曼和之右端點法來逼近 $f(x) = 4x$ 在 $[0, 2]$ 區間之面積，將區間等分為 $n$ 份，則 $\\Delta x$ 為何？",
       "options": [
         "$n$",
         "$\\frac{1}{n}$",
@@ -47,7 +697,7 @@
     },
     {
       "number": 4,
-      "text": "已知一物體在時間區間 $[0, 2]$ 的速度函數為 $v(t) = 5t^2$，試問其移動的總距離（Distance）為何？",
+      "text": "已知一物體在時間區間 $[0, 2]$ 的速度函數為 $v(t) = 5t^2$，試問其移動的總距離為何？",
       "options": [
         "$\\frac{40}{3}$",
         "$\\frac{20}{3}$",
@@ -62,7 +712,7 @@
     },
     {
       "number": 5,
-      "text": "若用黎曼和（Riemann Sum）之右端點法來逼近 $f(x) = 6x$ 在 $[0, 2]$ 區間之面積，將區間等分為 $n$ 份，則 $\\Delta x$ 為何？",
+      "text": "若用黎曼和之右端點法來逼近 $f(x) = 6x$ 在 $[0, 2]$ 區間之面積，將區間等分為 $n$ 份，則 $\\Delta x$ 為何？",
       "options": [
         "$\\frac{6}{n}$",
         "$\\frac{1}{n}$",
@@ -77,7 +727,7 @@
     },
     {
       "number": 6,
-      "text": "已知一物體在時間區間 $[0, 2]$ 的速度函數為 $v(t) = 7t^2$，試問其移動的總距離（Distance）為何？",
+      "text": "已知一物體在時間區間 $[0, 2]$ 的速度函數為 $v(t) = 7t^2$，試問其移動的總距離為何？",
       "options": [
         "$\\frac{28}{3}$",
         "$\\frac{56}{3}$",
@@ -92,7 +742,7 @@
     },
     {
       "number": 7,
-      "text": "若用黎曼和（Riemann Sum）之右端點法來逼近 $f(x) = 8x$ 在 $[0, 2]$ 區間之面積，將區間等分為 $n$ 份，則 $\\Delta x$ 為何？",
+      "text": "若用黎曼和之右端點法來逼近 $f(x) = 8x$ 在 $[0, 2]$ 區間之面積，將區間等分為 $n$ 份，則 $\\Delta x$ 為何？",
       "options": [
         "$n$",
         "$\\frac{1}{n}$",
@@ -107,7 +757,7 @@
     },
     {
       "number": 8,
-      "text": "已知一物體在時間區間 $[0, 2]$ 的速度函數為 $v(t) = 9t^2$，試問其移動的總距離（Distance）為何？",
+      "text": "已知一物體在時間區間 $[0, 2]$ 的速度函數為 $v(t) = 9t^2$，試問其移動的總距離為何？",
       "options": [
         "$\\frac{72}{3}$",
         "$\\frac{36}{3}$",
@@ -122,7 +772,7 @@
     },
     {
       "number": 9,
-      "text": "若用黎曼和（Riemann Sum）之右端點法來逼近 $f(x) = 10x$ 在 $[0, 2]$ 區間之面積，將區間等分為 $n$ 份，則 $\\Delta x$ 為何？",
+      "text": "若用黎曼和之右端點法來逼近 $f(x) = 10x$ 在 $[0, 2]$ 區間之面積，將區間等分為 $n$ 份，則 $\\Delta x$ 為何？",
       "options": [
         "$\\frac{10}{n}$",
         "$\\frac{1}{n}$",
@@ -137,7 +787,7 @@
     },
     {
       "number": 10,
-      "text": "已知一物體在時間區間 $[0, 2]$ 的速度函數為 $v(t) = 11t^2$，試問其移動的總距離（Distance）為何？",
+      "text": "已知一物體在時間區間 $[0, 2]$ 的速度函數為 $v(t) = 11t^2$，試問其移動的總距離為何？",
       "options": [
         "$\\frac{44}{3}$",
         "$\\frac{88}{3}$",
@@ -152,7 +802,7 @@
     },
     {
       "number": 11,
-      "text": "若用黎曼和（Riemann Sum）之右端點法來逼近 $f(x) = 12x$ 在 $[0, 2]$ 區間之面積，將區間等分為 $n$ 份，則 $\\Delta x$ 為何？",
+      "text": "若用黎曼和之右端點法來逼近 $f(x) = 12x$ 在 $[0, 2]$ 區間之面積，將區間等分為 $n$ 份，則 $\\Delta x$ 為何？",
       "options": [
         "$n$",
         "$\\frac{1}{n}$",
@@ -167,7 +817,7 @@
     },
     {
       "number": 12,
-      "text": "已知一物體在時間區間 $[0, 2]$ 的速度函數為 $v(t) = 13t^2$，試問其移動的總距離（Distance）為何？",
+      "text": "已知一物體在時間區間 $[0, 2]$ 的速度函數為 $v(t) = 13t^2$，試問其移動的總距離為何？",
       "options": [
         "$\\frac{104}{3}$",
         "$\\frac{52}{3}$",
@@ -182,7 +832,7 @@
     },
     {
       "number": 13,
-      "text": "若用黎曼和（Riemann Sum）之右端點法來逼近 $f(x) = 14x$ 在 $[0, 2]$ 區間之面積，將區間等分為 $n$ 份，則 $\\Delta x$ 為何？",
+      "text": "若用黎曼和之右端點法來逼近 $f(x) = 14x$ 在 $[0, 2]$ 區間之面積，將區間等分為 $n$ 份，則 $\\Delta x$ 為何？",
       "options": [
         "$\\frac{14}{n}$",
         "$\\frac{1}{n}$",
@@ -197,7 +847,7 @@
     },
     {
       "number": 14,
-      "text": "已知一物體在時間區間 $[0, 2]$ 的速度函數為 $v(t) = 15t^2$，試問其移動的總距離（Distance）為何？",
+      "text": "已知一物體在時間區間 $[0, 2]$ 的速度函數為 $v(t) = 15t^2$，試問其移動的總距離為何？",
       "options": [
         "$\\frac{60}{3}$",
         "$\\frac{120}{3}$",
@@ -212,7 +862,7 @@
     },
     {
       "number": 15,
-      "text": "若用黎曼和（Riemann Sum）之右端點法來逼近 $f(x) = 16x$ 在 $[0, 2]$ 區間之面積，將區間等分為 $n$ 份，則 $\\Delta x$ 為何？",
+      "text": "若用黎曼和之右端點法來逼近 $f(x) = 16x$ 在 $[0, 2]$ 區間之面積，將區間等分為 $n$ 份，則 $\\Delta x$ 為何？",
       "options": [
         "$n$",
         "$\\frac{1}{n}$",
@@ -227,7 +877,7 @@
     },
     {
       "number": 16,
-      "text": "已知一物體在時間區間 $[0, 2]$ 的速度函數為 $v(t) = 17t^2$，試問其移動的總距離（Distance）為何？",
+      "text": "已知一物體在時間區間 $[0, 2]$ 的速度函數為 $v(t) = 17t^2$，試問其移動的總距離為何？",
       "options": [
         "$\\frac{136}{3}$",
         "$\\frac{68}{3}$",
@@ -242,7 +892,7 @@
     },
     {
       "number": 17,
-      "text": "若用黎曼和（Riemann Sum）之右端點法來逼近 $f(x) = 18x$ 在 $[0, 2]$ 區間之面積，將區間等分為 $n$ 份，則 $\\Delta x$ 為何？",
+      "text": "若用黎曼和之右端點法來逼近 $f(x) = 18x$ 在 $[0, 2]$ 區間之面積，將區間等分為 $n$ 份，則 $\\Delta x$ 為何？",
       "options": [
         "$\\frac{18}{n}$",
         "$\\frac{1}{n}$",
@@ -257,7 +907,7 @@
     },
     {
       "number": 18,
-      "text": "已知一物體在時間區間 $[0, 2]$ 的速度函數為 $v(t) = 19t^2$，試問其移動的總距離（Distance）為何？",
+      "text": "已知一物體在時間區間 $[0, 2]$ 的速度函數為 $v(t) = 19t^2$，試問其移動的總距離為何？",
       "options": [
         "$\\frac{76}{3}$",
         "$\\frac{152}{3}$",
@@ -272,7 +922,7 @@
     },
     {
       "number": 19,
-      "text": "若用黎曼和（Riemann Sum）之右端點法來逼近 $f(x) = 20x$ 在 $[0, 2]$ 區間之面積，將區間等分為 $n$ 份，則 $\\Delta x$ 為何？",
+      "text": "若用黎曼和之右端點法來逼近 $f(x) = 20x$ 在 $[0, 2]$ 區間之面積，將區間等分為 $n$ 份，則 $\\Delta x$ 為何？",
       "options": [
         "$n$",
         "$\\frac{1}{n}$",
@@ -287,7 +937,7 @@
     },
     {
       "number": 20,
-      "text": "已知一物體在時間區間 $[0, 2]$ 的速度函數為 $v(t) = 21t^2$，試問其移動的總距離（Distance）為何？",
+      "text": "已知一物體在時間區間 $[0, 2]$ 的速度函數為 $v(t) = 21t^2$，試問其移動的總距離為何？",
       "options": [
         "$\\frac{168}{3}$",
         "$\\frac{84}{3}$",
@@ -302,101 +952,351 @@
     },
     {
       "number": 21,
-      "text": "若函數 $f(x) = 3x$ 在 $[0, 4]$ 之下的面積利用積分計算，則此面積值為何？",
-      "options": [],
-      "answer": "24",
-      "type": "fill",
-      "solution": "積分式為 $\\int_0^4 3x dx = [\\frac{3}{2}x^2]_0^4 = \\frac{3}{2} \\times 16 = 24$。\n\n---",
+      "text": "若用黎曼和之右端點法來逼近 $f(x) = 22x$ 在 $[0, 2]$ 區間之面積，將區間等分為 $n$ 份，則 $\\Delta x$ 為何？",
+      "options": [
+        "$\\frac{22}{n}$",
+        "$\\frac{1}{n}$",
+        "$\\frac{2}{n}$",
+        "$n$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "區間為 $[0, 2]$，長度為 $2-0 = 2$。等分為 $n$ 份則 $\\Delta x = \\frac{2}{n}$。\n\n---",
       "chapter": "Ch4 4.1節：面積與距離問題",
       "score": 10
     },
     {
       "number": 22,
-      "text": "若函數 $f(x) = 4x$ 在 $[0, 4]$ 之下的面積利用積分計算，則此面積值為何？",
-      "options": [],
-      "answer": "32",
-      "type": "fill",
-      "solution": "積分式為 $\\int_0^4 4x dx = [\\frac{4}{2}x^2]_0^4 = \\frac{4}{2} \\times 16 = 32$。\n\n---",
+      "text": "已知一物體在時間區間 $[0, 2]$ 的速度函數為 $v(t) = 23t^2$，試問其移動的總距離為何？",
+      "options": [
+        "$\\frac{92}{3}$",
+        "$\\frac{184}{3}$",
+        "$23$",
+        "$0$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "距離即為速度函數之定積分。$\\int_0^2 23t^2 dt = [\\frac{23}{3}t^3]_0^2 = \\frac{184}{3}$。\n\n---",
       "chapter": "Ch4 4.1節：面積與距離問題",
       "score": 10
     },
     {
       "number": 23,
-      "text": "若函數 $f(x) = 5x$ 在 $[0, 4]$ 之下的面積利用積分計算，則此面積值為何？",
-      "options": [],
-      "answer": "40",
-      "type": "fill",
-      "solution": "積分式為 $\\int_0^4 5x dx = [\\frac{5}{2}x^2]_0^4 = \\frac{5}{2} \\times 16 = 40$。\n\n---",
+      "text": "若用黎曼和之右端點法來逼近 $f(x) = 24x$ 在 $[0, 2]$ 區間之面積，將區間等分為 $n$ 份，則 $\\Delta x$ 為何？",
+      "options": [
+        "$n$",
+        "$\\frac{1}{n}$",
+        "$\\frac{24}{n}$",
+        "$\\frac{2}{n}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "區間為 $[0, 2]$，長度為 $2-0 = 2$。等分為 $n$ 份則 $\\Delta x = \\frac{2}{n}$。\n\n---",
       "chapter": "Ch4 4.1節：面積與距離問題",
       "score": 10
     },
     {
       "number": 24,
-      "text": "若函數 $f(x) = 6x$ 在 $[0, 4]$ 之下的面積利用積分計算，則此面積值為何？",
-      "options": [],
-      "answer": "48",
-      "type": "fill",
-      "solution": "積分式為 $\\int_0^4 6x dx = [\\frac{6}{2}x^2]_0^4 = \\frac{6}{2} \\times 16 = 48$。\n\n---",
+      "text": "已知一物體在時間區間 $[0, 2]$ 的速度函數為 $v(t) = 25t^2$，試問其移動的總距離為何？",
+      "options": [
+        "$\\frac{200}{3}$",
+        "$\\frac{100}{3}$",
+        "$25$",
+        "$0$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "距離即為速度函數之定積分。$\\int_0^2 25t^2 dt = [\\frac{25}{3}t^3]_0^2 = \\frac{200}{3}$。\n\n---",
       "chapter": "Ch4 4.1節：面積與距離問題",
       "score": 10
     },
     {
       "number": 25,
-      "text": "若函數 $f(x) = 7x$ 在 $[0, 4]$ 之下的面積利用積分計算，則此面積值為何？",
-      "options": [],
-      "answer": "56",
-      "type": "fill",
-      "solution": "積分式為 $\\int_0^4 7x dx = [\\frac{7}{2}x^2]_0^4 = \\frac{7}{2} \\times 16 = 56$。\n\n---",
+      "text": "若用黎曼和之右端點法來逼近 $f(x) = 26x$ 在 $[0, 2]$ 區間之面積，將區間等分為 $n$ 份，則 $\\Delta x$ 為何？",
+      "options": [
+        "$\\frac{26}{n}$",
+        "$\\frac{1}{n}$",
+        "$\\frac{2}{n}$",
+        "$n$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "區間為 $[0, 2]$，長度為 $2-0 = 2$。等分為 $n$ 份則 $\\Delta x = \\frac{2}{n}$。\n\n---",
       "chapter": "Ch4 4.1節：面積與距離問題",
       "score": 10
     },
     {
       "number": 26,
-      "text": "若函數 $f(x) = 8x$ 在 $[0, 4]$ 之下的面積利用積分計算，則此面積值為何？",
-      "options": [],
-      "answer": "64",
-      "type": "fill",
-      "solution": "積分式為 $\\int_0^4 8x dx = [\\frac{8}{2}x^2]_0^4 = \\frac{8}{2} \\times 16 = 64$。\n\n---",
+      "text": "已知一物體在時間區間 $[0, 2]$ 的速度函數為 $v(t) = 27t^2$，試問其移動的總距離為何？",
+      "options": [
+        "$\\frac{108}{3}$",
+        "$\\frac{216}{3}$",
+        "$27$",
+        "$0$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "距離即為速度函數之定積分。$\\int_0^2 27t^2 dt = [\\frac{27}{3}t^3]_0^2 = \\frac{216}{3}$。\n\n---",
       "chapter": "Ch4 4.1節：面積與距離問題",
       "score": 10
     },
     {
       "number": 27,
-      "text": "若函數 $f(x) = 9x$ 在 $[0, 4]$ 之下的面積利用積分計算，則此面積值為何？",
-      "options": [],
-      "answer": "72",
-      "type": "fill",
-      "solution": "積分式為 $\\int_0^4 9x dx = [\\frac{9}{2}x^2]_0^4 = \\frac{9}{2} \\times 16 = 72$。\n\n---",
+      "text": "若用黎曼和之右端點法來逼近 $f(x) = 28x$ 在 $[0, 2]$ 區間之面積，將區間等分為 $n$ 份，則 $\\Delta x$ 為何？",
+      "options": [
+        "$n$",
+        "$\\frac{1}{n}$",
+        "$\\frac{28}{n}$",
+        "$\\frac{2}{n}$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "區間為 $[0, 2]$，長度為 $2-0 = 2$。等分為 $n$ 份則 $\\Delta x = \\frac{2}{n}$。\n\n---",
       "chapter": "Ch4 4.1節：面積與距離問題",
       "score": 10
     },
     {
       "number": 28,
-      "text": "若函數 $f(x) = 10x$ 在 $[0, 4]$ 之下的面積利用積分計算，則此面積值為何？",
-      "options": [],
-      "answer": "80",
-      "type": "fill",
-      "solution": "積分式為 $\\int_0^4 10x dx = [\\frac{10}{2}x^2]_0^4 = \\frac{10}{2} \\times 16 = 80$。\n\n---",
+      "text": "已知一物體在時間區間 $[0, 2]$ 的速度函數為 $v(t) = 29t^2$，試問其移動的總距離為何？",
+      "options": [
+        "$\\frac{232}{3}$",
+        "$\\frac{116}{3}$",
+        "$29$",
+        "$0$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "距離即為速度函數之定積分。$\\int_0^2 29t^2 dt = [\\frac{29}{3}t^3]_0^2 = \\frac{232}{3}$。\n\n---",
       "chapter": "Ch4 4.1節：面積與距離問題",
       "score": 10
     },
     {
       "number": 29,
-      "text": "若函數 $f(x) = 11x$ 在 $[0, 4]$ 之下的面積利用積分計算，則此面積值為何？",
-      "options": [],
-      "answer": "88",
-      "type": "fill",
-      "solution": "積分式為 $\\int_0^4 11x dx = [\\frac{11}{2}x^2]_0^4 = \\frac{11}{2} \\times 16 = 88$。\n\n---",
+      "text": "若用黎曼和之右端點法來逼近 $f(x) = 30x$ 在 $[0, 2]$ 區間之面積，將區間等分為 $n$ 份，則 $\\Delta x$ 為何？",
+      "options": [
+        "$\\frac{30}{n}$",
+        "$\\frac{1}{n}$",
+        "$\\frac{2}{n}$",
+        "$n$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "區間為 $[0, 2]$，長度為 $2-0 = 2$。等分為 $n$ 份則 $\\Delta x = \\frac{2}{n}$。\n\n---",
       "chapter": "Ch4 4.1節：面積與距離問題",
       "score": 10
     },
     {
       "number": 30,
-      "text": "若函數 $f(x) = 12x$ 在 $[0, 4]$ 之下的面積利用積分計算，則此面積值為何？",
+      "text": "已知一物體在時間區間 $[0, 2]$ 的速度函數為 $v(t) = 31t^2$，試問其移動的總距離為何？",
+      "options": [
+        "$\\frac{124}{3}$",
+        "$\\frac{248}{3}$",
+        "$31$",
+        "$0$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "距離即為速度函數之定積分。$\\int_0^2 31t^2 dt = [\\frac{31}{3}t^3]_0^2 = \\frac{248}{3}$。\n\n---",
+      "chapter": "Ch4 4.1節：面積與距離問題",
+      "score": 10
+    },
+    {
+      "number": 31,
+      "text": "若函數 $f(x) = 13x$ 在 $[0, 4]$ 之下的面積利用積分計算，則此面積值為何？",
       "options": [],
-      "answer": "96",
+      "answer": "104",
       "type": "fill",
-      "solution": "積分式為 $\\int_0^4 12x dx = [\\frac{12}{2}x^2]_0^4 = \\frac{12}{2} \\times 16 = 96$。",
+      "solution": "積分式為 $\\int_0^4 13x dx = [\\frac{13}{2}x^2]_0^4 = \\frac{13}{2} \\times 16 = 104$。\n\n---",
+      "chapter": "Ch4 4.1節：面積與距離問題",
+      "score": 10
+    },
+    {
+      "number": 32,
+      "text": "若函數 $f(x) = 14x$ 在 $[0, 4]$ 之下的面積利用積分計算，則此面積值為何？",
+      "options": [],
+      "answer": "112",
+      "type": "fill",
+      "solution": "積分式為 $\\int_0^4 14x dx = [\\frac{14}{2}x^2]_0^4 = \\frac{14}{2} \\times 16 = 112$。\n\n---",
+      "chapter": "Ch4 4.1節：面積與距離問題",
+      "score": 10
+    },
+    {
+      "number": 33,
+      "text": "若函數 $f(x) = 15x$ 在 $[0, 4]$ 之下的面積利用積分計算，則此面積值為何？",
+      "options": [],
+      "answer": "120",
+      "type": "fill",
+      "solution": "積分式為 $\\int_0^4 15x dx = [\\frac{15}{2}x^2]_0^4 = \\frac{15}{2} \\times 16 = 120$。\n\n---",
+      "chapter": "Ch4 4.1節：面積與距離問題",
+      "score": 10
+    },
+    {
+      "number": 34,
+      "text": "若函數 $f(x) = 16x$ 在 $[0, 4]$ 之下的面積利用積分計算，則此面積值為何？",
+      "options": [],
+      "answer": "128",
+      "type": "fill",
+      "solution": "積分式為 $\\int_0^4 16x dx = [\\frac{16}{2}x^2]_0^4 = \\frac{16}{2} \\times 16 = 128$。\n\n---",
+      "chapter": "Ch4 4.1節：面積與距離問題",
+      "score": 10
+    },
+    {
+      "number": 35,
+      "text": "若函數 $f(x) = 17x$ 在 $[0, 4]$ 之下的面積利用積分計算，則此面積值為何？",
+      "options": [],
+      "answer": "136",
+      "type": "fill",
+      "solution": "積分式為 $\\int_0^4 17x dx = [\\frac{17}{2}x^2]_0^4 = \\frac{17}{2} \\times 16 = 136$。\n\n---",
+      "chapter": "Ch4 4.1節：面積與距離問題",
+      "score": 10
+    },
+    {
+      "number": 36,
+      "text": "若函數 $f(x) = 18x$ 在 $[0, 4]$ 之下的面積利用積分計算，則此面積值為何？",
+      "options": [],
+      "answer": "144",
+      "type": "fill",
+      "solution": "積分式為 $\\int_0^4 18x dx = [\\frac{18}{2}x^2]_0^4 = \\frac{18}{2} \\times 16 = 144$。\n\n---",
+      "chapter": "Ch4 4.1節：面積與距離問題",
+      "score": 10
+    },
+    {
+      "number": 37,
+      "text": "若函數 $f(x) = 19x$ 在 $[0, 4]$ 之下的面積利用積分計算，則此面積值為何？",
+      "options": [],
+      "answer": "152",
+      "type": "fill",
+      "solution": "積分式為 $\\int_0^4 19x dx = [\\frac{19}{2}x^2]_0^4 = \\frac{19}{2} \\times 16 = 152$。\n\n---",
+      "chapter": "Ch4 4.1節：面積與距離問題",
+      "score": 10
+    },
+    {
+      "number": 38,
+      "text": "若函數 $f(x) = 20x$ 在 $[0, 4]$ 之下的面積利用積分計算，則此面積值為何？",
+      "options": [],
+      "answer": "160",
+      "type": "fill",
+      "solution": "積分式為 $\\int_0^4 20x dx = [\\frac{20}{2}x^2]_0^4 = \\frac{20}{2} \\times 16 = 160$。\n\n---",
+      "chapter": "Ch4 4.1節：面積與距離問題",
+      "score": 10
+    },
+    {
+      "number": 39,
+      "text": "若函數 $f(x) = 21x$ 在 $[0, 4]$ 之下的面積利用積分計算，則此面積值為何？",
+      "options": [],
+      "answer": "168",
+      "type": "fill",
+      "solution": "積分式為 $\\int_0^4 21x dx = [\\frac{21}{2}x^2]_0^4 = \\frac{21}{2} \\times 16 = 168$。\n\n---",
+      "chapter": "Ch4 4.1節：面積與距離問題",
+      "score": 10
+    },
+    {
+      "number": 40,
+      "text": "若函數 $f(x) = 22x$ 在 $[0, 4]$ 之下的面積利用積分計算，則此面積值為何？",
+      "options": [],
+      "answer": "176",
+      "type": "fill",
+      "solution": "積分式為 $\\int_0^4 22x dx = [\\frac{22}{2}x^2]_0^4 = \\frac{22}{2} \\times 16 = 176$。\n\n---",
+      "chapter": "Ch4 4.1節：面積與距離問題",
+      "score": 10
+    },
+    {
+      "number": 41,
+      "text": "若函數 $f(x) = 23x$ 在 $[0, 4]$ 之下的面積利用積分計算，則此面積值為何？",
+      "options": [],
+      "answer": "184",
+      "type": "fill",
+      "solution": "積分式為 $\\int_0^4 23x dx = [\\frac{23}{2}x^2]_0^4 = \\frac{23}{2} \\times 16 = 184$。\n\n---",
+      "chapter": "Ch4 4.1節：面積與距離問題",
+      "score": 10
+    },
+    {
+      "number": 42,
+      "text": "若函數 $f(x) = 24x$ 在 $[0, 4]$ 之下的面積利用積分計算，則此面積值為何？",
+      "options": [],
+      "answer": "192",
+      "type": "fill",
+      "solution": "積分式為 $\\int_0^4 24x dx = [\\frac{24}{2}x^2]_0^4 = \\frac{24}{2} \\times 16 = 192$。\n\n---",
+      "chapter": "Ch4 4.1節：面積與距離問題",
+      "score": 10
+    },
+    {
+      "number": 43,
+      "text": "若函數 $f(x) = 25x$ 在 $[0, 4]$ 之下的面積利用積分計算，則此面積值為何？",
+      "options": [],
+      "answer": "200",
+      "type": "fill",
+      "solution": "積分式為 $\\int_0^4 25x dx = [\\frac{25}{2}x^2]_0^4 = \\frac{25}{2} \\times 16 = 200$。\n\n---",
+      "chapter": "Ch4 4.1節：面積與距離問題",
+      "score": 10
+    },
+    {
+      "number": 44,
+      "text": "若函數 $f(x) = 26x$ 在 $[0, 4]$ 之下的面積利用積分計算，則此面積值為何？",
+      "options": [],
+      "answer": "208",
+      "type": "fill",
+      "solution": "積分式為 $\\int_0^4 26x dx = [\\frac{26}{2}x^2]_0^4 = \\frac{26}{2} \\times 16 = 208$。\n\n---",
+      "chapter": "Ch4 4.1節：面積與距離問題",
+      "score": 10
+    },
+    {
+      "number": 45,
+      "text": "若函數 $f(x) = 27x$ 在 $[0, 4]$ 之下的面積利用積分計算，則此面積值為何？",
+      "options": [],
+      "answer": "216",
+      "type": "fill",
+      "solution": "積分式為 $\\int_0^4 27x dx = [\\frac{27}{2}x^2]_0^4 = \\frac{27}{2} \\times 16 = 216$。\n\n---",
+      "chapter": "Ch4 4.1節：面積與距離問題",
+      "score": 10
+    },
+    {
+      "number": 46,
+      "text": "若函數 $f(x) = 28x$ 在 $[0, 4]$ 之下的面積利用積分計算，則此面積值為何？",
+      "options": [],
+      "answer": "224",
+      "type": "fill",
+      "solution": "積分式為 $\\int_0^4 28x dx = [\\frac{28}{2}x^2]_0^4 = \\frac{28}{2} \\times 16 = 224$。\n\n---",
+      "chapter": "Ch4 4.1節：面積與距離問題",
+      "score": 10
+    },
+    {
+      "number": 47,
+      "text": "若函數 $f(x) = 29x$ 在 $[0, 4]$ 之下的面積利用積分計算，則此面積值為何？",
+      "options": [],
+      "answer": "232",
+      "type": "fill",
+      "solution": "積分式為 $\\int_0^4 29x dx = [\\frac{29}{2}x^2]_0^4 = \\frac{29}{2} \\times 16 = 232$。\n\n---",
+      "chapter": "Ch4 4.1節：面積與距離問題",
+      "score": 10
+    },
+    {
+      "number": 48,
+      "text": "若函數 $f(x) = 30x$ 在 $[0, 4]$ 之下的面積利用積分計算，則此面積值為何？",
+      "options": [],
+      "answer": "240",
+      "type": "fill",
+      "solution": "積分式為 $\\int_0^4 30x dx = [\\frac{30}{2}x^2]_0^4 = \\frac{30}{2} \\times 16 = 240$。\n\n---",
+      "chapter": "Ch4 4.1節：面積與距離問題",
+      "score": 10
+    },
+    {
+      "number": 49,
+      "text": "若函數 $f(x) = 31x$ 在 $[0, 4]$ 之下的面積利用積分計算，則此面積值為何？",
+      "options": [],
+      "answer": "248",
+      "type": "fill",
+      "solution": "積分式為 $\\int_0^4 31x dx = [\\frac{31}{2}x^2]_0^4 = \\frac{31}{2} \\times 16 = 248$。\n\n---",
+      "chapter": "Ch4 4.1節：面積與距離問題",
+      "score": 10
+    },
+    {
+      "number": 50,
+      "text": "若函數 $f(x) = 32x$ 在 $[0, 4]$ 之下的面積利用積分計算，則此面積值為何？",
+      "options": [],
+      "answer": "256",
+      "type": "fill",
+      "solution": "積分式為 $\\int_0^4 32x dx = [\\frac{32}{2}x^2]_0^4 = \\frac{32}{2} \\times 16 = 256$。",
       "chapter": "Ch4 4.1節：面積與距離問題",
       "score": 10
     },
@@ -411,7 +1311,7 @@
       ],
       "answer": "C",
       "type": "single",
-      "solution": "定積分的線性性質：$\\int_a^b (f(x) + g(x))dx = \\int_a^b f(x)dx + \\int_a^b g(x)dx = 3 + 3 = 6$。\n\n---",
+      "solution": "定積分之線性性質：$\\int_a^b (f(x) + g(x))dx = \\int_a^b f(x)dx + \\int_a^b g(x)dx = 3 + 3 = 6$。\n\n---",
       "chapter": "Ch4 4.2節：定積分",
       "score": 10
     },
@@ -441,7 +1341,7 @@
       ],
       "answer": "D",
       "type": "single",
-      "solution": "定積分的線性性質：$\\int_a^b (f(x) + g(x))dx = \\int_a^b f(x)dx + \\int_a^b g(x)dx = 5 + 3 = 8$。\n\n---",
+      "solution": "定積分之線性性質：$\\int_a^b (f(x) + g(x))dx = \\int_a^b f(x)dx + \\int_a^b g(x)dx = 5 + 3 = 8$。\n\n---",
       "chapter": "Ch4 4.2節：定積分",
       "score": 10
     },
@@ -471,7 +1371,7 @@
       ],
       "answer": "C",
       "type": "single",
-      "solution": "定積分的線性性質：$\\int_a^b (f(x) + g(x))dx = \\int_a^b f(x)dx + \\int_a^b g(x)dx = 7 + 3 = 10$。\n\n---",
+      "solution": "定積分之線性性質：$\\int_a^b (f(x) + g(x))dx = \\int_a^b f(x)dx + \\int_a^b g(x)dx = 7 + 3 = 10$。\n\n---",
       "chapter": "Ch4 4.2節：定積分",
       "score": 10
     },
@@ -501,7 +1401,7 @@
       ],
       "answer": "D",
       "type": "single",
-      "solution": "定積分的線性性質：$\\int_a^b (f(x) + g(x))dx = \\int_a^b f(x)dx + \\int_a^b g(x)dx = 9 + 3 = 12$。\n\n---",
+      "solution": "定積分之線性性質：$\\int_a^b (f(x) + g(x))dx = \\int_a^b f(x)dx + \\int_a^b g(x)dx = 9 + 3 = 12$。\n\n---",
       "chapter": "Ch4 4.2節：定積分",
       "score": 10
     },
@@ -531,7 +1431,7 @@
       ],
       "answer": "C",
       "type": "single",
-      "solution": "定積分的線性性質：$\\int_a^b (f(x) + g(x))dx = \\int_a^b f(x)dx + \\int_a^b g(x)dx = 11 + 3 = 14$。\n\n---",
+      "solution": "定積分之線性性質：$\\int_a^b (f(x) + g(x))dx = \\int_a^b f(x)dx + \\int_a^b g(x)dx = 11 + 3 = 14$。\n\n---",
       "chapter": "Ch4 4.2節：定積分",
       "score": 10
     },
@@ -561,7 +1461,7 @@
       ],
       "answer": "D",
       "type": "single",
-      "solution": "定積分的線性性質：$\\int_a^b (f(x) + g(x))dx = \\int_a^b f(x)dx + \\int_a^b g(x)dx = 13 + 3 = 16$。\n\n---",
+      "solution": "定積分之線性性質：$\\int_a^b (f(x) + g(x))dx = \\int_a^b f(x)dx + \\int_a^b g(x)dx = 13 + 3 = 16$。\n\n---",
       "chapter": "Ch4 4.2節：定積分",
       "score": 10
     },
@@ -591,7 +1491,7 @@
       ],
       "answer": "C",
       "type": "single",
-      "solution": "定積分的線性性質：$\\int_a^b (f(x) + g(x))dx = \\int_a^b f(x)dx + \\int_a^b g(x)dx = 15 + 3 = 18$。\n\n---",
+      "solution": "定積分之線性性質：$\\int_a^b (f(x) + g(x))dx = \\int_a^b f(x)dx + \\int_a^b g(x)dx = 15 + 3 = 18$。\n\n---",
       "chapter": "Ch4 4.2節：定積分",
       "score": 10
     },
@@ -621,7 +1521,7 @@
       ],
       "answer": "D",
       "type": "single",
-      "solution": "定積分的線性性質：$\\int_a^b (f(x) + g(x))dx = \\int_a^b f(x)dx + \\int_a^b g(x)dx = 17 + 3 = 20$。\n\n---",
+      "solution": "定積分之線性性質：$\\int_a^b (f(x) + g(x))dx = \\int_a^b f(x)dx + \\int_a^b g(x)dx = 17 + 3 = 20$。\n\n---",
       "chapter": "Ch4 4.2節：定積分",
       "score": 10
     },
@@ -651,7 +1551,7 @@
       ],
       "answer": "C",
       "type": "single",
-      "solution": "定積分的線性性質：$\\int_a^b (f(x) + g(x))dx = \\int_a^b f(x)dx + \\int_a^b g(x)dx = 19 + 3 = 22$。\n\n---",
+      "solution": "定積分之線性性質：$\\int_a^b (f(x) + g(x))dx = \\int_a^b f(x)dx + \\int_a^b g(x)dx = 19 + 3 = 22$。\n\n---",
       "chapter": "Ch4 4.2節：定積分",
       "score": 10
     },
@@ -681,7 +1581,7 @@
       ],
       "answer": "D",
       "type": "single",
-      "solution": "定積分的線性性質：$\\int_a^b (f(x) + g(x))dx = \\int_a^b f(x)dx + \\int_a^b g(x)dx = 21 + 3 = 24$。\n\n---",
+      "solution": "定積分之線性性質：$\\int_a^b (f(x) + g(x))dx = \\int_a^b f(x)dx + \\int_a^b g(x)dx = 21 + 3 = 24$。\n\n---",
       "chapter": "Ch4 4.2節：定積分",
       "score": 10
     },
@@ -702,101 +1602,351 @@
     },
     {
       "number": 21,
-      "text": "已知 $\\int_2^5 2 dx$ 的精確值為多少？",
-      "options": [],
-      "answer": "6",
-      "type": "fill",
-      "solution": "定積分為 $[2x]_2^5 = 2(5 - 2) = 6$。\n\n---",
+      "text": "若 $\\int_a^b f(x)dx = 23$ 且 $\\int_a^b g(x)dx = 3$，則 $\\int_a^b (f(x) + g(x))dx$ 為何？",
+      "options": [
+        "$3$",
+        "$20$",
+        "$26$",
+        "$0$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "定積分之線性性質：$\\int_a^b (f(x) + g(x))dx = \\int_a^b f(x)dx + \\int_a^b g(x)dx = 23 + 3 = 26$。\n\n---",
       "chapter": "Ch4 4.2節：定積分",
       "score": 10
     },
     {
       "number": 22,
-      "text": "已知 $\\int_2^5 3 dx$ 的精確值為多少？",
-      "options": [],
-      "answer": "9",
-      "type": "fill",
-      "solution": "定積分為 $[3x]_2^5 = 3(5 - 2) = 9$。\n\n---",
+      "text": "計算定積分 $\\int_1^2 24 dx$ 的結果。",
+      "options": [
+        "$24$",
+        "$0$",
+        "$48$",
+        "$1$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "定積分為 $[24x]_1^2 = 24(2) - 24(1) = 24$。\n\n---",
       "chapter": "Ch4 4.2節：定積分",
       "score": 10
     },
     {
       "number": 23,
-      "text": "已知 $\\int_2^5 4 dx$ 的精確值為多少？",
-      "options": [],
-      "answer": "12",
-      "type": "fill",
-      "solution": "定積分為 $[4x]_2^5 = 4(5 - 2) = 12$。\n\n---",
+      "text": "若 $\\int_a^b f(x)dx = 25$ 且 $\\int_a^b g(x)dx = 3$，則 $\\int_a^b (f(x) + g(x))dx$ 為何？",
+      "options": [
+        "$0$",
+        "$22$",
+        "$3$",
+        "$28$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "定積分之線性性質：$\\int_a^b (f(x) + g(x))dx = \\int_a^b f(x)dx + \\int_a^b g(x)dx = 25 + 3 = 28$。\n\n---",
       "chapter": "Ch4 4.2節：定積分",
       "score": 10
     },
     {
       "number": 24,
-      "text": "已知 $\\int_2^5 5 dx$ 的精確值為多少？",
-      "options": [],
-      "answer": "15",
-      "type": "fill",
-      "solution": "定積分為 $[5x]_2^5 = 5(5 - 2) = 15$。\n\n---",
+      "text": "計算定積分 $\\int_1^2 26 dx$ 的結果。",
+      "options": [
+        "$0$",
+        "$26$",
+        "$52$",
+        "$1$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "定積分為 $[26x]_1^2 = 26(2) - 26(1) = 26$。\n\n---",
       "chapter": "Ch4 4.2節：定積分",
       "score": 10
     },
     {
       "number": 25,
-      "text": "已知 $\\int_2^5 6 dx$ 的精確值為多少？",
-      "options": [],
-      "answer": "18",
-      "type": "fill",
-      "solution": "定積分為 $[6x]_2^5 = 6(5 - 2) = 18$。\n\n---",
+      "text": "若 $\\int_a^b f(x)dx = 27$ 且 $\\int_a^b g(x)dx = 3$，則 $\\int_a^b (f(x) + g(x))dx$ 為何？",
+      "options": [
+        "$3$",
+        "$24$",
+        "$30$",
+        "$0$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "定積分之線性性質：$\\int_a^b (f(x) + g(x))dx = \\int_a^b f(x)dx + \\int_a^b g(x)dx = 27 + 3 = 30$。\n\n---",
       "chapter": "Ch4 4.2節：定積分",
       "score": 10
     },
     {
       "number": 26,
-      "text": "已知 $\\int_2^5 7 dx$ 的精確值為多少？",
-      "options": [],
-      "answer": "21",
-      "type": "fill",
-      "solution": "定積分為 $[7x]_2^5 = 7(5 - 2) = 21$。\n\n---",
+      "text": "計算定積分 $\\int_1^2 28 dx$ 的結果。",
+      "options": [
+        "$28$",
+        "$0$",
+        "$56$",
+        "$1$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "定積分為 $[28x]_1^2 = 28(2) - 28(1) = 28$。\n\n---",
       "chapter": "Ch4 4.2節：定積分",
       "score": 10
     },
     {
       "number": 27,
-      "text": "已知 $\\int_2^5 8 dx$ 的精確值為多少？",
-      "options": [],
-      "answer": "24",
-      "type": "fill",
-      "solution": "定積分為 $[8x]_2^5 = 8(5 - 2) = 24$。\n\n---",
+      "text": "若 $\\int_a^b f(x)dx = 29$ 且 $\\int_a^b g(x)dx = 3$，則 $\\int_a^b (f(x) + g(x))dx$ 為何？",
+      "options": [
+        "$0$",
+        "$26$",
+        "$3$",
+        "$32$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "定積分之線性性質：$\\int_a^b (f(x) + g(x))dx = \\int_a^b f(x)dx + \\int_a^b g(x)dx = 29 + 3 = 32$。\n\n---",
       "chapter": "Ch4 4.2節：定積分",
       "score": 10
     },
     {
       "number": 28,
-      "text": "已知 $\\int_2^5 9 dx$ 的精確值為多少？",
-      "options": [],
-      "answer": "27",
-      "type": "fill",
-      "solution": "定積分為 $[9x]_2^5 = 9(5 - 2) = 27$。\n\n---",
+      "text": "計算定積分 $\\int_1^2 30 dx$ 的結果。",
+      "options": [
+        "$0$",
+        "$30$",
+        "$60$",
+        "$1$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "定積分為 $[30x]_1^2 = 30(2) - 30(1) = 30$。\n\n---",
       "chapter": "Ch4 4.2節：定積分",
       "score": 10
     },
     {
       "number": 29,
-      "text": "已知 $\\int_2^5 10 dx$ 的精確值為多少？",
-      "options": [],
-      "answer": "30",
-      "type": "fill",
-      "solution": "定積分為 $[10x]_2^5 = 10(5 - 2) = 30$。\n\n---",
+      "text": "若 $\\int_a^b f(x)dx = 31$ 且 $\\int_a^b g(x)dx = 3$，則 $\\int_a^b (f(x) + g(x))dx$ 為何？",
+      "options": [
+        "$3$",
+        "$28$",
+        "$34$",
+        "$0$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "定積分之線性性質：$\\int_a^b (f(x) + g(x))dx = \\int_a^b f(x)dx + \\int_a^b g(x)dx = 31 + 3 = 34$。\n\n---",
       "chapter": "Ch4 4.2節：定積分",
       "score": 10
     },
     {
       "number": 30,
-      "text": "已知 $\\int_2^5 11 dx$ 的精確值為多少？",
+      "text": "計算定積分 $\\int_1^2 32 dx$ 的結果。",
+      "options": [
+        "$32$",
+        "$0$",
+        "$64$",
+        "$1$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "定積分為 $[32x]_1^2 = 32(2) - 32(1) = 32$。\n\n---",
+      "chapter": "Ch4 4.2節：定積分",
+      "score": 10
+    },
+    {
+      "number": 31,
+      "text": "已知 $\\int_2^5 12 dx$ 的精確值為多少？",
       "options": [],
-      "answer": "33",
+      "answer": "36",
       "type": "fill",
-      "solution": "定積分為 $[11x]_2^5 = 11(5 - 2) = 33$。",
+      "solution": "定積分為 $[12x]_2^5 = 12(5 - 2) = 36$。\n\n---",
+      "chapter": "Ch4 4.2節：定積分",
+      "score": 10
+    },
+    {
+      "number": 32,
+      "text": "已知 $\\int_2^5 13 dx$ 的精確值為多少？",
+      "options": [],
+      "answer": "39",
+      "type": "fill",
+      "solution": "定積分為 $[13x]_2^5 = 13(5 - 2) = 39$。\n\n---",
+      "chapter": "Ch4 4.2節：定積分",
+      "score": 10
+    },
+    {
+      "number": 33,
+      "text": "已知 $\\int_2^5 14 dx$ 的精確值為多少？",
+      "options": [],
+      "answer": "42",
+      "type": "fill",
+      "solution": "定積分為 $[14x]_2^5 = 14(5 - 2) = 42$。\n\n---",
+      "chapter": "Ch4 4.2節：定積分",
+      "score": 10
+    },
+    {
+      "number": 34,
+      "text": "已知 $\\int_2^5 15 dx$ 的精確值為多少？",
+      "options": [],
+      "answer": "45",
+      "type": "fill",
+      "solution": "定積分為 $[15x]_2^5 = 15(5 - 2) = 45$。\n\n---",
+      "chapter": "Ch4 4.2節：定積分",
+      "score": 10
+    },
+    {
+      "number": 35,
+      "text": "已知 $\\int_2^5 16 dx$ 的精確值為多少？",
+      "options": [],
+      "answer": "48",
+      "type": "fill",
+      "solution": "定積分為 $[16x]_2^5 = 16(5 - 2) = 48$。\n\n---",
+      "chapter": "Ch4 4.2節：定積分",
+      "score": 10
+    },
+    {
+      "number": 36,
+      "text": "已知 $\\int_2^5 17 dx$ 的精確值為多少？",
+      "options": [],
+      "answer": "51",
+      "type": "fill",
+      "solution": "定積分為 $[17x]_2^5 = 17(5 - 2) = 51$。\n\n---",
+      "chapter": "Ch4 4.2節：定積分",
+      "score": 10
+    },
+    {
+      "number": 37,
+      "text": "已知 $\\int_2^5 18 dx$ 的精確值為多少？",
+      "options": [],
+      "answer": "54",
+      "type": "fill",
+      "solution": "定積分為 $[18x]_2^5 = 18(5 - 2) = 54$。\n\n---",
+      "chapter": "Ch4 4.2節：定積分",
+      "score": 10
+    },
+    {
+      "number": 38,
+      "text": "已知 $\\int_2^5 19 dx$ 的精確值為多少？",
+      "options": [],
+      "answer": "57",
+      "type": "fill",
+      "solution": "定積分為 $[19x]_2^5 = 19(5 - 2) = 57$。\n\n---",
+      "chapter": "Ch4 4.2節：定積分",
+      "score": 10
+    },
+    {
+      "number": 39,
+      "text": "已知 $\\int_2^5 20 dx$ 的精確值為多少？",
+      "options": [],
+      "answer": "60",
+      "type": "fill",
+      "solution": "定積分為 $[20x]_2^5 = 20(5 - 2) = 60$。\n\n---",
+      "chapter": "Ch4 4.2節：定積分",
+      "score": 10
+    },
+    {
+      "number": 40,
+      "text": "已知 $\\int_2^5 21 dx$ 的精確值為多少？",
+      "options": [],
+      "answer": "63",
+      "type": "fill",
+      "solution": "定積分為 $[21x]_2^5 = 21(5 - 2) = 63$。\n\n---",
+      "chapter": "Ch4 4.2節：定積分",
+      "score": 10
+    },
+    {
+      "number": 41,
+      "text": "已知 $\\int_2^5 22 dx$ 的精確值為多少？",
+      "options": [],
+      "answer": "66",
+      "type": "fill",
+      "solution": "定積分為 $[22x]_2^5 = 22(5 - 2) = 66$。\n\n---",
+      "chapter": "Ch4 4.2節：定積分",
+      "score": 10
+    },
+    {
+      "number": 42,
+      "text": "已知 $\\int_2^5 23 dx$ 的精確值為多少？",
+      "options": [],
+      "answer": "69",
+      "type": "fill",
+      "solution": "定積分為 $[23x]_2^5 = 23(5 - 2) = 69$。\n\n---",
+      "chapter": "Ch4 4.2節：定積分",
+      "score": 10
+    },
+    {
+      "number": 43,
+      "text": "已知 $\\int_2^5 24 dx$ 的精確值為多少？",
+      "options": [],
+      "answer": "72",
+      "type": "fill",
+      "solution": "定積分為 $[24x]_2^5 = 24(5 - 2) = 72$。\n\n---",
+      "chapter": "Ch4 4.2節：定積分",
+      "score": 10
+    },
+    {
+      "number": 44,
+      "text": "已知 $\\int_2^5 25 dx$ 的精確值為多少？",
+      "options": [],
+      "answer": "75",
+      "type": "fill",
+      "solution": "定積分為 $[25x]_2^5 = 25(5 - 2) = 75$。\n\n---",
+      "chapter": "Ch4 4.2節：定積分",
+      "score": 10
+    },
+    {
+      "number": 45,
+      "text": "已知 $\\int_2^5 26 dx$ 的精確值為多少？",
+      "options": [],
+      "answer": "78",
+      "type": "fill",
+      "solution": "定積分為 $[26x]_2^5 = 26(5 - 2) = 78$。\n\n---",
+      "chapter": "Ch4 4.2節：定積分",
+      "score": 10
+    },
+    {
+      "number": 46,
+      "text": "已知 $\\int_2^5 27 dx$ 的精確值為多少？",
+      "options": [],
+      "answer": "81",
+      "type": "fill",
+      "solution": "定積分為 $[27x]_2^5 = 27(5 - 2) = 81$。\n\n---",
+      "chapter": "Ch4 4.2節：定積分",
+      "score": 10
+    },
+    {
+      "number": 47,
+      "text": "已知 $\\int_2^5 28 dx$ 的精確值為多少？",
+      "options": [],
+      "answer": "84",
+      "type": "fill",
+      "solution": "定積分為 $[28x]_2^5 = 28(5 - 2) = 84$。\n\n---",
+      "chapter": "Ch4 4.2節：定積分",
+      "score": 10
+    },
+    {
+      "number": 48,
+      "text": "已知 $\\int_2^5 29 dx$ 的精確值為多少？",
+      "options": [],
+      "answer": "87",
+      "type": "fill",
+      "solution": "定積分為 $[29x]_2^5 = 29(5 - 2) = 87$。\n\n---",
+      "chapter": "Ch4 4.2節：定積分",
+      "score": 10
+    },
+    {
+      "number": 49,
+      "text": "已知 $\\int_2^5 30 dx$ 的精確值為多少？",
+      "options": [],
+      "answer": "90",
+      "type": "fill",
+      "solution": "定積分為 $[30x]_2^5 = 30(5 - 2) = 90$。\n\n---",
+      "chapter": "Ch4 4.2節：定積分",
+      "score": 10
+    },
+    {
+      "number": 50,
+      "text": "已知 $\\int_2^5 31 dx$ 的精確值為多少？",
+      "options": [],
+      "answer": "93",
+      "type": "fill",
+      "solution": "定積分為 $[31x]_2^5 = 31(5 - 2) = 93$。",
       "chapter": "Ch4 4.2節：定積分",
       "score": 10
     },
@@ -1102,107 +2252,357 @@
     },
     {
       "number": 21,
-      "text": "若 $F(x) = \\int_0^x 3t dt$，求 $F'(5)$ 的值。",
-      "options": [],
-      "answer": "15",
-      "type": "fill",
-      "solution": "由微積分基本定理，$F'(x) = 3x$。代入 $x=5 \\implies 3 \\times 5 = 15$。\n\n---",
+      "text": "求 $\\int_1^3 22x^2 dx$ 的值。",
+      "options": [
+        "$\\frac{572}{3}$",
+        "$\\frac{594}{3}$",
+        "$\\frac{22}{3}$",
+        "$26$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "積分為 $[\\frac{22}{3}x^3]_1^3 = \\frac{22}{3}(3^3 - 1^3) = \\frac{572}{3}$。\n\n---",
       "chapter": "Ch4 4.3節：微積分基本定理",
       "score": 10
     },
     {
       "number": 22,
-      "text": "若 $F(x) = \\int_0^x 4t dt$，求 $F'(5)$ 的值。",
-      "options": [],
-      "answer": "20",
-      "type": "fill",
-      "solution": "由微積分基本定理，$F'(x) = 4x$。代入 $x=5 \\implies 4 \\times 5 = 20$。\n\n---",
+      "text": "利用微積分基本定理計算 $\\frac{d}{dx} \\int_0^x (t^2 + 23) dt$。",
+      "options": [
+        "$x^2$",
+        "$2x$",
+        "$x^2 + 23$",
+        "$2x + 23$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據 FTC Part 1，$\\frac{d}{dx} \\int_a^x f(t) dt = f(x)$。故結果為 $x^2 + 23$。\n\n---",
       "chapter": "Ch4 4.3節：微積分基本定理",
       "score": 10
     },
     {
       "number": 23,
-      "text": "若 $F(x) = \\int_0^x 5t dt$，求 $F'(5)$ 的值。",
-      "options": [],
-      "answer": "25",
-      "type": "fill",
-      "solution": "由微積分基本定理，$F'(x) = 5x$。代入 $x=5 \\implies 5 \\times 5 = 25$。\n\n---",
+      "text": "求 $\\int_1^3 24x^2 dx$ 的值。",
+      "options": [
+        "$\\frac{648}{3}$",
+        "$\\frac{624}{3}$",
+        "$\\frac{24}{3}$",
+        "$26$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "積分為 $[\\frac{24}{3}x^3]_1^3 = \\frac{24}{3}(3^3 - 1^3) = \\frac{624}{3}$。\n\n---",
       "chapter": "Ch4 4.3節：微積分基本定理",
       "score": 10
     },
     {
       "number": 24,
-      "text": "若 $F(x) = \\int_0^x 6t dt$，求 $F'(5)$ 的值。",
-      "options": [],
-      "answer": "30",
-      "type": "fill",
-      "solution": "由微積分基本定理，$F'(x) = 6x$。代入 $x=5 \\implies 6 \\times 5 = 30$。\n\n---",
+      "text": "利用微積分基本定理計算 $\\frac{d}{dx} \\int_0^x (t^2 + 25) dt$。",
+      "options": [
+        "$2x + 25$",
+        "$2x$",
+        "$x^2$",
+        "$x^2 + 25$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據 FTC Part 1，$\\frac{d}{dx} \\int_a^x f(t) dt = f(x)$。故結果為 $x^2 + 25$。\n\n---",
       "chapter": "Ch4 4.3節：微積分基本定理",
       "score": 10
     },
     {
       "number": 25,
-      "text": "若 $F(x) = \\int_0^x 7t dt$，求 $F'(5)$ 的值。",
-      "options": [],
-      "answer": "35",
-      "type": "fill",
-      "solution": "由微積分基本定理，$F'(x) = 7x$。代入 $x=5 \\implies 7 \\times 5 = 35$。\n\n---",
+      "text": "求 $\\int_1^3 26x^2 dx$ 的值。",
+      "options": [
+        "$\\frac{676}{3}$",
+        "$\\frac{702}{3}$",
+        "$\\frac{26}{3}$",
+        "$26$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "積分為 $[\\frac{26}{3}x^3]_1^3 = \\frac{26}{3}(3^3 - 1^3) = \\frac{676}{3}$。\n\n---",
       "chapter": "Ch4 4.3節：微積分基本定理",
       "score": 10
     },
     {
       "number": 26,
-      "text": "若 $F(x) = \\int_0^x 8t dt$，求 $F'(5)$ 的值。",
-      "options": [],
-      "answer": "40",
-      "type": "fill",
-      "solution": "由微積分基本定理，$F'(x) = 8x$。代入 $x=5 \\implies 8 \\times 5 = 40$。\n\n---",
+      "text": "利用微積分基本定理計算 $\\frac{d}{dx} \\int_0^x (t^2 + 27) dt$。",
+      "options": [
+        "$x^2$",
+        "$2x$",
+        "$x^2 + 27$",
+        "$2x + 27$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據 FTC Part 1，$\\frac{d}{dx} \\int_a^x f(t) dt = f(x)$。故結果為 $x^2 + 27$。\n\n---",
       "chapter": "Ch4 4.3節：微積分基本定理",
       "score": 10
     },
     {
       "number": 27,
-      "text": "若 $F(x) = \\int_0^x 9t dt$，求 $F'(5)$ 的值。",
-      "options": [],
-      "answer": "45",
-      "type": "fill",
-      "solution": "由微積分基本定理，$F'(x) = 9x$。代入 $x=5 \\implies 9 \\times 5 = 45$。\n\n---",
+      "text": "求 $\\int_1^3 28x^2 dx$ 的值。",
+      "options": [
+        "$\\frac{756}{3}$",
+        "$\\frac{728}{3}$",
+        "$\\frac{28}{3}$",
+        "$26$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "積分為 $[\\frac{28}{3}x^3]_1^3 = \\frac{28}{3}(3^3 - 1^3) = \\frac{728}{3}$。\n\n---",
       "chapter": "Ch4 4.3節：微積分基本定理",
       "score": 10
     },
     {
       "number": 28,
-      "text": "若 $F(x) = \\int_0^x 10t dt$，求 $F'(5)$ 的值。",
-      "options": [],
-      "answer": "50",
-      "type": "fill",
-      "solution": "由微積分基本定理，$F'(x) = 10x$。代入 $x=5 \\implies 10 \\times 5 = 50$。\n\n---",
+      "text": "利用微積分基本定理計算 $\\frac{d}{dx} \\int_0^x (t^2 + 29) dt$。",
+      "options": [
+        "$2x + 29$",
+        "$2x$",
+        "$x^2$",
+        "$x^2 + 29$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "根據 FTC Part 1，$\\frac{d}{dx} \\int_a^x f(t) dt = f(x)$。故結果為 $x^2 + 29$。\n\n---",
       "chapter": "Ch4 4.3節：微積分基本定理",
       "score": 10
     },
     {
       "number": 29,
-      "text": "若 $F(x) = \\int_0^x 11t dt$，求 $F'(5)$ 的值。",
-      "options": [],
-      "answer": "55",
-      "type": "fill",
-      "solution": "由微積分基本定理，$F'(x) = 11x$。代入 $x=5 \\implies 11 \\times 5 = 55$。\n\n---",
+      "text": "求 $\\int_1^3 30x^2 dx$ 的值。",
+      "options": [
+        "$\\frac{780}{3}$",
+        "$\\frac{810}{3}$",
+        "$\\frac{30}{3}$",
+        "$26$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "積分為 $[\\frac{30}{3}x^3]_1^3 = \\frac{30}{3}(3^3 - 1^3) = \\frac{780}{3}$。\n\n---",
       "chapter": "Ch4 4.3節：微積分基本定理",
       "score": 10
     },
     {
       "number": 30,
-      "text": "若 $F(x) = \\int_0^x 12t dt$，求 $F'(5)$ 的值。",
+      "text": "利用微積分基本定理計算 $\\frac{d}{dx} \\int_0^x (t^2 + 31) dt$。",
+      "options": [
+        "$x^2$",
+        "$2x$",
+        "$x^2 + 31$",
+        "$2x + 31$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "根據 FTC Part 1，$\\frac{d}{dx} \\int_a^x f(t) dt = f(x)$。故結果為 $x^2 + 31$。\n\n---",
+      "chapter": "Ch4 4.3節：微積分基本定理",
+      "score": 10
+    },
+    {
+      "number": 31,
+      "text": "若 $F(x) = \\int_0^x 13t dt$，求 $F'(5)$ 的值。",
       "options": [],
-      "answer": "60",
+      "answer": "65",
       "type": "fill",
-      "solution": "由微積分基本定理，$F'(x) = 12x$。代入 $x=5 \\implies 12 \\times 5 = 60$。",
+      "solution": "由微積分基本定理，$F'(x) = 13x$。代入 $x=5 \\implies 13 \\times 5 = 65$。\n\n---",
+      "chapter": "Ch4 4.3節：微積分基本定理",
+      "score": 10
+    },
+    {
+      "number": 32,
+      "text": "若 $F(x) = \\int_0^x 14t dt$，求 $F'(5)$ 的值。",
+      "options": [],
+      "answer": "70",
+      "type": "fill",
+      "solution": "由微積分基本定理，$F'(x) = 14x$。代入 $x=5 \\implies 14 \\times 5 = 70$。\n\n---",
+      "chapter": "Ch4 4.3節：微積分基本定理",
+      "score": 10
+    },
+    {
+      "number": 33,
+      "text": "若 $F(x) = \\int_0^x 15t dt$，求 $F'(5)$ 的值。",
+      "options": [],
+      "answer": "75",
+      "type": "fill",
+      "solution": "由微積分基本定理，$F'(x) = 15x$。代入 $x=5 \\implies 15 \\times 5 = 75$。\n\n---",
+      "chapter": "Ch4 4.3節：微積分基本定理",
+      "score": 10
+    },
+    {
+      "number": 34,
+      "text": "若 $F(x) = \\int_0^x 16t dt$，求 $F'(5)$ 的值。",
+      "options": [],
+      "answer": "80",
+      "type": "fill",
+      "solution": "由微積分基本定理，$F'(x) = 16x$。代入 $x=5 \\implies 16 \\times 5 = 80$。\n\n---",
+      "chapter": "Ch4 4.3節：微積分基本定理",
+      "score": 10
+    },
+    {
+      "number": 35,
+      "text": "若 $F(x) = \\int_0^x 17t dt$，求 $F'(5)$ 的值。",
+      "options": [],
+      "answer": "85",
+      "type": "fill",
+      "solution": "由微積分基本定理，$F'(x) = 17x$。代入 $x=5 \\implies 17 \\times 5 = 85$。\n\n---",
+      "chapter": "Ch4 4.3節：微積分基本定理",
+      "score": 10
+    },
+    {
+      "number": 36,
+      "text": "若 $F(x) = \\int_0^x 18t dt$，求 $F'(5)$ 的值。",
+      "options": [],
+      "answer": "90",
+      "type": "fill",
+      "solution": "由微積分基本定理，$F'(x) = 18x$。代入 $x=5 \\implies 18 \\times 5 = 90$。\n\n---",
+      "chapter": "Ch4 4.3節：微積分基本定理",
+      "score": 10
+    },
+    {
+      "number": 37,
+      "text": "若 $F(x) = \\int_0^x 19t dt$，求 $F'(5)$ 的值。",
+      "options": [],
+      "answer": "95",
+      "type": "fill",
+      "solution": "由微積分基本定理，$F'(x) = 19x$。代入 $x=5 \\implies 19 \\times 5 = 95$。\n\n---",
+      "chapter": "Ch4 4.3節：微積分基本定理",
+      "score": 10
+    },
+    {
+      "number": 38,
+      "text": "若 $F(x) = \\int_0^x 20t dt$，求 $F'(5)$ 的值。",
+      "options": [],
+      "answer": "100",
+      "type": "fill",
+      "solution": "由微積分基本定理，$F'(x) = 20x$。代入 $x=5 \\implies 20 \\times 5 = 100$。\n\n---",
+      "chapter": "Ch4 4.3節：微積分基本定理",
+      "score": 10
+    },
+    {
+      "number": 39,
+      "text": "若 $F(x) = \\int_0^x 21t dt$，求 $F'(5)$ 的值。",
+      "options": [],
+      "answer": "105",
+      "type": "fill",
+      "solution": "由微積分基本定理，$F'(x) = 21x$。代入 $x=5 \\implies 21 \\times 5 = 105$。\n\n---",
+      "chapter": "Ch4 4.3節：微積分基本定理",
+      "score": 10
+    },
+    {
+      "number": 40,
+      "text": "若 $F(x) = \\int_0^x 22t dt$，求 $F'(5)$ 的值。",
+      "options": [],
+      "answer": "110",
+      "type": "fill",
+      "solution": "由微積分基本定理，$F'(x) = 22x$。代入 $x=5 \\implies 22 \\times 5 = 110$。\n\n---",
+      "chapter": "Ch4 4.3節：微積分基本定理",
+      "score": 10
+    },
+    {
+      "number": 41,
+      "text": "若 $F(x) = \\int_0^x 23t dt$，求 $F'(5)$ 的值。",
+      "options": [],
+      "answer": "115",
+      "type": "fill",
+      "solution": "由微積分基本定理，$F'(x) = 23x$。代入 $x=5 \\implies 23 \\times 5 = 115$。\n\n---",
+      "chapter": "Ch4 4.3節：微積分基本定理",
+      "score": 10
+    },
+    {
+      "number": 42,
+      "text": "若 $F(x) = \\int_0^x 24t dt$，求 $F'(5)$ 的值。",
+      "options": [],
+      "answer": "120",
+      "type": "fill",
+      "solution": "由微積分基本定理，$F'(x) = 24x$。代入 $x=5 \\implies 24 \\times 5 = 120$。\n\n---",
+      "chapter": "Ch4 4.3節：微積分基本定理",
+      "score": 10
+    },
+    {
+      "number": 43,
+      "text": "若 $F(x) = \\int_0^x 25t dt$，求 $F'(5)$ 的值。",
+      "options": [],
+      "answer": "125",
+      "type": "fill",
+      "solution": "由微積分基本定理，$F'(x) = 25x$。代入 $x=5 \\implies 25 \\times 5 = 125$。\n\n---",
+      "chapter": "Ch4 4.3節：微積分基本定理",
+      "score": 10
+    },
+    {
+      "number": 44,
+      "text": "若 $F(x) = \\int_0^x 26t dt$，求 $F'(5)$ 的值。",
+      "options": [],
+      "answer": "130",
+      "type": "fill",
+      "solution": "由微積分基本定理，$F'(x) = 26x$。代入 $x=5 \\implies 26 \\times 5 = 130$。\n\n---",
+      "chapter": "Ch4 4.3節：微積分基本定理",
+      "score": 10
+    },
+    {
+      "number": 45,
+      "text": "若 $F(x) = \\int_0^x 27t dt$，求 $F'(5)$ 的值。",
+      "options": [],
+      "answer": "135",
+      "type": "fill",
+      "solution": "由微積分基本定理，$F'(x) = 27x$。代入 $x=5 \\implies 27 \\times 5 = 135$。\n\n---",
+      "chapter": "Ch4 4.3節：微積分基本定理",
+      "score": 10
+    },
+    {
+      "number": 46,
+      "text": "若 $F(x) = \\int_0^x 28t dt$，求 $F'(5)$ 的值。",
+      "options": [],
+      "answer": "140",
+      "type": "fill",
+      "solution": "由微積分基本定理，$F'(x) = 28x$。代入 $x=5 \\implies 28 \\times 5 = 140$。\n\n---",
+      "chapter": "Ch4 4.3節：微積分基本定理",
+      "score": 10
+    },
+    {
+      "number": 47,
+      "text": "若 $F(x) = \\int_0^x 29t dt$，求 $F'(5)$ 的值。",
+      "options": [],
+      "answer": "145",
+      "type": "fill",
+      "solution": "由微積分基本定理，$F'(x) = 29x$。代入 $x=5 \\implies 29 \\times 5 = 145$。\n\n---",
+      "chapter": "Ch4 4.3節：微積分基本定理",
+      "score": 10
+    },
+    {
+      "number": 48,
+      "text": "若 $F(x) = \\int_0^x 30t dt$，求 $F'(5)$ 的值。",
+      "options": [],
+      "answer": "150",
+      "type": "fill",
+      "solution": "由微積分基本定理，$F'(x) = 30x$。代入 $x=5 \\implies 30 \\times 5 = 150$。\n\n---",
+      "chapter": "Ch4 4.3節：微積分基本定理",
+      "score": 10
+    },
+    {
+      "number": 49,
+      "text": "若 $F(x) = \\int_0^x 31t dt$，求 $F'(5)$ 的值。",
+      "options": [],
+      "answer": "155",
+      "type": "fill",
+      "solution": "由微積分基本定理，$F'(x) = 31x$。代入 $x=5 \\implies 31 \\times 5 = 155$。\n\n---",
+      "chapter": "Ch4 4.3節：微積分基本定理",
+      "score": 10
+    },
+    {
+      "number": 50,
+      "text": "若 $F(x) = \\int_0^x 32t dt$，求 $F'(5)$ 的值。",
+      "options": [],
+      "answer": "160",
+      "type": "fill",
+      "solution": "由微積分基本定理，$F'(x) = 32x$。代入 $x=5 \\implies 32 \\times 5 = 160$。",
       "chapter": "Ch4 4.3節：微積分基本定理",
       "score": 10
     },
     {
       "number": 1,
-      "text": "某物體的速度為 $v(t) = 3t + 1$，求物體在 $t=1$ 到 $t=3$ 之間的淨變化量（位移）。",
+      "text": "某物體的速度為 $v(t) = 3t + 1$，求物體在 $t=1$ 到 $t=3$ 之間的淨變化量。",
       "options": [
         "$3$",
         "$12$",
@@ -1232,7 +2632,7 @@
     },
     {
       "number": 3,
-      "text": "某物體的速度為 $v(t) = 5t + 1$，求物體在 $t=1$ 到 $t=3$ 之間的淨變化量（位移）。",
+      "text": "某物體的速度為 $v(t) = 5t + 1$，求物體在 $t=1$ 到 $t=3$ 之間的淨變化量。",
       "options": [
         "$4$",
         "$20$",
@@ -1262,7 +2662,7 @@
     },
     {
       "number": 5,
-      "text": "某物體的速度為 $v(t) = 7t + 1$，求物體在 $t=1$ 到 $t=3$ 之間的淨變化量（位移）。",
+      "text": "某物體的速度為 $v(t) = 7t + 1$，求物體在 $t=1$ 到 $t=3$ 之間的淨變化量。",
       "options": [
         "$7$",
         "$28$",
@@ -1292,7 +2692,7 @@
     },
     {
       "number": 7,
-      "text": "某物體的速度為 $v(t) = 9t + 1$，求物體在 $t=1$ 到 $t=3$ 之間的淨變化量（位移）。",
+      "text": "某物體的速度為 $v(t) = 9t + 1$，求物體在 $t=1$ 到 $t=3$ 之間的淨變化量。",
       "options": [
         "$4$",
         "$36$",
@@ -1322,7 +2722,7 @@
     },
     {
       "number": 9,
-      "text": "某物體的速度為 $v(t) = 11t + 1$，求物體在 $t=1$ 到 $t=3$ 之間的淨變化量（位移）。",
+      "text": "某物體的速度為 $v(t) = 11t + 1$，求物體在 $t=1$ 到 $t=3$ 之間的淨變化量。",
       "options": [
         "$11$",
         "$44$",
@@ -1352,7 +2752,7 @@
     },
     {
       "number": 11,
-      "text": "某物體的速度為 $v(t) = 13t + 1$，求物體在 $t=1$ 到 $t=3$ 之間的淨變化量（位移）。",
+      "text": "某物體的速度為 $v(t) = 13t + 1$，求物體在 $t=1$ 到 $t=3$ 之間的淨變化量。",
       "options": [
         "$4$",
         "$52$",
@@ -1382,7 +2782,7 @@
     },
     {
       "number": 13,
-      "text": "某物體的速度為 $v(t) = 15t + 1$，求物體在 $t=1$ 到 $t=3$ 之間的淨變化量（位移）。",
+      "text": "某物體的速度為 $v(t) = 15t + 1$，求物體在 $t=1$ 到 $t=3$ 之間的淨變化量。",
       "options": [
         "$15$",
         "$60$",
@@ -1412,7 +2812,7 @@
     },
     {
       "number": 15,
-      "text": "某物體的速度為 $v(t) = 17t + 1$，求物體在 $t=1$ 到 $t=3$ 之間的淨變化量（位移）。",
+      "text": "某物體的速度為 $v(t) = 17t + 1$，求物體在 $t=1$ 到 $t=3$ 之間的淨變化量。",
       "options": [
         "$4$",
         "$68$",
@@ -1442,7 +2842,7 @@
     },
     {
       "number": 17,
-      "text": "某物體的速度為 $v(t) = 19t + 1$，求物體在 $t=1$ 到 $t=3$ 之間的淨變化量（位移）。",
+      "text": "某物體的速度為 $v(t) = 19t + 1$，求物體在 $t=1$ 到 $t=3$ 之間的淨變化量。",
       "options": [
         "$19$",
         "$76$",
@@ -1472,7 +2872,7 @@
     },
     {
       "number": 19,
-      "text": "某物體的速度為 $v(t) = 21t + 1$，求物體在 $t=1$ 到 $t=3$ 之間的淨變化量（位移）。",
+      "text": "某物體的速度為 $v(t) = 21t + 1$，求物體在 $t=1$ 到 $t=3$ 之間的淨變化量。",
       "options": [
         "$4$",
         "$84$",
@@ -1502,101 +2902,351 @@
     },
     {
       "number": 21,
-      "text": "求 $\\int_0^1 (6x^2 + 1) dx$ 之定積分精確值。",
-      "options": [],
-      "answer": "3.0",
-      "type": "fill",
-      "solution": "積分為 $[\\frac{6}{3}x^3 + x]_0^1 = \\frac{6}{3} + 1$。當 $c=6 \\implies \\frac{6}{3} + 1 = 3.0$。\n\n---",
+      "text": "某物體的速度為 $v(t) = 23t + 1$，求物體在 $t=1$ 到 $t=3$ 之間的淨變化量。",
+      "options": [
+        "$23$",
+        "$92$",
+        "$94$",
+        "$4$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "位移即速度之定積分：$\\int_1^3 (23t + 1) dt = [\\frac{23}{2}t^2 + t]_1^3 = (\\frac{23}{2} \\cdot 9 + 3) - (\\frac{23}{2} \\cdot 1 + 1) = 94$。\n\n---",
       "chapter": "Ch4 4.4節：不定積分與淨變化定理",
       "score": 10
     },
     {
       "number": 22,
-      "text": "求 $\\int_0^1 (7x^2 + 1) dx$ 之定積分精確值。",
-      "options": [],
-      "answer": "3.33",
-      "type": "fill",
-      "solution": "積分為 $[\\frac{7}{3}x^3 + x]_0^1 = \\frac{7}{3} + 1$。當 $c=7 \\implies \\frac{7}{3} + 1 = 3.33$。\n\n---",
+      "text": "求不定積分 $\\int (24x^2 + \\sin x) dx$。",
+      "options": [
+        "$\\frac{24}{3}x^3 - \\cos x + C$",
+        "$\\frac{24}{3}x^3 + \\cos x + C$",
+        "$48x - \\cos x + C$",
+        "$\\frac{24}{3}x^3 - \\sin x + C$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "對各項積分：$\\int 24x^2 dx = \\frac{24}{3}x^3$，$\\int \\sin x dx = -\\cos x$。故最一般不定積分為 $\\frac{24}{3}x^3 - \\cos x + C$。\n\n---",
       "chapter": "Ch4 4.4節：不定積分與淨變化定理",
       "score": 10
     },
     {
       "number": 23,
-      "text": "求 $\\int_0^1 (8x^2 + 1) dx$ 之定積分精確值。",
-      "options": [],
-      "answer": "3.67",
-      "type": "fill",
-      "solution": "積分為 $[\\frac{8}{3}x^3 + x]_0^1 = \\frac{8}{3} + 1$。當 $c=8 \\implies \\frac{8}{3} + 1 = 3.67$。\n\n---",
+      "text": "某物體的速度為 $v(t) = 25t + 1$，求物體在 $t=1$ 到 $t=3$ 之間的淨變化量。",
+      "options": [
+        "$4$",
+        "$100$",
+        "$25$",
+        "$102$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "位移即速度之定積分：$\\int_1^3 (25t + 1) dt = [\\frac{25}{2}t^2 + t]_1^3 = (\\frac{25}{2} \\cdot 9 + 3) - (\\frac{25}{2} \\cdot 1 + 1) = 102$。\n\n---",
       "chapter": "Ch4 4.4節：不定積分與淨變化定理",
       "score": 10
     },
     {
       "number": 24,
-      "text": "求 $\\int_0^1 (9x^2 + 1) dx$ 之定積分精確值。",
-      "options": [],
-      "answer": "4.0",
-      "type": "fill",
-      "solution": "積分為 $[\\frac{9}{3}x^3 + x]_0^1 = \\frac{9}{3} + 1$。當 $c=9 \\implies \\frac{9}{3} + 1 = 4.0$。\n\n---",
+      "text": "求不定積分 $\\int (26x^2 + \\sin x) dx$。",
+      "options": [
+        "$\\frac{26}{3}x^3 + \\cos x + C$",
+        "$\\frac{26}{3}x^3 - \\cos x + C$",
+        "$52x - \\cos x + C$",
+        "$\\frac{26}{3}x^3 - \\sin x + C$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "對各項積分：$\\int 26x^2 dx = \\frac{26}{3}x^3$，$\\int \\sin x dx = -\\cos x$。故最一般不定積分為 $\\frac{26}{3}x^3 - \\cos x + C$。\n\n---",
       "chapter": "Ch4 4.4節：不定積分與淨變化定理",
       "score": 10
     },
     {
       "number": 25,
-      "text": "求 $\\int_0^1 (10x^2 + 1) dx$ 之定積分精確值。",
-      "options": [],
-      "answer": "4.33",
-      "type": "fill",
-      "solution": "積分為 $[\\frac{10}{3}x^3 + x]_0^1 = \\frac{10}{3} + 1$。當 $c=10 \\implies \\frac{10}{3} + 1 = 4.33$。\n\n---",
+      "text": "某物體的速度為 $v(t) = 27t + 1$，求物體在 $t=1$ 到 $t=3$ 之間的淨變化量。",
+      "options": [
+        "$27$",
+        "$108$",
+        "$110$",
+        "$4$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "位移即速度之定積分：$\\int_1^3 (27t + 1) dt = [\\frac{27}{2}t^2 + t]_1^3 = (\\frac{27}{2} \\cdot 9 + 3) - (\\frac{27}{2} \\cdot 1 + 1) = 110$。\n\n---",
       "chapter": "Ch4 4.4節：不定積分與淨變化定理",
       "score": 10
     },
     {
       "number": 26,
-      "text": "求 $\\int_0^1 (11x^2 + 1) dx$ 之定積分精確值。",
-      "options": [],
-      "answer": "4.67",
-      "type": "fill",
-      "solution": "積分為 $[\\frac{11}{3}x^3 + x]_0^1 = \\frac{11}{3} + 1$。當 $c=11 \\implies \\frac{11}{3} + 1 = 4.67$。\n\n---",
+      "text": "求不定積分 $\\int (28x^2 + \\sin x) dx$。",
+      "options": [
+        "$\\frac{28}{3}x^3 - \\cos x + C$",
+        "$\\frac{28}{3}x^3 + \\cos x + C$",
+        "$56x - \\cos x + C$",
+        "$\\frac{28}{3}x^3 - \\sin x + C$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "對各項積分：$\\int 28x^2 dx = \\frac{28}{3}x^3$，$\\int \\sin x dx = -\\cos x$。故最一般不定積分為 $\\frac{28}{3}x^3 - \\cos x + C$。\n\n---",
       "chapter": "Ch4 4.4節：不定積分與淨變化定理",
       "score": 10
     },
     {
       "number": 27,
-      "text": "求 $\\int_0^1 (12x^2 + 1) dx$ 之定積分精確值。",
-      "options": [],
-      "answer": "5.0",
-      "type": "fill",
-      "solution": "積分為 $[\\frac{12}{3}x^3 + x]_0^1 = \\frac{12}{3} + 1$。當 $c=12 \\implies \\frac{12}{3} + 1 = 5.0$。\n\n---",
+      "text": "某物體的速度為 $v(t) = 29t + 1$，求物體在 $t=1$ 到 $t=3$ 之間的淨變化量。",
+      "options": [
+        "$4$",
+        "$116$",
+        "$29$",
+        "$118$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "位移即速度之定積分：$\\int_1^3 (29t + 1) dt = [\\frac{29}{2}t^2 + t]_1^3 = (\\frac{29}{2} \\cdot 9 + 3) - (\\frac{29}{2} \\cdot 1 + 1) = 118$。\n\n---",
       "chapter": "Ch4 4.4節：不定積分與淨變化定理",
       "score": 10
     },
     {
       "number": 28,
-      "text": "求 $\\int_0^1 (13x^2 + 1) dx$ 之定積分精確值。",
-      "options": [],
-      "answer": "5.33",
-      "type": "fill",
-      "solution": "積分為 $[\\frac{13}{3}x^3 + x]_0^1 = \\frac{13}{3} + 1$。當 $c=13 \\implies \\frac{13}{3} + 1 = 5.33$。\n\n---",
+      "text": "求不定積分 $\\int (30x^2 + \\sin x) dx$。",
+      "options": [
+        "$\\frac{30}{3}x^3 + \\cos x + C$",
+        "$\\frac{30}{3}x^3 - \\cos x + C$",
+        "$60x - \\cos x + C$",
+        "$\\frac{30}{3}x^3 - \\sin x + C$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "對各項積分：$\\int 30x^2 dx = \\frac{30}{3}x^3$，$\\int \\sin x dx = -\\cos x$。故最一般不定積分為 $\\frac{30}{3}x^3 - \\cos x + C$。\n\n---",
       "chapter": "Ch4 4.4節：不定積分與淨變化定理",
       "score": 10
     },
     {
       "number": 29,
-      "text": "求 $\\int_0^1 (14x^2 + 1) dx$ 之定積分精確值。",
-      "options": [],
-      "answer": "5.67",
-      "type": "fill",
-      "solution": "積分為 $[\\frac{14}{3}x^3 + x]_0^1 = \\frac{14}{3} + 1$。當 $c=14 \\implies \\frac{14}{3} + 1 = 5.67$。\n\n---",
+      "text": "某物體的速度為 $v(t) = 31t + 1$，求物體在 $t=1$ 到 $t=3$ 之間的淨變化量。",
+      "options": [
+        "$31$",
+        "$124$",
+        "$126$",
+        "$4$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "位移即速度之定積分：$\\int_1^3 (31t + 1) dt = [\\frac{31}{2}t^2 + t]_1^3 = (\\frac{31}{2} \\cdot 9 + 3) - (\\frac{31}{2} \\cdot 1 + 1) = 126$。\n\n---",
       "chapter": "Ch4 4.4節：不定積分與淨變化定理",
       "score": 10
     },
     {
       "number": 30,
-      "text": "求 $\\int_0^1 (15x^2 + 1) dx$ 之定積分精確值。",
+      "text": "求不定積分 $\\int (32x^2 + \\sin x) dx$。",
+      "options": [
+        "$\\frac{32}{3}x^3 - \\cos x + C$",
+        "$\\frac{32}{3}x^3 + \\cos x + C$",
+        "$64x - \\cos x + C$",
+        "$\\frac{32}{3}x^3 - \\sin x + C$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "對各項積分：$\\int 32x^2 dx = \\frac{32}{3}x^3$，$\\int \\sin x dx = -\\cos x$。故最一般不定積分為 $\\frac{32}{3}x^3 - \\cos x + C$。\n\n---",
+      "chapter": "Ch4 4.4節：不定積分與淨變化定理",
+      "score": 10
+    },
+    {
+      "number": 31,
+      "text": "求 $\\int_0^1 (16x^2 + 1) dx$ 之定積分精確值。",
       "options": [],
-      "answer": "6.0",
+      "answer": "6.33",
       "type": "fill",
-      "solution": "積分為 $[\\frac{15}{3}x^3 + x]_0^1 = \\frac{15}{3} + 1$。當 $c=15 \\implies \\frac{15}{3} + 1 = 6.0$。",
+      "solution": "積分為 $[\\frac{16}{3}x^3 + x]_0^1 = \\frac{16}{3} + 1$。當 $c=16 \\implies \\frac{16}{3} + 1 = 6.33$。\n\n---",
+      "chapter": "Ch4 4.4節：不定積分與淨變化定理",
+      "score": 10
+    },
+    {
+      "number": 32,
+      "text": "求 $\\int_0^1 (17x^2 + 1) dx$ 之定積分精確值。",
+      "options": [],
+      "answer": "6.67",
+      "type": "fill",
+      "solution": "積分為 $[\\frac{17}{3}x^3 + x]_0^1 = \\frac{17}{3} + 1$。當 $c=17 \\implies \\frac{17}{3} + 1 = 6.67$。\n\n---",
+      "chapter": "Ch4 4.4節：不定積分與淨變化定理",
+      "score": 10
+    },
+    {
+      "number": 33,
+      "text": "求 $\\int_0^1 (18x^2 + 1) dx$ 之定積分精確值。",
+      "options": [],
+      "answer": "7.0",
+      "type": "fill",
+      "solution": "積分為 $[\\frac{18}{3}x^3 + x]_0^1 = \\frac{18}{3} + 1$。當 $c=18 \\implies \\frac{18}{3} + 1 = 7.0$。\n\n---",
+      "chapter": "Ch4 4.4節：不定積分與淨變化定理",
+      "score": 10
+    },
+    {
+      "number": 34,
+      "text": "求 $\\int_0^1 (19x^2 + 1) dx$ 之定積分精確值。",
+      "options": [],
+      "answer": "7.33",
+      "type": "fill",
+      "solution": "積分為 $[\\frac{19}{3}x^3 + x]_0^1 = \\frac{19}{3} + 1$。當 $c=19 \\implies \\frac{19}{3} + 1 = 7.33$。\n\n---",
+      "chapter": "Ch4 4.4節：不定積分與淨變化定理",
+      "score": 10
+    },
+    {
+      "number": 35,
+      "text": "求 $\\int_0^1 (20x^2 + 1) dx$ 之定積分精確值。",
+      "options": [],
+      "answer": "7.67",
+      "type": "fill",
+      "solution": "積分為 $[\\frac{20}{3}x^3 + x]_0^1 = \\frac{20}{3} + 1$。當 $c=20 \\implies \\frac{20}{3} + 1 = 7.67$。\n\n---",
+      "chapter": "Ch4 4.4節：不定積分與淨變化定理",
+      "score": 10
+    },
+    {
+      "number": 36,
+      "text": "求 $\\int_0^1 (21x^2 + 1) dx$ 之定積分精確值。",
+      "options": [],
+      "answer": "8.0",
+      "type": "fill",
+      "solution": "積分為 $[\\frac{21}{3}x^3 + x]_0^1 = \\frac{21}{3} + 1$。當 $c=21 \\implies \\frac{21}{3} + 1 = 8.0$。\n\n---",
+      "chapter": "Ch4 4.4節：不定積分與淨變化定理",
+      "score": 10
+    },
+    {
+      "number": 37,
+      "text": "求 $\\int_0^1 (22x^2 + 1) dx$ 之定積分精確值。",
+      "options": [],
+      "answer": "8.33",
+      "type": "fill",
+      "solution": "積分為 $[\\frac{22}{3}x^3 + x]_0^1 = \\frac{22}{3} + 1$。當 $c=22 \\implies \\frac{22}{3} + 1 = 8.33$。\n\n---",
+      "chapter": "Ch4 4.4節：不定積分與淨變化定理",
+      "score": 10
+    },
+    {
+      "number": 38,
+      "text": "求 $\\int_0^1 (23x^2 + 1) dx$ 之定積分精確值。",
+      "options": [],
+      "answer": "8.67",
+      "type": "fill",
+      "solution": "積分為 $[\\frac{23}{3}x^3 + x]_0^1 = \\frac{23}{3} + 1$。當 $c=23 \\implies \\frac{23}{3} + 1 = 8.67$。\n\n---",
+      "chapter": "Ch4 4.4節：不定積分與淨變化定理",
+      "score": 10
+    },
+    {
+      "number": 39,
+      "text": "求 $\\int_0^1 (24x^2 + 1) dx$ 之定積分精確值。",
+      "options": [],
+      "answer": "9.0",
+      "type": "fill",
+      "solution": "積分為 $[\\frac{24}{3}x^3 + x]_0^1 = \\frac{24}{3} + 1$。當 $c=24 \\implies \\frac{24}{3} + 1 = 9.0$。\n\n---",
+      "chapter": "Ch4 4.4節：不定積分與淨變化定理",
+      "score": 10
+    },
+    {
+      "number": 40,
+      "text": "求 $\\int_0^1 (25x^2 + 1) dx$ 之定積分精確值。",
+      "options": [],
+      "answer": "9.33",
+      "type": "fill",
+      "solution": "積分為 $[\\frac{25}{3}x^3 + x]_0^1 = \\frac{25}{3} + 1$。當 $c=25 \\implies \\frac{25}{3} + 1 = 9.33$。\n\n---",
+      "chapter": "Ch4 4.4節：不定積分與淨變化定理",
+      "score": 10
+    },
+    {
+      "number": 41,
+      "text": "求 $\\int_0^1 (26x^2 + 1) dx$ 之定積分精確值。",
+      "options": [],
+      "answer": "9.67",
+      "type": "fill",
+      "solution": "積分為 $[\\frac{26}{3}x^3 + x]_0^1 = \\frac{26}{3} + 1$。當 $c=26 \\implies \\frac{26}{3} + 1 = 9.67$。\n\n---",
+      "chapter": "Ch4 4.4節：不定積分與淨變化定理",
+      "score": 10
+    },
+    {
+      "number": 42,
+      "text": "求 $\\int_0^1 (27x^2 + 1) dx$ 之定積分精確值。",
+      "options": [],
+      "answer": "10.0",
+      "type": "fill",
+      "solution": "積分為 $[\\frac{27}{3}x^3 + x]_0^1 = \\frac{27}{3} + 1$。當 $c=27 \\implies \\frac{27}{3} + 1 = 10.0$。\n\n---",
+      "chapter": "Ch4 4.4節：不定積分與淨變化定理",
+      "score": 10
+    },
+    {
+      "number": 43,
+      "text": "求 $\\int_0^1 (28x^2 + 1) dx$ 之定積分精確值。",
+      "options": [],
+      "answer": "10.33",
+      "type": "fill",
+      "solution": "積分為 $[\\frac{28}{3}x^3 + x]_0^1 = \\frac{28}{3} + 1$。當 $c=28 \\implies \\frac{28}{3} + 1 = 10.33$。\n\n---",
+      "chapter": "Ch4 4.4節：不定積分與淨變化定理",
+      "score": 10
+    },
+    {
+      "number": 44,
+      "text": "求 $\\int_0^1 (29x^2 + 1) dx$ 之定積分精確值。",
+      "options": [],
+      "answer": "10.67",
+      "type": "fill",
+      "solution": "積分為 $[\\frac{29}{3}x^3 + x]_0^1 = \\frac{29}{3} + 1$。當 $c=29 \\implies \\frac{29}{3} + 1 = 10.67$。\n\n---",
+      "chapter": "Ch4 4.4節：不定積分與淨變化定理",
+      "score": 10
+    },
+    {
+      "number": 45,
+      "text": "求 $\\int_0^1 (30x^2 + 1) dx$ 之定積分精確值。",
+      "options": [],
+      "answer": "11.0",
+      "type": "fill",
+      "solution": "積分為 $[\\frac{30}{3}x^3 + x]_0^1 = \\frac{30}{3} + 1$。當 $c=30 \\implies \\frac{30}{3} + 1 = 11.0$。\n\n---",
+      "chapter": "Ch4 4.4節：不定積分與淨變化定理",
+      "score": 10
+    },
+    {
+      "number": 46,
+      "text": "求 $\\int_0^1 (31x^2 + 1) dx$ 之定積分精確值。",
+      "options": [],
+      "answer": "11.33",
+      "type": "fill",
+      "solution": "積分為 $[\\frac{31}{3}x^3 + x]_0^1 = \\frac{31}{3} + 1$。當 $c=31 \\implies \\frac{31}{3} + 1 = 11.33$。\n\n---",
+      "chapter": "Ch4 4.4節：不定積分與淨變化定理",
+      "score": 10
+    },
+    {
+      "number": 47,
+      "text": "求 $\\int_0^1 (32x^2 + 1) dx$ 之定積分精確值。",
+      "options": [],
+      "answer": "11.67",
+      "type": "fill",
+      "solution": "積分為 $[\\frac{32}{3}x^3 + x]_0^1 = \\frac{32}{3} + 1$。當 $c=32 \\implies \\frac{32}{3} + 1 = 11.67$。\n\n---",
+      "chapter": "Ch4 4.4節：不定積分與淨變化定理",
+      "score": 10
+    },
+    {
+      "number": 48,
+      "text": "求 $\\int_0^1 (33x^2 + 1) dx$ 之定積分精確值。",
+      "options": [],
+      "answer": "12.0",
+      "type": "fill",
+      "solution": "積分為 $[\\frac{33}{3}x^3 + x]_0^1 = \\frac{33}{3} + 1$。當 $c=33 \\implies \\frac{33}{3} + 1 = 12.0$。\n\n---",
+      "chapter": "Ch4 4.4節：不定積分與淨變化定理",
+      "score": 10
+    },
+    {
+      "number": 49,
+      "text": "求 $\\int_0^1 (34x^2 + 1) dx$ 之定積分精確值。",
+      "options": [],
+      "answer": "12.33",
+      "type": "fill",
+      "solution": "積分為 $[\\frac{34}{3}x^3 + x]_0^1 = \\frac{34}{3} + 1$。當 $c=34 \\implies \\frac{34}{3} + 1 = 12.33$。\n\n---",
+      "chapter": "Ch4 4.4節：不定積分與淨變化定理",
+      "score": 10
+    },
+    {
+      "number": 50,
+      "text": "求 $\\int_0^1 (35x^2 + 1) dx$ 之定積分精確值。",
+      "options": [],
+      "answer": "12.67",
+      "type": "fill",
+      "solution": "積分為 $[\\frac{35}{3}x^3 + x]_0^1 = \\frac{35}{3} + 1$。當 $c=35 \\implies \\frac{35}{3} + 1 = 12.67$。",
       "chapter": "Ch4 4.4節：不定積分與淨變化定理",
       "score": 10
     },
@@ -1902,101 +3552,351 @@
     },
     {
       "number": 21,
-      "text": "利用代換法求定積分 $\\int_0^1 2x(x^2+1)^3 dx$ 的精確值。",
-      "options": [],
-      "answer": "3.75",
-      "type": "fill",
-      "solution": "令 $u = x^2+1 \\implies du=2x dx$。積分上限變為 $1^2+1=2$，下限變為 $0+1=1$。故為 $\\int_1^2 u^3 du = [\\frac{1}{4} u^4]_1^2 = \\frac{2^4 - 1}{4}$。當 $c=3 \\implies \\frac{2^4-1}{4} = 3.75$。\n\n---",
+      "text": "求 $\\int \\sin(22x) dx$ 之最一般不定積分。",
+      "options": [
+        "$-\\cos(22x) + C$",
+        "$\\frac{1}{22}\\cos(22x) + C$",
+        "$-\\frac{1}{22}\\cos(22x) + C$",
+        "$\\cos(22x) + C$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "令 $u = 22x \\implies du = 22 dx$。則 $\\int \\sin u \\frac{1}{22} du = -\\frac{1}{22}\\cos u + C = -\\frac{1}{22}\\cos(22x) + C$。\n\n---",
       "chapter": "Ch4 4.5節：代換法",
       "score": 10
     },
     {
       "number": 22,
-      "text": "利用代換法求定積分 $\\int_0^1 2x(x^2+1)^4 dx$ 的精確值。",
-      "options": [],
-      "answer": "6.2",
-      "type": "fill",
-      "solution": "令 $u = x^2+1 \\implies du=2x dx$。積分上限變為 $1^2+1=2$，下限變為 $0+1=1$。故為 $\\int_1^2 u^4 du = [\\frac{1}{5} u^5]_1^2 = \\frac{2^5 - 1}{5}$。當 $c=4 \\implies \\frac{2^5-1}{5} = 6.2$。\n\n---",
+      "text": "利用代換法計算 $\\int 2x(x^2 + 1)^23 dx$。",
+      "options": [
+        "$(x^2 + 1)^24 + C$",
+        "$\\frac{1}{24}(x^2 + 1)^24 + C$",
+        "$\\frac{1}{23}(x^2 + 1)^23 + C$",
+        "$2(x^2 + 1)^24 + C$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "令 $u = x^2+1 \\implies du = 2x dx$。積分式變為 $\\int u^23 du = \\frac{1}{24}u^24 + C = \\frac{1}{24}(x^2+1)^24 + C$。\n\n---",
       "chapter": "Ch4 4.5節：代換法",
       "score": 10
     },
     {
       "number": 23,
-      "text": "利用代換法求定積分 $\\int_0^1 2x(x^2+1)^5 dx$ 的精確值。",
-      "options": [],
-      "answer": "10.5",
-      "type": "fill",
-      "solution": "令 $u = x^2+1 \\implies du=2x dx$。積分上限變為 $1^2+1=2$，下限變為 $0+1=1$。故為 $\\int_1^2 u^5 du = [\\frac{1}{6} u^6]_1^2 = \\frac{2^6 - 1}{6}$。當 $c=5 \\implies \\frac{2^6-1}{6} = 10.5$。\n\n---",
+      "text": "求 $\\int \\sin(24x) dx$ 之最一般不定積分。",
+      "options": [
+        "$\\cos(24x) + C$",
+        "$\\frac{1}{24}\\cos(24x) + C$",
+        "$-\\cos(24x) + C$",
+        "$-\\frac{1}{24}\\cos(24x) + C$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "令 $u = 24x \\implies du = 24 dx$。則 $\\int \\sin u \\frac{1}{24} du = -\\frac{1}{24}\\cos u + C = -\\frac{1}{24}\\cos(24x) + C$。\n\n---",
       "chapter": "Ch4 4.5節：代換法",
       "score": 10
     },
     {
       "number": 24,
-      "text": "利用代換法求定積分 $\\int_0^1 2x(x^2+1)^6 dx$ 的精確值。",
-      "options": [],
-      "answer": "18.14",
-      "type": "fill",
-      "solution": "令 $u = x^2+1 \\implies du=2x dx$。積分上限變為 $1^2+1=2$，下限變為 $0+1=1$。故為 $\\int_1^2 u^6 du = [\\frac{1}{7} u^7]_1^2 = \\frac{2^7 - 1}{7}$。當 $c=6 \\implies \\frac{2^7-1}{7} = 18.14$。\n\n---",
+      "text": "利用代換法計算 $\\int 2x(x^2 + 1)^25 dx$。",
+      "options": [
+        "$\\frac{1}{26}(x^2 + 1)^26 + C$",
+        "$(x^2 + 1)^26 + C$",
+        "$\\frac{1}{25}(x^2 + 1)^25 + C$",
+        "$2(x^2 + 1)^26 + C$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "令 $u = x^2+1 \\implies du = 2x dx$。積分式變為 $\\int u^25 du = \\frac{1}{26}u^26 + C = \\frac{1}{26}(x^2+1)^26 + C$。\n\n---",
       "chapter": "Ch4 4.5節：代換法",
       "score": 10
     },
     {
       "number": 25,
-      "text": "利用代換法求定積分 $\\int_0^1 2x(x^2+1)^7 dx$ 的精確值。",
-      "options": [],
-      "answer": "31.88",
-      "type": "fill",
-      "solution": "令 $u = x^2+1 \\implies du=2x dx$。積分上限變為 $1^2+1=2$，下限變為 $0+1=1$。故為 $\\int_1^2 u^7 du = [\\frac{1}{8} u^8]_1^2 = \\frac{2^8 - 1}{8}$。當 $c=7 \\implies \\frac{2^8-1}{8} = 31.88$。\n\n---",
+      "text": "求 $\\int \\sin(26x) dx$ 之最一般不定積分。",
+      "options": [
+        "$-\\cos(26x) + C$",
+        "$\\frac{1}{26}\\cos(26x) + C$",
+        "$-\\frac{1}{26}\\cos(26x) + C$",
+        "$\\cos(26x) + C$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "令 $u = 26x \\implies du = 26 dx$。則 $\\int \\sin u \\frac{1}{26} du = -\\frac{1}{26}\\cos u + C = -\\frac{1}{26}\\cos(26x) + C$。\n\n---",
       "chapter": "Ch4 4.5節：代換法",
       "score": 10
     },
     {
       "number": 26,
-      "text": "利用代換法求定積分 $\\int_0^1 2x(x^2+1)^8 dx$ 的精確值。",
-      "options": [],
-      "answer": "56.78",
-      "type": "fill",
-      "solution": "令 $u = x^2+1 \\implies du=2x dx$。積分上限變為 $1^2+1=2$，下限變為 $0+1=1$。故為 $\\int_1^2 u^8 du = [\\frac{1}{9} u^9]_1^2 = \\frac{2^9 - 1}{9}$。當 $c=8 \\implies \\frac{2^9-1}{9} = 56.78$。\n\n---",
+      "text": "利用代換法計算 $\\int 2x(x^2 + 1)^27 dx$。",
+      "options": [
+        "$(x^2 + 1)^28 + C$",
+        "$\\frac{1}{28}(x^2 + 1)^28 + C$",
+        "$\\frac{1}{27}(x^2 + 1)^27 + C$",
+        "$2(x^2 + 1)^28 + C$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "令 $u = x^2+1 \\implies du = 2x dx$。積分式變為 $\\int u^27 du = \\frac{1}{28}u^28 + C = \\frac{1}{28}(x^2+1)^28 + C$。\n\n---",
       "chapter": "Ch4 4.5節：代換法",
       "score": 10
     },
     {
       "number": 27,
-      "text": "利用代換法求定積分 $\\int_0^1 2x(x^2+1)^9 dx$ 的精確值。",
-      "options": [],
-      "answer": "102.3",
-      "type": "fill",
-      "solution": "令 $u = x^2+1 \\implies du=2x dx$。積分上限變為 $1^2+1=2$，下限變為 $0+1=1$。故為 $\\int_1^2 u^9 du = [\\frac{1}{10} u^10]_1^2 = \\frac{2^10 - 1}{10}$。當 $c=9 \\implies \\frac{2^10-1}{10} = 102.3$。\n\n---",
+      "text": "求 $\\int \\sin(28x) dx$ 之最一般不定積分。",
+      "options": [
+        "$\\cos(28x) + C$",
+        "$\\frac{1}{28}\\cos(28x) + C$",
+        "$-\\cos(28x) + C$",
+        "$-\\frac{1}{28}\\cos(28x) + C$"
+      ],
+      "answer": "D",
+      "type": "single",
+      "solution": "令 $u = 28x \\implies du = 28 dx$。則 $\\int \\sin u \\frac{1}{28} du = -\\frac{1}{28}\\cos u + C = -\\frac{1}{28}\\cos(28x) + C$。\n\n---",
       "chapter": "Ch4 4.5節：代換法",
       "score": 10
     },
     {
       "number": 28,
-      "text": "利用代換法求定積分 $\\int_0^1 2x(x^2+1)^10 dx$ 的精確值。",
-      "options": [],
-      "answer": "186.09",
-      "type": "fill",
-      "solution": "令 $u = x^2+1 \\implies du=2x dx$。積分上限變為 $1^2+1=2$，下限變為 $0+1=1$。故為 $\\int_1^2 u^10 du = [\\frac{1}{11} u^11]_1^2 = \\frac{2^11 - 1}{11}$。當 $c=10 \\implies \\frac{2^11-1}{11} = 186.09$。\n\n---",
+      "text": "利用代換法計算 $\\int 2x(x^2 + 1)^29 dx$。",
+      "options": [
+        "$\\frac{1}{30}(x^2 + 1)^30 + C$",
+        "$(x^2 + 1)^30 + C$",
+        "$\\frac{1}{29}(x^2 + 1)^29 + C$",
+        "$2(x^2 + 1)^30 + C$"
+      ],
+      "answer": "A",
+      "type": "single",
+      "solution": "令 $u = x^2+1 \\implies du = 2x dx$。積分式變為 $\\int u^29 du = \\frac{1}{30}u^30 + C = \\frac{1}{30}(x^2+1)^30 + C$。\n\n---",
       "chapter": "Ch4 4.5節：代換法",
       "score": 10
     },
     {
       "number": 29,
-      "text": "利用代換法求定積分 $\\int_0^1 2x(x^2+1)^11 dx$ 的精確值。",
-      "options": [],
-      "answer": "341.25",
-      "type": "fill",
-      "solution": "令 $u = x^2+1 \\implies du=2x dx$。積分上限變為 $1^2+1=2$，下限變為 $0+1=1$。故為 $\\int_1^2 u^11 du = [\\frac{1}{12} u^12]_1^2 = \\frac{2^12 - 1}{12}$。當 $c=11 \\implies \\frac{2^12-1}{12} = 341.25$。\n\n---",
+      "text": "求 $\\int \\sin(30x) dx$ 之最一般不定積分。",
+      "options": [
+        "$-\\cos(30x) + C$",
+        "$\\frac{1}{30}\\cos(30x) + C$",
+        "$-\\frac{1}{30}\\cos(30x) + C$",
+        "$\\cos(30x) + C$"
+      ],
+      "answer": "C",
+      "type": "single",
+      "solution": "令 $u = 30x \\implies du = 30 dx$。則 $\\int \\sin u \\frac{1}{30} du = -\\frac{1}{30}\\cos u + C = -\\frac{1}{30}\\cos(30x) + C$。\n\n---",
       "chapter": "Ch4 4.5節：代換法",
       "score": 10
     },
     {
       "number": 30,
-      "text": "利用代換法求定積分 $\\int_0^1 2x(x^2+1)^12 dx$ 的精確值。",
+      "text": "利用代換法計算 $\\int 2x(x^2 + 1)^31 dx$。",
+      "options": [
+        "$(x^2 + 1)^32 + C$",
+        "$\\frac{1}{32}(x^2 + 1)^32 + C$",
+        "$\\frac{1}{31}(x^2 + 1)^31 + C$",
+        "$2(x^2 + 1)^32 + C$"
+      ],
+      "answer": "B",
+      "type": "single",
+      "solution": "令 $u = x^2+1 \\implies du = 2x dx$。積分式變為 $\\int u^31 du = \\frac{1}{32}u^32 + C = \\frac{1}{32}(x^2+1)^32 + C$。\n\n---",
+      "chapter": "Ch4 4.5節：代換法",
+      "score": 10
+    },
+    {
+      "number": 31,
+      "text": "利用代換法求定積分 $\\int_0^1 2x(x^2+1)^13 dx$ 的精確值。",
       "options": [],
-      "answer": "630.08",
+      "answer": "1170.21",
       "type": "fill",
-      "solution": "令 $u = x^2+1 \\implies du=2x dx$。積分上限變為 $1^2+1=2$，下限變為 $0+1=1$。故為 $\\int_1^2 u^12 du = [\\frac{1}{13} u^13]_1^2 = \\frac{2^13 - 1}{13}$。當 $c=12 \\implies \\frac{2^13-1}{13} = 630.08$。",
+      "solution": "令 $u = x^2+1 \\implies du=2x dx$。積分上限變為 2，下限變為 1。故為 $\\int_1^2 u^13 du = [\\frac{1}{14} u^14]_1^2 = \\frac{2^14 - 1}{14}$。當 $c=13 \\implies \\frac{2^14-1}{14} = 1170.21$。\n\n---",
+      "chapter": "Ch4 4.5節：代換法",
+      "score": 10
+    },
+    {
+      "number": 32,
+      "text": "利用代換法求定積分 $\\int_0^1 2x(x^2+1)^14 dx$ 的精確值。",
+      "options": [],
+      "answer": "2184.47",
+      "type": "fill",
+      "solution": "令 $u = x^2+1 \\implies du=2x dx$。積分上限變為 2，下限變為 1。故為 $\\int_1^2 u^14 du = [\\frac{1}{15} u^15]_1^2 = \\frac{2^15 - 1}{15}$。當 $c=14 \\implies \\frac{2^15-1}{15} = 2184.47$。\n\n---",
+      "chapter": "Ch4 4.5節：代換法",
+      "score": 10
+    },
+    {
+      "number": 33,
+      "text": "利用代換法求定積分 $\\int_0^1 2x(x^2+1)^15 dx$ 的精確值。",
+      "options": [],
+      "answer": "4095.94",
+      "type": "fill",
+      "solution": "令 $u = x^2+1 \\implies du=2x dx$。積分上限變為 2，下限變為 1。故為 $\\int_1^2 u^15 du = [\\frac{1}{16} u^16]_1^2 = \\frac{2^16 - 1}{16}$。當 $c=15 \\implies \\frac{2^16-1}{16} = 4095.94$。\n\n---",
+      "chapter": "Ch4 4.5節：代換法",
+      "score": 10
+    },
+    {
+      "number": 34,
+      "text": "利用代換法求定積分 $\\int_0^1 2x(x^2+1)^16 dx$ 的精確值。",
+      "options": [],
+      "answer": "7710.06",
+      "type": "fill",
+      "solution": "令 $u = x^2+1 \\implies du=2x dx$。積分上限變為 2，下限變為 1。故為 $\\int_1^2 u^16 du = [\\frac{1}{17} u^17]_1^2 = \\frac{2^17 - 1}{17}$。當 $c=16 \\implies \\frac{2^17-1}{17} = 7710.06$。\n\n---",
+      "chapter": "Ch4 4.5節：代換法",
+      "score": 10
+    },
+    {
+      "number": 35,
+      "text": "利用代換法求定積分 $\\int_0^1 2x(x^2+1)^17 dx$ 的精確值。",
+      "options": [],
+      "answer": "14563.5",
+      "type": "fill",
+      "solution": "令 $u = x^2+1 \\implies du=2x dx$。積分上限變為 2，下限變為 1。故為 $\\int_1^2 u^17 du = [\\frac{1}{18} u^18]_1^2 = \\frac{2^18 - 1}{18}$。當 $c=17 \\implies \\frac{2^18-1}{18} = 14563.5$。\n\n---",
+      "chapter": "Ch4 4.5節：代換法",
+      "score": 10
+    },
+    {
+      "number": 36,
+      "text": "利用代換法求定積分 $\\int_0^1 2x(x^2+1)^18 dx$ 的精確值。",
+      "options": [],
+      "answer": "27594.05",
+      "type": "fill",
+      "solution": "令 $u = x^2+1 \\implies du=2x dx$。積分上限變為 2，下限變為 1。故為 $\\int_1^2 u^18 du = [\\frac{1}{19} u^19]_1^2 = \\frac{2^19 - 1}{19}$。當 $c=18 \\implies \\frac{2^19-1}{19} = 27594.05$。\n\n---",
+      "chapter": "Ch4 4.5節：代換法",
+      "score": 10
+    },
+    {
+      "number": 37,
+      "text": "利用代換法求定積分 $\\int_0^1 2x(x^2+1)^19 dx$ 的精確值。",
+      "options": [],
+      "answer": "52428.75",
+      "type": "fill",
+      "solution": "令 $u = x^2+1 \\implies du=2x dx$。積分上限變為 2，下限變為 1。故為 $\\int_1^2 u^19 du = [\\frac{1}{20} u^20]_1^2 = \\frac{2^20 - 1}{20}$。當 $c=19 \\implies \\frac{2^20-1}{20} = 52428.75$。\n\n---",
+      "chapter": "Ch4 4.5節：代換法",
+      "score": 10
+    },
+    {
+      "number": 38,
+      "text": "利用代換法求定積分 $\\int_0^1 2x(x^2+1)^20 dx$ 的精確值。",
+      "options": [],
+      "answer": "99864.33",
+      "type": "fill",
+      "solution": "令 $u = x^2+1 \\implies du=2x dx$。積分上限變為 2，下限變為 1。故為 $\\int_1^2 u^20 du = [\\frac{1}{21} u^21]_1^2 = \\frac{2^21 - 1}{21}$。當 $c=20 \\implies \\frac{2^21-1}{21} = 99864.33$。\n\n---",
+      "chapter": "Ch4 4.5節：代換法",
+      "score": 10
+    },
+    {
+      "number": 39,
+      "text": "利用代換法求定積分 $\\int_0^1 2x(x^2+1)^21 dx$ 的精確值。",
+      "options": [],
+      "answer": "190650.14",
+      "type": "fill",
+      "solution": "令 $u = x^2+1 \\implies du=2x dx$。積分上限變為 2，下限變為 1。故為 $\\int_1^2 u^21 du = [\\frac{1}{22} u^22]_1^2 = \\frac{2^22 - 1}{22}$。當 $c=21 \\implies \\frac{2^22-1}{22} = 190650.14$。\n\n---",
+      "chapter": "Ch4 4.5節：代換法",
+      "score": 10
+    },
+    {
+      "number": 40,
+      "text": "利用代換法求定積分 $\\int_0^1 2x(x^2+1)^22 dx$ 的精確值。",
+      "options": [],
+      "answer": "364722.04",
+      "type": "fill",
+      "solution": "令 $u = x^2+1 \\implies du=2x dx$。積分上限變為 2，下限變為 1。故為 $\\int_1^2 u^22 du = [\\frac{1}{23} u^23]_1^2 = \\frac{2^23 - 1}{23}$。當 $c=22 \\implies \\frac{2^23-1}{23} = 364722.04$。\n\n---",
+      "chapter": "Ch4 4.5節：代換法",
+      "score": 10
+    },
+    {
+      "number": 41,
+      "text": "利用代換法求定積分 $\\int_0^1 2x(x^2+1)^23 dx$ 的精確值。",
+      "options": [],
+      "answer": "699050.62",
+      "type": "fill",
+      "solution": "令 $u = x^2+1 \\implies du=2x dx$。積分上限變為 2，下限變為 1。故為 $\\int_1^2 u^23 du = [\\frac{1}{24} u^24]_1^2 = \\frac{2^24 - 1}{24}$。當 $c=23 \\implies \\frac{2^24-1}{24} = 699050.62$。\n\n---",
+      "chapter": "Ch4 4.5節：代換法",
+      "score": 10
+    },
+    {
+      "number": 42,
+      "text": "利用代換法求定積分 $\\int_0^1 2x(x^2+1)^24 dx$ 的精確值。",
+      "options": [],
+      "answer": "1342177.24",
+      "type": "fill",
+      "solution": "令 $u = x^2+1 \\implies du=2x dx$。積分上限變為 2，下限變為 1。故為 $\\int_1^2 u^24 du = [\\frac{1}{25} u^25]_1^2 = \\frac{2^25 - 1}{25}$。當 $c=24 \\implies \\frac{2^25-1}{25} = 1342177.24$。\n\n---",
+      "chapter": "Ch4 4.5節：代換法",
+      "score": 10
+    },
+    {
+      "number": 43,
+      "text": "利用代換法求定積分 $\\int_0^1 2x(x^2+1)^25 dx$ 的精確值。",
+      "options": [],
+      "answer": "2581110.12",
+      "type": "fill",
+      "solution": "令 $u = x^2+1 \\implies du=2x dx$。積分上限變為 2，下限變為 1。故為 $\\int_1^2 u^25 du = [\\frac{1}{26} u^26]_1^2 = \\frac{2^26 - 1}{26}$。當 $c=25 \\implies \\frac{2^26-1}{26} = 2581110.12$。\n\n---",
+      "chapter": "Ch4 4.5節：代換法",
+      "score": 10
+    },
+    {
+      "number": 44,
+      "text": "利用代換法求定積分 $\\int_0^1 2x(x^2+1)^26 dx$ 的精確值。",
+      "options": [],
+      "answer": "4971026.93",
+      "type": "fill",
+      "solution": "令 $u = x^2+1 \\implies du=2x dx$。積分上限變為 2，下限變為 1。故為 $\\int_1^2 u^26 du = [\\frac{1}{27} u^27]_1^2 = \\frac{2^27 - 1}{27}$。當 $c=26 \\implies \\frac{2^27-1}{27} = 4971026.93$。\n\n---",
+      "chapter": "Ch4 4.5節：代換法",
+      "score": 10
+    },
+    {
+      "number": 45,
+      "text": "利用代換法求定積分 $\\int_0^1 2x(x^2+1)^27 dx$ 的精確值。",
+      "options": [],
+      "answer": "9586980.54",
+      "type": "fill",
+      "solution": "令 $u = x^2+1 \\implies du=2x dx$。積分上限變為 2，下限變為 1。故為 $\\int_1^2 u^27 du = [\\frac{1}{28} u^28]_1^2 = \\frac{2^28 - 1}{28}$。當 $c=27 \\implies \\frac{2^28-1}{28} = 9586980.54$。\n\n---",
+      "chapter": "Ch4 4.5節：代換法",
+      "score": 10
+    },
+    {
+      "number": 46,
+      "text": "利用代換法求定積分 $\\int_0^1 2x(x^2+1)^28 dx$ 的精確值。",
+      "options": [],
+      "answer": "18512790.03",
+      "type": "fill",
+      "solution": "令 $u = x^2+1 \\implies du=2x dx$。積分上限變為 2，下限變為 1。故為 $\\int_1^2 u^28 du = [\\frac{1}{29} u^29]_1^2 = \\frac{2^29 - 1}{29}$。當 $c=28 \\implies \\frac{2^29-1}{29} = 18512790.03$。\n\n---",
+      "chapter": "Ch4 4.5節：代換法",
+      "score": 10
+    },
+    {
+      "number": 47,
+      "text": "利用代換法求定積分 $\\int_0^1 2x(x^2+1)^29 dx$ 的精確值。",
+      "options": [],
+      "answer": "35791394.1",
+      "type": "fill",
+      "solution": "令 $u = x^2+1 \\implies du=2x dx$。積分上限變為 2，下限變為 1。故為 $\\int_1^2 u^29 du = [\\frac{1}{30} u^30]_1^2 = \\frac{2^30 - 1}{30}$。當 $c=29 \\implies \\frac{2^30-1}{30} = 35791394.1$。\n\n---",
+      "chapter": "Ch4 4.5節：代換法",
+      "score": 10
+    },
+    {
+      "number": 48,
+      "text": "利用代換法求定積分 $\\int_0^1 2x(x^2+1)^30 dx$ 的精確值。",
+      "options": [],
+      "answer": "69273666.03",
+      "type": "fill",
+      "solution": "令 $u = x^2+1 \\implies du=2x dx$。積分上限變為 2，下限變為 1。故為 $\\int_1^2 u^30 du = [\\frac{1}{31} u^31]_1^2 = \\frac{2^31 - 1}{31}$。當 $c=30 \\implies \\frac{2^31-1}{31} = 69273666.03$。\n\n---",
+      "chapter": "Ch4 4.5節：代換法",
+      "score": 10
+    },
+    {
+      "number": 49,
+      "text": "利用代換法求定積分 $\\int_0^1 2x(x^2+1)^31 dx$ 的精確值。",
+      "options": [],
+      "answer": "134217727.97",
+      "type": "fill",
+      "solution": "令 $u = x^2+1 \\implies du=2x dx$。積分上限變為 2，下限變為 1。故為 $\\int_1^2 u^31 du = [\\frac{1}{32} u^32]_1^2 = \\frac{2^32 - 1}{32}$。當 $c=31 \\implies \\frac{2^32-1}{32} = 134217727.97$。\n\n---",
+      "chapter": "Ch4 4.5節：代換法",
+      "score": 10
+    },
+    {
+      "number": 50,
+      "text": "利用代換法求定積分 $\\int_0^1 2x(x^2+1)^32 dx$ 的精確值。",
+      "options": [],
+      "answer": "260301048.21",
+      "type": "fill",
+      "solution": "令 $u = x^2+1 \\implies du=2x dx$。積分上限變為 2，下限變為 1。故為 $\\int_1^2 u^32 du = [\\frac{1}{33} u^33]_1^2 = \\frac{2^33 - 1}{33}$。當 $c=32 \\implies \\frac{2^33-1}{33} = 260301048.21$。",
       "chapter": "Ch4 4.5節：代換法",
       "score": 10
     }

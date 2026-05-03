@@ -11,18 +11,18 @@
 (C) $6$
 (D) $2$
 <!-- solution -->
-平均值 $f_{avg} = \frac{1}{5-1} \int_1^5 2x dx = \frac{1}{4} [\frac{2}{2}x^2]_1^5 = \frac{1}{4} \times \frac{2}{2}(25 - 1) = \frac{242}{8} = 6$。
+平均值 $f_{avg} = \frac{1}{4} \int_1^5 2x dx = 6$。
 
 ---
 
 [q:2, type:single, ans:B]
-求函數 $f(x) = 3x^2$ 在區間 $[0, 3]$ 的平均值（Average Value）。
+求函數 $f(x) = 3x^2$ 在區間 $[0, 3]$ 的平均值。
 (A) $27$
 (B) $9$
 (C) $3$
 (D) $\frac{3}{3}$
 <!-- solution -->
-平均值 $f_{avg} = \frac{1}{3-0} \int_0^3 3x^2 dx = \frac{1}{3} [\frac{3}{3}x^3]_0^3 = \frac{1}{3} \times \frac{3}{3} \times 27 = 9$。
+平均值 $f_{avg} = \frac{1}{3} \int_0^3 3x^2 dx = 9$。
 
 ---
 
@@ -33,18 +33,18 @@
 (C) $16$
 (D) $12$
 <!-- solution -->
-平均值 $f_{avg} = \frac{1}{5-1} \int_1^5 4x dx = \frac{1}{4} [\frac{4}{2}x^2]_1^5 = \frac{1}{4} \times \frac{4}{2}(25 - 1) = \frac{244}{8} = 12$。
+平均值 $f_{avg} = \frac{1}{4} \int_1^5 4x dx = 12$。
 
 ---
 
 [q:4, type:single, ans:A]
-求函數 $f(x) = 5x^2$ 在區間 $[0, 3]$ 的平均值（Average Value）。
+求函數 $f(x) = 5x^2$ 在區間 $[0, 3]$ 的平均值。
 (A) $15$
 (B) $45$
 (C) $5$
 (D) $\frac{5}{3}$
 <!-- solution -->
-平均值 $f_{avg} = \frac{1}{3-0} \int_0^3 5x^2 dx = \frac{1}{3} [\frac{5}{3}x^3]_0^3 = \frac{1}{3} \times \frac{5}{3} \times 27 = 15$。
+平均值 $f_{avg} = \frac{1}{3} \int_0^3 5x^2 dx = 15$。
 
 ---
 
@@ -55,18 +55,18 @@
 (C) $18$
 (D) $6$
 <!-- solution -->
-平均值 $f_{avg} = \frac{1}{5-1} \int_1^5 6x dx = \frac{1}{4} [\frac{6}{2}x^2]_1^5 = \frac{1}{4} \times \frac{6}{2}(25 - 1) = \frac{246}{8} = 18$。
+平均值 $f_{avg} = \frac{1}{4} \int_1^5 6x dx = 18$。
 
 ---
 
 [q:6, type:single, ans:B]
-求函數 $f(x) = 7x^2$ 在區間 $[0, 3]$ 的平均值（Average Value）。
+求函數 $f(x) = 7x^2$ 在區間 $[0, 3]$ 的平均值。
 (A) $63$
 (B) $21$
 (C) $7$
 (D) $\frac{7}{3}$
 <!-- solution -->
-平均值 $f_{avg} = \frac{1}{3-0} \int_0^3 7x^2 dx = \frac{1}{3} [\frac{7}{3}x^3]_0^3 = \frac{1}{3} \times \frac{7}{3} \times 27 = 21$。
+平均值 $f_{avg} = \frac{1}{3} \int_0^3 7x^2 dx = 21$。
 
 ---
 
@@ -77,18 +77,18 @@
 (C) $32$
 (D) $24$
 <!-- solution -->
-平均值 $f_{avg} = \frac{1}{5-1} \int_1^5 8x dx = \frac{1}{4} [\frac{8}{2}x^2]_1^5 = \frac{1}{4} \times \frac{8}{2}(25 - 1) = \frac{248}{8} = 24$。
+平均值 $f_{avg} = \frac{1}{4} \int_1^5 8x dx = 24$。
 
 ---
 
 [q:8, type:single, ans:A]
-求函數 $f(x) = 9x^2$ 在區間 $[0, 3]$ 的平均值（Average Value）。
+求函數 $f(x) = 9x^2$ 在區間 $[0, 3]$ 的平均值。
 (A) $27$
 (B) $81$
 (C) $9$
 (D) $\frac{9}{3}$
 <!-- solution -->
-平均值 $f_{avg} = \frac{1}{3-0} \int_0^3 9x^2 dx = \frac{1}{3} [\frac{9}{3}x^3]_0^3 = \frac{1}{3} \times \frac{9}{3} \times 27 = 27$。
+平均值 $f_{avg} = \frac{1}{3} \int_0^3 9x^2 dx = 27$。
 
 ---
 
@@ -99,18 +99,18 @@
 (C) $30$
 (D) $10$
 <!-- solution -->
-平均值 $f_{avg} = \frac{1}{5-1} \int_1^5 10x dx = \frac{1}{4} [\frac{10}{2}x^2]_1^5 = \frac{1}{4} \times \frac{10}{2}(25 - 1) = \frac{2410}{8} = 30$。
+平均值 $f_{avg} = \frac{1}{4} \int_1^5 10x dx = 30$。
 
 ---
 
 [q:10, type:single, ans:B]
-求函數 $f(x) = 11x^2$ 在區間 $[0, 3]$ 的平均值（Average Value）。
+求函數 $f(x) = 11x^2$ 在區間 $[0, 3]$ 的平均值。
 (A) $99$
 (B) $33$
 (C) $11$
 (D) $\frac{11}{3}$
 <!-- solution -->
-平均值 $f_{avg} = \frac{1}{3-0} \int_0^3 11x^2 dx = \frac{1}{3} [\frac{11}{3}x^3]_0^3 = \frac{1}{3} \times \frac{11}{3} \times 27 = 33$。
+平均值 $f_{avg} = \frac{1}{3} \int_0^3 11x^2 dx = 33$。
 
 ---
 
@@ -121,18 +121,18 @@
 (C) $48$
 (D) $36$
 <!-- solution -->
-平均值 $f_{avg} = \frac{1}{5-1} \int_1^5 12x dx = \frac{1}{4} [\frac{12}{2}x^2]_1^5 = \frac{1}{4} \times \frac{12}{2}(25 - 1) = \frac{2412}{8} = 36$。
+平均值 $f_{avg} = \frac{1}{4} \int_1^5 12x dx = 36$。
 
 ---
 
 [q:12, type:single, ans:A]
-求函數 $f(x) = 13x^2$ 在區間 $[0, 3]$ 的平均值（Average Value）。
+求函數 $f(x) = 13x^2$ 在區間 $[0, 3]$ 的平均值。
 (A) $39$
 (B) $117$
 (C) $13$
 (D) $\frac{13}{3}$
 <!-- solution -->
-平均值 $f_{avg} = \frac{1}{3-0} \int_0^3 13x^2 dx = \frac{1}{3} [\frac{13}{3}x^3]_0^3 = \frac{1}{3} \times \frac{13}{3} \times 27 = 39$。
+平均值 $f_{avg} = \frac{1}{3} \int_0^3 13x^2 dx = 39$。
 
 ---
 
@@ -143,18 +143,18 @@
 (C) $42$
 (D) $14$
 <!-- solution -->
-平均值 $f_{avg} = \frac{1}{5-1} \int_1^5 14x dx = \frac{1}{4} [\frac{14}{2}x^2]_1^5 = \frac{1}{4} \times \frac{14}{2}(25 - 1) = \frac{2414}{8} = 42$。
+平均值 $f_{avg} = \frac{1}{4} \int_1^5 14x dx = 42$。
 
 ---
 
 [q:14, type:single, ans:B]
-求函數 $f(x) = 15x^2$ 在區間 $[0, 3]$ 的平均值（Average Value）。
+求函數 $f(x) = 15x^2$ 在區間 $[0, 3]$ 的平均值。
 (A) $135$
 (B) $45$
 (C) $15$
 (D) $\frac{15}{3}$
 <!-- solution -->
-平均值 $f_{avg} = \frac{1}{3-0} \int_0^3 15x^2 dx = \frac{1}{3} [\frac{15}{3}x^3]_0^3 = \frac{1}{3} \times \frac{15}{3} \times 27 = 45$。
+平均值 $f_{avg} = \frac{1}{3} \int_0^3 15x^2 dx = 45$。
 
 ---
 
@@ -165,18 +165,18 @@
 (C) $64$
 (D) $48$
 <!-- solution -->
-平均值 $f_{avg} = \frac{1}{5-1} \int_1^5 16x dx = \frac{1}{4} [\frac{16}{2}x^2]_1^5 = \frac{1}{4} \times \frac{16}{2}(25 - 1) = \frac{2416}{8} = 48$。
+平均值 $f_{avg} = \frac{1}{4} \int_1^5 16x dx = 48$。
 
 ---
 
 [q:16, type:single, ans:A]
-求函數 $f(x) = 17x^2$ 在區間 $[0, 3]$ 的平均值（Average Value）。
+求函數 $f(x) = 17x^2$ 在區間 $[0, 3]$ 的平均值。
 (A) $51$
 (B) $153$
 (C) $17$
 (D) $\frac{17}{3}$
 <!-- solution -->
-平均值 $f_{avg} = \frac{1}{3-0} \int_0^3 17x^2 dx = \frac{1}{3} [\frac{17}{3}x^3]_0^3 = \frac{1}{3} \times \frac{17}{3} \times 27 = 51$。
+平均值 $f_{avg} = \frac{1}{3} \int_0^3 17x^2 dx = 51$。
 
 ---
 
@@ -187,18 +187,18 @@
 (C) $54$
 (D) $18$
 <!-- solution -->
-平均值 $f_{avg} = \frac{1}{5-1} \int_1^5 18x dx = \frac{1}{4} [\frac{18}{2}x^2]_1^5 = \frac{1}{4} \times \frac{18}{2}(25 - 1) = \frac{2418}{8} = 54$。
+平均值 $f_{avg} = \frac{1}{4} \int_1^5 18x dx = 54$。
 
 ---
 
 [q:18, type:single, ans:B]
-求函數 $f(x) = 19x^2$ 在區間 $[0, 3]$ 的平均值（Average Value）。
+求函數 $f(x) = 19x^2$ 在區間 $[0, 3]$ 的平均值。
 (A) $171$
 (B) $57$
 (C) $19$
 (D) $\frac{19}{3}$
 <!-- solution -->
-平均值 $f_{avg} = \frac{1}{3-0} \int_0^3 19x^2 dx = \frac{1}{3} [\frac{19}{3}x^3]_0^3 = \frac{1}{3} \times \frac{19}{3} \times 27 = 57$。
+平均值 $f_{avg} = \frac{1}{3} \int_0^3 19x^2 dx = 57$。
 
 ---
 
@@ -209,85 +209,265 @@
 (C) $80$
 (D) $60$
 <!-- solution -->
-平均值 $f_{avg} = \frac{1}{5-1} \int_1^5 20x dx = \frac{1}{4} [\frac{20}{2}x^2]_1^5 = \frac{1}{4} \times \frac{20}{2}(25 - 1) = \frac{2420}{8} = 60$。
+平均值 $f_{avg} = \frac{1}{4} \int_1^5 20x dx = 60$。
 
 ---
 
 [q:20, type:single, ans:A]
-求函數 $f(x) = 21x^2$ 在區間 $[0, 3]$ 的平均值（Average Value）。
+求函數 $f(x) = 21x^2$ 在區間 $[0, 3]$ 的平均值。
 (A) $63$
 (B) $189$
 (C) $21$
 (D) $\frac{21}{3}$
 <!-- solution -->
-平均值 $f_{avg} = \frac{1}{3-0} \int_0^3 21x^2 dx = \frac{1}{3} [\frac{21}{3}x^3]_0^3 = \frac{1}{3} \times \frac{21}{3} \times 27 = 63$。
+平均值 $f_{avg} = \frac{1}{3} \int_0^3 21x^2 dx = 63$。
 
 ---
 
-[q:21, type:fill, ans:9]
-求函數 $f(x) = 3x$ 在區間 $[0, 6]$ 的平均值之精確值。
+[q:21, type:single, ans:C]
+求函數 $f(x) = 22x$ 在區間 $[1, 5]$ 的平均值為何？
+(A) $88$
+(B) $44$
+(C) $66$
+(D) $22$
 <!-- solution -->
-平均值為 $\frac{1}{6-0} \int_0^6 3x dx = \frac{1}{6} [\frac{3}{2}x^2]_0^6 = \frac{1}{6} \times \frac{3}{2} \times 36 = 9$。
+平均值 $f_{avg} = \frac{1}{4} \int_1^5 22x dx = 66$。
 
 ---
 
-[q:22, type:fill, ans:12]
-求函數 $f(x) = 4x$ 在區間 $[0, 6]$ 的平均值之精確值。
+[q:22, type:single, ans:B]
+求函數 $f(x) = 23x^2$ 在區間 $[0, 3]$ 的平均值。
+(A) $207$
+(B) $69$
+(C) $23$
+(D) $\frac{23}{3}$
 <!-- solution -->
-平均值為 $\frac{1}{6-0} \int_0^6 4x dx = \frac{1}{6} [\frac{4}{2}x^2]_0^6 = \frac{1}{6} \times \frac{4}{2} \times 36 = 12$。
+平均值 $f_{avg} = \frac{1}{3} \int_0^3 23x^2 dx = 69$。
 
 ---
 
-[q:23, type:fill, ans:15]
-求函數 $f(x) = 5x$ 在區間 $[0, 6]$ 的平均值之精確值。
+[q:23, type:single, ans:D]
+求函數 $f(x) = 24x$ 在區間 $[1, 5]$ 的平均值為何？
+(A) $24$
+(B) $48$
+(C) $96$
+(D) $72$
 <!-- solution -->
-平均值為 $\frac{1}{6-0} \int_0^6 5x dx = \frac{1}{6} [\frac{5}{2}x^2]_0^6 = \frac{1}{6} \times \frac{5}{2} \times 36 = 15$。
+平均值 $f_{avg} = \frac{1}{4} \int_1^5 24x dx = 72$。
 
 ---
 
-[q:24, type:fill, ans:18]
-求函數 $f(x) = 6x$ 在區間 $[0, 6]$ 的平均值之精確值。
+[q:24, type:single, ans:A]
+求函數 $f(x) = 25x^2$ 在區間 $[0, 3]$ 的平均值。
+(A) $75$
+(B) $225$
+(C) $25$
+(D) $\frac{25}{3}$
 <!-- solution -->
-平均值為 $\frac{1}{6-0} \int_0^6 6x dx = \frac{1}{6} [\frac{6}{2}x^2]_0^6 = \frac{1}{6} \times \frac{6}{2} \times 36 = 18$。
+平均值 $f_{avg} = \frac{1}{3} \int_0^3 25x^2 dx = 75$。
 
 ---
 
-[q:25, type:fill, ans:21]
-求函數 $f(x) = 7x$ 在區間 $[0, 6]$ 的平均值之精確值。
+[q:25, type:single, ans:C]
+求函數 $f(x) = 26x$ 在區間 $[1, 5]$ 的平均值為何？
+(A) $104$
+(B) $52$
+(C) $78$
+(D) $26$
 <!-- solution -->
-平均值為 $\frac{1}{6-0} \int_0^6 7x dx = \frac{1}{6} [\frac{7}{2}x^2]_0^6 = \frac{1}{6} \times \frac{7}{2} \times 36 = 21$。
+平均值 $f_{avg} = \frac{1}{4} \int_1^5 26x dx = 78$。
 
 ---
 
-[q:26, type:fill, ans:24]
-求函數 $f(x) = 8x$ 在區間 $[0, 6]$ 的平均值之精確值。
+[q:26, type:single, ans:B]
+求函數 $f(x) = 27x^2$ 在區間 $[0, 3]$ 的平均值。
+(A) $243$
+(B) $81$
+(C) $27$
+(D) $\frac{27}{3}$
 <!-- solution -->
-平均值為 $\frac{1}{6-0} \int_0^6 8x dx = \frac{1}{6} [\frac{8}{2}x^2]_0^6 = \frac{1}{6} \times \frac{8}{2} \times 36 = 24$。
+平均值 $f_{avg} = \frac{1}{3} \int_0^3 27x^2 dx = 81$。
 
 ---
 
-[q:27, type:fill, ans:27]
-求函數 $f(x) = 9x$ 在區間 $[0, 6]$ 的平均值之精確值。
+[q:27, type:single, ans:D]
+求函數 $f(x) = 28x$ 在區間 $[1, 5]$ 的平均值為何？
+(A) $28$
+(B) $56$
+(C) $112$
+(D) $84$
 <!-- solution -->
-平均值為 $\frac{1}{6-0} \int_0^6 9x dx = \frac{1}{6} [\frac{9}{2}x^2]_0^6 = \frac{1}{6} \times \frac{9}{2} \times 36 = 27$。
+平均值 $f_{avg} = \frac{1}{4} \int_1^5 28x dx = 84$。
 
 ---
 
-[q:28, type:fill, ans:30]
-求函數 $f(x) = 10x$ 在區間 $[0, 6]$ 的平均值之精確值。
+[q:28, type:single, ans:A]
+求函數 $f(x) = 29x^2$ 在區間 $[0, 3]$ 的平均值。
+(A) $87$
+(B) $261$
+(C) $29$
+(D) $\frac{29}{3}$
 <!-- solution -->
-平均值為 $\frac{1}{6-0} \int_0^6 10x dx = \frac{1}{6} [\frac{10}{2}x^2]_0^6 = \frac{1}{6} \times \frac{10}{2} \times 36 = 30$。
+平均值 $f_{avg} = \frac{1}{3} \int_0^3 29x^2 dx = 87$。
 
 ---
 
-[q:29, type:fill, ans:33]
-求函數 $f(x) = 11x$ 在區間 $[0, 6]$ 的平均值之精確值。
+[q:29, type:single, ans:C]
+求函數 $f(x) = 30x$ 在區間 $[1, 5]$ 的平均值為何？
+(A) $120$
+(B) $60$
+(C) $90$
+(D) $30$
 <!-- solution -->
-平均值為 $\frac{1}{6-0} \int_0^6 11x dx = \frac{1}{6} [\frac{11}{2}x^2]_0^6 = \frac{1}{6} \times \frac{11}{2} \times 36 = 33$。
+平均值 $f_{avg} = \frac{1}{4} \int_1^5 30x dx = 90$。
 
 ---
 
-[q:30, type:fill, ans:36]
-求函數 $f(x) = 12x$ 在區間 $[0, 6]$ 的平均值之精確值。
+[q:30, type:single, ans:B]
+求函數 $f(x) = 31x^2$ 在區間 $[0, 3]$ 的平均值。
+(A) $279$
+(B) $93$
+(C) $31$
+(D) $\frac{31}{3}$
 <!-- solution -->
-平均值為 $\frac{1}{6-0} \int_0^6 12x dx = \frac{1}{6} [\frac{12}{2}x^2]_0^6 = \frac{1}{6} \times \frac{12}{2} \times 36 = 36$。
+平均值 $f_{avg} = \frac{1}{3} \int_0^3 31x^2 dx = 93$。
+
+---
+
+[q:31, type:fill, ans:39]
+求函數 $f(x) = 13x$ 在區間 $[0, 6]$ 的平均值之精確值。
+<!-- solution -->
+平均值為 $\frac{1}{6} \int_0^6 13x dx = 39$。
+
+---
+
+[q:32, type:fill, ans:42]
+求函數 $f(x) = 14x$ 在區間 $[0, 6]$ 的平均值之精確值。
+<!-- solution -->
+平均值為 $\frac{1}{6} \int_0^6 14x dx = 42$。
+
+---
+
+[q:33, type:fill, ans:45]
+求函數 $f(x) = 15x$ 在區間 $[0, 6]$ 的平均值之精確值。
+<!-- solution -->
+平均值為 $\frac{1}{6} \int_0^6 15x dx = 45$。
+
+---
+
+[q:34, type:fill, ans:48]
+求函數 $f(x) = 16x$ 在區間 $[0, 6]$ 的平均值之精確值。
+<!-- solution -->
+平均值為 $\frac{1}{6} \int_0^6 16x dx = 48$。
+
+---
+
+[q:35, type:fill, ans:51]
+求函數 $f(x) = 17x$ 在區間 $[0, 6]$ 的平均值之精確值。
+<!-- solution -->
+平均值為 $\frac{1}{6} \int_0^6 17x dx = 51$。
+
+---
+
+[q:36, type:fill, ans:54]
+求函數 $f(x) = 18x$ 在區間 $[0, 6]$ 的平均值之精確值。
+<!-- solution -->
+平均值為 $\frac{1}{6} \int_0^6 18x dx = 54$。
+
+---
+
+[q:37, type:fill, ans:57]
+求函數 $f(x) = 19x$ 在區間 $[0, 6]$ 的平均值之精確值。
+<!-- solution -->
+平均值為 $\frac{1}{6} \int_0^6 19x dx = 57$。
+
+---
+
+[q:38, type:fill, ans:60]
+求函數 $f(x) = 20x$ 在區間 $[0, 6]$ 的平均值之精確值。
+<!-- solution -->
+平均值為 $\frac{1}{6} \int_0^6 20x dx = 60$。
+
+---
+
+[q:39, type:fill, ans:63]
+求函數 $f(x) = 21x$ 在區間 $[0, 6]$ 的平均值之精確值。
+<!-- solution -->
+平均值為 $\frac{1}{6} \int_0^6 21x dx = 63$。
+
+---
+
+[q:40, type:fill, ans:66]
+求函數 $f(x) = 22x$ 在區間 $[0, 6]$ 的平均值之精確值。
+<!-- solution -->
+平均值為 $\frac{1}{6} \int_0^6 22x dx = 66$。
+
+---
+
+[q:41, type:fill, ans:69]
+求函數 $f(x) = 23x$ 在區間 $[0, 6]$ 的平均值之精確值。
+<!-- solution -->
+平均值為 $\frac{1}{6} \int_0^6 23x dx = 69$。
+
+---
+
+[q:42, type:fill, ans:72]
+求函數 $f(x) = 24x$ 在區間 $[0, 6]$ 的平均值之精確值。
+<!-- solution -->
+平均值為 $\frac{1}{6} \int_0^6 24x dx = 72$。
+
+---
+
+[q:43, type:fill, ans:75]
+求函數 $f(x) = 25x$ 在區間 $[0, 6]$ 的平均值之精確值。
+<!-- solution -->
+平均值為 $\frac{1}{6} \int_0^6 25x dx = 75$。
+
+---
+
+[q:44, type:fill, ans:78]
+求函數 $f(x) = 26x$ 在區間 $[0, 6]$ 的平均值之精確值。
+<!-- solution -->
+平均值為 $\frac{1}{6} \int_0^6 26x dx = 78$。
+
+---
+
+[q:45, type:fill, ans:81]
+求函數 $f(x) = 27x$ 在區間 $[0, 6]$ 的平均值之精確值。
+<!-- solution -->
+平均值為 $\frac{1}{6} \int_0^6 27x dx = 81$。
+
+---
+
+[q:46, type:fill, ans:84]
+求函數 $f(x) = 28x$ 在區間 $[0, 6]$ 的平均值之精確值。
+<!-- solution -->
+平均值為 $\frac{1}{6} \int_0^6 28x dx = 84$。
+
+---
+
+[q:47, type:fill, ans:87]
+求函數 $f(x) = 29x$ 在區間 $[0, 6]$ 的平均值之精確值。
+<!-- solution -->
+平均值為 $\frac{1}{6} \int_0^6 29x dx = 87$。
+
+---
+
+[q:48, type:fill, ans:90]
+求函數 $f(x) = 30x$ 在區間 $[0, 6]$ 的平均值之精確值。
+<!-- solution -->
+平均值為 $\frac{1}{6} \int_0^6 30x dx = 90$。
+
+---
+
+[q:49, type:fill, ans:93]
+求函數 $f(x) = 31x$ 在區間 $[0, 6]$ 的平均值之精確值。
+<!-- solution -->
+平均值為 $\frac{1}{6} \int_0^6 31x dx = 93$。
+
+---
+
+[q:50, type:fill, ans:96]
+求函數 $f(x) = 32x$ 在區間 $[0, 6]$ 的平均值之精確值。
+<!-- solution -->
+平均值為 $\frac{1}{6} \int_0^6 32x dx = 96$。
