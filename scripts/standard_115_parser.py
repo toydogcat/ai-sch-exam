@@ -129,6 +129,7 @@ def extract_options_and_clean(text):
 def truncate_tail_at_next_passage(text):
     patterns = [
         r'(?:\r?\n){1,}\s*-{3,}',
+        r'(?:\r?\n){1,}\s*##\s+',
         r'(?:\r?\n){1,}\s*##\s*.*?題組',
         r'(?:\r?\n){1,}\s*\*\*題組：.*?\*\*',
         r'(?:\r?\n){1,}\s*\*\*題組.*?\*\*'

@@ -438,16 +438,14 @@
     },
     {
       "number": 28,
-      "text": "<br><img src=\"/images/ceec/115/學測/自然/page_10_img_1.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n<br><img src=\"/images/ceec/115/學測/自然/page_10_img_2.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n<br><img src=\"/images/ceec/115/學測/自然/page_10_img_3.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n<br><img src=\"/images/ceec/115/學測/自然/page_10_img_4.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n<br><img src=\"/images/ceec/115/學測/自然/page_10_img_5.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n為了探討有絲分裂的現象，學生們觀察洋蔥根尖的切片。他們將已進入細胞分裂階段的細胞歸納如選項",
+      "text": "為了探討有絲分裂的現象，學生們觀察洋蔥根尖的切片。他們將已進入細胞分裂階段的細胞歸納如選項（A）～（E）所示之五個典型的樣態，並以此五個樣態依序代表細胞分裂階段中的五個進程。依推論，下列哪一進程最早形成 2 倍量的 DNA？",
       "passage": "",
       "options": [
-        "",
-        "所示之五個典型的樣態，並以此五個樣態依序代表細胞分裂階段中的五個進程。依推論，下列哪一進程最早形成 2 倍量的 DNA？",
-        "A",
-        "B",
-        "C",
-        "D",
-        "E"
+        "<br><img src=\"/images/ceec/115/學測/自然/page_10_img_1.webp\" style=\"max-width: 120px; display:inline-block; margin-top:5px;\"><br>",
+        "<br><img src=\"/images/ceec/115/學測/自然/page_10_img_2.webp\" style=\"max-width: 120px; display:inline-block; margin-top:5px;\"><br>",
+        "<br><img src=\"/images/ceec/115/學測/自然/page_10_img_3.webp\" style=\"max-width: 120px; display:inline-block; margin-top:5px;\"><br>",
+        "<br><img src=\"/images/ceec/115/學測/自然/page_10_img_4.webp\" style=\"max-width: 120px; display:inline-block; margin-top:5px;\"><br>",
+        "<br><img src=\"/images/ceec/115/學測/自然/page_10_img_5.webp\" style=\"max-width: 120px; display:inline-block; margin-top:5px;\"><br>"
       ],
       "answer": "A",
       "type": "single",
@@ -536,7 +534,7 @@
     },
     {
       "number": 34,
-      "text": "<br><img src=\"/images/ceec/115/學測/自然/page_11_img_2.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n古生物學家舍科斯基（ Sepkoski）教授將海洋生物化化石多樣性歸納為三個動物相。以科為單位，他列舉了地球生命史上的五次大滅絕，如圖 11 之數字 1～5 所示。依其歸納及後來的科學發展，下列敘述何者正確？",
+      "text": "<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/自然/page_11_img_2.webp\" style=\"max-width: 600px;\" alt=\"圖11\"></div><br>\n古生物學家舍科斯基（ Sepkoski）教授將海洋生物化化石多樣性歸納為三個動物相。以科為單位，他列舉了地球生命史上的五次大滅絕，如圖 11 之數字 1～5 所示。依其歸納及後來的科學發展，下列敘述何者正確？",
       "passage": "",
       "options": [
         "寒武紀大爆發之後，奧陶紀加速形成了古生動物相",
@@ -569,14 +567,14 @@
     },
     {
       "number": 36,
-      "text": "分子生物學發達前，圖 12 表示現生四足類合理的親緣關係之一。科學家在侏羅紀的地層發現一塊恐龍之長骨，並從骨腔中採樣。假設此採樣可獲得約 200 個鹼基對的 DNA 序列，若將此序列與現生生物之序列比對並推論之，則該恐龍最可能插入圖中的哪一分支，形成新的節點？",
+      "text": "<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/自然/q36_fig12.webp\" style=\"max-width: 400px;\" alt=\"圖12\"></div><br>\n分子生物學發達前，圖 12 表示現生四足類合理的親緣關係之一。科學家在侏羅紀的地層發現一塊恐龍之長骨，並從骨腔中採樣。假設此採樣可獲得約 200 個鹼基對的 DNA 序列，若將此序列與現生生物之序列比對並推論之，則該恐龍最可能插入圖中的哪一分支，形成新的節點？",
       "passage": "",
       "options": [
         "①",
         "②",
         "③",
         "④",
-        "⑤\n\n## 第貳部分、混合題或非選擇題"
+        "⑤"
       ],
       "answer": "A",
       "type": "single",
@@ -584,14 +582,14 @@
     },
     {
       "number": 37,
-      "text": "關於 _Dmrt1_ 與 _Kdm6b_ 兩基因的敘述或推論，下列哪些正確？（應選 3 項）",
-      "passage": "## 第貳部分、混合題或非選擇題\n\n**題組：37-39 題**\n巴西龜（ _Trachemys scripta_ ）的性別是由受精卵孵化時的環境溫度所決定。將卵置於 26 ℃，性別決定基因 _Dmrt1_ 會表現出來，胚胎發育為雄性。將卵置於 32 ℃， _Dmrt1_ 基因不會表現，胚胎發育為雌性。 \n\n進一步的研究發現， _Kdm6b_ 基因會影響 _Dmrt1_ 基因的表現與否，即 Kdm6b 蛋白質的量相對較高時，會促進 _Dmrt1_ 基因表現 RNA ，進而產生更多的 Dmrt1 蛋白質。在 26 ℃時， Kdm6b 蛋白質的表現量相對較高，於是活化 _Dmrt1_ 基因。在 32 ℃時， Kdm6b 蛋白質的表現量相對低，使得 _Dmrt1_ 基因幾乎不表現。",
+      "text": "關於 <i>Dmrt1</i> 與 <i>Kdm6b</i> 兩基因的敘述或推論，下列哪些正確？（應選 3 項）",
+      "passage": "## 第貳部分、混合題或非選擇題\n\n**題組：37-39 題**\n巴西龜（ <i>Trachemys scripta</i> ）的性別是由受精卵孵化時的環境溫度所決定。將卵置於 26 ℃，性別決定基因 <i>Dmrt1</i> 會表現出來，胚胎發育為雄性。將卵置於 32 ℃， <i>Dmrt1</i> 基因不會表現，胚胎發育為雌性。 \n\n進一步的研究發現， <i>Kdm6b</i> 基因會影響 <i>Dmrt1</i> 基因的表現與否，即 Kdm6b 蛋白質的量相對較高時，會促進 <i>Dmrt1</i> 基因表現 RNA ，進而產生更多的 Dmrt1 蛋白質。在 26 ℃時， Kdm6b 蛋白質的表現量相對較高，於是活化 <i>Dmrt1</i> 基因。在 32 ℃時， Kdm6b 蛋白質的表現量相對低，使得 <i>Dmrt1</i> 基因幾乎不表現。",
       "options": [
-        "_Dmrt1_ 基因存在於雄性巴西龜，雌性則沒有",
+        "<i>Dmrt1</i> 基因存在於雄性巴西龜，雌性則沒有",
         "Dmrt1 蛋白質可能會促進雄性性器官的發育",
-        "_Dmrt1_ 基因在細胞核中進行轉錄， _Kdm6b_ 基因在細胞質中進行轉錄",
-        "_Kdm6b_ 基因與 _Dmrt1_ 基因轉錄後，都在細胞質中進行轉譯",
-        "Kdm6b 蛋白質會在細胞核中幫助 _Dmrt1_ 基因的轉錄"
+        "<i>Dmrt1</i> 基因在細胞核中進行轉錄， <i>Kdm6b</i> 基因在細胞質中進行轉錄",
+        "<i>Kdm6b</i> 基因與 <i>Dmrt1</i> 基因轉錄後，都在細胞質中進行轉譯",
+        "Kdm6b 蛋白質會在細胞核中幫助 <i>Dmrt1</i> 基因的轉錄"
       ],
       "answer": [
         "B",
@@ -603,8 +601,8 @@
     },
     {
       "number": 38,
-      "text": "<br><img src=\"/images/ceec/115/學測/自然/page_13_img_1.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n將文本的研究發現歸納總結，可用示意圖 13 表示。\n(a) 因此，可推論在 26 ℃孵化的巴西龜受精卵，若在適當時間點對其胚胎注射抑制 _Kdm6b_ 基因表現的藥物，則此幼龜的性別為何？\n(b) 承（a）題，相較於未經藥物處理 of the 26 ℃孵化胚胎，此胚胎中 _Dmrt1_ 基因及 _Kdm6b_ 基因的表現量變化為何（20字以內）？",
-      "passage": "## 第貳部分、混合題或非選擇題\n\n**題組：37-39 題**\n巴西龜（ _Trachemys scripta_ ）的性別是由受精卵孵化時的環境溫度所決定。將卵置於 26 ℃，性別決定基因 _Dmrt1_ 會表現出來，胚胎發育為雄性。將卵置於 32 ℃， _Dmrt1_ 基因不會表現，胚胎發育為雌性。 \n\n進一步的研究發現， _Kdm6b_ 基因會影響 _Dmrt1_ 基因的表現與否，即 Kdm6b 蛋白質的量相對較高時，會促進 _Dmrt1_ 基因表現 RNA ，進而產生更多的 Dmrt1 蛋白質。在 26 ℃時， Kdm6b 蛋白質的表現量相對較高，於是活化 _Dmrt1_ 基因。在 32 ℃時， Kdm6b 蛋白質的表現量相對低，使得 _Dmrt1_ 基因幾乎不表現。",
+      "text": "將文本的研究發現歸納總結，可用示意圖 13 表示。\n<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/自然/page_13_img_1.webp\" style=\"max-width: 500px;\" alt=\"圖13\"></div><br>\n(a) 因此，可推論在 26 ℃孵化的巴西龜受精卵，若在適當時間點對其胚胎注射抑制 <i>Kdm6b</i> 基因表現的藥物，則此幼龜的性別為何？（2分）<br>\n(b) 承（a）題，相較於未經藥物處理的 26 ℃孵化胚胎，此胚胎中 <i>Dmrt1</i> 基因及 <i>Kdm6b</i> 基因的表現量變化為何（20字以內）？（2分）",
+      "passage": "## 第貳部分、混合題或非選擇題\n\n**題組：37-39 題**\n巴西龜（ <i>Trachemys scripta</i> ）的性別是由受精卵孵化時的環境溫度所決定。將卵置於 26 ℃，性別決定基因 <i>Dmrt1</i> 會表現出來，胚胎發育為雄性。將卵置於 32 ℃， <i>Dmrt1</i> 基因不會表現，胚胎發育為雌性。 \n\n進一步的研究發現， <i>Kdm6b</i> 基因會影響 <i>Dmrt1</i> 基因的表現與否，即 Kdm6b 蛋白質的量相對較高時，會促進 <i>Dmrt1</i> 基因表現 RNA ，進而產生更多的 Dmrt1 蛋白質。在 26 ℃時， Kdm6b 蛋白質的表現量相對較高，於是活化 <i>Dmrt1</i> 基因。在 32 ℃時， Kdm6b 蛋白質的表現量相對低，使得 <i>Dmrt1</i> 基因幾乎不表現。",
       "options": [],
       "answer": "",
       "type": "essay",
@@ -612,14 +610,14 @@
     },
     {
       "number": 39,
-      "text": "<br><img src=\"/images/ceec/115/學測/自然/page_13_img_11.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n今以巴西龜的 _Dmrt1_ 基因對青蛙、大鼠、蛇、蜥蜴、鱷魚及鳥的同源 DNA 做親緣分析，得圖 14，則下列圖示哪些合理？（應選 2 項）",
-      "passage": "## 第貳部分、混合題或非選擇題\n\n**題組：37-39 題**\n巴西龜（ _Trachemys scripta_ ）的性別是由受精卵孵化時的環境溫度所決定。將卵置於 26 ℃，性別決定基因 _Dmrt1_ 會表現出來，胚胎發育為雄性。將卵置於 32 ℃， _Dmrt1_ 基因不會表現，胚胎發育為雌性。 \n\n進一步的研究發現， _Kdm6b_ 基因會影響 _Dmrt1_ 基因的表現與否，即 Kdm6b 蛋白質的量相對較高時，會促進 _Dmrt1_ 基因表現 RNA ，進而產生更多的 Dmrt1 蛋白質。在 26 ℃時， Kdm6b 蛋白質的表現量相對較高，於是活化 _Dmrt1_ 基因。在 32 ℃時， Kdm6b 蛋白質的表現量相對低，使得 _Dmrt1_ 基因幾乎不表現。",
+      "text": "<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/自然/page_13_img_11.webp\" style=\"max-width: 400px;\" alt=\"圖14\"></div><br>\n今以巴西龜的 <i>Dmrt1</i> 基因對青蛙、大鼠、蛇、蜥蜴、鱷魚及鳥的同源 DNA 做親緣分析，得圖 14，則下列圖示哪些合理？（應選 2 項）",
+      "passage": "## 第貳部分、混合題或非選擇題\n\n**題組：37-39 題**\n巴西龜（ <i>Trachemys scripta</i> ）的性別是由受精卵孵化時的環境溫度所決定。將卵置於 26 ℃，性別決定基因 <i>Dmrt1</i> 會表現出來，胚胎發育為雄性。將卵置於 32 ℃， <i>Dmrt1</i> 基因不會表現，胚胎發育為雌性。 \n\n進一步的研究發現， <i>Kdm6b</i> 基因會影響 <i>Dmrt1</i> 基因的表現與否，即 Kdm6b 蛋白質的量相對較高時，會促進 <i>Dmrt1</i> 基因表現 RNA ，進而產生更多的 Dmrt1 蛋白質。在 26 ℃時， Kdm6b 蛋白質的表現量相對較高，於是活化 <i>Dmrt1</i> 基因。在 32 ℃時， Kdm6b 蛋白質的表現量相對低，使得 <i>Dmrt1</i> 基因幾乎不表現。",
       "options": [
-        "A",
-        "B",
-        "C",
-        "D",
-        "E"
+        "<br><img src=\"/images/ceec/115/學測/自然/q39_a.webp\" style=\"max-height: 120px; display:inline-block; margin-top:5px;\"><br>",
+        "<br><img src=\"/images/ceec/115/學測/自然/q39_b.webp\" style=\"max-height: 120px; display:inline-block; margin-top:5px;\"><br>",
+        "<br><img src=\"/images/ceec/115/學測/自然/q39_c.webp\" style=\"max-height: 120px; display:inline-block; margin-top:5px;\"><br>",
+        "<br><img src=\"/images/ceec/115/學測/自然/q39_d.webp\" style=\"max-height: 120px; display:inline-block; margin-top:5px;\"><br>",
+        "<br><img src=\"/images/ceec/115/學測/自然/q39_e.webp\" style=\"max-height: 120px; display:inline-block; margin-top:5px;\"><br>"
       ],
       "answer": [
         "A",
