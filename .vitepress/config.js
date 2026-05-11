@@ -21,6 +21,7 @@ export default defineConfig({
   markdown: {
     math: true
   },
+  srcExclude: ['**/calculus_bank/**'],
   themeConfig: {
     nav: [
       { text: '首頁', link: '/' },
