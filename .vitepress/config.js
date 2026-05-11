@@ -5,7 +5,7 @@ export default defineConfig({
   title: "AI 教育測驗系統",
   description: "會考 / 學測 / 分科測驗 線上模擬測驗系統",
   head: [
-    ['script', { async: true, src: 'https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js' }],
+    ['script', { async: '', src: 'https://www.vercount.one/js', crossorigin: 'anonymous' }],
     ['script', {}, `
       window.MathJax = {
         tex: {
@@ -49,7 +49,7 @@ export default defineConfig({
       }
     ],
     footer: {
-      message: '總訪問量 <span id="busuanzi_value_site_pv"></span> 次 | 訪客數 <span id="busuanzi_value_site_uv"></span> 人',
+      message: 'Released under the MIT License. | <span id="busuanzi_container_site_pv" style="display:none">👁️ 總瀏覽量 <span id="busuanzi_value_site_pv"></span> 次</span> | <span id="busuanzi_container_site_uv" style="display:none">👤 訪客數 <span id="busuanzi_value_site_uv"></span> 人</span>',
       copyright: 'Copyright © 2026-present AI School Exam Team'
     }
   }

@@ -34,7 +34,7 @@
     },
     {
       "number": 3,
-      "text": "3. <br><img src=\"images/ceec/115/數A/數A.pdf10.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n設 $f(x)=a^x$，其中 $a$ 為正實數。\n已知 $c_1,c_2,c_3$ 是公差為 $\\frac{10}{3}$ 的等差數列，且 $f(c_1),f(c_2),f(c_3)$ 是公比為 4 的等比數列。\n則等比數列 $f(10),f(8),f(6)$ 的公比為何？\n(1) $2^{\\frac{-6}{5}}$\n(2) $2^{\\frac{-3}{5}}$\n(3) $2^{\\frac{3}{5}}$\n(4) $2^{\\frac{6}{5}}$\n(5) $2^{\\frac{5}{3}}$",
+      "text": "3. <br><img src=\"/images/ceec/115/學測/數A/數A.pdf-0002-10.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n設 $f(x)=a^x$，其中 $a$ 為正實數。\n已知 $c_1,c_2,c_3$ 是公差為 $\\frac{10}{3}$ 的等差數列，且 $f(c_1),f(c_2),f(c_3)$ 是公比為 4 的等比數列。\n則等比數列 $f(10),f(8),f(6)$ 的公比為何？\n(1) $2^{\\frac{-6}{5}}$\n(2) $2^{\\frac{-3}{5}}$\n(3) $2^{\\frac{3}{5}}$\n(4) $2^{\\frac{6}{5}}$\n(5) $2^{\\frac{5}{3}}$",
       "passage": "",
       "options": [
         "(1)",
@@ -65,7 +65,7 @@
     },
     {
       "number": 5,
-      "text": "5. <br><img src=\"images/ceec/115/數A/數A.pdf01.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n已知實數三階方陣 $A$ 滿足 $A\\begin{bmatrix}1\\\\ 1\\\\ 0\\end{bmatrix}=\\begin{bmatrix}0\\\\ -1\\\\ 1\\end{bmatrix}$、$A\\begin{bmatrix}0\\\\ -1\\\\ 1\\end{bmatrix}=\\begin{bmatrix}1\\\\ 1\\\\ 0\\end{bmatrix}$、$A\\begin{bmatrix}1\\\\ 0\\\\ -1\\end{bmatrix}=\\begin{bmatrix}0\\\\ 0\\\\ 0\\end{bmatrix}$。\n試問有多少個行向量 $\\vec{v}=\\begin{bmatrix}v_1\\\\ v_2\\\\ v_3\\end{bmatrix}$ 滿足 $A\\vec{v}=\\begin{bmatrix}1\\\\ 0\\\\ 1\\end{bmatrix}$ 且 $\\vec{v}$ 垂直於行向量 $\\begin{bmatrix}0\\\\ 1\\\\ 0\\end{bmatrix}$？\n(1) 1 個\n(2) 2 個\n(3) 3 個\n(4) 0 個\n(5) 無窮多個",
+      "text": "5. <br><img src=\"/images/ceec/115/學測/數A/數A.pdf-0003-01.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n已知實數三階方陣 $A$ 滿足 $A\\begin{bmatrix}1\\\\ 1\\\\ 0\\end{bmatrix}=\\begin{bmatrix}0\\\\ -1\\\\ 1\\end{bmatrix}$、$A\\begin{bmatrix}0\\\\ -1\\\\ 1\\end{bmatrix}=\\begin{bmatrix}1\\\\ 1\\\\ 0\\end{bmatrix}$、$A\\begin{bmatrix}1\\\\ 0\\\\ -1\\end{bmatrix}=\\begin{bmatrix}0\\\\ 0\\\\ 0\\end{bmatrix}$。\n試問有多少個行向量 $\\vec{v}=\\begin{bmatrix}v_1\\\\ v_2\\\\ v_3\\end{bmatrix}$ 滿足 $A\\vec{v}=\\begin{bmatrix}1\\\\ 0\\\\ 1\\end{bmatrix}$ 且 $\\vec{v}$ 垂直於行向量 $\\begin{bmatrix}0\\\\ 1\\\\ 0\\end{bmatrix}$？\n(1) 1 個\n(2) 2 個\n(3) 3 個\n(4) 0 個\n(5) 無窮多個",
       "passage": "",
       "options": [
         "(1)",
@@ -80,7 +80,7 @@
     },
     {
       "number": 6,
-      "text": "6. <br><img src=\"images/ceec/115/數A/數A.pdf03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n坐標平面上有 $A(2,-2), B(-1,2)$ 兩點，試問直線 $y=-6$ 上有多少個點 $C$ 使得 $\\Delta ABC$ 為等腰三角形？\n(1) 1\n(2) 2\n(3) 3\n(4) 4\n(5) 5",
+      "text": "6. <br><img src=\"/images/ceec/115/學測/數A/數A.pdf-0003-03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n坐標平面上有 $A(2,-2), B(-1,2)$ 兩點，試問直線 $y=-6$ 上有多少個點 $C$ 使得 $\\Delta ABC$ 為等腰三角形？\n(1) 1\n(2) 2\n(3) 3\n(4) 4\n(5) 5",
       "passage": "",
       "options": [
         "(1)",
@@ -95,7 +95,7 @@
     },
     {
       "number": 7,
-      "text": "7. <br><img src=\"images/ceec/115/數A/數A.pdf04.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n<br><img src=\"images/ceec/115/數A/數A.pdf05.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n坐標平面上同時滿足 $\\begin{cases}2x-y-3>0\\\\ x+2y+1<0\\end{cases}$ 的點 $P(x,y)$ 可能位在下列哪些選項？\n(1) 第一象限\n(2) 第二象限\n(3) 第三象限\n(4) 第四象限\n(5) $x$ 軸",
+      "text": "7. <br><img src=\"/images/ceec/115/學測/數A/數A.pdf-0003-04.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n<br><img src=\"/images/ceec/115/學測/數A/數A.pdf-0003-05.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n坐標平面上同時滿足 $\\begin{cases}2x-y-3>0\\\\ x+2y+1<0\\end{cases}$ 的點 $P(x,y)$ 可能位在下列哪些選項？\n(1) 第一象限\n(2) 第二象限\n(3) 第三象限\n(4) 第四象限\n(5) $x$ 軸",
       "passage": "",
       "options": [
         "(1)",
@@ -150,7 +150,7 @@
     },
     {
       "number": 10,
-      "text": "10. <br><img src=\"images/ceec/115/數A/數A.pdf12.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n<br><img src=\"images/ceec/115/數A/數A.pdf13.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n已知四邊形 $ABCD$ 中，$AB$ 平行 $DC$，$AC$ 與 $BD$ 交於 $E$。若 $\\vec{AB}=(2,-6)$, $\\vec{AD}=(1,5)$ 且 $\\Delta ABE$ 面積為 3。試選出正確的選項。\n(1) $\\cos\\angle BAD=\\frac{-7\\sqrt{65}}{65}$\n(2) $\\Delta ABD$ 面積為 9\n(3) $\\vec{AE}=(\\frac{3}{2},\\frac{1}{2})$\n(4) 四邊形 $ABCD$ 面積為 $\\frac{65}{3}$\n(5) $\\overline{BC}<\\frac{8}{3}$",
+      "text": "10. <br><img src=\"/images/ceec/115/學測/數A/數A.pdf-0004-12.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n<br><img src=\"/images/ceec/115/學測/數A/數A.pdf-0004-13.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n已知四邊形 $ABCD$ 中，$AB$ 平行 $DC$，$AC$ 與 $BD$ 交於 $E$。若 $\\vec{AB}=(2,-6)$, $\\vec{AD}=(1,5)$ 且 $\\Delta ABE$ 面積為 3。試選出正確的選項。\n(1) $\\cos\\angle BAD=\\frac{-7\\sqrt{65}}{65}$\n(2) $\\Delta ABD$ 面積為 9\n(3) $\\vec{AE}=(\\frac{3}{2},\\frac{1}{2})$\n(4) 四邊形 $ABCD$ 面積為 $\\frac{65}{3}$\n(5) $\\overline{BC}<\\frac{8}{3}$",
       "passage": "",
       "options": [
         "(1)",
@@ -168,7 +168,7 @@
     },
     {
       "number": 11,
-      "text": "11. <br><img src=\"images/ceec/115/數A/數A.pdf03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n<br><img src=\"images/ceec/115/數A/數A.pdf04.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n<br><img src=\"images/ceec/115/數A/數A.pdf05.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n令 $\\Gamma$ 為坐標平面上 $y=\\cos(\\frac{\\pi}{2}x)$ 的圖形。對任一實數 $m \\ne 0$，以 $L_m$ 表示直線 $y=mx+1$。試選出正確的選項。\n(1) $m>0$ 時，$L_m$ 和 $\\Gamma$ 交點的 $x$ 坐標皆為負\n(2) 若 $(a,b)$ 為 $L_m$ 和 $\\Gamma$ 的交點，則 $(-a,b)$ 為 $L_{-m}$ 和 $\\Gamma$ 的交點\n(3) 可以找到一實數 $m \\ne 0$ 使得 $L_m$ 和 $\\Gamma$ 交於點 $(\\frac{20}{3},\\frac{1}{2})$\n(4) 若 $L_m$ 與 $\\Gamma$ 有一交點在直線 $y=-1$ 上，則 $\\frac{1}{m}$ 是奇數\n(5) 若 $L_m$ 與 $\\Gamma$ 有一交點在 $x$ 軸上，則 $L_m$ 與 $\\Gamma$ 有偶數個交點",
+      "text": "11. <br><img src=\"/images/ceec/115/學測/數A/數A.pdf-0005-03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n<br><img src=\"/images/ceec/115/學測/數A/數A.pdf-0005-04.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n<br><img src=\"/images/ceec/115/學測/數A/數A.pdf-0005-05.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n令 $\\Gamma$ 為坐標平面上 $y=\\cos(\\frac{\\pi}{2}x)$ 的圖形。對任一實數 $m \\ne 0$，以 $L_m$ 表示直線 $y=mx+1$。試選出正確的選項。\n(1) $m>0$ 時，$L_m$ 和 $\\Gamma$ 交點的 $x$ 坐標皆為負\n(2) 若 $(a,b)$ 為 $L_m$ 和 $\\Gamma$ 的交點，則 $(-a,b)$ 為 $L_{-m}$ 和 $\\Gamma$ 的交點\n(3) 可以找到一實數 $m \\ne 0$ 使得 $L_m$ 和 $\\Gamma$ 交於點 $(\\frac{20}{3},\\frac{1}{2})$\n(4) 若 $L_m$ 與 $\\Gamma$ 有一交點在直線 $y=-1$ 上，則 $\\frac{1}{m}$ 是奇數\n(5) 若 $L_m$ 與 $\\Gamma$ 有一交點在 $x$ 軸上，則 $L_m$ 與 $\\Gamma$ 有偶數個交點",
       "passage": "",
       "options": [
         "(1)",
@@ -213,7 +213,7 @@
     },
     {
       "number": 14,
-      "text": "14. <br><img src=\"images/ceec/115/數A/數A.pdf03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n<br><img src=\"images/ceec/115/數A/數A.pdf06.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n坐標平面上，向量 $(a,b)$ 與直線 $y=bx-1$ 垂直，則 $a+b$ 的最大可能值為 ____。（化為最簡分數）",
+      "text": "14. <br><img src=\"/images/ceec/115/學測/數A/數A.pdf-0006-03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n<br><img src=\"/images/ceec/115/學測/數A/數A.pdf-0006-06.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n坐標平面上，向量 $(a,b)$ 與直線 $y=bx-1$ 垂直，則 $a+b$ 的最大可能值為 ____。（化為最簡分數）",
       "passage": "",
       "options": [],
       "answer": "1/4",
@@ -222,7 +222,7 @@
     },
     {
       "number": 15,
-      "text": "15. <br><img src=\"images/ceec/115/數A/數A.pdf07.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n已知三正數 $a,b,c$ 成一等差數列，其中 $a<b<c$；且坐標平面上三點 $(a,\\log 3a)$、$(b,\\log 4b)$、$(c,\\log 6c)$ 在同一直線上，則 $\\frac{b}{a}$ 之值為 ____。（化為最簡分數）",
+      "text": "15. <br><img src=\"/images/ceec/115/學測/數A/數A.pdf-0006-07.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n已知三正數 $a,b,c$ 成一等差數列，其中 $a<b<c$；且坐標平面上三點 $(a,\\log 3a)$、$(b,\\log 4b)$、$(c,\\log 6c)$ 在同一直線上，則 $\\frac{b}{a}$ 之值為 ____。（化為最簡分數）",
       "passage": "",
       "options": [],
       "answer": "3/2",
@@ -231,7 +231,7 @@
     },
     {
       "number": 16,
-      "text": "16. <br><img src=\"images/ceec/115/數A/數A.pdf10.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n坐標平面上，已知二次函數圖形 $\\Gamma:y=f(x)$ 的頂點 $P$ 在直線 $y=1+2x$ 上，且交 $x$ 軸於點 $A(-\\frac{1}{2},0), B(\\frac{1}{2},0)$。\n將 $\\Gamma$ 平移使得平移後圖形的頂點 $Q$ 仍在直線 $y=1+2x$ 上，且亦通過點 $B(\\frac{1}{2},0)$，此時 $P, Q$ 為兩相異點，則 $\\overline{PQ} =$ ____ 。（化為最簡根式）",
+      "text": "16. <br><img src=\"/images/ceec/115/學測/數A/數A.pdf-0006-10.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n坐標平面上，已知二次函數圖形 $\\Gamma:y=f(x)$ 的頂點 $P$ 在直線 $y=1+2x$ 上，且交 $x$ 軸於點 $A(-\\frac{1}{2},0), B(\\frac{1}{2},0)$。\n將 $\\Gamma$ 平移使得平移後圖形的頂點 $Q$ 仍在直線 $y=1+2x$ 上，且亦通過點 $B(\\frac{1}{2},0)$，此時 $P, Q$ 為兩相異點，則 $\\overline{PQ} =$ ____ 。（化為最簡根式）",
       "passage": "",
       "options": [],
       "answer": "3\\sqrt{5}/2",
@@ -240,7 +240,7 @@
     },
     {
       "number": 17,
-      "text": "17. <br><img src=\"images/ceec/115/數A/數A.pdf03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n直角 $\\Delta ABC$ 中，$\\angle CAB$ 為直角，$\\overline{AB}$ 邊上一點 $D$，滿足 $\\angle BCD=2\\angle ACD$，且 $\\overline{BC}=2\\overline{BD}$。\n若 $\\vec{AD}=k\\vec{AB}$，則 $k =$ ____ 。（化為最簡分數）\n\n**題組：18-20 題**\n<br><img src=\"images/ceec/115/數A/數A.pdf08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n坐標空間中有一平行六面體 $PQRS-ABCD$，如圖所示。\n已知 $\\vec{AB}\\times\\vec{AD}=(-5,5,5)$、$\\vec{AD}\\times\\vec{AP}=(-2,0,-4)$、$\\vec{AP}\\times\\vec{AB}=(6,-10,-8)$，且 $\\overline{AP}=6$。試回答下列問題。",
+      "text": "17. <br><img src=\"/images/ceec/115/學測/數A/數A.pdf-0007-03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n直角 $\\Delta ABC$ 中，$\\angle CAB$ 為直角，$\\overline{AB}$ 邊上一點 $D$，滿足 $\\angle BCD=2\\angle ACD$，且 $\\overline{BC}=2\\overline{BD}$。\n若 $\\vec{AD}=k\\vec{AB}$，則 $k =$ ____ 。（化為最簡分數）\n\n**題組：18-20 題**\n<br><img src=\"/images/ceec/115/學測/數A/數A.pdf-0007-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n坐標空間中有一平行六面體 $PQRS-ABCD$，如圖所示。\n已知 $\\vec{AB}\\times\\vec{AD}=(-5,5,5)$、$\\vec{AD}\\times\\vec{AP}=(-2,0,-4)$、$\\vec{AP}\\times\\vec{AB}=(6,-10,-8)$，且 $\\overline{AP}=6$。試回答下列問題。",
       "passage": "",
       "options": [],
       "answer": "3/11",
@@ -250,7 +250,7 @@
     {
       "number": 18,
       "text": "18. 試問平行四邊形 $ABCD$ 的面積為何？\n(1) $2\\sqrt{5}$\n(2) $5\\sqrt{2}$\n(3) $5\\sqrt{3}$\n(4) $6\\sqrt{3}$\n(5) $10\\sqrt{2}$",
-      "passage": "**題組：18-20 題**\n<br><img src=\"images/ceec/115/數A/數A.pdf-0007-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n坐標空間中有一平行六面體 $PQRS-ABCD$，如圖所示。\n已知 $\\vec{AB}\\times\\vec{AD}=(-5,5,5)$、$\\vec{AD}\\times\\vec{AP}=(-2,0,-4)$、$\\vec{AP}\\times\\vec{AB}=(6,-10,-8)$，且 $\\overline{AP}=6$。試回答下列問題。",
+      "passage": "**題組：18-20 題**\n<br><img src=\"/images/ceec/115/學測/數A/數A.pdf-0007-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n坐標空間中有一平行六面體 $PQRS-ABCD$，如圖所示。\n已知 $\\vec{AB}\\times\\vec{AD}=(-5,5,5)$、$\\vec{AD}\\times\\vec{AP}=(-2,0,-4)$、$\\vec{AP}\\times\\vec{AB}=(6,-10,-8)$，且 $\\overline{AP}=6$。試回答下列問題。",
       "options": [
         "(1)",
         "(2)",
@@ -265,7 +265,7 @@
     {
       "number": 19,
       "text": "19. 設 $B$ 點坐標為 $(1,2,0)$，試求平面 $ABCD$ 的平面方程式。",
-      "passage": "**題組：18-20 題**\n<br><img src=\"images/ceec/115/數A/數A.pdf-0007-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n坐標空間中有一平行六面體 $PQRS-ABCD$，如圖所示。\n已知 $\\vec{AB}\\times\\vec{AD}=(-5,5,5)$、$\\vec{AD}\\times\\vec{AP}=(-2,0,-4)$、$\\vec{AP}\\times\\vec{AB}=(6,-10,-8)$，且 $\\overline{AP}=6$。試回答下列問題。",
+      "passage": "**題組：18-20 題**\n<br><img src=\"/images/ceec/115/學測/數A/數A.pdf-0007-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n坐標空間中有一平行六面體 $PQRS-ABCD$，如圖所示。\n已知 $\\vec{AB}\\times\\vec{AD}=(-5,5,5)$、$\\vec{AD}\\times\\vec{AP}=(-2,0,-4)$、$\\vec{AP}\\times\\vec{AB}=(6,-10,-8)$，且 $\\overline{AP}=6$。試回答下列問題。",
       "options": [],
       "answer": "x-y-z=-1",
       "type": "essay",
@@ -274,7 +274,7 @@
     {
       "number": 20,
       "text": "20. 試求平行六面體的體積，並求平行六面體上（含邊界）距點 $A$ 的最長距離。",
-      "passage": "**題組：18-20 題**\n<br><img src=\"images/ceec/115/數A/數A.pdf-0007-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n坐標空間中有一平行六面體 $PQRS-ABCD$，如圖所示。\n已知 $\\vec{AB}\\times\\vec{AD}=(-5,5,5)$、$\\vec{AD}\\times\\vec{AP}=(-2,0,-4)$、$\\vec{AP}\\times\\vec{AB}=(6,-10,-8)$，且 $\\overline{AP}=6$。試回答下列問題。",
+      "passage": "**題組：18-20 題**\n<br><img src=\"/images/ceec/115/學測/數A/數A.pdf-0007-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n坐標空間中有一平行六面體 $PQRS-ABCD$，如圖所示。\n已知 $\\vec{AB}\\times\\vec{AD}=(-5,5,5)$、$\\vec{AD}\\times\\vec{AP}=(-2,0,-4)$、$\\vec{AP}\\times\\vec{AB}=(6,-10,-8)$，且 $\\overline{AP}=6$。試回答下列問題。",
       "options": [],
       "answer": "體積為10，最長距離為\\sqrt{94}",
       "type": "essay",

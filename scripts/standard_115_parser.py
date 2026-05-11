@@ -13,28 +13,13 @@ SUBJECT_META = {
     "英文": {"title": "115 學年度學科能力測驗 - 英文考科 (參考試卷)", "duration": 100}
 }
 
-def process_images(text):
+def process_images(text, subject):
     def repl(m):
         path = m.group(1)
-        for prefix in [
-            "/home/toymsi/documents/examination/Github/ai-sch-exam/public/",
-            "/home/toymsi/documents/examination/Github/ai-sch-exam/public",
-            "/home/toymsi/documents/examination/大學入學考試/md/115/學測",
-            "/home/toymsi/documents/examination",
-            "public/",
-            "/"
-        ]:
-            if path.startswith(prefix):
-                path = path[len(prefix):]
-        if path.startswith("images/ceec/"):
-            pass
-        elif "images/ceec/" in path:
-            idx = path.find("images/ceec/")
-            path = path[idx:]
-        else:
-            path = "images/ceec/115/" + path
-            
-        return f'<br><img src="{path}" style="max-width:100%; display:block; margin:10px 0;">'
+        # Get the raw filename
+        filename = os.path.basename(path)
+        # Return canonical path format: /images/ceec/115/學測/{subject}/{filename}
+        return f'<br><img src="/images/ceec/115/學測/{subject}/{filename}" style="max-width:100%; display:block; margin:10px 0;">'
 
     text = re.sub(r'!\[.*?\]\((.*?)\)', repl, text)
     return text
@@ -136,7 +121,8 @@ def parse_markdown_to_json(md_path, year, subject, title, duration):
         elif "---" in pre_gap:
             current_passage = ""
 
-        clean_q_text = re.sub(r'-\s*\d+\s*-', '', q_block)
+        clean_q_text = q_block
+        # clean_q_text = re.sub(r'-\s*\d+\s*-', '', q_block)  # Commented out: corrupts filenames like '數A.pdf-0002-10.webp'
         clean_q_text = re.sub(r'\d+\s*年學測.*', '', clean_q_text)
         clean_q_text = re.sub(r'第\s*\d+\s*頁\s*共\s*\d+\s*頁', '', clean_q_text)
         clean_q_text = re.sub(r'請記得在答題卷.*', '', clean_q_text)
@@ -169,8 +155,8 @@ def parse_markdown_to_json(md_path, year, subject, title, duration):
             else:
                 parsed_ans = [q_ans]
 
-        clean_q_text = process_images(clean_q_text)
-        clean_passage = process_images(current_passage) if current_passage else ""
+        clean_q_text = process_images(clean_q_text, subject)
+        clean_passage = process_images(current_passage, subject) if current_passage else ""
 
         clean_q_text = markdown_table_to_html(clean_q_text)
         if clean_passage:
@@ -194,7 +180,7 @@ def parse_markdown_to_json(md_path, year, subject, title, duration):
 
 def run_conversion():
     base_md = Path("/home/toymsi/documents/examination/大學入學考試/md/115/學測")
-    output_dir = Path("/home/toymsi/documents/examination/Github/ai-sch-exam/public/json/ceec/115")
+    output_dir = Path("/home/toymsi/documents/examination/Github/ai-sch-exam/public/json/ceec/115/學測")
     output_dir.mkdir(parents=True, exist_ok=True)
 
     for sub, meta in SUBJECT_META.items():
