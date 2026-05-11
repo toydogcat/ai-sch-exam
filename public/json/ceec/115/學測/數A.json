@@ -239,7 +239,7 @@
     },
     {
       "number": 17,
-      "text": "<br><img src=\"/images/ceec/115/學測/數A/數A.pdf-0007-03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n直角 $\\Delta ABC$ 中，$\\angle CAB$ 為直角，$\\overline{AB}$ 邊上一點 $D$，滿足 $\\angle BCD=2\\angle ACD$，且 $\\overline{BC}=2\\overline{BD}$。\n若 $\\vec{AD}=k\\vec{AB}$，則 $k =$ ____ 。（化為最簡分數）\n\n**題組：18-20 題**\n<br><img src=\"/images/ceec/115/學測/數A/數A.pdf-0007-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n坐標空間中有一平行六面體 $PQRS-ABCD$，如圖所示。\n已知 $\\vec{AB}\\times\\vec{AD}=(-5,5,5)$、$\\vec{AD}\\times\\vec{AP}=(-2,0,-4)$、$\\vec{AP}\\times\\vec{AB}=(6,-10,-8)$，且 $\\overline{AP}=6$。試回答下列問題。",
+      "text": "<br><img src=\"/images/ceec/115/學測/數A/數A.pdf-0007-03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n直角 $\\Delta ABC$ 中，$\\angle CAB$ 為直角，$\\overline{AB}$ 邊上一點 $D$，滿足 $\\angle BCD=2\\angle ACD$，且 $\\overline{BC}=2\\overline{BD}$。\n若 $\\vec{AD}=k\\vec{AB}$，則 $k =$ ____ 。（化為最簡分數）",
       "passage": "",
       "options": [],
       "answer": "3/11",

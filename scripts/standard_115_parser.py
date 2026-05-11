@@ -126,6 +126,24 @@ def extract_options_and_clean(text):
         
     return prompt, extracted_options
 
+def truncate_tail_at_next_passage(text):
+    patterns = [
+        r'(?:\r?\n){1,}\s*-{3,}',
+        r'(?:\r?\n){1,}\s*##\s*.*?題組',
+        r'(?:\r?\n){1,}\s*\*\*題組：.*?\*\*',
+        r'(?:\r?\n){1,}\s*\*\*題組.*?\*\*'
+    ]
+    earliest_pos = len(text)
+    found = False
+    for p in patterns:
+        match = re.search(p, text, re.IGNORECASE)
+        if match and match.start() < earliest_pos:
+            earliest_pos = match.start()
+            found = True
+    if found:
+        return text[:earliest_pos].strip()
+    return text
+
 def parse_markdown_to_json(md_path, year, subject, title, duration):
     if not os.path.exists(md_path):
         print(f"File not found: {md_path}")
@@ -160,7 +178,7 @@ def parse_markdown_to_json(md_path, year, subject, title, duration):
         elif "---" in pre_gap:
             current_passage = ""
 
-        clean_q_text = q_block
+        clean_q_text = truncate_tail_at_next_passage(q_block)
         # clean_q_text = re.sub(r'-\s*\d+\s*-', '', q_block)  # Commented out: corrupts filenames like '數A.pdf-0002-10.webp'
         clean_q_text = re.sub(r'\d+\s*年學測.*', '', clean_q_text)
         clean_q_text = re.sub(r'第\s*\d+\s*頁\s*共\s*\d+\s*頁', '', clean_q_text)
