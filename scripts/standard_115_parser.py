@@ -86,6 +86,45 @@ def render_html_table(table_lines):
     html += '</tbody></table></div>'
     
     return html
+def strip_leading_qnum(text, qnum):
+    t = text.strip()
+    for _ in range(2):
+        t = re.sub(rf'^\s*{qnum}\s*[.、：:]\s*', '', t).strip()
+    return t
+
+def extract_options_and_clean(text):
+    a_matches = list(re.finditer(r'(?:^|\n)\s*(\([A-Ga-g]\))', text))
+    n_matches = list(re.finditer(r'(?:^|\n)\s*(\([1-9]\))', text))
+    
+    chosen_matches = []
+    if len(a_matches) >= 2:
+        chosen_matches = a_matches
+    elif len(n_matches) >= 2:
+        chosen_matches = n_matches
+    else:
+        fallback_a = list(re.finditer(r'\(([A-G])\)', text))
+        if len(fallback_a) >= 2:
+             chosen_matches = fallback_a
+        else:
+             fallback_n = list(re.finditer(r'\(([1-9])\)', text))
+             if len(fallback_n) >= 2:
+                 chosen_matches = fallback_n
+
+    if len(chosen_matches) < 2:
+        return text, []
+
+    first_pos = chosen_matches[0].start()
+    prompt = text[:first_pos].rstrip()
+    
+    extracted_options = []
+    for i in range(len(chosen_matches)):
+        start = chosen_matches[i].start()
+        end = chosen_matches[i+1].start() if i+1 < len(chosen_matches) else len(text)
+        seg = text[start:end].strip()
+        cleaned_seg = re.sub(r'^\s*\([^)]+\)\s*', '', seg).strip()
+        extracted_options.append(cleaned_seg)
+        
+    return prompt, extracted_options
 
 def parse_markdown_to_json(md_path, year, subject, title, duration):
     if not os.path.exists(md_path):
@@ -128,22 +167,18 @@ def parse_markdown_to_json(md_path, year, subject, title, duration):
         clean_q_text = re.sub(r'請記得在答題卷.*', '', clean_q_text)
         clean_q_text = clean_q_text.strip()
         
-        if not re.match(rf'^\s*{q_num}\s*[.、]', clean_q_text):
-            clean_q_text = f"{q_num}. {clean_q_text}"
-
+        # 1. Remove leading question number redundancy
+        clean_q_text = strip_leading_qnum(clean_q_text, q_num)
+        
         options = []
+        # 2. Extract correct option texts and remove them from question body
         if q_type in ["single", "multi"]:
-            if "(A)" in q_block or "(B)" in q_block:
-                labels = []
-                for l in ["(A)", "(B)", "(C)", "(D)", "(E)", "(F)", "(G)"]:
-                    if l in q_block: labels.append(l)
-                options = labels if labels else ["(A)", "(B)", "(C)", "(D)", "(E)"]
-            elif "(1)" in q_block or "(2)" in q_block:
-                labels = []
-                for l in ["(1)", "(2)", "(3)", "(4)", "(5)", "(6)", "(7)"]:
-                    if l in q_block: labels.append(l)
-                options = labels if labels else ["(1)", "(2)", "(3)", "(4)", "(5)"]
+            prompt, extracted_opts = extract_options_and_clean(clean_q_text)
+            clean_q_text = prompt
+            if extracted_opts:
+                options = extracted_opts
             else:
+                # Absolute fallback to dummy array if parser found nothing
                 options = ["(A)", "(B)", "(C)", "(D)", "(E)"]
 
         parsed_ans = q_ans

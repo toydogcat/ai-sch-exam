@@ -28,9 +28,10 @@ const getPathFromUrl = () => {
 
 const fixHtml = (html) => {
   if (!html) return ''
-  // Handle both leading slash and non-leading slash cases
-  // If it starts with images/, prepend base. If it starts with /images/, replace with base.
-  let fixed = html.replace(/src=["']\/images\//g, `src="${withBase('/images/')}`)
+  // Convert markdown bold: **text** -> <strong>text</strong>
+  let fixed = String(html).replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+  // Handle image paths
+  fixed = fixed.replace(/src=["']\/images\//g, `src="${withBase('/images/')}`)
   fixed = fixed.replace(/src=["']images\//g, `src="${withBase('/images/')}`)
   return fixed
 }
@@ -260,7 +261,7 @@ const isCorrect = (q, idx) => {
               >
               <div class="check-mark"></div>
               <span class="opt-id">{{ String.fromCharCode(65 + i) }}</span>
-              <span class="opt-val" v-html="optText"></span>
+              <span class="opt-val" v-html="fixHtml(optText)"></span>
             </label>
           </div>
 
