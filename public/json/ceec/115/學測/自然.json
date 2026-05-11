@@ -232,11 +232,11 @@
       "text": "電場為單位正電荷在空間中任一位置所受的靜電力，電器內常以電場驅動帶電粒子，進行運算、控制與調節等工作。設 N 為牛頓、 C 為庫侖、 V 為伏特、 A 為安培，則下列何者為電場的 SI 單位？",
       "passage": "",
       "options": [
-        "(A)",
-        "(B)",
-        "(C)",
-        "(D)",
-        "(E)"
+        "$\\frac{C}{N}$",
+        "$\\frac{N}{C}$",
+        "$\\frac{V}{A}$",
+        "$\\frac{A}{V}$",
+        "$\\frac{N^2}{C}$"
       ],
       "answer": "B",
       "type": "single",
@@ -247,11 +247,11 @@
       "text": "假設氫原子中的質子位於 $x$ 軸原點，則下列何者最接近電子所受靜電力 $F$ 隨著位置 $x$ 的變化？（令靜電力 $F$ 朝 $+x$ 方向為正值）",
       "passage": "",
       "options": [
-        "(A)",
-        "(B)",
-        "(C)",
-        "(D)",
-        "(E)"
+        "<br><img src=\"/images/ceec/115/學測/自然/q16_a.webp\" style=\"max-width: 180px; display:inline-block; margin-top:5px;\"><br>",
+        "<br><img src=\"/images/ceec/115/學測/自然/q16_b.webp\" style=\"max-width: 180px; display:inline-block; margin-top:5px;\"><br>",
+        "<br><img src=\"/images/ceec/115/學測/自然/q16_c.webp\" style=\"max-width: 180px; display:inline-block; margin-top:5px;\"><br>",
+        "<br><img src=\"/images/ceec/115/學測/自然/q16_d.webp\" style=\"max-width: 180px; display:inline-block; margin-top:5px;\"><br>",
+        "<br><img src=\"/images/ceec/115/學測/自然/q16_e.webp\" style=\"max-width: 180px; display:inline-block; margin-top:5px;\"><br>"
       ],
       "answer": "B",
       "type": "single",
@@ -260,7 +260,7 @@
     {
       "number": 17,
       "text": "已知氣體分子平均動能正比於其克氏溫度（絕對溫度），則在月球赤道處，相同氣體分子的平均動能於日間為夜間的多少倍？",
-      "passage": "**題組：17-18 題**\n表 1 為地球與月球的赤道日夜均溫。新的登月計畫將設計小型模組核反應器（簡稱 SMR ），提供維生與探究的能源。 SMR 的發電功率為 $P_e = 300\\text{ MW}$，採用的核反應如圖 7 所示。一顆中子射入一個鈾核，激發核反應，產生核能 $E_N$、一個鋇核、一個氪核與 3 顆中子。SMR 之核能轉換為電能的效率約是 33%。依據以上資料與所學，回答下列問題。\n\n表1\n<div class=\"custom-table-container\" style=\"overflow-x:auto; margin: 1.5rem 0; white-space: normal;\"><table class=\"custom-exam-table\" style=\"width:100%; border-collapse: collapse; border: 1px solid #dee2e6; font-size: 1rem; background: #fff; border-radius: 6px; white-space: normal;\"><thead style=\"background: #f8f9fa; white-space: normal;\"><tr><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">時段</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">日間</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">夜間</th></tr></thead><tbody style=\"white-space: normal;\"><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">地球</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">31℃</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">23℃</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">月球</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">121℃</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">-133℃</td></tr></tbody></table></div>",
+      "passage": "**題組：17-18 題**\n表 1 為地球與月球的赤道日夜均溫。新的登月計畫將設計小型模組核反應器（簡稱 SMR ），提供維生與探究的能源。 SMR 的發電功率為 $P_e = 300\\text{ MW}$，採用的核反應如圖 7 所示。一顆中子射入一個鈾核，激發核反應，產生核能 $E_N$、一個鋇核、一個氪核與 3 顆中子。SMR 之核能轉換為電能的效率約是 33%。依據以上資料與所學，回答下列問題。\n\n<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/自然/page_7_table_1.webp\" style=\"max-width: 450px; display: inline-block; margin: 10px;\" alt=\"表1\"><img src=\"/images/ceec/115/學測/自然/page_7_img_7.webp\" style=\"max-width: 400px; display: inline-block; margin: 10px;\" alt=\"圖7\"></div><br>",
       "options": [
         "31/23",
         "304/296",
@@ -275,7 +275,7 @@
     {
       "number": 18,
       "text": "假設圖 7 中鈾核、氪核、鋇核及中子的質量分別為 $M_U$、$M_{Kr}$、$M_{Ba}$ 及 $M_n$，核反應發生頻率控制為 $R_N$（即每秒發生核反應的次數）。已知該核反應前後質量損失為 $\\Delta m = 3.3 \\times 10^{-28}\\text{ kg}$，光速為 $c = 3 \\times 10^8\\text{ m/s}$，則下列有關該 SMR 發電的敘述，何者正確？",
-      "passage": "**題組：17-18 題**\n表 1 為地球與月球的赤道日夜均溫。新的登月計畫將設計小型模組核反應器（簡稱 SMR ），提供維生與探究的能源。 SMR 的發電功率為 $P_e = 300\\text{ MW}$，採用的核反應如圖 7 所示。一顆中子射入一個鈾核，激發核反應，產生核能 $E_N$、一個鋇核、一個氪核與 3 顆中子。SMR 之核能轉換為電能的效率約是 33%。依據以上資料與所學，回答下列問題。\n\n表1\n<div class=\"custom-table-container\" style=\"overflow-x:auto; margin: 1.5rem 0; white-space: normal;\"><table class=\"custom-exam-table\" style=\"width:100%; border-collapse: collapse; border: 1px solid #dee2e6; font-size: 1rem; background: #fff; border-radius: 6px; white-space: normal;\"><thead style=\"background: #f8f9fa; white-space: normal;\"><tr><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">時段</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">日間</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">夜間</th></tr></thead><tbody style=\"white-space: normal;\"><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">地球</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">31℃</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">23℃</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">月球</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">121℃</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">-133℃</td></tr></tbody></table></div>",
+      "passage": "**題組：17-18 題**\n表 1 為地球與月球的赤道日夜均溫。新的登月計畫將設計小型模組核反應器（簡稱 SMR ），提供維生與探究的能源。 SMR 的發電功率為 $P_e = 300\\text{ MW}$，採用的核反應如圖 7 所示。一顆中子射入一個鈾核，激發核反應，產生核能 $E_N$、一個鋇核、一個氪核與 3 顆中子。SMR 之核能轉換為電能的效率約是 33%。依據以上資料與所學，回答下列問題。\n\n<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/自然/page_7_table_1.webp\" style=\"max-width: 450px; display: inline-block; margin: 10px;\" alt=\"表1\"><img src=\"/images/ceec/115/學測/自然/page_7_img_7.webp\" style=\"max-width: 400px; display: inline-block; margin: 10px;\" alt=\"圖7\"></div><br>",
       "options": [
         "$\\Delta m = M_U - (M_{Kr} + M_{Ba})$",
         "$E_N = \\Delta m \\times c^2$",
