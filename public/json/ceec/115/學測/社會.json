@@ -60,7 +60,7 @@
     },
     {
       "number": 5,
-      "text": "某生蒐集了甲、乙、丙三國近 10 年各項支出占 GDP 比例的平均資料（表 1），想要比較各國的經濟發展型態與規模。下列哪項敘述最能解釋表 1 的資訊？ \n\n表 1\n<div class=\"custom-table-container\" style=\"overflow-x:auto; margin: 1.5rem 0; white-space: normal;\"><table class=\"custom-exam-table\" style=\"width:100%; border-collapse: collapse; border: 1px solid #dee2e6; font-size: 1rem; background: #fff; border-radius: 6px; white-space: normal;\"><thead style=\"background: #f8f9fa; white-space: normal;\"><tr><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">國家</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">民間消費</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">投資</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">政府消費</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">出口</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">進口</th></tr></thead><tbody style=\"white-space: normal;\"><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">甲國</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">67%</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">16%</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">20%</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">12%</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">15%</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">乙國</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">20%</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">34%</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">40%</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">20%</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">14%</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">丙國</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">50%</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">23%</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">11%</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">69%</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">53%</td></tr></tbody></table></div>",
+      "text": "某生蒐集了甲、乙、丙三國近 10 年各項支出占 GDP 比例的平均資料（表 1），想要比較各國的經濟發展型態與規模。下列哪項敘述最能解釋表 1 的資訊？ \n\n<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/社會/q5_table1.webp\" style=\"max-width: 750px;\" alt=\"表1\"></div><br>",
       "passage": "",
       "options": [
         "甲國消費占比最高，國際貿易占比最低但仍為順差",
@@ -91,8 +91,10 @@
       "text": "史書記載：十七世紀下半葉，山東官員一旦知悉當地有船隻欲前往日本，往往立即派人搗毀船隻。在此同時，浙江、南京地方官員追討海賊時，還會將前往日本的商船扣押，並燒毀貨物。而廣東地方官員若查出有船主來自敵對陣營，會立即緝捕問斬、沒收其商品。這些地方官員採取上述措施的最主要目的為何？",
       "passage": "",
       "options": [
-        "確保東亞海域航道暢通 (B) 防止中國貨幣外流南洋",
-        "嚴禁走私保障本國稅收 (D) 斷絕鄭氏政權物資來源"
+        "確保東亞海域航道暢通",
+        "防止中國貨幣外流南洋",
+        "嚴禁走私保障本國稅收",
+        "斷絕鄭氏政權物資來源"
       ],
       "answer": "D",
       "type": "single",
@@ -100,7 +102,7 @@
     },
     {
       "number": 8,
-      "text": "學者指出：清代臺灣地圖除呈現一地的自然環境特徵外，往往也能反映出繪製官員對當時社會情況的關注重點。具體而言，政府會因統治、用兵和管理之需而繪製地圖，所繪地圖具有定疆劃界、兵防規劃、因應因地制宜等功效。表 2 是彙整自康熙（1696 年）、乾隆（1742、1747 年）不同時期《臺灣府志》地圖上出現的地名註記類別及數量統計。根據表 2，下列推論何者最合理？ \n\n表 2\n<div class=\"custom-table-container\" style=\"overflow-x:auto; margin: 1.5rem 0; white-space: normal;\"><table class=\"custom-exam-table\" style=\"width:100%; border-collapse: collapse; border: 1px solid #dee2e6; font-size: 1rem; background: #fff; border-radius: 6px; white-space: normal;\"><thead style=\"background: #f8f9fa; white-space: normal;\"><tr><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">年份 / 地名註記類別（個）</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">1696</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">1742</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">1747</th></tr></thead><tbody style=\"white-space: normal;\"><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">山岳</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">24</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">29</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">127</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">官署</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">5</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">8</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">7</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">社</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">61</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">24</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">未註記</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">一般地名（泛指與漢人有關的地名）</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">59</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">95</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">17</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">其他</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">56</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">23</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">88</td></tr></tbody></table></div>",
+      "text": "學者指出：清代臺灣地圖除呈現一地的自然環境特徵外，往往也能反映出繪製官員對當時社會情況的關注重點。具體而言，政府會因統治、用兵和管理之需而繪製地圖，所繪地圖具有定疆劃界、兵防規劃、因應因地制宜等功效。表 2 是彙整自康熙（1696 年）、乾隆（1742、1747 年）不同時期《臺灣府志》地圖上出現的地名註記類別及數量統計。根據表 2，下列推論何者最合理？ \n\n<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/社會/q8_table2.webp\" style=\"max-width: 750px;\" alt=\"表2\"></div><br>",
       "passage": "",
       "options": [
         "山岳數量增加，顯示歷經多次民變，官府更重視近山治安",
@@ -156,7 +158,7 @@
     },
     {
       "number": 12,
-      "text": "<br><img src=\"/images/ceec/115/學測/社會/page_4_img_4.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n<br><img src=\"/images/ceec/115/學測/社會/page_4_img_5.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n考古出土的墓室壁畫是重要的歷史研究材料。圖 1 是埃及考古挖掘出的墓室壁畫，其中甲圖描繪僕人正在處理禽肉；乙圖描繪僕人正在調製醬汁及製作麵包。上述壁畫內容可作為研究哪項歷史課題的資料？",
+      "text": "<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/社會/q12_fig1.webp\" style=\"max-width: 750px;\" alt=\"圖1\"></div><br>\n考古出土的墓室壁畫是重要的歷史研究材料。圖 1 是埃及考古挖掘出的墓室壁畫，其中甲圖描繪僕人正在處理禽肉；乙圖描繪僕人正在調製醬汁及製作麵包。上述壁畫內容可作為研究哪項歷史課題的資料？",
       "passage": "",
       "options": [
         "古代社會階層分化與物質生活",
@@ -212,7 +214,7 @@
     },
     {
       "number": 16,
-      "text": "<br><img src=\"/images/ceec/115/學測/社會/page_5_img_1.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n圖 2 為某生在探究臺灣帶有「崙」字地名時所繪製的地圖。根據此圖，最可能得到下列哪項推論？",
+      "text": "<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/社會/q16_fig2.webp\" style=\"max-width: 450px;\" alt=\"圖2\"></div><br>\n圖 2 為某生在探究臺灣帶有「崙」字地名時所繪製的地圖。根據此圖，最可能得到下列哪項推論？",
       "passage": "",
       "options": [
         "臺灣的崙字地名多分布在客家語優勢區",
@@ -229,8 +231,10 @@
       "text": "澳大利亞食蜜鳥，是一種以花蜜為主食的鳥類，多棲息在常綠闊葉林中，牠們在吸取花蜜的同時，也成了花粉的散播者，因此能促進植物授粉與繁殖。但近年來，上述鳥類的棲息地逐漸受到破壞，導致生物群落減少，此情形最容易造成下列哪項影響？",
       "passage": "",
       "options": [
-        "西部海岸生態系脆弱度增加 (B) 大堡礁沿岸易遭外來種入侵",
-        "中部盆地的生物多樣性降低 (D) 大分水嶺難以維持環境永續"
+        "西部海岸生態系脆弱度增加",
+        "大堡礁沿岸易遭外來種入侵",
+        "中部盆地的生物多樣性降低",
+        "大分水嶺難以維持環境永續"
       ],
       "answer": "D",
       "type": "single",
@@ -238,11 +242,13 @@
     },
     {
       "number": 18,
-      "text": "<br><img src=\"/images/ceec/115/學測/社會/page_6_img_1.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n某生利用高速公路電子收費系統在通勤時段的流量資料，探究臺灣地區民眾的活動範圍。他將汽車進入與離開高速公路的起迄資料繪製於地圖上，並根據資料在空間上的密集程度，定義數個生活圈。圖 3 是起迄資料與生活圈的呈現結果。下列何者最適合成為該探究活動的標題？",
+      "text": "<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/社會/q18_fig3.webp\" style=\"max-width: 750px;\" alt=\"圖3\"></div><br>\n某生利用高速公路電子收費系統在通勤時段的流量資料，探究臺灣地區民眾的活動範圍。他將汽車進入與離開高速公路的起迄資料繪製於地圖上，並根據資料在空間上的密集程度，定義數個生活圈。圖 3 是起迄資料與生活圈的呈現結果。下列何者最適合成為該探究活動的標題？",
       "passage": "",
       "options": [
-        "資訊革命如何改變生活模式 (B) 運輸活動如何影響聚落系統",
-        "路網型態如何加速人口遷移 (D) 交通革新如何造就都市機能"
+        "資訊革命如何改變生活模式",
+        "運輸活動如何影響聚落系統",
+        "路網型態如何加速人口遷移",
+        "交通革新如何造就都市機能"
       ],
       "answer": "B",
       "type": "single",
@@ -250,7 +256,7 @@
     },
     {
       "number": 19,
-      "text": "<br><img src=\"/images/ceec/115/學測/社會/page_6_img_8.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n圖 4 為南亞某河川因大規模土石滑落阻擋河道而形成的堰塞湖。湖水目前已自天然壩體上方溢流，但壩體整體結構仍屬穩定，暫無潰決之虞。圖中顯示的堰塞湖溢流方向，最可能指向下列哪個方位角？",
+      "text": "<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/社會/q19_fig4.webp\" style=\"max-width: 750px;\" alt=\"圖4\"></div><br>\n圖 4 為南亞某河川因大規模土石滑落阻擋河道而形成的堰塞湖。湖水目前已自天然壩體上方溢流，但壩體整體結構仍屬穩定，暫無潰決之虞。圖中顯示的堰塞湖溢流方向，最可能指向下列哪個方位角？",
       "passage": "",
       "options": [
         "0°",
@@ -264,7 +270,7 @@
     },
     {
       "number": 20,
-      "text": "某生玩一款手機遊戲，其中一個關卡需要先利用射程 200 公尺的狙擊槍來癱瘓某座碉堡頂端的探照燈，而且若走入該碉堡半徑 80 公尺的範圍內，則會被碉堡內的士兵發現並遭到反擊。圖 5 是該關卡的地圖，每個網格為 10 公尺的正方形，網格內的數值代表高度，黑色網格為碉堡所在位置，灰色網格為射擊地點候選位置。若要成功過關，該生選擇下列哪個網格作為射擊地點最為理想？ \n\n<div class=\"custom-table-container\" style=\"overflow-x:auto; margin: 1.5rem 0; white-space: normal;\"><table class=\"custom-exam-table\" style=\"width:100%; border-collapse: collapse; border: 1px solid #dee2e6; font-size: 1rem; background: #fff; border-radius: 6px; white-space: normal;\"><thead style=\"background: #f8f9fa; white-space: normal;\"><tr><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">55</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">**80** (乙)</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">90</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">80</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">80</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">75</th><th style=\"border: 1px solid #dee2e6; padding: 12px 16px; text-align: left; font-weight: 700; color: #2c3e50; white-space: normal;\">**85**</th></tr></thead><tbody style=\"white-space: normal;\"><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">35</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">65</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">65</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">65</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">60</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">70</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">50</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">50</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">65</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">75</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">60</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">65</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">65</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">70</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">65</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">70</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">90</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">60</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">70</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">70</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">**80** (丁)</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">70</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">75</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">90</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">60</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">70</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">95</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">65</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">**80** (甲)</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">75</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">85</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">70</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">65</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">55</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">70</td></tr><tr style=\"white-space: normal;\"><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">20</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">70</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">70</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">**80** (丙)</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">45</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">55</td><td style=\"border: 1px solid #dee2e6; padding: 12px 16px; color: #34495e; line-height: 1.6; white-space: normal;\">45</td></tr></tbody></table></div>",
+      "text": "某生玩一款手機遊戲，其中一個關卡需要先利用射程 200 公尺的狙擊槍來癱瘓某座碉堡頂端的探照燈，而且若走入該碉堡半徑 40 公尺的範圍內，則會被碉堡內的士兵發現並遭到反擊。圖 5 是該關卡的地圖，每個網格為 10 公尺的正方形，網格內的數值代表高度，黑色網格為碉堡所在位置，灰色網格為射擊地點候選位置。若要成功過關，該生選擇下列哪個網格作為射擊地點最為理想？ \n\n<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/社會/q20_fig5.webp\" style=\"max-width: 450px;\" alt=\"圖5\"></div><br>",
       "passage": "",
       "options": [
         "甲",
@@ -292,7 +298,7 @@
     },
     {
       "number": 22,
-      "text": "<br><img src=\"/images/ceec/115/學測/社會/page_7_img_4.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n<br><img src=\"/images/ceec/115/學測/社會/page_7_img_5.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n<br><img src=\"/images/ceec/115/學測/社會/page_7_img_6.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n<br><img src=\"/images/ceec/115/學測/社會/page_7_img_7.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n2024 年在聯合國森林論壇中，有代表指出「農業是全球森林砍伐的重要驅動因素，應列入會議文件」，但某國代表則要求將「農業」移除在外。主因是該國為求經濟發展，長期砍伐森林，開闢肉牛放牧場和飼料農地。當地土壤層雖深厚，但實為貧瘠，因暴雨頻繁，在無森林保護下，養分流失更快。上述的農業景觀最可能是照片 1 中的何者？",
+      "text": "<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/社會/q22_photo1.webp\" style=\"max-width: 750px;\" alt=\"照片1\"></div><br>\n2024 年在聯合國森林論壇中，有代表指出「農業是全球森林砍伐的重要驅動因素，應列入會議文件」，但某國代表則要求將「農業」移除在外。主因是該國為求經濟發展，長期砍伐森林，開闢肉牛放牧場和飼料農地。當地土壤層雖深厚，但實為貧瘠，因暴雨頻繁，在無森林保護下，養分流失更快。上述的農業景觀最可能是照片 1 中的何者？",
       "passage": "",
       "options": [
         "甲",
@@ -306,7 +312,7 @@
     },
     {
       "number": 23,
-      "text": "臺灣有咖啡店家自某國進口咖啡豆，烘焙出獨特風味咖啡。已知該國咖啡豆主要分為兩類，一類分布在維多利亞湖附近，果實碩大、口味甘甜，另一類則分布在全國其餘各地，並以吉力馬札羅山腳地區所生產帶有柑橘、莓果味的阿拉比卡豆為最有名。圖 6 是四個測站的氣溫雨量圖，哪個測站最可能位於該國出名的阿拉比卡咖啡產區？",
+      "text": "<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/社會/q23_fig6.webp\" style=\"max-width: 750px;\" alt=\"圖6\"></div><br>\n臺灣有咖啡店家自某國進口咖啡豆，烘焙出獨特風味咖啡。已知該國咖啡豆主要分為兩類，一類分布在維多利亞湖附近，果實碩大、口味甘甜，另一類則分布在全國其餘各地，並以吉力馬札羅山腳地區所生產帶有柑橘、莓果味的阿拉比卡豆為最有名。圖 6 是四個測站的氣溫雨量圖，哪個測站最可能位於該國出名的阿拉比卡咖啡產區？",
       "passage": "",
       "options": [
         "甲",
@@ -421,8 +427,10 @@
       "text": "題文中的製糖會社，若在「糖業種植經濟區域」種植甘蔗時，最容易遭遇到下列哪項災損，導致生產成本較高？",
       "passage": "**題組：30-33 題**\n在花東一帶，有些土地原本是臺灣原住民族祖先生活的傳統領域，但在日治時期，傳統領域被政府當成是無主土地。政府除趕走原來的原住民使用者，又將其劃為糖業種植經濟區域，給予日資會社發展糖業。戰後政權轉移，政府將相關土地所有權劃歸公營的台糖公司所擁有，這使得日後在該地上耕作的原住民，雖可能是原始土地使用者，反而每年要向台糖納租，成為佃農。\n\n晚近為解決此一問題，原住民族委員會遂以行政命令，以價購方式向台糖買回符合前述情形的土地。再依照現有法律程序將該項土地註記為原住民保留地，且將所有權分配給相關原住民擁有。而原住民擁有之保留地，除有特別的規定之外，原則上不得轉讓或出租給不具原住民族身分者。請問：",
       "options": [
-        "熔岩台地農園遭颱風侵襲被摧毀 (B) 海階農園受侵蝕作用而逐漸崩落",
-        "三角洲農園因過度抽水導致下陷 (D) 沖積扇農園因暴雨侵襲而被淹沒"
+        "熔岩台地農園遭颱風侵襲被摧毀",
+        "海階農園受侵蝕作用而逐漸崩落",
+        "三角洲農園因過度抽水導致下陷",
+        "沖積扇農園因暴雨侵襲而被淹沒"
       ],
       "answer": "D",
       "type": "single",
@@ -433,8 +441,10 @@
       "text": "依據題文，政府採取了多個階段的法律措施，以達到讓原住民族取回傳統領域、擁有保留地的目標。這些措施，並不包含下列何者？",
       "passage": "**題組：30-33 題**\n在花東一帶，有些土地原本是臺灣原住民族祖先生活的傳統領域，但在日治時期，傳統領域被政府當成是無主土地。政府除趕走原來的原住民使用者，又將其劃為糖業種植經濟區域，給予日資會社發展糖業。戰後政權轉移，政府將相關土地所有權劃歸公營的台糖公司所擁有，這使得日後在該地上耕作的原住民，雖可能是原始土地使用者，反而每年要向台糖納租，成為佃農。\n\n晚近為解決此一問題，原住民族委員會遂以行政命令，以價購方式向台糖買回符合前述情形的土地。再依照現有法律程序將該項土地註記為原住民保留地，且將所有權分配給相關原住民擁有。而原住民擁有之保留地，除有特別的規定之外，原則上不得轉讓或出租給不具原住民族身分者。請問：",
       "options": [
-        "遵循原住民族保留地相關法律依據 (B) 允許台糖依契約自由原則出售土地",
-        "限制原住民族對於保留地的支配權 (D) 承認台糖取得該相關土地的所有權"
+        "遵循原住民族保留地相關法律依據",
+        "允許台糖依契約自由原則出售土地",
+        "限制原住民族對於保留地的支配權",
+        "承認台糖取得該相關土地的所有權"
       ],
       "answer": "B",
       "type": "single",
@@ -459,8 +469,10 @@
       "text": "該墓園在日治後期階段，隨著都市發展而出現新的規畫，其考量最可能與下列何者有關？",
       "passage": "**題組：34-35 題**\n日治初期，曾在臺北城北廓外設置「三板橋墓園」，作為日人專屬的葬儀堂、公墓、火葬區。日治後期，隨著都市發展，該墓園曾被規劃為 14、15 號公園預定地但無實施。1949 年後，該墓園首先為自中國大陸湧入之無住屋難民搭建臨時住宅所占，之後又吸納少數外縣市勞工、處境不利群體遷入，形成跨族群與互助的違建社區。\n\n時至 1997 年，臺北市政府欲推動該地公園建造計畫，欲強拆違建並迫使住戶遷出，引發抗爭。某支持抗爭的學者指出：基於人性尊嚴考量，應依居民生活脈絡、社會關係和謀生，妥善規劃安置，而不是隨便將居民驅離或置於安養機構，要求市府暫緩拆除，這也是臺灣史上第一次的反迫遷運動。請問：",
       "options": [
-        "強調神社文化，強化民眾愛國思想 (B) 翻修原有地區，吸引民眾重新移入",
-        "因應建地擴張，增加民眾活動空間 (D) 增加就業機會，提升民眾經濟收入"
+        "強調神社文化，強化民眾愛國思想",
+        "翻修原有地區，吸引民眾重新移入",
+        "因應建地擴張，增加民眾活動空間",
+        "增加就業機會，提升民眾經濟收入"
       ],
       "answer": "C",
       "type": "single",
@@ -482,7 +494,7 @@
     },
     {
       "number": 36,
-      "text": "<br><img src=\"/images/ceec/115/學測/社會/page_10_img_1.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n圖 7 為 1950 年該眷村周邊區域的土地利用圖。該眷村最可能落在圖上的哪個位置？",
+      "text": "<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/社會/q36_fig7.webp\" style=\"max-width: 600px;\" alt=\"圖7\"></div><br>\n圖 7 為 1950 年該眷村周邊區域的土地利用圖。該眷村最可能落在圖上的哪個位置？",
       "passage": "**題組：36-38 題**\n國共內戰後期，在中國西南地區的一部分國軍撤退至滇緬邊境的山區，建立游擊基地，被稱為「異域孤軍」。1950 年代中期，政府將部分軍人與眷屬撤回臺灣，在北部某地成立眷村安置。當時選擇眷村地點的原則是：農業生產力較差、地價較便宜的邊際土地，與舊住民聚落相隔適當距離。當時部分撤回軍民因無法證明軍籍或軍眷身分，亦無法辦理戶籍而導致成為無國籍人，在就學、就業、居住與社福等方面皆陷入困境。請問：",
       "options": [
         "甲",
@@ -525,7 +537,7 @@
     {
       "number": 39,
       "text": "以下哪項措施最能呼應該學者對於法案審議過程的主張？",
-      "passage": "## 第貳部分、混合題或非選擇題\n\n**題組：39-40 題**\n某學者撰文評論我國一項法案的修法過程，其評論內容摘述如下：「未來任何法案若涉及意見高度分歧，應依據既有立法程序的規範，落實法案審議過程的正當程序。另外值得注意的是，此次修法過程也衍生出總統和行政院長權力關係的討論。原因是在我國實際憲政運作下，總統確實掌握行政權，並非內閣制的虛位元首，但我國憲法對行政院的位階又有明確規定，以致中央政府行政權力的實際運作，和憲法規定未必一致。」請問：",
+      "passage": "## 第貳部分、混合題或非選擇題（占 68 分）\n\n## 題組：39-40 題\n某學者撰文評論我國一項法案的修法過程，其評論內容摘述如下：「未來任何法案若涉及意見高度分歧，應依據既有立法程序的規範，落實法案審議過程的正當程序。……，另外值得注意的是，此次修法過程也衍生出總統和行政院長權力關係的討論。原因是在我國實際憲政運作下，總統確實掌握行政權，並非內閣制的虛位元首，但我國憲法對行政院的位階又有明確規定，以致中央政府行政權力的實際運作，和憲法規定未必一致。」請問：",
       "options": [
         "各法案須先經由專家學者審查，以確保專業審議",
         "政黨黨團先進行黨團協商，並優先採納少數意見",
@@ -538,8 +550,8 @@
     },
     {
       "number": 40,
-      "text": "依據該學者的意見，我國憲法關於行政院位階的明確規定，其所指為何？請在答題卷作答表格中寫出該項規定的內容。（3 分）",
-      "passage": "## 第貳部分、混合題或非選擇題\n\n**題組：39-40 題**\n某學者撰文評論我國一項法案的修法過程，其評論內容摘述如下：「未來任何法案若涉及意見高度分歧，應依據既有立法程序的規範，落實法案審議過程的正當程序。另外值得注意的是，此次修法過程也衍生出總統和行政院長權力關係的討論。原因是在我國實際憲政運作下，總統確實掌握行政權，並非內閣制的虛位元首，但我國憲法對行政院的位階又有明確規定，以致中央政府行政權力的實際運作，和憲法規定未必一致。」請問：",
+      "text": "<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/社會/q40_form1.webp\" style=\"max-width: 500px;\" alt=\"填答表\"></div><br>\n依據該學者的意見，我國憲法關於行政院位階的明確規定，其所指為何？請在答題卷作答表格中寫出該項規定的內容。（3 分）",
+      "passage": "## 第貳部分、混合題或非選擇題（占 68 分）\n\n## 題組：39-40 題\n某學者撰文評論我國一項法案的修法過程，其評論內容摘述如下：「未來任何法案若涉及意見高度分歧，應依據既有立法程序的規範，落實法案審議過程的正當程序。……，另外值得注意的是，此次修法過程也衍生出總統和行政院長權力關係的討論。原因是在我國實際憲政運作下，總統確實掌握行政權，並非內閣制的虛位元首，但我國憲法對行政院的位階又有明確規定，以致中央政府行政權力的實際運作，和憲法規定未必一致。」請問：",
       "options": [],
       "answer": "",
       "type": "essay",
@@ -548,7 +560,7 @@
     {
       "number": 41,
       "text": "根據題文，政府決定採取補貼政策，下列何者最可能是決策時考慮的機會成本？",
-      "passage": "**題組：41-42 題**\n某國勞保基金的收入來源主要為雇主、勞工與政府共同負擔的勞保費，現正面臨破產危機。為彌補基金虧損，該國政府決定不提高勞保費率，選擇採用直接補貼政策，以維持基金穩定運作。同時，亦提出「不鼓勵勞工在未達法定退休年齡（65 歲）時即申請退休」的改革案：將勞保老年退休給付由一次請領，改為按月領取年金，並規定所有勞工，若在 65 歲前申請退休，其領取的年金會被減額 20%。\n\n針對改革建議，學者甲注意到目前該國體力勞工申請退休的平均年齡約 55 歲，遠早於非體力勞工的 62 歲。甲分析發現這是因為體力勞工出社會工作較早，且工作性質較具身體危害性，平均餘命也較短。基於此發現，甲主張：新方案若不修正，此看似一視同仁的措施，將造成勞工群體內部不平等。請問：",
+      "passage": "## 題組：41-42 題\n某國勞保基金的收入來源主要為雇主、勞工與政府共同負擔的勞保費，現正面臨破產危機。為彌補基金虧損，該國政府決定不提高勞保費率，選擇採用直接補貼政策，以維持基金穩定運作。同時，亦提出「不鼓勵勞工在未達法定退休年齡（65 歲）時即申請退休」的改革案：將勞保老年退休給付由一次請領，改為按月領取年金，並規定所有勞工，若在 65 歲前申請退休，其領取的年金會被減額 20%。\n\n針對改革建議，學者甲注意到目前該國體力勞工申請退休的平均年齡約 55 歲，遠早於非體力勞工的 62 歲。甲分析發現這是因為體力勞工出社會工作較早，且工作性質較具身體危害性，平均餘命也較短。基於此發現，甲主張：新方案若不修正，此看似一視同仁的措施，將造成勞工群體內部不平等。請問：",
       "options": [
         "獲取更多勞工對執政黨的支持",
         "排擠政府其他公共建設的預算",
@@ -561,8 +573,8 @@
     },
     {
       "number": 42,
-      "text": "依據題文，下列哪項修正方案最能直接回應甲的擔心及主張？請在左欄勾選方案，並於右欄寫出該方案可達成的具體效果。（3 分，左欄勾選正確，右欄始計分；右欄僅抄錄題文，不計分）",
-      "passage": "**題組：41-42 題**\n某國勞保基金的收入來源主要為雇主、勞工與政府共同負擔的勞保費，現正面臨破產危機。為彌補基金虧損，該國政府決定不提高勞保費率，選擇採用直接補貼政策，以維持基金穩定運作。同時，亦提出「不鼓勵勞工在未達法定退休年齡（65 歲）時即申請退休」的改革案：將勞保老年退休給付由一次請領，改為按月領取年金，並規定所有勞工，若在 65 歲前申請退休，其領取的年金會被減額 20%。\n\n針對改革建議，學者甲注意到目前該國體力勞工申請退休的平均年齡約 55 歲，遠早於非體力勞工的 62 歲。甲分析發現這是因為體力勞工出社會工作較早，且工作性質較具身體危害性，平均餘命也較短。基於此發現，甲主張：新方案若不修正，此看似一視同仁的措施，將造成勞工群體內部不平等。請問：",
+      "text": "<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/社會/q42_form2.webp\" style=\"max-width: 650px;\" alt=\"修正方案表格\"></div><br>\n依據題文，下列哪項修正方案最能直接回應甲的擔心及主張？請在左欄勾選方案，並於右欄寫出該方案可達成的具體效果。（3 分，左欄勾選正確，右欄始計分；右欄僅抄錄題文，不計分）",
+      "passage": "## 題組：41-42 題\n某國勞保基金的收入來源主要為雇主、勞工與政府共同負擔的勞保費，現正面臨破產危機。為彌補基金虧損，該國政府決定不提高勞保費率，選擇採用直接補貼政策，以維持基金穩定運作。同時，亦提出「不鼓勵勞工在未達法定退休年齡（65 歲）時即申請退休」的改革案：將勞保老年退休給付由一次請領，改為按月領取年金，並規定所有勞工，若在 65 歲前申請退休，其領取的年金會被減額 20%。\n\n針對改革建議，學者甲注意到目前該國體力勞工申請退休的平均年齡約 55 歲，遠早於非體力勞工的 62 歲。甲分析發現這是因為體力勞工出社會工作較早，且工作性質較具身體危害性，平均餘命也較短。基於此發現，甲主張：新方案若不修正，此看似一視同仁的措施，將造成勞工群體內部不平等。請問：",
       "options": [],
       "answer": "",
       "type": "essay",
@@ -571,10 +583,12 @@
     {
       "number": 43,
       "text": "題文中提到 70 年代美國與中華人民共和國關係大幅改變，其具體事件最可能是下列何者？",
-      "passage": "**題組：43-44 題**\n1950、60 年代，美國歷史學界提出「衝擊－回應」模式，認為中國近代歷史是因為回應西方挑戰而發展。如甲學者強調：列強衝擊推動了中國近代社會的現代化，沒有外力，中國難以自行產生現代化變革。由於越戰失利，美國史家開始重新審視以西方作為衡量歷史發展的標準；70 年代，美國與中華人民共和國關係大幅改變，學術研究變得多元。如乙學者主張：研究中國歷史應重視中國的內在動力，注意中國人如何認識自己的處境，如何理解西方，以及如何根據中國的需求 and 內在脈絡，反應外來衝擊。請問：",
+      "passage": "## 題組：43-44 題\n1950、60 年代，美國歷史學界提出「衝擊－回應」模式，認為中國近代歷史是因為回應西方挑戰而發展。如甲學者強調：列強衝擊推動了中國近代社會的現代化，沒有外力，中國難以自行產生現代化變革。由於越戰失利，美國史家開始重新審視以西方作為衡量歷史發展的標準；70 年代，美國與中華人民共和國關係大幅改變，學術研究變得多元。如乙學者主張：研究中國歷史應重視中國的內在動力，注意中國人如何認識自己的處境，如何理解西方，以及如何根據中國的需求 和內在脈絡，反應外來衝擊。請問：",
       "options": [
-        "韓戰結束後中國停止「抗美援朝」 (B) 美國的第七艦隊進入臺灣海峽巡弋",
-        "越南成為中、美軍事對抗的主戰場 (D) 美國總統尼克森親自訪問中國北京"
+        "韓戰結束後中國停止「抗美援朝」",
+        "美國的第七艦隊進入臺灣海峽巡弋",
+        "越南成為中、美軍事對抗的主戰場",
+        "美國總統尼克森親自訪問中國北京"
       ],
       "answer": "D",
       "type": "single",
@@ -582,8 +596,8 @@
     },
     {
       "number": 44,
-      "text": "依據題文，若以義和團事件為例，下列何者最符合乙學者觀點？請在答題卷勾選一個正確選項，並說明甲、乙兩位學者觀點的主要差異為何？（4 分）",
-      "passage": "**題組：43-44 題**\n1950、60 年代，美國歷史學界提出「衝擊－回應」模式，認為中國近代歷史是因為回應西方挑戰而發展。如甲學者強調：列強衝擊推動了中國近代社會的現代化，沒有外力，中國難以自行產生現代化變革。由於越戰失利，美國史家開始重新審視以西方作為衡量歷史發展的標準；70 年代，美國與中華人民共和國關係大幅改變，學術研究變得多元。如乙學者主張：研究中國歷史應重視中國的內在動力，注意中國人如何認識自己的處境，如何理解西方，以及如何根據中國的需求 and 內在脈絡，反應外來衝擊。請問：",
+      "text": "<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/社會/q44_form3.webp\" style=\"max-width: 650px;\" alt=\"學派差異比較表\"></div><br>\n依據題文，若以義和團事件為例，下列何者最符合乙學者觀點？請在答題卷勾選一個正確選項，並說明甲、乙兩位學者觀點的主要差異為何？（4 分）",
+      "passage": "## 題組：43-44 題\n1950、60 年代，美國歷史學界提出「衝擊－回應」模式，認為中國近代歷史是因為回應西方挑戰而發展。如甲學者強調：列強衝擊推動了中國近代社會的現代化，沒有外力，中國難以自行產生現代化變革。由於越戰失利，美國史家開始重新審視以西方作為衡量歷史發展的標準；70 年代，美國與中華人民共和國關係大幅改變，學術研究變得多元。如乙學者主張：研究中國歷史應重視中國的內在動力，注意中國人如何認識自己的處境，如何理解西方，以及如何根據中國的需求 和內在脈絡，反應外來衝擊。請問：",
       "options": [],
       "answer": "",
       "type": "essay",
@@ -591,8 +605,8 @@
     },
     {
       "number": 45,
-      "text": "<br><img src=\"/images/ceec/115/學測/社會/page_13_img_1.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n<br><img src=\"/images/ceec/115/學測/社會/page_13_img_2.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n題文中，塔利班政權摧毀巴米揚大佛的原因，最可能是：",
-      "passage": "**題組：45-46 題**\n阿富汗地處西亞，這裡是歷史上東西方貿易的重要通道，也曾是佛教傳布的樞紐。以中部巴米揚為例，山谷內有許多早期佛教苦行僧挖鑿居住的石窟、繪製的壁畫，以及在西元六、七世紀直接以岩石開鑿的兩尊巨大立佛像，俗稱「巴米揚大佛」（照片 2），都說明了這裡曾是佛教信仰中心。學者分析巴米揚立佛像，認為在衣紋與雙腳姿勢上，受到希臘化藝術風格影響，這是因為此區位於古代絲路，就像中國敦煌早期的泥塑彩繪佛像，五官與衣紋也呈現希臘化雕像的元素。\n\n阿富汗在九世紀接受伊斯蘭信仰後，佛教藝術逐漸凋零。然而最嚴重的毀損是在 2001 年，媒體報導伊斯蘭塔利班政權用砲彈與炸藥將兩尊巴米揚大佛完全摧毀，如今只剩兩個空洞的石窟供後人憑弔。請問：",
+      "text": "題文中，塔利班政權摧毀巴米揚大佛的原因，最可能是：",
+      "passage": "## 題組：45-46 題\n<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/社會/q45_photo2.webp\" style=\"max-width: 550px;\" alt=\"照片2\"></div><br>\n阿富汗地處西亞，這裡是歷史上東西方貿易的重要通道，也曾是佛教傳布的樞紐。以中部巴米揚為例，山谷內有許多早期佛教苦行僧挖鑿居住的石窟、繪製的壁畫，以及在西元六、七世紀直接以岩石開鑿的兩尊巨大立佛像，俗稱「巴米揚大佛」（照片 2），都說明了這裡曾是佛教信仰中心。學者分析巴米揚立佛像，認為在衣紋與雙腳姿勢上，受到希臘化藝術風格影響，這是因為此區位於古代絲路，就像中國敦煌早期的泥塑彩繪佛像，五官與衣紋也呈現希臘化雕像的元素。\n\n阿富汗在九世紀接受伊斯蘭信仰後，佛教藝術逐漸凋零。然而最嚴重的毀損是在 2001 年，媒體報導伊斯蘭塔利班政權用砲彈與炸藥將兩尊巴米揚大佛完全摧毀，如今只剩兩個空洞的石窟供後人憑弔。請問：",
       "options": [
         "佛像象徵偶像崇拜，不符合他們認定的伊斯蘭信仰觀點",
         "巴米揚山谷是重要戰略通道，設立大佛像不利戰略布署",
@@ -605,8 +619,8 @@
     },
     {
       "number": 46,
-      "text": "題文提到「希臘化」，促使該現象得以在中亞地區形成的最關鍵事件為何？請在答題卷勾選一個正確選項，並說明巴米揚與敦煌的佛像都具有希臘化元素的原因為何？（4 分）",
-      "passage": "**題組：45-46 題**\n阿富汗地處西亞，這裡是歷史上東西方貿易的重要通道，也曾是佛教傳布的樞紐。以中部巴米揚為例，山谷內有許多早期佛教苦行僧挖鑿居住的石窟、繪製的壁畫，以及在西元六、七世紀直接以岩石開鑿的兩尊巨大立佛像，俗稱「巴米揚大佛」（照片 2），都說明了這裡曾是佛教信仰中心。學者分析巴米揚立佛像，認為在衣紋與雙腳姿勢上，受到希臘化藝術風格影響，這是因為此區位於古代絲路，就像中國敦煌早期的泥塑彩繪佛像，五官與衣紋也呈現希臘化雕像的元素。\n\n阿富汗在九世紀接受伊斯蘭信仰後，佛教藝術逐漸凋零。然而最嚴重的毀損是在 2001 年，媒體報導伊斯蘭塔利班政權用砲彈與炸藥將兩尊巴米揚大佛完全摧毀，如今只剩兩個空洞的石窟供後人憑弔。請問：",
+      "text": "<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/社會/q46_form4.webp\" style=\"max-width: 650px;\" alt=\"希臘化關鍵事件表格\"></div><br>\n題文提到「希臘化」，促使該現象得以在中亞地區形成的最關鍵事件為何？請在答題卷勾選一個正確選項，並說明巴米揚與敦煌的佛像都具有希臘化元素的原因為何？（4 分）",
+      "passage": "## 題組：45-46 題\n<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/社會/q45_photo2.webp\" style=\"max-width: 550px;\" alt=\"照片2\"></div><br>\n阿富汗地處西亞，這裡是歷史上東西方貿易的重要通道，也曾是佛教傳布的樞紐。以中部巴米揚為例，山谷內有許多早期佛教苦行僧挖鑿居住的石窟、繪製的壁畫，以及在西元六、七世紀直接以岩石開鑿的兩尊巨大立佛像，俗稱「巴米揚大佛」（照片 2），都說明了這裡曾是佛教信仰中心。學者分析巴米揚立佛像，認為在衣紋與雙腳姿勢上，受到希臘化藝術風格影響，這是因為此區位於古代絲路，就像中國敦煌早期的泥塑彩繪佛像，五官與衣紋也呈現希臘化雕像的元素。\n\n阿富汗在九世紀接受伊斯蘭信仰後，佛教藝術逐漸凋零。然而最嚴重的毀損是在 2001 年，媒體報導伊斯蘭塔利班政權用砲彈與炸藥將兩尊巴米揚大佛完全摧毀，如今只剩兩個空洞的石窟供後人憑弔。請問：",
       "options": [],
       "answer": "",
       "type": "essay",
@@ -614,11 +628,13 @@
     },
     {
       "number": 47,
-      "text": "<br><img src=\"/images/ceec/115/學測/社會/page_14_img_2.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n依據題文與圖 8 內容，最適合以下列哪組概念來解釋？",
-      "passage": "**題組：47-49 題**\n受到中、美兩國互相提高關稅衍生的貿易戰，與俄羅斯入侵烏克蘭的戰爭影響，許多國家紛紛透過補貼政策扶植本國特定產業。根據統計，2022 年與 2023 年，世界各國實施的貿易限制項目，比 2019 年 COVID-19 疫情前增加了 3 倍。WTO 資料也顯示，2022 至 2023 年全球商品貿易量僅成長 2.8%，相較前期的 9.4%大幅下降。圖 8 為 2022 至 2023 年全球主要區域經濟體的貿易量變化圖。請問：",
+      "text": "依據題文與圖 8 內容，最適合以下列哪組概念來解釋？",
+      "passage": "## 題組：47-49 題\n<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/社會/group47_fig8.webp\" style=\"max-width: 750px;\" alt=\"圖8\"></div><br>\n受到中、美兩國互相提高關稅衍生的貿易戰，與俄羅斯入侵烏克蘭的戰爭影響，許多國家紛紛透過補貼政策扶植本國特定產業。根據統計，2022 年與 2023 年，世界各國實施的貿易限制項目，比 2019 年 COVID-19 疫情前增加了 3 倍。WTO 資料也顯示，2022 至 2023 年全球商品貿易量僅成長 2.8%，相較前期的 9.4%大幅下降。圖 8 為 2022 至 2023 年全球主要區域經濟體的貿易量變化圖。請問：",
       "options": [
-        "空間重組與產業變遷 (B) 交通革新與時空收斂",
-        "地緣政治與全球化挑戰 (D) 核心國家發展的擴散現象"
+        "空間重組與產業變遷",
+        "交通革新與時空收斂",
+        "地緣政治與全球化挑戰",
+        "核心國家發展的擴散現象"
       ],
       "answer": "C",
       "type": "single",
@@ -627,7 +643,7 @@
     {
       "number": 48,
       "text": "題文中的兩個事件對美國都市發展帶來的影響，最可能包括下列何者？",
-      "passage": "**題組：47-49 題**\n受到中、美兩國互相提高關稅衍生的貿易戰，與俄羅斯入侵烏克蘭的戰爭影響，許多國家紛紛透過補貼政策扶植本國特定產業。根據統計，2022 年與 2023 年，世界各國實施的貿易限制項目，比 2019 年 COVID-19 疫情前增加了 3 倍。WTO 資料也顯示，2022 至 2023 年全球商品貿易量僅成長 2.8%，相較前期的 9.4%大幅下降。圖 8 為 2022 至 2023 年全球主要區域經濟體的貿易量變化圖。請問：",
+      "passage": "## 題組：47-49 題\n<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/社會/group47_fig8.webp\" style=\"max-width: 750px;\" alt=\"圖8\"></div><br>\n受到中、美兩國互相提高關稅衍生的貿易戰，與俄羅斯入侵烏克蘭的戰爭影響，許多國家紛紛透過補貼政策扶植本國特定產業。根據統計，2022 年與 2023 年，世界各國實施的貿易限制項目，比 2019 年 COVID-19 疫情前增加了 3 倍。WTO 資料也顯示，2022 至 2023 年全球商品貿易量僅成長 2.8%，相較前期的 9.4%大幅下降。圖 8 為 2022 至 2023 年全球主要區域經濟體的貿易量變化圖。請問：",
       "options": [
         "難民透過陸路抵美，帶來紐約（40°43' N，74°00' W）文化衝突的隱憂",
         "貨物流通頻率降低，影響芝加哥（41°52' N，87°37' W）海港的關稅收入",
@@ -640,8 +656,8 @@
     },
     {
       "number": 49,
-      "text": "僅依據圖 8 的資料，烏俄戰爭期間俄羅斯在區域互賴上的變化，最可能呈現出什麼特點？請在答題卷作答區作答。（3 分，35 字內）",
-      "passage": "**題組：47-49 題**\n受到中、美兩國互相提高關稅衍生的貿易戰，與俄羅斯入侵烏克蘭的戰爭影響，許多國家紛紛透過補貼政策扶植本國特定產業。根據統計，2022 年與 2023 年，世界各國實施的貿易限制項目，比 2019 年 COVID-19 疫情前增加了 3 倍。WTO 資料也顯示，2022 至 2023 年全球商品貿易量僅成長 2.8%，相較前期的 9.4%大幅下降。圖 8 為 2022 至 2023 年全球主要區域經濟體的貿易量變化圖。請問：",
+      "text": "<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/社會/q49_form5.webp\" style=\"max-width: 650px;\" alt=\"烏俄戰爭變化特點表格\"></div><br>\n僅依據圖 8 的資料，烏俄戰爭期間俄羅斯在區域互賴上的變化，最可能呈現出什麼特點？請在答題卷作答區作答。（3 分，35 字內）",
+      "passage": "## 題組：47-49 題\n<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/社會/group47_fig8.webp\" style=\"max-width: 750px;\" alt=\"圖8\"></div><br>\n受到中、美兩國互相提高關稅衍生的貿易戰，與俄羅斯入侵烏克蘭的戰爭影響，許多國家紛紛透過補貼政策扶植本國特定產業。根據統計，2022 年與 2023 年，世界各國實施的貿易限制項目，比 2019 年 COVID-19 疫情前增加了 3 倍。WTO 資料也顯示，2022 至 2023 年全球商品貿易量僅成長 2.8%，相較前期的 9.4%大幅下降。圖 8 為 2022 至 2023 年全球主要區域經濟體的貿易量變化圖。請問：",
       "options": [],
       "answer": "",
       "type": "essay",
@@ -650,7 +666,7 @@
     {
       "number": 50,
       "text": "依據題文，下列何者最能說明當時社會之性別文化？",
-      "passage": "**題組：50-52 題**\n從文化政策角度來看，我國曾存在國家以公權力抑制特定文化之現象。例如，1970 年代，以本土語言播出的布袋戲電視節目轟動一時，卻遭禁播。禁播原因之一為政府宣稱節目充斥低俗趣味，且有違國語運動政策。而該劇主題曲也因為歌詞提及女主角「討厭交男子，歡迎女朋友」，帶有同性戀隱喻，且強調女主角喜好江湖風流，不符女性應有氣質，遭到禁播。\n\n針對前述現象，有學者提出，當時無論在公開場合、文學或表演藝術的領域，已出現本土語文的更普遍使用。例如在選舉期間，有候選人幾乎全程採用本土語言進行街頭演講，同時也有鄉土文學作家書寫草根人物的本土語言習慣。請問：",
+      "passage": "## 題組：50-52 題\n從文化政策角度來看，我國曾存在國家以公權力抑制特定文化之現象。例如，1970 年代，以本土語言播出的布袋戲電視節目轟動一時，卻遭禁播。禁播原因之一為政府宣稱節目充斥低俗趣味，且有違國語運動政策。而該劇主題曲也因為歌詞提及女主角「討厭交男子，歡迎女朋友」，帶有同性戀隱喻，且強調女主角喜好江湖風流，不符女性應有氣質，遭到禁播。\n\n針對前述現象，有學者提出，當時無論在公開場合、文學或表演藝術的領域，已出現本土語文的更普遍使用。例如在選舉期間，有候選人幾乎全程採用本土語言進行街頭演講，同時也有鄉土文學作家書寫草根人物的本土語言習慣。請問：",
       "options": [
         "當時流行文化已開始出現物化女性現象",
         "異性戀文化受挑戰而無法佔有主流地位",
@@ -664,7 +680,7 @@
     {
       "number": 51,
       "text": "依據題文，我國當時官方政策與語言文化之間的關連性，最適合以下列何項敘述加以詮釋？",
-      "passage": "**題組：50-52 題**\n從文化政策角度來看，我國曾存在國家以公權力抑制特定文化之現象。例如，1970 年代，以本土語言播出的布袋戲電視節目轟動一時，卻遭禁播。禁播原因之一為政府宣稱節目充斥低俗趣味，且有違國語運動政策。而該劇主題曲也因為歌詞提及女主角「討厭交男子，歡迎女朋友」，帶有同性戀隱喻，且強調女主角喜好江湖風流，不符女性應有氣質，遭到禁播。\n\n針對前述現象，有學者提出，當時無論在公開場合、文學或表演藝術的領域，已出現本土語文的更普遍使用。例如在選舉期間，有候選人幾乎全程採用本土語言進行街頭演講，同時也有鄉土文學作家書寫草根人物的本土語言習慣。請問：",
+      "passage": "## 題組：50-52 題\n從文化政策角度來看，我國曾存在國家以公權力抑制特定文化之現象。例如，1970 年代，以本土語言播出的布袋戲電視節目轟動一時，卻遭禁播。禁播原因之一為政府宣稱節目充斥低俗趣味，且有違國語運動政策。而該劇主題曲也因為歌詞提及女主角「討厭交男子，歡迎女朋友」，帶有同性戀隱喻，且強調女主角喜好江湖風流，不符女性應有氣質，遭到禁播。\n\n針對前述現象，有學者提出，當時無論在公開場合、文學或表演藝術的領域，已出現本土語文的更普遍使用。例如在選舉期間，有候選人幾乎全程採用本土語言進行街頭演講，同時也有鄉土文學作家書寫草根人物的本土語言習慣。請問：",
       "options": [
         "文化政策體現權力不平等，主要存在於媒體再現之中",
         "文化政策雖欲強化特定文化形象，卻仍面對反對力量",
@@ -677,8 +693,8 @@
     },
     {
       "number": 52,
-      "text": "依據題文及你的歷史知識，戰後政府有許多管制臺灣社會文化的手段，這些手段與下列哪個法令的施行最有關？請在答題卷勾選一個正確選項，並說明判斷理由。（4 分）",
-      "passage": "**題組：50-52 題**\n從文化政策角度來看，我國曾存在國家以公權力抑制特定文化之現象。例如，1970 年代，以本土語言播出的布袋戲電視節目轟動一時，卻遭禁播。禁播原因之一為政府宣稱節目充斥低俗趣味，且有違國語運動政策。而該劇主題曲也因為歌詞提及女主角「討厭交男子，歡迎女朋友」，帶有同性戀隱喻，且強調女主角喜好江湖風流，不符女性應有氣質，遭到禁播。\n\n針對前述現象，有學者提出，當時無論在公開場合、文學或表演藝術的領域，已出現本土語文的更普遍使用。例如在選舉期間，有候選人幾乎全程採用本土語言進行街頭演講，同時也有鄉土文學作家書寫草根人物的本土語言習慣。請問：",
+      "text": "<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/社會/q52_form6.webp\" style=\"max-width: 650px;\" alt=\"法令勾選表\"></div><br>\n依據題文及你的歷史知識，戰後政府有許多管制臺灣社會文化的手段，這些手段與下列哪個法令的施行最有關？請在答題卷勾選一個正確選項，並說明判斷理由。（4 分）",
+      "passage": "## 題組：50-52 題\n從文化政策角度來看，我國曾存在國家以公權力抑制特定文化之現象。例如，1970 年代，以本土語言播出的布袋戲電視節目轟動一時，卻遭禁播。禁播原因之一為政府宣稱節目充斥低俗趣味，且有違國語運動政策。而該劇主題曲也因為歌詞提及女主角「討厭交男子，歡迎女朋友」，帶有同性戀隱喻，且強調女主角喜好江湖風流，不符女性應有氣質，遭到禁播。\n\n針對前述現象，有學者提出，當時無論在公開場合、文學或表演藝術的領域，已出現本土語文的更普遍使用。例如在選舉期間，有候選人幾乎全程採用本土語言進行街頭演講，同時也有鄉土文學作家書寫草根人物的本土語言習慣。請問：",
       "options": [],
       "answer": "",
       "type": "essay",
@@ -686,8 +702,8 @@
     },
     {
       "number": 53,
-      "text": "<br><img src=\"/images/ceec/115/學測/社會/page_16_img_1.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n<br><img src=\"/images/ceec/115/學測/社會/page_16_img_6.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n晚清臺灣民間資本家願意支持鐵路建設，最可能的原因為何？",
-      "passage": "**題組：53-54 題**\n晚清劉銘傳撫臺期間，致力修築鐵路，但因財政困難，乃尋求民間資金合作，完成基隆到新竹的路段。日治以後，總督府因該鐵路的臺北—桃仔園路段有二大不利因素而廢止舊線，另外改建新線，原舊線大部分路段改為公路使用（今臺 1 線公路）。圖 9 是此路段內新、舊線鐵路套疊地形暈渲圖，圖 10 為舊線塔寮坑至龜崙嶺路段沿線地區的等高線圖。請問：",
+      "text": "晚清臺灣民間資本家願意支持鐵路建設，最可能的原因為何？",
+      "passage": "## 題組：53-54 題\n<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/社會/group53_fig9.webp\" style=\"max-width: 750px;\" alt=\"圖9\"></div><br>\n<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/社會/group53_fig10.webp\" style=\"max-width: 750px;\" alt=\"圖10\"></div><br>\n晚清劉銘傳撫臺期間，致力修築鐵路，但因財政困難，乃尋求民間資金合作，完成基隆到新竹的路段。日治以後，總督府因該鐵路的臺北—桃仔園路段有二大不利因素而廢止舊線，另外改建新線，原舊線大部分路段改為公路使用（今臺 1 線公路）。圖 9 是此路段內新、舊線鐵路套疊地形暈渲圖，圖 10 為舊線塔寮坑至龜崙嶺路段沿線地區的等高線圖。請問：",
       "options": [
         "便利漢人移民遷居北部的丘陵地區",
         "提升港口與交通建設便利商品外銷",
@@ -700,8 +716,8 @@
     },
     {
       "number": 54,
-      "text": "總督府認為臺北—桃仔園路段的舊線有二大不利因素而改建新線，其中一項是舊線鄰近大嵙崁溪（大漢溪）的路段容易發生水患。僅根據圖 9、圖 10 的資訊判斷，另一項不利因素為何？請在答題卷作答區，寫出一項從圖 9、圖 10 判讀後的圖面資訊。（3 分，10 字內）",
-      "passage": "**題組：53-54 題**\n晚清劉銘傳撫臺期間，致力修築鐵路，但因財政困難，乃尋求民間資金合作，完成基隆到新竹的路段。日治以後，總督府因該鐵路的臺北—桃仔園路段有二大不利因素而廢止舊線，另外改建新線，原舊線大部分路段改為公路使用（今臺 1 線公路）。圖 9 是此路段內新、舊線鐵路套疊地形暈渲圖，圖 10 為舊線塔寮坑至龜崙嶺路段沿線地區的等高線圖。請問：",
+      "text": "<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/社會/q54_form7.webp\" style=\"max-width: 600px;\" alt=\"不利因素表格\"></div><br>\n總督府認為臺北—桃仔園路段的舊線有二大不利因素而改建新線，其中一項是舊線鄰近大嵙崁溪（大漢溪）的路段容易發生水患。僅根據圖 9、圖 10 的資訊判斷，另一項不利因素為何？請在答題卷作答區，寫出一項從圖 9、圖 10 判讀後的圖面資訊。（3 分，10 字內）",
+      "passage": "## 題組：53-54 題\n<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/社會/group53_fig9.webp\" style=\"max-width: 750px;\" alt=\"圖9\"></div><br>\n<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/社會/group53_fig10.webp\" style=\"max-width: 750px;\" alt=\"圖10\"></div><br>\n晚清劉銘傳撫臺期間，致力修築鐵路，但因財政困難，乃尋求民間資金合作，完成基隆到新竹的路段。日治以後，總督府因該鐵路的臺北—桃仔園路段有二大不利因素而廢止舊線，另外改建新線，原舊線大部分路段改為公路使用（今臺 1 線公路）。圖 9 是此路段內新、舊線鐵路套疊地形暈渲圖，圖 10 為舊線塔寮坑至龜崙嶺路段沿線地區的等高線圖。請問：",
       "options": [],
       "answer": "",
       "type": "essay",
@@ -710,7 +726,7 @@
     {
       "number": 55,
       "text": "上述地點最可能位於今日的哪一城市？",
-      "passage": "**題組：55-56 題**\n某高中生探究「多元文化」主題時，看到十九世紀後期一位歐洲作家到亞洲旅行時的紀錄，寫到：「某地」因為發現礦產與橡膠種植，吸引了亞洲各地人士搭乘帆船、汽船或阿拉伯式小船抵達這城市，景象驚人。一位當地船夫表示：「女王很好──我們苦力能賺到錢；而且能把錢存起來。」儘管工作辛苦，但人們不需要倚賴他人，還能保有自己的服飾、習俗與宗教。\n\n該生反思後認為，當時統治者只關注治安與稅收，並安排各族群只能從事特定的職業，例如白人是官員，華人從事貿易或採礦，印度人充當警察、傭兵，本地土著則為苦力與農、漁工等。統治者雖然讓他們依據各自的傳統或宗教習俗進行自治，但這不合乎當今法治國家對於族群多元的重視方式。當今法治國家政策會更重視各族群處境的不同，給予合理差別待遇以促進各族群的發展。請問：",
+      "passage": "## 題組：55-56 題\n某高中生探究「多元文化」主題時，看到十九世紀後期一位歐洲作家到亞洲旅行時的紀錄，寫到：「某地」因為發現礦產與橡膠種植，吸引了亞洲各地人士搭乘帆船、汽船或阿拉伯式小船抵達這城市，景象驚人。一位當地船夫表示：「女王很好──我們苦力能賺到錢；而且能把錢存起來。」儘管工作辛苦，但人們不需要倚賴他人，還能保有自己的服飾、習俗與宗教。\n\n該生反思後認為，當時統治者只關注治安與稅收，並安排各族群只能從事特定的職業，例如白人是官員，華人從事貿易或採礦，印度人充當警察、傭兵，本地土著則為苦力與農、漁工等。統治者雖然讓他們依據各自的傳統或宗教習俗進行自治，但這不合乎當今法治國家對於族群多元的重視方式。當今法治國家政策會更重視各族群處境的不同，給予合理差別待遇以促進各族群的發展。請問：",
       "options": [
         "印尼的雅加達",
         "馬來西亞的檳城",
@@ -723,8 +739,8 @@
     },
     {
       "number": 56,
-      "text": "依據題文，該高中生反思後作成什麼結論，最符合其探究的角度？請在答題卷作答區表格內左欄勾選一項最符合之結論，並在右欄依據題文填寫當今法治國家政策所依據的理念。（3 分，左欄勾選正確，右欄始計分）",
-      "passage": "**題組：55-56 題**\n某高中生探究「多元文化」主題時，看到十九世紀後期一位歐洲作家到亞洲旅行時的紀錄，寫到：「某地」因為發現礦產與橡膠種植，吸引了亞洲各地人士搭乘帆船、汽船或阿拉伯式小船抵達這城市，景象驚人。一位當地船夫表示：「女王很好──我們苦力能賺到錢；而且能把錢存起來。」儘管工作辛苦，但人們不需要倚賴他人，還能保有自己的服飾、習俗與宗教。\n\n該生反思後認為，當時統治者只關注治安與稅收，並安排各族群只能從事特定的職業，例如白人是官員，華人從事貿易或採礦，印度人充當警察、傭兵，本地土著則為苦力與農、漁工等。統治者雖然讓他們依據各自的傳統或宗教習俗進行自治，但這不合乎當今法治國家對於族群多元的重視方式。當今法治國家政策會更重視各族群處境的不同，給予合理差別待遇以促進各族群的發展。請問：",
+      "text": "<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/社會/q56_form8.webp\" style=\"max-width: 700px;\" alt=\"法治觀念表格\"></div><br>\n依據題文，該高中生反思後作成什麼結論，最符合其探究的角度？請在答題卷作答區表格內左欄勾選一項最符合之結論，並在右欄依據題文填寫當今法治國家政策所依據的理念。（3 分，左欄勾選正確，右欄始計分）",
+      "passage": "## 題組：55-56 題\n某高中生探究「多元文化」主題時，看到十九世紀後期一位歐洲作家到亞洲旅行時的紀錄，寫到：「某地」因為發現礦產與橡膠種植，吸引了亞洲各地人士搭乘帆船、汽船或阿拉伯式小船抵達這城市，景象驚人。一位當地船夫表示：「女王很好──我們苦力能賺到錢；而且能把錢存起來。」儘管工作辛苦，但人們不需要倚賴他人，還能保有自己的服飾、習俗與宗教。\n\n該生反思後認為，當時統治者只關注治安與稅收，並安排各族群只能從事特定的職業，例如白人是官員，華人從事貿易或採礦，印度人充當警察、傭兵，本地土著則為苦力與農、漁工等。統治者雖然讓他們依據各自的傳統或宗教習俗進行自治，但這不合乎當今法治國家對於族群多元的重視方式。當今法治國家政策會更重視各族群處境的不同，給予合理差別待遇以促進各族群的發展。請問：",
       "options": [],
       "answer": "",
       "type": "essay",
@@ -732,8 +748,8 @@
     },
     {
       "number": 57,
-      "text": "<br><img src=\"/images/ceec/115/學測/社會/page_18_img_2.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n<br><img src=\"/images/ceec/115/學測/社會/page_18_img_13.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n<br><img src=\"/images/ceec/115/學測/社會/page_18_img_19.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n<br><img src=\"/images/ceec/115/學測/社會/page_18_img_20.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n文中兩國交戰的場景，最符合圖 11 中甲、乙、丙、丁何者？交戰雙方為何？",
-      "passage": "**題組：57-60 題**\n歷史上中國水災頻仍，其中以黃河水患為最。黃河多水患的原因，有源自自然因素，如流域乾濕季節分明、河水含沙量大等，然而其所攜帶的泥沙量，具有造陸功能；此外，也有源自人為因素，例如，某一時期，兩國交戰，位於中原的政權曾多次決堤以阻北方遊牧民族南下，終導致黃河改道，奪淮河河道入海。戰爭結果使中原政權被迫遷都，兩國改以淮河流域為界。而戰爭加上河患，也使位居淮河流域地區的住民大規模徙出。學者 A 將史料記載數百年間的河道、出海口、水患與治河措施地點，選擇適當的投影方式分別按時期標示於底圖上，繪製成圖 11。然而學者 B 檢視這些地圖，發現各時期的黃河河道套疊在底圖時，無法從底圖看到分別對應的出海口，因此認為學者 A 在底圖選用上發生失誤。請問：",
+      "text": "文中兩國交戰的場景，最符合圖 11 中甲、乙、丙、丁何者？交戰雙方為何？",
+      "passage": "## 題組：57-60 題\n<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/社會/group57_fig11.webp\" style=\"max-width: 800px;\" alt=\"圖 11\"></div><br>\n歷史上中國水災頻仍，其中以黃河水患為最。黃河多水患的原因，有源自自然因素，如流域乾濕季節分明、河水含沙量大等，然而其所攜帶的泥沙量，具有造陸功能；此外，也有源自人為因素，例如，某一時期，兩國交戰，位於中原的政權曾多次決堤以阻北方遊牧民族南下，終導致黃河改道，奪淮河河道入海。戰爭結果使中原政權被迫遷都，兩國改以淮河流域為界。而戰爭加上河患，也使位居淮河流域地區的住民大規模徙出。學者 A 將史料記載數百年間的河道、出海口、水患與治河措施地點，選擇適當的投影方式分別按時期標示於底圖上，繪製成圖 11。然而學者 B 檢視這些地圖，發現各時期的黃河河道套疊在底圖時，無法從底圖看到分別對應的出海口，因此認為學者 A 在底圖選用上發生失誤。請問：",
       "options": [
         "甲；西晉與匈奴",
         "乙；北宋與金國",
@@ -747,10 +763,12 @@
     {
       "number": 58,
       "text": "題文提及因戰爭加上河患曾迫使人群大規模遷出。若想進一步探索遷出人群的移入地區及其影響，以下哪種史料最相關？",
-      "passage": "**題組：57-60 題**\n歷史上中國水災頻仍，其中以黃河水患為最。黃河多水患的原因，有源自自然因素，如流域乾濕季節分明、河水含沙量大等，然而其所攜帶的泥沙量，具有造陸功能；此外，也有源自人為因素，例如，某一時期，兩國交戰，位於中原的政權曾多次決堤以阻北方遊牧民族南下，終導致黃河改道，奪淮河河道入海。戰爭結果使中原政權被迫遷都，兩國改以淮河流域為界。而戰爭加上河患，也使位居淮河流域地區的住民大規模徙出。學者 A 將史料記載數百年間的河道、出海口、水患與治河措施地點，選擇適當的投影方式分別按時期標示於底圖上，繪製成圖 11。然而學者 B 檢視這些地圖，發現各時期的黃河河道套疊在底圖時，無法從底圖看到分別對應的出海口，因此認為學者 A 在底圖選用上發生失誤。請問：",
+      "passage": "## 題組：57-60 題\n<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/社會/group57_fig11.webp\" style=\"max-width: 800px;\" alt=\"圖 11\"></div><br>\n歷史上中國水災頻仍，其中以黃河水患為最。黃河多水患的原因，有源自自然因素，如流域乾濕季節分明、河水含沙量大等，然而其所攜帶的泥沙量，具有造陸功能；此外，也有源自人為因素，例如，某一時期，兩國交戰，位於中原的政權曾多次決堤以阻北方遊牧民族南下，終導致黃河改道，奪淮河河道入海。戰爭結果使中原政權被迫遷都，兩國改以淮河流域為界。而戰爭加上河患，也使位居淮河流域地區的住民大規模徙出。學者 A 將史料記載數百年間的河道、出海口、水患與治河措施地點，選擇適當的投影方式分別按時期標示於底圖上，繪製成圖 11。然而學者 B 檢視這些地圖，發現各時期的黃河河道套疊在底圖時，無法從底圖看到分別對應的出海口，因此認為學者 A 在底圖選用上發生失誤。請問：",
       "options": [
-        "地方官修補河堤的紀念碑文 (B) 官府在淮河流域徵稅的冊籍",
-        "史書中南方的戶口統計資料 (D) 畫有黃河水系的地方志地圖"
+        "地方官修補河堤的紀念碑文",
+        "官府在淮河流域徵稅的冊籍",
+        "史書中南方的戶口統計資料",
+        "畫有黃河水系的地方志地圖"
       ],
       "answer": "C",
       "type": "single",
@@ -759,10 +777,12 @@
     {
       "number": 59,
       "text": "某生嘗試以圖 11 資料估算，某一次黃河水患對農產品市場供給線左移的幅度，但發現資料有些不足。若能提供下列哪項資料，最能改善該生估算數值的精確度？",
-      "passage": "**題組：57-60 題**\n歷史上中國水災頻仍，其中以黃河水患為最。黃河多水患的原因，有源自自然因素，如流域乾濕季節分明、河水含沙量大等，然而其所攜帶的泥沙量，具有造陸功能；此外，也有源自人為因素，例如，某一時期，兩國交戰，位於中原的政權曾多次決堤以阻北方遊牧民族南下，終導致黃河改道，奪淮河河道入海。戰爭結果使中原政權被迫遷都，兩國改以淮河流域為界。而戰爭加上河患，也使位居淮河流域地區的住民大規模徙出。學者 A 將史料記載數百年間的河道、出海口、水患與治河措施地點，選擇適當的投影方式分別按時期標示於底圖上，繪製成圖 11。然而學者 B 檢視這些地圖，發現各時期的黃河河道套疊在底圖時，無法從底圖看到分別對應的出海口，因此認為學者 A 在底圖選用上發生失誤。請問：",
+      "passage": "## 題組：57-60 題\n<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/社會/group57_fig11.webp\" style=\"max-width: 800px;\" alt=\"圖 11\"></div><br>\n歷史上中國水災頻仍，其中以黃河水患為最。黃河多水患的原因，有源自自然因素，如流域乾濕季節分明、河水含沙量大等，然而其所攜帶的泥沙量，具有造陸功能；此外，也有源自人為因素，例如，某一時期，兩國交戰，位於中原的政權曾多次決堤以阻北方遊牧民族南下，終導致黃河改道，奪淮河河道入海。戰爭結果使中原政權被迫遷都，兩國改以淮河流域為界。而戰爭加上河患，也使位居淮河流域地區的住民大規模徙出。學者 A 將史料記載數百年間的河道、出海口、水患與治河措施地點，選擇適當的投影方式分別按時期標示於底圖上，繪製成圖 11。然而學者 B 檢視這些地圖，發現各時期的黃河河道套疊在底圖時，無法從底圖看到分別對應的出海口，因此認為學者 A 在底圖選用上發生失誤。請問：",
       "options": [
-        "水患區域範圍大小 (B) 水患淹水深度高低",
-        "水患好發季節規律 (D) 水患持續時間長短"
+        "水患區域範圍大小",
+        "水患淹水深度高低",
+        "水患好發季節規律",
+        "水患持續時間長短"
       ],
       "answer": "A",
       "type": "single",
@@ -770,8 +790,8 @@
     },
     {
       "number": 60,
-      "text": "根據題文，學者 A 在底圖選用上發生失誤的最可能原因為何？請在答題卷作答區作答。（3 分，25 字內）",
-      "passage": "**題組：57-60 題**\n歷史上中國水災頻仍，其中以黃河水患為最。黃河多水患的原因，有源自自然因素，如流域乾濕季節分明、河水含沙量大等，然而其所攜帶的泥沙量，具有造陸功能；此外，也有源自人為因素，例如，某一時期，兩國交戰，位於中原的政權曾多次決堤以阻北方遊牧民族南下，終導致黃河改道，奪淮河河道入海。戰爭結果使中原政權被迫遷都，兩國改以淮河流域為界。而戰爭加上河患，也使位居淮河流域地區的住民大規模徙出。學者 A 將史料記載數百年間的河道、出海口、水患與治河措施地點，選擇適當的投影方式分別按時期標示於底圖上，繪製成圖 11。然而學者 B 檢視這些地圖，發現各時期的黃河河道套疊在底圖時，無法從底圖看到分別對應的出海口，因此認為學者 A 在底圖選用上發生失誤。請問：",
+      "text": "<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/社會/q60_form9.webp\" style=\"max-width: 650px;\" alt=\"底圖選用失誤原因表格\"></div><br>\n根據題文，學者 A 在底圖選用上發生失誤的最可能原因為何？請在答題卷作答區作答。（3 分，25 字內）",
+      "passage": "## 題組：57-60 題\n<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/社會/group57_fig11.webp\" style=\"max-width: 800px;\" alt=\"圖 11\"></div><br>\n歷史上中國水災頻仍，其中以黃河水患為最。黃河多水患的原因，有源自自然因素，如流域乾濕季節分明、河水含沙量大等，然而其所攜帶的泥沙量，具有造陸功能；此外，也有源自人為因素，例如，某一時期，兩國交戰，位於中原的政權曾多次決堤以阻北方遊牧民族南下，終導致黃河改道，奪淮河河道入海。戰爭結果使中原政權被迫遷都，兩國改以淮河流域為界。而戰爭加上河患，也使位居淮河流域地區的住民大規模徙出。學者 A 將史料記載數百年間的河道、出海口、水患與治河措施地點，選擇適當的投影方式分別按時期標示於底圖上，繪製成圖 11。然而學者 B 檢視這些地圖，發現各時期的黃河河道套疊在底圖時，無法從底圖看到分別對應的出海口，因此認為學者 A 在底圖選用上發生失誤。請問：",
       "options": [],
       "answer": "",
       "type": "essay",
@@ -780,7 +800,7 @@
     {
       "number": 61,
       "text": "下列宗教性的儀式活動，何者最能彰顯題文中「除瘟解厄」的用意？",
-      "passage": "**題組：61-63 題**\n中國古代發生瘟疫時，官方與民間會採取各種措施作為因應。例如：地方官員設置「癘所」隔離與施藥治療，民間也會舉行各種儀式來祈求「除瘟解厄」。疫癘影響層面很多，除大量人民死亡外，許多人也會逃離疫區，另謀生路。當勞動力不足，生產力下降，國家賦稅自然減少。政府也可能改變稅制，彌補短缺。\n\n現代我國法律對法定傳染病的散播行為訂有刑罰。有法律學者指出，個人行為是否導致疾病散播，須考慮具體情形，如果僅依行為一律都施加刑罰，則有濫用刑罰來維護社會安全感之嫌。請問：",
+      "passage": "## 題組：61-63 題\n中國古代發生瘟疫時，官方與民間會採取各種措施作為因應。例如：地方官員設置「癘所」隔離與施藥治療，民間也會舉行各種儀式來祈求「除瘟解厄」。疫癘影響層面很多，除大量人民死亡外，許多人也會逃離疫區，另謀生路。當勞動力不足，生產力下降，國家賦稅自然減少。政府也可能改變稅制，彌補短缺。\n\n現代我國法律對法定傳染病的散播行為訂有刑罰。有法律學者指出，個人行為是否導致疾病散播，須考慮具體情形，如果僅依行為一律都施加刑罰，則有濫用刑罰來維護社會安全感之嫌。請問：",
       "options": [
         "基隆依張、廖、簡等姓氏排序一直到許姓，由各姓輪值主辦中元普渡祭",
         "新竹新埔褒忠義民廟，由桃竹地區的十五個聯庄，輪流主辦聯合義民祭",
@@ -794,7 +814,7 @@
     {
       "number": 62,
       "text": "依據題文，該法律學者對刑罰的觀點，與下列哪一主張最為接近？",
-      "passage": "**題組：61-63 題**\n中國古代發生瘟疫時，官方與民間會採取各種措施作為因應。例如：地方官員設置「癘所」隔離與施藥治療，民間也會舉行各種儀式來祈求「除瘟解厄」。疫癘影響層面很多，除大量人民死亡外，許多人也會逃離疫區，另謀生路。當勞動力不足，生產力下降，國家賦稅自然減少。政府也可能改變稅制，彌補短缺。\n\n現代我國法律對法定傳染病的散播行為訂有刑罰。有法律學者指出，個人行為是否導致疾病散播，須考慮具體情形，如果僅依行為一律都施加刑罰，則有濫用刑罰來維護社會安全感之嫌。請問：",
+      "passage": "## 題組：61-63 題\n中國古代發生瘟疫時，官方與民間會採取各種措施作為因應。例如：地方官員設置「癘所」隔離與施藥治療，民間也會舉行各種儀式來祈求「除瘟解厄」。疫癘影響層面很多，除大量人民死亡外，許多人也會逃離疫區，另謀生路。當勞動力不足，生產力下降，國家賦稅自然減少。政府也可能改變稅制，彌補短缺。\n\n現代我國法律對法定傳染病的散播行為訂有刑罰。有法律學者指出，個人行為是否導致疾病散播，須考慮具體情形，如果僅依行為一律都施加刑罰，則有濫用刑罰來維護社會安全感之嫌。請問：",
       "options": [
         "應以矯治手段減少再犯，毋須提高刑罰",
         "為預防犯罪，應加重刑罰加以嚇阻犯罪",
@@ -808,7 +828,7 @@
     {
       "number": 63,
       "text": "<br><img src=\"/images/ceec/115/學測/社會/page_19_img_1.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n生態平衡是一種動態平衡，若在自然環境、生產內容、生產技術不變的情況下，以題文中提到疫癘對古代社會的影響為案例，在答題卷作答區繪製出「此疫情開始」前後，該地環境負載力的可能變化示意圖。（3 分）",
-      "passage": "**題組：61-63 題**\n中國古代發生瘟疫時，官方與民間會採取各種措施作為因應。例如：地方官員設置「癘所」隔離與施藥治療，民間也會舉行各種儀式來祈求「除瘟解厄」。疫癘影響層面很多，除大量人民死亡外，許多人也會逃離疫區，另謀生路。當勞動力不足，生產力下降，國家賦稅自然減少。政府也可能改變稅制，彌補短缺。\n\n現代我國法律對法定傳染病的散播行為訂有刑罰。有法律學者指出，個人行為是否導致疾病散播，須考慮具體情形，如果僅依行為一律都施加刑罰，則有濫用刑罰來維護社會安全感之嫌。請問：",
+      "passage": "## 題組：61-63 題\n中國古代發生瘟疫時，官方與民間會採取各種措施作為因應。例如：地方官員設置「癘所」隔離與施藥治療，民間也會舉行各種儀式來祈求「除瘟解厄」。疫癘影響層面很多，除大量人民死亡外，許多人也會逃離疫區，另謀生路。當勞動力不足，生產力下降，國家賦稅自然減少。政府也可能改變稅制，彌補短缺。\n\n現代我國法律對法定傳染病的散播行為訂有刑罰。有法律學者指出，個人行為是否導致疾病散播，須考慮具體情形，如果僅依行為一律都施加刑罰，則有濫用刑罰來維護社會安全感之嫌。請問：",
       "options": [],
       "answer": "",
       "type": "essay",
@@ -817,7 +837,7 @@
     {
       "number": 64,
       "text": "伊朗若封鎖題文中的海峽，最可能會嚴重影響哪個海域的石油出口船運？",
-      "passage": "**題組：64-65 題**\n2025 年以色列宣布打擊伊朗多個軍事目標與基礎設施，稱本次行動代號為「崛起之獅」，伊朗也考慮封鎖荷莫茲海峽作為報復。若伊朗真的進行封鎖，某學者想要比較兩國分別的行動，對國際原油價格的影響。研究資料發現中東主要國家原油出口大部分要經過荷莫茲海峽，且找到一份這些國家每天原油生產量的資料（圖 12）。請問：",
+      "passage": "## 題組：64-65 題\n<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/社會/group64_fig12.webp\" style=\"max-width: 750px;\" alt=\"圖12\"></div><br>\n2025 年以色列宣布打擊伊朗多個軍事目標與基礎設施，稱本次行動代號為「崛起之獅」，伊朗也考慮封鎖荷莫茲海峽作為報復。若伊朗真的進行封鎖，某學者想要比較兩國分別的行動，對國際原油價格的影響。研究資料發現中東主要國家原油出口大部分要經過荷莫茲海峽，且找到一份這些國家每天原油生產量的資料（圖 12）。請問：",
       "options": [
         "紅海往波斯灣",
         "紅海往阿拉伯海",
@@ -830,8 +850,8 @@
     },
     {
       "number": 65,
-      "text": "根據題文資訊，若該學者以供需架構比較兩國行動對國際原油價格的影響，最可能的結論是什麼？其完整的供需推論內容如表 3，但仍留有甲、乙二項空格區。請在答題卷甲空格區填入適當文字，再於乙空格區勾選正確選項，以完成整個論述。（3 分）",
-      "passage": "**題組：64-65 題**\n2025 年以色列宣布打擊伊朗多個軍事目標與基礎設施，稱本次行動代號為「崛起之獅」，伊朗也考慮封鎖荷莫茲海峽作為報復。若伊朗真的進行封鎖，某學者想要比較兩國分別的行動，對國際原油價格的影響。研究資料發現中東主要國家原油出口大部分要經過荷莫茲海峽，且找到一份這些國家每天原油生產量的資料（圖 12）。請問：",
+      "text": "<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/社會/q65_table3.webp\" style=\"max-width: 750px;\" alt=\"表3 供需推論表格\"></div><br>\n根據題文資訊，若該學者以供需架構比較兩國行動對國際原油價格的影響，最可能的結論是什麼？其完整的供需推論內容如表 3，但仍留有甲、乙二項空格區。請在答題卷甲空格區填入適當文字，再於乙空格區勾選正確選項，以完成整個論述。（3 分）",
+      "passage": "## 題組：64-65 題\n<br><div style=\"text-align: center;\"><img src=\"/images/ceec/115/學測/社會/group64_fig12.webp\" style=\"max-width: 750px;\" alt=\"圖12\"></div><br>\n2025 年以色列宣布打擊伊朗多個軍事目標與基礎設施，稱本次行動代號為「崛起之獅」，伊朗也考慮封鎖荷莫茲海峽作為報復。若伊朗真的進行封鎖，某學者想要比較兩國分別的行動，對國際原油價格的影響。研究資料發現中東主要國家原油出口大部分要經過荷莫茲海峽，且找到一份這些國家每天原油生產量的資料（圖 12）。請問：",
       "options": [],
       "answer": "",
       "type": "essay",
