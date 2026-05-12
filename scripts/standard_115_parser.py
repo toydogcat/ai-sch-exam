@@ -133,7 +133,8 @@ def truncate_tail_at_next_passage(text):
         r'(?:\r?\n){1,}\s*##\s*.*?題組',
         r'(?:\r?\n){1,}\s*\*\*題組：.*?\*\*',
         r'(?:\r?\n){1,}\s*\*\*題組.*?\*\*',
-        r'(?:\r?\n){1,}\s*\*\*[^*]*?[一二三四五六七八九十]\s*[、.,]\s*[^*]*?\*\*'
+        r'(?:\r?\n){1,}\s*\*\*[^*]*?[一二三四五六七八九十]\s*[、.,]\s*[^*]*?\*\*',
+        r'(?:\r?\n){1,}\s*\*\*第\s*[一二三四五六七八九十壹貳參肆伍]\s*部分[^*]*?\*\*'
     ]
     earliest_pos = len(text)
     found = False
@@ -185,7 +186,8 @@ def parse_markdown_to_json(md_path, year, subject, title, duration):
         pre_gap = content[prev_end:m.start()].strip()
         
         # More robust passage seeker: Includes official sectional header titles prefixed to the 題組
-        passage_match = re.search(r'(?:(?:\*\*[^*]*?[一二三四五六七八九十]\s*[、.,]\s*[^*]*?\*\*\s*)?(?:##\s*.*題組.*|\*\*題組：.*?\*\*|\*\*題組.*?\*\*))(?:.*?)(?=\[q:|$)', pre_gap, re.DOTALL | re.IGNORECASE)
+        # Extremely robust inclusion matcher supporting numeric indexing, explicit Section markers, and variants
+        passage_match = re.search(r'(?:(?:\*\*[^*]*?(?:[一二三四五六七八九十壹貳參肆伍]\s*[、.,]|第\s*[壹貳參肆伍].*?部\s*分)[^*]*?\*\*\s*)?(?:##\s*.*題組.*|\*\*題組：.*?\*\*|\*\*題組.*?\*\*))(?:.*?)(?=\[q:|$)', pre_gap, re.DOTALL | re.IGNORECASE)
         
         if passage_match:
             current_passage = passage_match.group(0).strip()
@@ -245,6 +247,12 @@ def parse_markdown_to_json(md_path, year, subject, title, duration):
             q_payload["dropdown"] = tag_dict["dropdown"].lower() == "true"
 
         questions.append(q_payload)
+
+        # Crucial fix: Strip top-level Section titles after the VERY FIRST question in the group
+        # so subsequent group questions only present the clean narrative block
+        if current_passage:
+            sec_pat = r'^(\*\*[^*]*?(?:[一二三四五六七八九十壹貳參肆伍]\s*[、.,]|第\s*[壹貳參肆伍].*?部\s*分)[^*]*?\*\*\s*)'
+            current_passage = re.sub(sec_pat, '', current_passage, count=1, flags=re.DOTALL | re.IGNORECASE)
 
     return {
         "title": title,
