@@ -149,7 +149,7 @@
     },
     {
       "number": 10,
-      "text": "<br><img src=\"/images/ceec/115/學測/數A/數A.pdf-0004-12.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n<br><img src=\"/images/ceec/115/學測/數A/數A.pdf-0004-13.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n已知四邊形 $ABCD$ 中，$AB$ 平行 $DC$，$AC$ 與 $BD$ 交於 $E$。若 $\\vec{AB}=(2,-6)$, $\\vec{AD}=(1,5)$ 且 $\\Delta ABE$ 面積為 3。試選出正確的選項。",
+      "text": "已知四邊形 $ABCD$ 中，$AB$ 平行 $DC$，$AC$ 與 $BD$ 交於 $E$。若 $\\vec{AB}=(2,-6)$, $\\vec{AD}=(1,5)$ 且 $\\Delta ABE$ 面積為 3。試選出正確的選項。",
       "passage": "",
       "options": [
         "$\\cos\\angle BAD=\\frac{-7\\sqrt{65}}{65}$",
@@ -167,7 +167,7 @@
     },
     {
       "number": 11,
-      "text": "<br><img src=\"/images/ceec/115/學測/數A/數A.pdf-0005-03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n<br><img src=\"/images/ceec/115/學測/數A/數A.pdf-0005-04.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n<br><img src=\"/images/ceec/115/學測/數A/數A.pdf-0005-05.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n令 $\\Gamma$ 為坐標平面上 $y=\\cos(\\frac{\\pi}{2}x)$ 的圖形。對任一實數 $m \\ne 0$，以 $L_m$ 表示直線 $y=mx+1$。試選出正確的選項。",
+      "text": "令 $\\Gamma$ 為坐標平面上 $y=\\cos(\\frac{\\pi}{2}x)$ 的圖形。對任一實數 $m \\ne 0$，以 $L_m$ 表示直線 $y=mx+1$。試選出正確的選項。",
       "passage": "",
       "options": [
         "$m>0$ 時，$L_m$ 和 $\\Gamma$ 交點的 $x$ 坐標皆為負",
@@ -204,7 +204,7 @@
     {
       "number": 13,
       "text": "某高中聘用的全體教師中有 $\\frac{1}{4}$ 只有學士學位，$\\frac{3}{4}$ 有碩士學位。只有學士學位的教師中有 $\\frac{1}{5}$ 通過英聽檢定，有碩士學位的教師中有 $\\frac{3}{5}$ 通過英聽檢定。已知每位教師被抽到的機會相等，若隨機抽選一位通過英聽檢定的教師，則該教師有碩士學位的條件機率為 ____。（化為最簡分數）",
-      "passage": "",
+      "passage": "**三 、 選 填 題 （ 占 25 分 ）**",
       "options": [],
       "answer": "9/10",
       "type": "fill",
@@ -212,7 +212,7 @@
     },
     {
       "number": 14,
-      "text": "<br><img src=\"/images/ceec/115/學測/數A/數A.pdf-0006-03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n<br><img src=\"/images/ceec/115/學測/數A/數A.pdf-0006-06.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n坐標平面上，向量 $(a,b)$ 與直線 $y=bx-1$ 垂直，則 $a+b$ 的最大可能值為 ____。（化為最簡分數）",
+      "text": "坐標平面上，向量 $(a,b)$ 與直線 $y=bx-1$ 垂直，則 $a+b$ 的最大可能值為 ____。（化為最簡分數）",
       "passage": "",
       "options": [],
       "answer": "1/4",
@@ -221,7 +221,7 @@
     },
     {
       "number": 15,
-      "text": "<br><img src=\"/images/ceec/115/學測/數A/數A.pdf-0006-07.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n已知三正數 $a,b,c$ 成一等差數列，其中 $a<b<c$；且坐標平面上三點 $(a,\\log 3a)$、$(b,\\log 4b)$、$(c,\\log 6c)$ 在同一直線上，則 $\\frac{b}{a}$ 之值為 ____。（化為最簡分數）",
+      "text": "已知三正數 $a,b,c$ 成一等差數列，其中 $a<b<c$，且坐標平面上三點 $(a,\\log 3a)$、$(b,\\log 4b)$、$(c,\\log 6c)$ 在同一直線上，則 $\\frac{b}{a}$ 之值為 ____。（化為最簡分數）",
       "passage": "",
       "options": [],
       "answer": "3/2",
@@ -230,7 +230,7 @@
     },
     {
       "number": 16,
-      "text": "<br><img src=\"/images/ceec/115/學測/數A/數A.pdf-0006-10.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n坐標平面上，已知二次函數圖形 $\\Gamma:y=f(x)$ 的頂點 $P$ 在直線 $y=1+2x$ 上，且交 $x$ 軸於點 $A(-\\frac{1}{2},0), B(\\frac{1}{2},0)$。\n將 $\\Gamma$ 平移使得平移後圖形的頂點 $Q$ 仍在直線 $y=1+2x$ 上，且亦通過點 $B(\\frac{1}{2},0)$，此時 $P, Q$ 為兩相異點，則 $\\overline{PQ} =$ ____ 。（化為最簡根式）",
+      "text": "坐標平面上，已知二次函數圖形 $\\Gamma:y=f(x)$ 的頂點 $P$ 在直線 $y=1+2x$ 上，且交 $x$ 軸於點 $A(-\\frac{1}{2},0), B(\\frac{1}{2},0)$。\n將 $\\Gamma$ 平移使得平移後圖形的頂點 $Q$ 仍在直線 $y=1+2x$ 上，且亦通過點 $B(\\frac{1}{2},0)$，此時 $P, Q$ 為兩相異點，則 $\\overline{PQ} =$ ____ 。（化為最簡根式）",
       "passage": "",
       "options": [],
       "answer": "3\\sqrt{5}/2",
@@ -239,7 +239,7 @@
     },
     {
       "number": 17,
-      "text": "<br><img src=\"/images/ceec/115/學測/數A/數A.pdf-0007-03.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n直角 $\\Delta ABC$ 中，$\\angle CAB$ 為直角，$\\overline{AB}$ 邊上一點 $D$，滿足 $\\angle BCD=2\\angle ACD$，且 $\\overline{BC}=2\\overline{BD}$。\n若 $\\vec{AD}=k\\vec{AB}$，則 $k =$ ____ 。（化為最簡分數）",
+      "text": "直角 $\\Delta ABC$ 中，$\\angle CAB$ 為直角，$\\overline{AB}$ 邊上一點 $D$，滿足 $\\angle BCD=2\\angle ACD$，且 $\\overline{BC}=2\\overline{BD}$。\n若 $\\vec{AD}=k\\vec{AB}$，則 $k =$ ____ 。（化為最簡分數）",
       "passage": "",
       "options": [],
       "answer": "3/11",
@@ -249,7 +249,7 @@
     {
       "number": 18,
       "text": "試問平行四邊形 $ABCD$ 的面積為何？",
-      "passage": "**題組：18-20 題**\n<br><img src=\"/images/ceec/115/學測/數A/數A.pdf-0007-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n坐標空間中有一平行六面體 $PQRS-ABCD$，如圖所示。\n已知 $\\vec{AB}\\times\\vec{AD}=(-5,5,5)$、$\\vec{AD}\\times\\vec{AP}=(-2,0,-4)$、$\\vec{AP}\\times\\vec{AB}=(6,-10,-8)$，且 $\\overline{AP}=6$。試回答下列問題。",
+      "passage": "**第 貳 部 分 、 混 合 題 或 非 選 擇 題 （ 占 15 分 ）**\n**題組：18-20 題**\n<br><img src=\"/images/ceec/115/學測/數A/數A.pdf-0007-08.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n坐標空間中有一平行六面體 $PQRS-ABCD$，如圖所示。\n已知 $\\vec{AB}\\times\\vec{AD}=(-5,5,5)$、$\\vec{AD}\\times\\vec{AP}=(-2,0,-4)$、$\\vec{AP}\\times\\vec{AB}=(6,-10,-8)$，且 $\\overline{AP}=6$。試回答下列問題。",
       "options": [
         "$2\\sqrt{5}$",
         "$5\\sqrt{2}$",
