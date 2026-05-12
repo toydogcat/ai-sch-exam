@@ -5,7 +5,7 @@
     {
       "number": 1,
       "text": "The mayor has such a ______ schedule that it takes weeks to arrange an interview with her.",
-      "passage": "",
+      "passage": "**第壹部分、選擇題（占62分）**\n\n**一、詞彙題（占10分）**",
       "options": [
         "hasty",
         "tight",
@@ -19,7 +19,7 @@
     {
       "number": 2,
       "text": "Jane started as an ______ art designer, but now she has a professional studio of her own.",
-      "passage": "",
+      "passage": "**一、詞彙題（占10分）**",
       "options": [
         "official",
         "instant",
@@ -764,7 +764,7 @@
     {
       "number": 51,
       "text": "<br><img src=\"/images/ceec/115/學測/英文/part3_q51_prompt.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
-      "passage": "**題組：49-50 題**",
+      "passage": "**第參部分、非選擇題（占28分）**\n<br><img src=\"/images/ceec/115/學測/英文/part3_top_header.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n\n**一、中譯英（占8分）**",
       "options": [],
       "answer": "Nowadays",
       "type": "essay",
@@ -773,7 +773,7 @@
     {
       "number": 52,
       "text": "<br><img src=\"/images/ceec/115/學測/英文/part3_q52_prompt.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
-      "passage": "**題組：49-50 題**",
+      "passage": "",
       "options": [],
       "answer": "They divide students into different groups based on their English proficiency",
       "type": "essay",
@@ -782,7 +782,7 @@
     {
       "number": 53,
       "text": "<br><img src=\"/images/ceec/115/學測/英文/part3_composition_all.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
-      "passage": "**題組：49-50 題**",
+      "passage": "**二、英文作文（占20分）**",
       "options": [],
       "answer": "請依據提示完成作文。重點在於內容須符合題目要求，提供充分、具體之細節，句構語法及用字適切，拼字與標點符號使用得當。",
       "type": "essay",

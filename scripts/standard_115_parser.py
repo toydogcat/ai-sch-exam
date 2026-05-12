@@ -187,7 +187,7 @@ def parse_markdown_to_json(md_path, year, subject, title, duration):
         
         # More robust passage seeker: Includes official sectional header titles prefixed to the 題組
         # Extremely robust inclusion matcher supporting numeric indexing, explicit Section markers, and variants
-        passage_match = re.search(r'(?:(?:\*\*[^*]*?(?:[一二三四五六七八九十壹貳參肆伍]\s*[、.,]|第\s*[壹貳參肆伍].*?部\s*分)[^*]*?\*\*\s*)?(?:##\s*.*題組.*|\*\*題組：.*?\*\*|\*\*題組.*?\*\*))(?:.*?)(?=\[q:|$)', pre_gap, re.DOTALL | re.IGNORECASE)
+        passage_match = re.search(r'(?:(?:\*\*[^*]*?(?:[一二三四五六七八九十壹貳參肆伍]\s*[、.,]|第\s*[壹貳參肆伍].*?部\s*分)[^*]*?\*\*|##\s*.*題組.*|\*\*題組：.*?\*\*|\*\*題組.*?\*\*))(?:.*?)(?=\[q:|$)', pre_gap, re.DOTALL | re.IGNORECASE)
         
         if passage_match:
             current_passage = passage_match.group(0).strip()
