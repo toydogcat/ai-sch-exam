@@ -114,7 +114,7 @@ const getAnswerValue = (ans) => {
   if (Array.isArray(ans)) return ans.map(a => getAnswerValue(a))
   if (typeof ans === 'number') return ans
   if (typeof ans === 'string') {
-    const map = { 'A': 1, 'B': 2, 'C': 3, 'D': 4, 'E': 5, 'F': 6 }
+    const map = { 'A': 1, 'B': 2, 'C': 3, 'D': 4, 'E': 5, 'F': 6, 'G': 7, 'H': 8, 'I': 9, 'J': 10 }
     return map[ans.toUpperCase()] || ans
   }
   return ans
@@ -246,23 +246,47 @@ const isCorrect = (q, idx) => {
           </div>
 
           <!-- Options Section -->
-          <div class="options-grid" v-if="q.options && q.options.length">
-            <label v-for="(optText, i) in q.options" :key="i" class="option-card" :class="{ 
-              'is-correct': isSubmitted && (Array.isArray(getAnswerValue(q.answer)) ? getAnswerValue(q.answer).includes(i + 1) : getAnswerValue(q.answer) == (i + 1)),
-              'is-wrong': isSubmitted && (q.type === 'multi' ? userAnswers[index].includes(i+1) : userAnswers[index] == (i+1)) && !(Array.isArray(getAnswerValue(q.answer)) ? getAnswerValue(q.answer).includes(i+1) : getAnswerValue(q.answer) == (i+1)),
-              'is-selected': q.type === 'multi' ? userAnswers[index].includes(i+1) : userAnswers[index] == (i+1)
-            }">
-              <input 
-                :type="q.type === 'multi' ? 'checkbox' : 'radio'" 
-                :name="'q' + index" 
-                :value="i + 1" 
+          <div v-if="q.options && q.options.length">
+            <!-- Large option count (Cloze Vocabulary): render a clean Dropdown Select -->
+            <div v-if="q.options.length > 5 && q.type !== 'multi'" class="dropdown-select-area">
+              <select 
                 v-model="userAnswers[index]" 
+                class="modern-select"
+                :class="{ 
+                  'is-correct': isSubmitted && isCorrect(q, index) === true, 
+                  'is-wrong': isSubmitted && isCorrect(q, index) === false 
+                }"
                 :disabled="isSubmitted"
               >
-              <div class="check-mark"></div>
-              <span class="opt-id">{{ String.fromCharCode(65 + i) }}</span>
-              <span class="opt-val" v-html="fixHtml(optText)"></span>
-            </label>
+                <option :value="undefined" disabled>--- 請選擇答案 ---</option>
+                <option v-for="(optText, i) in q.options" :key="i" :value="i + 1">
+                  ({{ String.fromCharCode(65 + i) }}) {{ String(optText).replace(/^\([A-J]\)\s*/i, '') }}
+                </option>
+              </select>
+              <div class="ans-reveal dropdown-reveal" v-if="isSubmitted && isCorrect(q, index) === false">
+                正確答案：<span class="ans-text">{{ q.answer }}</span>
+              </div>
+            </div>
+
+            <!-- Standard Multiple Choice Cards -->
+            <div v-else class="options-grid">
+              <label v-for="(optText, i) in q.options" :key="i" class="option-card" :class="{ 
+                'is-correct': isSubmitted && (Array.isArray(getAnswerValue(q.answer)) ? getAnswerValue(q.answer).includes(i + 1) : getAnswerValue(q.answer) == (i + 1)),
+                'is-wrong': isSubmitted && (q.type === 'multi' ? userAnswers[index].includes(i+1) : userAnswers[index] == (i+1)) && !(Array.isArray(getAnswerValue(q.answer)) ? getAnswerValue(q.answer).includes(i+1) : getAnswerValue(q.answer) == (i+1)),
+                'is-selected': q.type === 'multi' ? userAnswers[index].includes(i+1) : userAnswers[index] == (i+1)
+              }">
+                <input 
+                  :type="q.type === 'multi' ? 'checkbox' : 'radio'" 
+                  :name="'q' + index" 
+                  :value="i + 1" 
+                  v-model="userAnswers[index]" 
+                  :disabled="isSubmitted"
+                >
+                <div class="check-mark"></div>
+                <span class="opt-id">{{ String.fromCharCode(65 + i) }}</span>
+                <span class="opt-val" v-html="fixHtml(optText)"></span>
+              </label>
+            </div>
           </div>
 
           <!-- Fill-in Section -->
@@ -416,6 +440,33 @@ input { display: none; }
 
 .ans-reveal { margin-top: 1rem; padding: 1rem; background: #f1f3f4; border-radius: 8px; border-left: 4px solid #27ae60; }
 .ans-text { font-weight: 700; color: #27ae60; font-size: 1.2rem; }
+
+.dropdown-select-area { margin-top: 0.5rem; }
+.modern-select {
+  width: 100%;
+  max-width: 300px;
+  padding: 14px 20px;
+  border: 2px solid #ecf0f1;
+  border-radius: 12px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #2c3e50;
+  background: #fff;
+  cursor: pointer;
+  outline: none;
+  appearance: none;
+  background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%237f8c8d' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e");
+  background-repeat: no-repeat;
+  background-position: right 1rem center;
+  background-size: 1.2em;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.02);
+}
+.modern-select:focus { border-color: #3498db; box-shadow: 0 4px 10px rgba(52,152,219,0.15); }
+.modern-select:hover:not(:disabled) { border-color: #bdc3c7; }
+.modern-select.is-correct { border-color: #27ae60; background-color: #eafaf1; }
+.modern-select.is-wrong { border-color: #e74c3c; background-color: #fdedec; }
+.dropdown-reveal { max-width: 300px; padding: 0.8rem 1.2rem; margin-top: 0.8rem; }
 
 .submit-btn, .retry-btn {
   padding: 1rem 3rem;
