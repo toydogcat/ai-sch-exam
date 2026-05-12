@@ -247,8 +247,8 @@ const isCorrect = (q, idx) => {
 
           <!-- Options Section -->
           <div v-if="q.options && q.options.length">
-            <!-- Large option count (Cloze Vocabulary): render a clean Dropdown Select -->
-            <div v-if="q.options.length > 5 && q.type !== 'multi'" class="dropdown-select-area">
+            <!-- Large option count OR Explicit flag: render a clean Dropdown Select -->
+            <div v-if="(q.options.length > 5 || q.dropdown) && q.type !== 'multi'" class="dropdown-select-area">
               <select 
                 v-model="userAnswers[index]" 
                 class="modern-select"

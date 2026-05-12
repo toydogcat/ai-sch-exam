@@ -93,7 +93,7 @@ def strip_leading_qnum(text, qnum):
     return t
 
 def extract_options_and_clean(text):
-    a_matches = list(re.finditer(r'(?:^|\n)\s*(\([A-Ga-g]\))', text))
+    a_matches = list(re.finditer(r'(?:^|\n)\s*(\([A-Ja-j]\))', text))
     n_matches = list(re.finditer(r'(?:^|\n)\s*(\([1-9]\))', text))
     
     chosen_matches = []
@@ -102,7 +102,7 @@ def extract_options_and_clean(text):
     elif len(n_matches) >= 2:
         chosen_matches = n_matches
     else:
-        fallback_a = list(re.finditer(r'\(([A-G])\)', text))
+        fallback_a = list(re.finditer(r'\(([A-J])\)', text))
         if len(fallback_a) >= 2:
              chosen_matches = fallback_a
         else:
@@ -132,7 +132,8 @@ def truncate_tail_at_next_passage(text):
         r'(?:\r?\n){1,}\s*##\s+',
         r'(?:\r?\n){1,}\s*##\s*.*?題組',
         r'(?:\r?\n){1,}\s*\*\*題組：.*?\*\*',
-        r'(?:\r?\n){1,}\s*\*\*題組.*?\*\*'
+        r'(?:\r?\n){1,}\s*\*\*題組.*?\*\*',
+        r'(?:\r?\n){1,}\s*\*\*[^*]*?[一二三四五六七八九十]\s*[、.,]\s*[^*]*?\*\*'
     ]
     earliest_pos = len(text)
     found = False
@@ -153,7 +154,8 @@ def parse_markdown_to_json(md_path, year, subject, title, duration):
     with open(md_path, 'r', encoding='utf-8') as f:
         content = f.read()
 
-    tag_pattern = r'\[q:(\d+),\s*type:\s*([^,\]]+)(?:,\s*ans:\s*([^\]]+))?\]'
+    # Smart tag pattern: matches everything starting with q: until the closing ]
+    tag_pattern = r'\[(q:\d+.*?)\]'
     matches = list(re.finditer(tag_pattern, content))
     
     questions = []
@@ -161,9 +163,18 @@ def parse_markdown_to_json(md_path, year, subject, title, duration):
 
     for i in range(len(matches)):
         m = matches[i]
-        q_num = int(m.group(1))
-        q_type = m.group(2).strip()
-        q_ans = (m.group(3) or "").strip()
+        raw_tag = m.group(1)
+        
+        # Map out all key-value attributes within the bracket
+        tag_dict = {}
+        for seg in raw_tag.split(","):
+            if ":" in seg:
+                k, v = seg.split(":", 1)
+                tag_dict[k.strip().lower()] = v.strip()
+        
+        q_num = int(tag_dict.get("q", 0))
+        q_type = tag_dict.get("type", "single")
+        q_ans = tag_dict.get("ans", "")
         
         start_pos = m.end()
         end_pos = matches[i+1].start() if i+1 < len(matches) else len(content)
@@ -173,31 +184,30 @@ def parse_markdown_to_json(md_path, year, subject, title, duration):
         prev_end = matches[i-1].end() if i > 0 else 0
         pre_gap = content[prev_end:m.start()].strip()
         
-        passage_match = re.search(r'(?:##\s*.*題組.*|\*\*題組：.*?\*\*|\*\*題組.*?\*\*)(?:.*?)(?=\[q:|$)', pre_gap, re.DOTALL | re.IGNORECASE)
+        # More robust passage seeker: Includes official sectional header titles prefixed to the 題組
+        passage_match = re.search(r'(?:(?:\*\*[^*]*?[一二三四五六七八九十]\s*[、.,]\s*[^*]*?\*\*\s*)?(?:##\s*.*題組.*|\*\*題組：.*?\*\*|\*\*題組.*?\*\*))(?:.*?)(?=\[q:|$)', pre_gap, re.DOTALL | re.IGNORECASE)
+        
         if passage_match:
             current_passage = passage_match.group(0).strip()
         elif "---" in pre_gap:
             current_passage = ""
 
         clean_q_text = truncate_tail_at_next_passage(q_block)
-        # clean_q_text = re.sub(r'-\s*\d+\s*-', '', q_block)  # Commented out: corrupts filenames like '數A.pdf-0002-10.webp'
         clean_q_text = re.sub(r'\d+\s*年學測.*', '', clean_q_text)
         clean_q_text = re.sub(r'第\s*\d+\s*頁\s*共\s*\d+\s*頁', '', clean_q_text)
         clean_q_text = re.sub(r'請記得在答題卷.*', '', clean_q_text)
         clean_q_text = clean_q_text.strip()
         
-        # 1. Remove leading question number redundancy
         clean_q_text = strip_leading_qnum(clean_q_text, q_num)
         
         options = []
-        # 2. Extract correct option texts and remove them from question body
         if q_type in ["single", "multi"]:
             prompt, extracted_opts = extract_options_and_clean(clean_q_text)
             clean_q_text = prompt
             if extracted_opts:
                 options = extracted_opts
             else:
-                # Absolute fallback to dummy array if parser found nothing
+                # Absolute fallback default logic
                 options = ["(A)", "(B)", "(C)", "(D)", "(E)"]
 
         parsed_ans = q_ans
@@ -211,20 +221,30 @@ def parse_markdown_to_json(md_path, year, subject, title, duration):
 
         clean_q_text = process_images(clean_q_text, subject)
         clean_passage = process_images(current_passage, subject) if current_passage else ""
+        options = [process_images(opt, subject) for opt in options]
 
         clean_q_text = markdown_table_to_html(clean_q_text)
         if clean_passage:
             clean_passage = markdown_table_to_html(clean_passage)
 
-        questions.append({
+        # Final object construction inheriting rich metadata
+        q_payload = {
             "number": q_num,
             "text": clean_q_text,
             "passage": clean_passage,
             "options": options,
             "answer": parsed_ans,
             "type": q_type,
-            "score": 2
-        })
+            "score": int(tag_dict.get("score", 2))
+        }
+        
+        # Optional metadata injection triggers
+        if "audio" in tag_dict:
+            q_payload["audio"] = tag_dict["audio"]
+        if "dropdown" in tag_dict:
+            q_payload["dropdown"] = tag_dict["dropdown"].lower() == "true"
+
+        questions.append(q_payload)
 
     return {
         "title": title,
@@ -232,12 +252,23 @@ def parse_markdown_to_json(md_path, year, subject, title, duration):
         "questions": questions
     }
 
+import sys
+
 def run_conversion():
     base_md = Path("/home/toymsi/documents/examination/大學入學考試/md/115/學測")
     output_dir = Path("/home/toymsi/documents/examination/Github/ai-sch-exam/public/json/ceec/115/學測")
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    for sub, meta in SUBJECT_META.items():
+    subjects_to_run = SUBJECT_META.items()
+    if len(sys.argv) > 1:
+        target = sys.argv[1]
+        if target in SUBJECT_META:
+            subjects_to_run = [(target, SUBJECT_META[target])]
+        else:
+            print(f"Unknown subject argument '{target}'. Valid choices: {list(SUBJECT_META.keys())}")
+            return
+
+    for sub, meta in subjects_to_run:
         md_file = base_md / f"{sub}.md"
         if not md_file.exists(): continue
         
