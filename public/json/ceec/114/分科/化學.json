@@ -4,8 +4,8 @@
   "questions": [
     {
       "number": 1,
-      "text": "穩定分子的分子式 $CH_{3}SH_{x}$、$CH_{y}Cl_{2}$、$CH_{z}NH_{2}$ 中，則x、y、z值應分別為下列哪一項？",
-      "passage": "",
+      "text": "1. 穩定分子的分子式 $CH_3SH_x$、$CH_3(CH_y)_3Cl$、$CH_3NH_z$ 中，則 $x$、$y$、$z$ 值應分別為下列哪一項？",
+      "passage": "第 壹 部 分 、 選 擇 題 （ 占 76 分 ）\n一 、 單 選 題 （ 占 28 分 ）\n<div style=\"border:1px solid black; padding:5px; margin:10px 0;\">說明：第 1 題至第 7 題，每題 4 分。</div>",
       "options": [
         "1、2、2",
         "1、2、3",
@@ -19,7 +19,7 @@
     },
     {
       "number": 2,
-      "text": "<br><img src=\"/images/ceec/114/分科/化學/tu_1.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n<br><img src=\"/images/ceec/114/分科/化學/tu_2_options.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n定溫定容下，某氣體 $(X_{2}Y)$ 可進行分解反應，其化學反應式如式1：\n$X_{2}Y(g) \\rightarrow X_{2}(g)+Y(g)$ (式1)\n已知 $X_{2}Y$、$X_{2}$ 及 $Y$ 彼此之間互不反應，且三者皆可視為理想氣體。若初始的容器內僅有 $X_{2}Y$，其壓力為 $P_{0}$；反應過程中，$X_{2}Y$ 分壓隨時間逐漸下降至零。則容器內總壓隨時間的變化可能為何？",
+      "text": "2. 定溫定容下，某氣體（$X_2Y$）可進行分解反應，其化學反應式如式 1：\n$X_2Y(g) \\rightarrow X_2(g) + Y(g)$ （式 1）\n已知 $X_2Y$、$X_2$ 及 $Y$ 彼此之間互不反應，且三者皆可視為理想氣體。若初始的容器內僅有 $X_2Y$，其壓力為 $P_0$；反應過程中，$X_2Y$ 分壓與時間的關係如圖 1 所示，則容器內總壓隨時間的變化可能為何？\n<br><img src=\"/images/ceec/114/分科/化學/tu_1.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">",
       "passage": "",
       "options": [
         "總壓維持 $1.5 P_{0}$",
