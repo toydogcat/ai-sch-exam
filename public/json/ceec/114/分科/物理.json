@@ -19,7 +19,7 @@
     },
     {
       "number": 2,
-      "text": "<br><img src=\"/images/ceec/114/分科/物理/tu_1.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n圖1甲、乙、丙、丁四條曲線為1莫耳氦氣分子在不同溫度下的分子運動速率分布圖，其中橫軸為氣體分子的運動速率，縱軸 N(v) 為對應之每單位速率的氣體分子數。下列選項何者正確？",
+      "text": "<img src=\"/images/ceec/114/分科/物理/tu_1.webp\" alt=\"圖 1：氦氣分子運動速率分布圖\" style=\"max-width: 100%; height: auto; margin: 1rem 0;\" />\n圖 1 甲、乙、丙、丁四條曲線為 1 莫耳氦氣分子在不同溫度下的分子運動速率分布圖，其中橫軸為氣體分子的運動速率，縱軸 $N(v)$ 為對應之每單位速率的氣體分子數。下列選項何者正確？",
       "passage": "",
       "options": [
         "各曲線代表的氣體溫度高低依序為 丁&gt;丙&gt;乙&gt;甲",
@@ -49,7 +49,7 @@
     },
     {
       "number": 4,
-      "text": "<br><img src=\"/images/ceec/114/分科/物理/tu_2.webp\" style=\"max-width:100%; display:block; margin:10px 0;\">\n有一質量為 m 的物體懸掛於滑輪組下。假設滑輪與繩子的質量以及摩擦力皆可忽略不計。若施力 $F=mg$，其中 g 為重力加速度，則該物體的加速度量值為何？",
+      "text": "<img src=\"/images/ceec/114/分科/物理/tu_2.webp\" alt=\"圖 2：滑輪組受力圖\" style=\"max-width: 100%; height: auto; margin: 1rem 0;\" />\n有一質量為 $m$ 的物體懸掛於滑輪組下，如圖 2 所示。假設滑輪與繩子的質量以及摩擦力皆可忽略不計。若施力 $F=mg$，其中 $g$ 為重力加速度，則該物體的加速度量值為何？",
       "passage": "",
       "options": [
         "0",
